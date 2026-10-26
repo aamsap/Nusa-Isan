@@ -1,0 +1,222 @@
+{
+  "provinces": [
+    "ID_SG"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Buton ceremonial dress",
+          "id": "Busana adat Buton",
+          "ja": "ブトンの儀礼衣装"
+        },
+        "note": {
+          "en": "Buton ceremonial clothing includes kombowa, a short-sleeved blouse.",
+          "id": "Busana adat Buton mencakup kombowa, baju berlengan pendek.",
+          "ja": "ブトンの礼装には半袖の上衣コンボワがあります。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6976836/pakaian-adat-sulawesi-tenggara-dari-suku-tolaki-buton-dan-manu",
+        "image": null
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Babu Nggawi",
+          "id": "Babu Nggawi",
+          "ja": "バブ・ンガウィ"
+        },
+        "note": {
+          "en": "A Tolaki ceremonial outfit worn by women.",
+          "id": "Busana upacara adat yang dikenakan perempuan Tolaki.",
+          "ja": "トラキの女性が着用する儀礼用の衣装です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tolaki-traditional-clothes",
+        "image": null
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Muna woven cloth",
+          "id": "Kain tenun Muna",
+          "ja": "ムナ織"
+        },
+        "note": {
+          "en": "Muna weavers make colorful cloth with geometric motifs.",
+          "id": "Penenun Muna membuat kain berwarna-warni dengan motif geometris.",
+          "ja": "ムナの織り手は幾何学模様を配した色鮮やかな布を作ります。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/kain-tenun-muna",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Sinonggi",
+          "id": "Sinonggi",
+          "ja": "シノンギ"
+        },
+        "note": {
+          "en": "A Tolaki sago dish served with vegetables and savory accompaniments.",
+          "id": "Hidangan sagu Tolaki yang disajikan dengan sayuran dan lauk.",
+          "ja": "野菜やおかずと一緒に食べるトラキのサゴ料理です。"
+        },
+        "source": "https://www.indonesia.travel/sa/en/travel-ideas/gastronomy/sinonggi",
+        "image": {
+          "id": "southeast-sulawesi-food-sinonggi",
+          "path": "/assets/img/southeast-sulawesi-food-sinonggi.webp",
+          "title": "Makin Populer, Tak Lengkap ke Kota Kendari Tak Makan Sinonggi",
+          "artist": "Wiwik Prihastiwi / Telisik",
+          "license": "Unverified (see source)",
+          "licenseUrl": null,
+          "source": "https://telisik.id/article/makin-populer-tak-lengkap-ke-kota-kendari-tak-makan-sinonggi",
+          "changes": "Resized and converted to WebP",
+          "reviewStatus": "pending-user-audit"
+        }
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Kasoami",
+          "id": "Kasoami",
+          "ja": "カソアミ"
+        },
+        "note": {
+          "en": "A cassava-based staple sold in Muna communities such as Lohia.",
+          "id": "Pangan pokok berbahan singkong yang dijual di masyarakat Muna, termasuk Lohia.",
+          "ja": "ロヒアなどムナの集落で売られるキャッサバを使った主食です。"
+        },
+        "source": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna",
+        "image": null
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Kabuto",
+          "id": "Kabuto",
+          "ja": "カブト"
+        },
+        "note": {
+          "en": "A traditional cassava food found in Muna culinary traditions.",
+          "id": "Makanan tradisional berbahan singkong dalam tradisi kuliner Muna.",
+          "ja": "ムナの食文化に伝わるキャッサバ料理です。"
+        },
+        "source": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Lulo dance (Tolaki)",
+          "id": "Tari Lulo (Tolaki)",
+          "ja": "ルロ舞踊（トラキ）"
+        },
+        "note": {
+          "en": "A communal dance associated with Tolaki communities.",
+          "id": "Tarian bersama yang terkait dengan masyarakat Tolaki.",
+          "ja": "トラキの人々に伝わる集団舞踊です。"
+        },
+        "source": "https://repository.iainpare.ac.id/id/eprint/2011/",
+        "image": null
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Linda dance",
+          "id": "Tari Linda",
+          "ja": "リンダ舞踊"
+        },
+        "note": {
+          "en": "A Muna dance associated with the Karia customary ceremony.",
+          "id": "Tari Muna yang berkaitan dengan upacara adat Karia.",
+          "ja": "ムナのカリア儀礼に結びついた舞踊です。"
+        },
+        "source": "https://rama.kemdiktisaintek.go.id/document/detail/oai%3Adigilib.isi.ac.id%3A11912-15",
+        "image": null
+      },
+      {
+        "province": "ID_SG",
+        "name": {
+          "en": "Balumpa dance",
+          "id": "Tari Balumpa",
+          "ja": "バルンパ舞踊"
+        },
+        "note": {
+          "en": "A welcoming dance from Wakatobi.",
+          "id": "Tarian penyambutan dari Wakatobi.",
+          "ja": "ワカトビに伝わる歓迎の舞踊です。"
+        },
+        "source": "https://rri.co.id/kendari/hiburan/884701/tarian-balumpa-dari-wakatobi",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SG",
+      "name": {
+        "en": "Wakatobi National Park",
+        "id": "Taman Nasional Wakatobi",
+        "ja": "ワカトビ国立公園"
+      },
+      "video": "PL5HxA01Fz4",
+      "videoTitle": "Wonderful Indonesia | Wakatobi",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_SG",
+      "name": {
+        "en": "Buton Palace Fortress",
+        "id": "Benteng Keraton Buton",
+        "ja": "ブトン王宮要塞"
+      },
+      "video": "4f-nDycC8mE",
+      "videoTitle": "Menguak Kejayaan Masa Lalu dan Sejarah Benteng Keraton Buton #JOURNEY",
+      "videoAuthor": "METRO TV "
+    },
+    {
+      "province": "ID_SG",
+      "name": {
+        "en": "Labengki Island",
+        "id": "Pulau Labengki",
+        "ja": "ラベンキ島"
+      },
+      "video": "9mXnw9ZBfs0",
+      "videoTitle": "Surga Tersembunyi di Pulau Labengki #JOURNEY",
+      "videoAuthor": "METRO TV "
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SG",
+      "text": {
+        "en": "Lulo is a communal dance associated with Tolaki communities.",
+        "id": "Lulo adalah tari bersama yang terkait dengan masyarakat Tolaki.",
+        "ja": "ルロはトラキの人々に伝わる集団舞踊です。"
+      },
+      "source": "https://repository.iainpare.ac.id/id/eprint/2011/"
+    },
+    {
+      "province": "ID_SG",
+      "text": {
+        "en": "The name Wakatobi combines the names Wangi-Wangi, Kaledupa, Tomia and Binongko.",
+        "id": "Nama Wakatobi menggabungkan nama Wangi-Wangi, Kaledupa, Tomia, dan Binongko.",
+        "ja": "ワカトビの名はワンギワンギ、カレドゥパ、トミア、ビノンコの島名を組み合わせたものです。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Wakatobi_National_Park"
+    },
+    {
+      "province": "ID_SG",
+      "text": {
+        "en": "Muna woven cloth is distinguished by colorful geometric patterns.",
+        "id": "Kain tenun Muna dikenal dengan pola geometris yang berwarna-warni.",
+        "ja": "ムナ織は色鮮やかな幾何学模様が特徴です。"
+      },
+      "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/kain-tenun-muna"
+    }
+  ]
+}

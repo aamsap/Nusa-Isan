@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_LA"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Tapis woven cloth",
+          "id": "Kain tapis",
+          "ja": "タピス織"
+        },
+        "note": {
+          "en": "Lampung’s ceremonial skirts feature woven cloth embellished with decorative embroidery.",
+          "id": "Sarung upacara Lampung ini berupa kain tenun yang dihiasi sulaman dekoratif.",
+          "ja": "ランプンの儀礼用スカートで、織った布に装飾的な刺繍を施します。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tapis",
+        "image": {
+          "id": "lampung-textile",
+          "path": "/assets/img/lampung-textile.webp",
+          "title": "Woman's Ceremonial Skirt (Tapis) MET DP145517.jpg",
+          "artist": "Unknown",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Ceremonial_Skirt_(Tapis)_MET_DP145517.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Siger crown",
+          "id": "Mahkota siger",
+          "ja": "シゲルの冠"
+        },
+        "note": {
+          "en": "Women wear this golden-colored crown as part of Lampung ceremonial dress.",
+          "id": "Perempuan mengenakan mahkota keemasan ini sebagai bagian dari busana upacara Lampung.",
+          "ja": "ランプンの女性が礼装の一部として身に着ける、金色の冠です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Lampung",
+        "image": null
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Kopiah emas",
+          "id": "Kopiah emas",
+          "ja": "コピア・エマス"
+        },
+        "note": {
+          "en": "This metallic ceremonial cap is worn mainly by men in Lampung.",
+          "id": "Tutup kepala upacara berbahan logam ini terutama dikenakan oleh laki-laki di Lampung.",
+          "ja": "主にランプンの男性が礼装に合わせる、金属製の儀礼用帽子です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Lampung",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Seruit",
+          "id": "Seruit",
+          "ja": "スルイット"
+        },
+        "note": {
+          "en": "Fish is shared with shrimp-paste sambal, fermented durian and fresh vegetables.",
+          "id": "Ikan dinikmati bersama sambal terasi, tempoyak, dan lalapan segar.",
+          "ja": "魚にエビペーストのサンバル、発酵ドリアン、生野菜を添えて分かち合います。"
+        },
+        "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
+        "image": null
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Gulai taboh",
+          "id": "Gulai taboh",
+          "ja": "グライ・タボー"
+        },
+        "note": {
+          "en": "Lampung’s coconut-milk dish may include smoked fish.",
+          "id": "Hidangan bersantan khas Lampung ini dapat menggunakan ikan asap.",
+          "ja": "ココナツミルクを使うランプンの郷土料理で、燻製の魚を入れるものもあります。"
+        },
+        "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
+        "image": null
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Gabing",
+          "id": "Gabing",
+          "ja": "ガビン"
+        },
+        "note": {
+          "en": "Young coconut trunk is cooked with coconut milk and spices.",
+          "id": "Batang kelapa muda dimasak dengan santan dan bumbu rempah.",
+          "ja": "若いココヤシの幹をココナツミルクと香辛料で煮る料理です。"
+        },
+        "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Sigeh Pengunten dance",
+          "id": "Tari Sigeh Pengunten",
+          "ja": "シゲー・プングンテン舞踊"
+        },
+        "note": {
+          "en": "This Lampung welcome dance honors guests and draws on Pepadun and Saibatin traditions.",
+          "id": "Tari penyambutan Lampung ini menghormati tamu dan memadukan unsur tradisi Pepadun serta Saibatin.",
+          "ja": "プパドゥンとサイバティンの伝統を取り入れ、客に敬意を表すランプンの歓迎舞踊です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Sigeh_Penguten",
+        "image": null
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Melinting dance",
+          "id": "Tari Melinting",
+          "ja": "ムリンティン舞踊"
+        },
+        "note": {
+          "en": "This East Lampung dance is historically linked to the Melinting court.",
+          "id": "Tarian dari Lampung Timur ini secara historis berkaitan dengan Keratuan Melinting.",
+          "ja": "東ランプンに伝わる舞踊で、歴史的にムリンティンの王家と結び付いています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Melinting",
+        "image": null
+      },
+      {
+        "province": "ID_LA",
+        "name": {
+          "en": "Cangget dance",
+          "id": "Tari Cangget",
+          "ja": "チャンゲット舞踊"
+        },
+        "note": {
+          "en": "Cangget forms part of begawi customary celebrations among Lampung Pepadun communities.",
+          "id": "Cangget menjadi bagian dari perayaan adat begawi pada masyarakat Lampung Pepadun.",
+          "ja": "ランプンのプパドゥン社会で、ブガウィと呼ばれる慣習儀礼の一部をなす踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Cangget",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_LA",
+      "name": {
+        "en": "Way Kambas National Park",
+        "id": "Taman Nasional Way Kambas",
+        "ja": "ワイ・カンバス国立公園"
+      },
+      "video": "w9GTbUEZe0w",
+      "videoTitle": "ASEAN Heritage Parks – Way Kambas National Park in Indonesia",
+      "videoAuthor": "asean secretariat"
+    },
+    {
+      "province": "ID_LA",
+      "name": {
+        "en": "Siger Tower",
+        "id": "Menara Siger",
+        "ja": "シゲル塔"
+      },
+      "video": "UwZDQPdAhto",
+      "videoTitle": "Keindahan Menara Siger Lampung | Wisata Lampung",
+      "videoAuthor": "Andrea Sparky"
+    },
+    {
+      "province": "ID_LA",
+      "name": {
+        "en": "Pahawang Island",
+        "id": "Pulau Pahawang",
+        "ja": "パハワン島"
+      },
+      "video": "6Ldgw6M8rAE",
+      "videoTitle": "Employee Gathering | Tunas Toyota Bandar Jaya | Pahawang Island",
+      "videoAuthor": "Restu Bumi Adventure"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_LA",
+      "text": {
+        "en": "Tapis cloth is decorated with intricate embroidery, often with gold-coloured thread.",
+        "id": "Kain tapis dihiasi sulaman rumit, sering kali dengan benang berwarna emas.",
+        "ja": "タピス布は金色の糸などによる精緻な刺繍が特徴です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tapis"
+    },
+    {
+      "province": "ID_LA",
+      "text": {
+        "en": "Siger crowns typically have seven or nine points, reflecting different Lampung traditions.",
+        "id": "Mahkota siger umumnya memiliki tujuh atau sembilan lekukan, mencerminkan perbedaan tradisi Lampung.",
+        "ja": "シゲルの冠には通常七つまたは九つの突起があり、ランプンの伝統の違いを表しています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Lampung"
+    },
+    {
+      "province": "ID_LA",
+      "text": {
+        "en": "Lampung became a separate province from South Sumatra in 1964.",
+        "id": "Lampung menjadi provinsi tersendiri setelah terpisah dari Sumatera Selatan pada 1964.",
+        "ja": "ランプンは1964年に南スマトラから分かれ、独立した州となりました。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Lampung"
+    }
+  ]
+}

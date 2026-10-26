@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_BE"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Rejang ceremonial dress",
+          "id": "Busana adat Rejang",
+          "ja": "ルジャンの礼装"
+        },
+        "note": {
+          "en": "Rejang bridal clothing includes richly decorated garments and ceremonial jewelry.",
+          "id": "Busana pengantin Rejang mencakup pakaian berhias serta perhiasan upacara.",
+          "ja": "ルジャンの婚礼衣装は、華やかに飾った服と儀礼用の装身具を組み合わせます。"
+        },
+        "source": "https://www.orami.co.id/magazine/pakaian-adat-bengkulu",
+        "image": null
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Bengkulu Malay bridal dress",
+          "id": "Busana pengantin Melayu Bengkulu",
+          "ja": "ブンクル・マレーの婚礼衣装"
+        },
+        "note": {
+          "en": "Women’s bridal clothing includes velvet baju kurung decorated with golden ornaments.",
+          "id": "Busana pengantin perempuan mencakup baju kurung beludru dengan hiasan keemasan.",
+          "ja": "花嫁は金色の装飾を施したベルベットのバジュ・クルンなどを着用します。"
+        },
+        "source": "https://www.orami.co.id/magazine/pakaian-adat-bengkulu",
+        "image": null
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Besurek batik",
+          "id": "Batik Besurek",
+          "ja": "ブスレック・バティック"
+        },
+        "note": {
+          "en": "Bengkulu’s batik combines calligraphy-inspired motifs with forms such as rafflesia flowers.",
+          "id": "Batik Bengkulu memadukan motif terinspirasi kaligrafi dengan bentuk seperti bunga rafflesia.",
+          "ja": "ブンクルのバティックで、書を思わせる文様にラフレシアの花などを組み合わせます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Batik_Besurek",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Pendap",
+          "id": "Pendap",
+          "ja": "プンダップ"
+        },
+        "note": {
+          "en": "Fish, grated coconut and spices are cooked in taro-leaf parcels.",
+          "id": "Ikan, kelapa parut, dan rempah dimasak dalam bungkusan daun talas.",
+          "ja": "魚、すりおろしたココナツ、香辛料をタロイモの葉で包んで調理します。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Pendap",
+        "image": {
+          "id": "bengkulu-food",
+          "path": "/assets/img/bengkulu-food.webp",
+          "title": "Pendap from Bengkulu - IMG 20220210 181317 298.jpg",
+          "artist": "Naval Scene",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Pendap_from_Bengkulu_-_IMG_20220210_181317_298.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Lemea",
+          "id": "Lemea",
+          "ja": "ルメア"
+        },
+        "note": {
+          "en": "This Rejang specialty ferments chopped bamboo shoots with fish before cooking.",
+          "id": "Makanan khas Rejang ini dibuat dari fermentasi rebung cincang dan ikan sebelum dimasak.",
+          "ja": "ルジャンの郷土食で、刻んだタケノコと魚を発酵させてから調理します。"
+        },
+        "source": "https://jurnal.unived.ac.id/index.php/agritepa/article/view/3836",
+        "image": null
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Tempoyak",
+          "id": "Tempoyak",
+          "ja": "テンポヤック"
+        },
+        "note": {
+          "en": "In Bengkulu, fermented durian is used in sambal and fish dishes.",
+          "id": "Di Bengkulu, durian fermentasi digunakan untuk sambal dan olahan ikan.",
+          "ja": "ブンクルでは発酵させたドリアンをサンバルや魚料理に使います。"
+        },
+        "source": "https://bengkulu.antaranews.com/berita/31922/bagar-hiu-dan-tempoyak-menu-favorit-buka-puasa",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Tabot procession",
+          "id": "Tradisi Tabot",
+          "ja": "タボットの行列"
+        },
+        "note": {
+          "en": "Bengkulu’s Tabot observance commemorates Husayn through rituals in the month of Muharram.",
+          "id": "Tradisi Tabot Bengkulu mengenang Husein melalui rangkaian ritual pada bulan Muharam.",
+          "ja": "ブンクルのタボットは、ムハッラム月の儀礼を通じてフサインを追悼する行事です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tabut",
+        "image": null
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Andun dance",
+          "id": "Tari Andun",
+          "ja": "アンドゥン舞踊"
+        },
+        "note": {
+          "en": "This southern Bengkulu social dance forms part of wedding celebrations.",
+          "id": "Tari pergaulan dari Bengkulu bagian selatan ini menjadi bagian dari pesta perkawinan.",
+          "ja": "ブンクル南部の交流の踊りで、婚礼の祝宴などで披露されます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Andun",
+        "image": null
+      },
+      {
+        "province": "ID_BE",
+        "name": {
+          "en": "Dol drumming",
+          "id": "Musik Dol",
+          "ja": "ドールの太鼓演奏"
+        },
+        "note": {
+          "en": "Dol drums accompany Bengkulu’s Tabot observance and other cultural performances.",
+          "id": "Tabuhan dol mengiringi tradisi Tabot Bengkulu dan pertunjukan budaya lainnya.",
+          "ja": "ドールの太鼓は、ブンクルのタボットやさまざまな文化公演で演奏されます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Dol",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_BE",
+      "name": {
+        "en": "Fort Marlborough",
+        "id": "Benteng Marlborough",
+        "ja": "マールバラ砦"
+      },
+      "video": "6vkJSiMLad4",
+      "videoTitle": "Wisata Sejarah ke Benteng Marlborough, Bengkulu | RAGAM INDONESIA",
+      "videoAuthor": "TRANS7 OFFICIAL"
+    },
+    {
+      "province": "ID_BE",
+      "name": {
+        "en": "Panjang Beach",
+        "id": "Pantai Panjang",
+        "ja": "パンジャン海岸"
+      },
+      "video": "vRKlokvHhoM",
+      "videoTitle": "Pesona Pantai Panjang Bengkulu - Destinasi wisata favorit kota Bengkulu",
+      "videoAuthor": "katabmalang"
+    },
+    {
+      "province": "ID_BE",
+      "name": {
+        "en": "Sukarno’s exile house, Bengkulu",
+        "id": "Rumah Pengasingan Bung Karno, Bengkulu",
+        "ja": "スカルノの流刑時代の家（ブンクル）"
+      },
+      "video": "B-WQMS4O4d8",
+      "videoTitle": "Napak Tilas Cerita Pengasingan Bung Karno di Bengkulu",
+      "videoAuthor": "KOMPAS TV MALANG"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_BE",
+      "text": {
+        "en": "The Tabot observance has a distinctive local history in Bengkulu.",
+        "id": "Tradisi Tabot memiliki sejarah lokal yang khas di Bengkulu.",
+        "ja": "タボットの行事にはブンクルならではの歴史があります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tabut"
+    },
+    {
+      "province": "ID_BE",
+      "text": {
+        "en": "The name Besurek refers to writing, reflected in the batik’s calligraphic motifs.",
+        "id": "Nama Besurek merujuk pada tulisan, yang tercermin dalam motif kaligrafi batiknya.",
+        "ja": "ブスレックという名は「文字・書」を意味し、その特徴は書を思わせる文様に表れています。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Batik_Besurek"
+    },
+    {
+      "province": "ID_BE",
+      "text": {
+        "en": "Bengkulu lies on Sumatra’s western coast, facing the Indian Ocean.",
+        "id": "Bengkulu terletak di pesisir barat Sumatera dan menghadap Samudra Hindia.",
+        "ja": "ブンクルはスマトラ島の西海岸に位置し、インド洋に面しています。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Bengkulu"
+    }
+  ]
+}

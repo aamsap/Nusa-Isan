@@ -1,0 +1,34 @@
+{
+ "code": "ID_KS",
+ "province": "Kalimantan Selatan",
+ "region": "Kalimantan",
+ "community": "Banjar",
+ "existing_primary": {
+  "clothing": "Baamar galung pancar matahari",
+  "food": "Soto Banjar",
+  "art": "Madihin",
+  "landmark": "Floating Market, Lok Baintan"
+ },
+ "primary_image": {
+  "id": "south-kalimantan-food",
+  "path": "/assets/img/south-kalimantan-food.webp",
+  "title": "Soto Banjar 1.jpg",
+  "artist": "Fitri Penyalai",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Soto_Banjar_1.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "tdpAGZ73mMw",
+  "title": "Pasar Terapung Lok Baintan \"Tumbuh Bersama Kita\" - Wisata Kalimantan",
+  "author": "Wisata Kalimantan",
+  "source": "https://www.youtube.com/watch?v=tdpAGZ73mMw"
+ },
+ "existing_fact": {
+  "en": "Madihin combines improvised verse, humour, and rhythmic percussion.",
+  "id": "Madihin memadukan pantun spontan, humor, dan irama tabuhan.",
+  "ja": "マディヒンは即興の詩とユーモア、打楽器を合わせる芸能です。"
+ },
+ "existing_source": null
+}

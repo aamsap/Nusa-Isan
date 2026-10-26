@@ -1,0 +1,332 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_AC",
+    "name": "Didong",
+    "nameEn": "Didong",
+    "note": "A Gayo performance tradition combining poetry, song and movement.",
+    "informationSource": "https://id.wikipedia.org/wiki/Didong"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_BB",
+    "name": "Baju Seting",
+    "nameEn": "Baju Seting",
+    "note": "This bridal blouse is made from velvet or silk and paired with cual cloth.",
+    "informationSource": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_BE",
+    "name": "Busana pengantin Melayu Bengkulu",
+    "nameEn": "Bengkulu Malay bridal dress",
+    "note": "Women’s bridal clothing includes velvet baju kurung decorated with golden ornaments.",
+    "informationSource": "https://www.orami.co.id/magazine/pakaian-adat-bengkulu"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_BT",
+    "name": "Pangsi Banten",
+    "nameEn": "Banten pangsi",
+    "note": "This loose shirt-and-trouser outfit is associated with Banten’s jawara tradition.",
+    "informationSource": "https://indonesia.travel/gb/en/destination/java/banten/baju-pangsi-banten"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_GO",
+    "name": "Makuta",
+    "nameEn": "Makuta",
+    "note": "Makuta is ceremonial wedding attire worn by men in Gorontalo.",
+    "informationSource": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_JA",
+    "name": "Lacak",
+    "nameEn": "Lacak headcloth",
+    "note": "The lacak is a head covering worn with Jambi Malay men’s ceremonial dress.",
+    "informationSource": "https://kumparan.com/berita-hari-ini/pakaian-adat-jambi-baju-kurung-tanggung-dan-aksesorisnya-1uvs3maRmjj"
+  },
+  {
+    "file": "ID_JB.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_JB",
+    "name": "Pangsi Sunda",
+    "nameEn": "Sundanese pangsi",
+    "note": "A practical Sundanese outfit with a loose shirt and trousers, commonly in black.",
+    "informationSource": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya"
+  },
+  {
+    "file": "ID_JI.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_JI",
+    "name": "Ludruk",
+    "nameEn": "Ludruk",
+    "note": "East Javanese folk theatre combines everyday stories with humor, music and dance.",
+    "informationSource": "https://en.wikipedia.org/wiki/Ludruk"
+  },
+  {
+    "file": "ID_JT.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_JT",
+    "name": "Batik dan blangkon gaya Surakarta",
+    "nameEn": "Surakarta-style batik and blangkon",
+    "note": "The Surakarta blangkon is a regional form of the folded Javanese headcloth.",
+    "informationSource": "https://en.wikipedia.org/wiki/Blangkon"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_KB",
+    "name": "Chai kue",
+    "nameEn": "Chai kue",
+    "note": "These Chinese-Indonesian dumplings in West Kalimantan can contain jicama, taro or chives.",
+    "informationSource": "https://id.wikipedia.org/wiki/Chai_kue?oldformat=true"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_KI",
+    "name": "Gence ruan",
+    "nameEn": "Gence ruan",
+    "note": "Grilled snakehead fish is topped with a spicy sauce made from chillies and seasonings.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_KR",
+    "name": "Gonggong",
+    "nameEn": "Gonggong",
+    "note": "These edible sea snails are commonly boiled and served with a spicy dipping sauce.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gong-gong"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_KS",
+    "name": "Ketupat Kandangan",
+    "nameEn": "Ketupat Kandangan",
+    "note": "Rice cakes from Kandangan are served with snakehead fish and a seasoned coconut-milk sauce.",
+    "informationSource": "https://id.wikipedia.org/wiki/Ketupat_Kandangan?oldformat=true"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_KT",
+    "name": "Kalumpe",
+    "nameEn": "Kalumpe",
+    "note": "Pounded cassava leaves are cooked with seasonings in this Dayak vegetable dish.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_KU",
+    "name": "Kepiting soka",
+    "nameEn": "Kepiting soka",
+    "note": "Tarakan is known for soft-shell crab harvested shortly after moulting, while its shell is still tender.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_LA",
+    "name": "Seruit",
+    "nameEn": "Seruit",
+    "note": "Fish is shared with shrimp-paste sambal, fermented durian and fresh vegetables.",
+    "informationSource": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_MA",
+    "name": "Busana nona rok",
+    "nameEn": "Nona rok ensemble",
+    "note": "This formal ensemble pairs a white kebaya with a pleated skirt and a silver waist clasp.",
+    "informationSource": "https://www.antaranews.com/berita/4292483/ragam-rupa-pakaian-adat-maluku"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_MU",
+    "name": "Baju Koja",
+    "nameEn": "Baju Koja",
+    "note": "Green and yellow distinguish this clothing tradition for young members of the nobility.",
+    "informationSource": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_NB",
+    "name": "Rimpu Bima",
+    "nameEn": "Bima rimpu",
+    "note": "In Bima, rimpu uses two sarongs to cover the head and upper body and wrap the lower body.",
+    "informationSource": "https://jadesta.kemenpar.go.id/atraksi/rimpu"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_NT",
+    "name": "Daging asap se’i",
+    "nameEn": "Se’i smoked meat",
+    "note": "This East Nusa Tenggara specialty slowly smokes meat, commonly beef or pork, over wood.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/sei"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_PA",
+    "name": "Pakaian kulit kayu khombow",
+    "nameEn": "Khombow barkcloth clothing",
+    "note": "At Asei on Lake Sentani, painted khombow bark was traditionally used for clothing.",
+    "informationSource": "https://id.wikipedia.org/wiki/Khombow"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_PB",
+    "name": "Kain tari sre-a",
+    "nameEn": "Sre-a dance wrap",
+    "note": "Arfak women’s Tumbu Tanah dress now uses a long cloth wrapped from chest downward.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah"
+  },
+  {
+    "file": "ID_PT+ID_PS.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_PS",
+    "name": "Hiasan hidung kerang Asmat: bipanew",
+    "nameEn": "Asmat shell nose ornament: bipanew",
+    "note": "Historical Asmat bipanew ornaments were made from shell and worn by men through the pierced nasal septum.",
+    "informationSource": "https://www.papuaerfgoed.org/en/EA/59/20"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_RI",
+    "name": "Songket Siak",
+    "nameEn": "Siak songket",
+    "note": "This woven textile comes from Siak and was once associated with its royal court.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tenun_Siak"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_SA",
+    "name": "Busana adat Minahasa",
+    "nameEn": "Minahasa traditional dress",
+    "note": "Minahasa women wear embroidered kebaya with a long cloth at ceremonial occasions.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_SB",
+    "name": "Suntiang",
+    "nameEn": "Suntiang",
+    "note": "Minangkabau brides wear this elaborate tiered headdress.",
+    "informationSource": "https://id.wikipedia.org/wiki/Suntiang"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_SG",
+    "name": "Babu Nggawi",
+    "nameEn": "Babu Nggawi",
+    "note": "A Tolaki ceremonial outfit worn by women.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/tolaki-traditional-clothes"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_SN",
+    "name": "Kain adat Toraja",
+    "nameEn": "Toraja ceremonial textiles",
+    "note": "Woven cloth is part of Toraja ceremonial attire.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-toraja"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_SR",
+    "name": "Sarung sutra Mandar",
+    "nameEn": "Mandar silk sarong",
+    "note": "Lipaq Saqbe is a woven silk sarong worn with Mandar ceremonial clothing.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_SR",
+    "name": "Pembuatan perahu sandeq",
+    "nameEn": "Sandeq boatbuilding",
+    "note": "Mandar boatbuilders craft slender sailing outriggers called sandeq.",
+    "informationSource": "https://en.wikipedia.org/wiki/Sandeq"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_SS",
+    "name": "Tari Tenun Songket",
+    "nameEn": "Tenun Songket dance",
+    "note": "This dance portrays the daily work of women weaving South Sumatran songket.",
+    "informationSource": "https://en.wikipedia.org/wiki/South_Sumatra"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_ST",
+    "name": "Seruling Lalove",
+    "nameEn": "Lalove flute",
+    "note": "This traditional Kaili wind instrument is associated with healing rituals.",
+    "informationSource": "https://id.wikipedia.org/wiki/Lalove"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_SU",
+    "name": "Lompat batu fahombo",
+    "nameEn": "Fahombo stone jumping",
+    "note": "In Nias, performers leap over a tall stone structure in the fahombo tradition.",
+    "informationSource": "https://id.wikipedia.org/wiki/Fahombo"
+  }
+]

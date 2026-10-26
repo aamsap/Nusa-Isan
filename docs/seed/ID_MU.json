@@ -1,0 +1,34 @@
+{
+ "code": "ID_MU",
+ "province": "Maluku Utara",
+ "region": "Maluku",
+ "community": "Ternate",
+ "existing_primary": {
+  "clothing": "Manteren Lamo court dress",
+  "food": "Gohu ikan",
+  "art": "Soya-Soya dance",
+  "landmark": "Bacan Island"
+ },
+ "primary_image": {
+  "id": "north-maluku-food",
+  "path": "/assets/img/north-maluku-food.webp",
+  "title": "Gohu Ikan in Ternate.jpg",
+  "artist": "M.akbar.raf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gohu_Ikan_in_Ternate.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "wQY2Om7bm_w",
+  "title": "Indonesia Bagus - Pulau Bacan, Ternate, Maluku Utara",
+  "author": "NET. Documentary",
+  "source": "https://www.youtube.com/watch?v=wQY2Om7bm_w"
+ },
+ "existing_fact": {
+  "en": "Soya-Soya is associated with Ternate’s sultanate history.",
+  "id": "Soya-Soya berkaitan dengan sejarah Kesultanan Ternate.",
+  "ja": "ソヤソヤはテルナテのスルタン国の歴史と関わりがあります。"
+ },
+ "existing_source": null
+}

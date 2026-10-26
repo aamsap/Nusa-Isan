@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_MU"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Manteren Lamo court dress",
+          "id": "Busana keraton Manteren Lamo",
+          "ja": "マントレン・ラモの宮廷衣装"
+        },
+        "note": {
+          "en": "A red closed jacket with silver buttons marks this sultanate dress tradition.",
+          "id": "Jas merah tertutup dengan kancing perak menjadi ciri busana kesultanan ini.",
+          "ja": "赤い詰め襟の上着と銀のボタンが特徴の、スルタンの宮廷衣装です。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
+        "image": null
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Kimun Gia",
+          "id": "Kimun Gia",
+          "ja": "キムン・ギア"
+        },
+        "note": {
+          "en": "The consort’s ensemble combines a white satin kebaya, songket cloth and a red shawl.",
+          "id": "Busana permaisuri memadukan kebaya satin putih, kain songket, dan selendang merah.",
+          "ja": "王妃の装いで、白いサテンのクバヤにソンケットと赤い肩掛けを合わせます。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
+        "image": null
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Baju Koja",
+          "id": "Baju Koja",
+          "ja": "バジュ・コジャ"
+        },
+        "note": {
+          "en": "Green and yellow distinguish this clothing tradition for young members of the nobility.",
+          "id": "Hijau dan kuning menjadi ciri busana bagi pemuda-pemudi bangsawan ini.",
+          "ja": "若い貴族のための衣装で、緑と黄色の組み合わせが特徴です。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Gohu ikan",
+          "id": "Gohu ikan",
+          "ja": "ゴフ・イカン"
+        },
+        "note": {
+          "en": "In Ternate, raw tuna or skipjack is dressed with citrus, basil, shallots and chilli.",
+          "id": "Di Ternate, tuna atau cakalang mentah dibumbui jeruk, kemangi, bawang merah, dan cabai.",
+          "ja": "テルナテの料理で、生のマグロやカツオを柑橘、バジル、赤玉ねぎ、唐辛子で味付けします。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Gohu_ikan",
+        "image": {
+          "id": "north-maluku-food",
+          "path": "/assets/img/north-maluku-food.webp",
+          "title": "Gohu Ikan in Ternate.jpg",
+          "artist": "M.akbar.raf",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Gohu_Ikan_in_Ternate.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Bagea kenari",
+          "id": "Bagea kenari",
+          "ja": "バゲア・クナリ"
+        },
+        "note": {
+          "en": "Ternate’s version of this firm sago biscuit includes pieces of kenari nut.",
+          "id": "Bagea khas Ternate berupa kue sagu bertekstur keras dengan tambahan biji kenari.",
+          "ja": "テルナテでは、硬めのサゴの焼き菓子にクナリの実を加えます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bagea",
+        "image": null
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Halua kenari",
+          "id": "Halua kenari",
+          "ja": "ハルア・クナリ"
+        },
+        "note": {
+          "en": "Kenari nuts and palm sugar form a sweet associated with North Maluku.",
+          "id": "Biji kenari dan gula merah menjadi penganan manis yang dikenal di Maluku Utara.",
+          "ja": "クナリの実とヤシ砂糖で作る、北マルクで親しまれる甘い菓子です。"
+        },
+        "source": "https://www.kompasiana.com/sutiono/5ccd2e178d947a45d6034957/buah-kenari-memperkaya-kuliner-khas-maluku-utara",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Soya-Soya dance",
+          "id": "Tari Soya-Soya",
+          "ja": "ソヤソヤの踊り"
+        },
+        "note": {
+          "en": "This energetic martial dance is linked to the history of the Ternate Sultanate.",
+          "id": "Tari perang yang lincah ini berkaitan dengan sejarah Kesultanan Ternate.",
+          "ja": "テルナテ王国の歴史と結び付いた、躍動感のある戦いの踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Soya-soya",
+        "image": null
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Tide-Tide dance",
+          "id": "Tari Tide-Tide",
+          "ja": "ティデティデの踊り"
+        },
+        "note": {
+          "en": "Men and women perform this social dance at celebrations in North Halmahera.",
+          "id": "Lelaki dan perempuan membawakan tari pergaulan ini dalam perayaan di Halmahera Utara.",
+          "ja": "北ハルマヘラの祝いの場で、男女がともに踊る交流の踊りです。"
+        },
+        "source": "https://wonderful.pulaumorotaikab.go.id/budaya/tarian-tide-tide",
+        "image": null
+      },
+      {
+        "province": "ID_MU",
+        "name": {
+          "en": "Lalayon dance",
+          "id": "Tari lalayon",
+          "ja": "ララヨンの踊り"
+        },
+        "note": {
+          "en": "Pairs exchange expressive gestures while waving white handkerchiefs.",
+          "id": "Pasangan penari saling berbalas gerak sambil melambaikan saputangan putih.",
+          "ja": "男女が向かい合い、白いハンカチを振りながら豊かな表情と身ぶりで踊ります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Lalayon",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_MU",
+      "name": {
+        "en": "Bacan Island",
+        "id": "Pulau Bacan",
+        "ja": "バチャン島"
+      },
+      "video": "wQY2Om7bm_w",
+      "videoTitle": "Indonesia Bagus - Pulau Bacan, Ternate, Maluku Utara",
+      "videoAuthor": "NET. Documentary"
+    },
+    {
+      "province": "ID_MU",
+      "name": {
+        "en": "Lake Tolire, Ternate",
+        "id": "Danau Tolire, Ternate",
+        "ja": "テルナテのトリレ湖"
+      },
+      "video": "i7-RsTwOxQk",
+      "videoTitle": "LEGENDA DANAU TOLIRE TERNATE | ASAL MULA MUNCULNYA DANAU TOLIRE BESAR DAN KECIL DI TERNATE",
+      "videoAuthor": "QJP OFFICIAL"
+    },
+    {
+      "province": "ID_MU",
+      "name": {
+        "en": "Fort Oranje, Ternate",
+        "id": "Benteng Oranje, Ternate",
+        "ja": "テルナテのオラニエ要塞"
+      },
+      "video": "k0wPbrFuSYQ",
+      "videoTitle": "Indonesian Islands That Changed The World | Where our spices come from",
+      "videoAuthor": "SAM INDOWILD"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_MU",
+      "text": {
+        "en": "Soya-Soya is associated with the Ternate Sultanate and is recognized as Indonesian intangible heritage.",
+        "id": "Soya-Soya berkaitan dengan Kesultanan Ternate dan diakui sebagai Warisan Budaya Takbenda Indonesia.",
+        "ja": "ソヤソヤはテルナテ王国にゆかりがあり、インドネシアの無形文化遺産に認定されています。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Soya-soya"
+    },
+    {
+      "province": "ID_MU",
+      "text": {
+        "en": "In Ternate, bagea is commonly made with kenari nuts; the biscuit is also found in other eastern Indonesian regions.",
+        "id": "Di Ternate, bagea lazim diberi biji kenari; kue ini juga dikenal di wilayah Indonesia timur lainnya.",
+        "ja": "テルナテのバゲアにはクナリの実がよく使われますが、この菓子はインドネシア東部のほかの地域にもあります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Bagea"
+    },
+    {
+      "province": "ID_MU",
+      "text": {
+        "en": "Tide-Tide is a social dance performed at customary weddings and festivities in North Halmahera.",
+        "id": "Tide-Tide adalah tari pergaulan dalam perkawinan adat dan pesta di Halmahera Utara.",
+        "ja": "ティデティデは、北ハルマヘラの伝統的な結婚式や祭りで踊られる交流の踊りです。"
+      },
+      "source": "https://wonderful.pulaumorotaikab.go.id/budaya/tarian-tide-tide"
+    }
+  ]
+}

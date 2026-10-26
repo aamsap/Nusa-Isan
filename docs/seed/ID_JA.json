@@ -1,0 +1,34 @@
+{
+ "code": "ID_JA",
+ "province": "Jambi",
+ "region": "Sumatra",
+ "community": "Kerinci and Jambi Malay",
+ "existing_primary": {
+  "clothing": "Batik Jambi · baju kurung tanggung",
+  "food": "Tempoyak ikan patin",
+  "art": "Sekapur Sirih dance",
+  "landmark": "Muaro Jambi temple complex"
+ },
+ "primary_image": {
+  "id": "jambi-textile",
+  "path": "/assets/img/jambi-textile.webp",
+  "title": "Batik-jambi.jpg",
+  "artist": "Aditya alakbar",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Batik-jambi.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "tKYdIFx5CdI",
+  "title": "JAMBI ELOK - Candi Muaro Jambi, Wisata Sejarah yang Kekinian",
+  "author": "Tribun Jambi",
+  "source": "https://www.youtube.com/watch?v=tKYdIFx5CdI"
+ },
+ "existing_fact": {
+  "en": "The Kerinci Incung script is one of Sumatra’s historic writing traditions.",
+  "id": "Aksara Incung Kerinci adalah salah satu tradisi tulis bersejarah di Sumatra.",
+  "ja": "クリンチのインチュン文字はスマトラに伝わる歴史的な文字です。"
+ },
+ "existing_source": null
+}

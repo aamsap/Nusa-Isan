@@ -1,0 +1,332 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_AC",
+    "name": "Kuah pliek u",
+    "nameEn": "Kuah pliek u",
+    "note": "An Acehnese vegetable curry seasoned with fermented coconut residue.",
+    "informationSource": "https://id.wikipedia.org/wiki/Kuah_pliek_u"
+  },
+  {
+    "file": "ID_BA.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_BA",
+    "name": "Nasi jinggo",
+    "nameEn": "Nasi jinggo",
+    "note": "Small banana-leaf rice parcels contain modest portions of assorted side dishes.",
+    "informationSource": "https://en.wikipedia.org/wiki/Nasi_jinggo"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_BB",
+    "name": "Musik dambus",
+    "nameEn": "Dambus music",
+    "note": "Bangka’s dambus is a string instrument with a carved deer-head-shaped neck.",
+    "informationSource": "https://id.wikipedia.org/wiki/Dambus"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_BE",
+    "name": "Tari Andun",
+    "nameEn": "Andun dance",
+    "note": "This southern Bengkulu social dance forms part of wedding celebrations.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Andun"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_BT",
+    "name": "Rampak bedug",
+    "nameEn": "Rampak bedug",
+    "note": "Banten performers combine coordinated bedug drumming with choreographed movement.",
+    "informationSource": "https://bantenprov.go.id/berita/rampak-bedug-seni-religi-dari-banten"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_GO",
+    "name": "Sulaman Karawo",
+    "nameEn": "Karawo embroidery",
+    "note": "Gorontalo artisans cut and withdraw fabric threads before embroidering openwork patterns.",
+    "informationSource": "https://id.wikipedia.org/wiki/Karawo"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_JA",
+    "name": "Tari Rentak Kudo",
+    "nameEn": "Rentak Kudo dance",
+    "note": "This Kerinci dance from Hamparan Rawang is known for its stamping steps.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Rentak_Kudo"
+  },
+  {
+    "file": "ID_JI.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_JI",
+    "name": "Pesa’an Madura",
+    "nameEn": "Pesa’an Madura",
+    "note": "Madura’s men’s outfit includes loose trousers and a red-and-white striped shirt.",
+    "informationSource": "https://id.wikipedia.org/wiki/Pesa'an"
+  },
+  {
+    "file": "ID_JK.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_JK",
+    "name": "Roti buaya",
+    "nameEn": "Roti buaya",
+    "note": "Crocodile-shaped bread presented at Betawi weddings as a symbol of fidelity.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/roti-buaya"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_KB",
+    "name": "Baju Kurong",
+    "nameEn": "Baju Kurong",
+    "note": "This Malay women’s ensemble is worn at weddings and traditional functions in West Kalimantan.",
+    "informationSource": "https://en.wikipedia.org/wiki/West_Kalimantan"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KI",
+    "name": "Busana adat Kustim",
+    "nameEn": "Kustim ceremonial attire",
+    "note": "This Kutai Kartanegara court attire was traditionally reserved for royalty at important ceremonies.",
+    "informationSource": "https://setkab.go.id/en/president-jokowi-leads-79th-independence-day-ceremony-in-kutai-kartanegara-traditional-attire"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KR",
+    "name": "Kebaya labuh",
+    "nameEn": "Kebaya labuh",
+    "note": "In Lingga, this long, front-opening kebaya is worn in traditional and ceremonial settings.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_KS",
+    "name": "Baamar galung pancar matahari",
+    "nameEn": "Baamar galung pancar matahari",
+    "note": "This Banjar wedding ensemble combines sparkling decoration, golden accessories and floral adornments.",
+    "informationSource": "https://www.detik.com/kalimantan/budaya/d-8172884/4-baju-adat-kalimantan-selatan-warisan-budaya-banjar-yang-tetap-lestari"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KT",
+    "name": "Baju Upak Nyamu",
+    "nameEn": "Upak Nyamu bark-cloth vest",
+    "note": "Nyamu bark is made into a plain sleeveless vest, simpler than the ornamented Sangkarut.",
+    "informationSource": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_KU",
+    "name": "Busana adat Tidung: Selampoy",
+    "nameEn": "Tidung ceremonial attire: Selampoy",
+    "note": "Selampoy is customary attire of the Tidung Ulun Pagun community associated with Tarakan.",
+    "informationSource": "https://pustaka-bpkxii.org/slims/index.php?id=4052&keywords=&p=show_detail"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KU",
+    "name": "Kerajinan manik-manik Dayak",
+    "nameEn": "Dayak beadwork craft",
+    "note": "Dayak artisans make patterned beadwork, one of North Kalimantan’s recognised local crafts.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_LA",
+    "name": "Tari Cangget",
+    "nameEn": "Cangget dance",
+    "note": "Cangget forms part of begawi customary celebrations among Lampung Pepadun communities.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Cangget"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_MA",
+    "name": "Tari lenso",
+    "nameEn": "Lenso dance",
+    "note": "Handkerchiefs animate this social dance performed at celebrations in Maluku.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Lenso"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_MU",
+    "name": "Tari lalayon",
+    "nameEn": "Lalayon dance",
+    "note": "Pairs exchange expressive gestures while waving white handkerchiefs.",
+    "informationSource": "https://id.wikipedia.org/wiki/Lalayon"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_NB",
+    "name": "Tenun Sukarara",
+    "nameEn": "Sukarara weaving",
+    "note": "Sukarara in Central Lombok is a center of traditional Sasak handweaving.",
+    "informationSource": "https://jadesta.kemenpar.go.id/desa/sentra_tenun"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_NT",
+    "name": "Pasola Sumba",
+    "nameEn": "Pasola of Sumba",
+    "note": "In Sumba’s Pasola ritual, opposing groups of riders throw wooden spears from horseback.",
+    "informationSource": "https://indonesia.travel/gb/en/travel-ideas/nihisumba-the-epitome-of-tranquility-leisure-adventure-and-lavishness"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_PE",
+    "name": "Pembuatan noken pegunungan",
+    "nameEn": "Highland noken making",
+    "note": "Knotted or woven noken bags are part of daily life in Wamena and a wider Papuan craft tradition.",
+    "informationSource": "https://en.wikipedia.org/wiki/Noken"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_PD",
+    "name": "Tata kelola adat Egek Moi",
+    "nameEn": "Moi Egek customary stewardship",
+    "note": "In Malaumkarta, Moi communities temporarily close fishing areas so marine resources can recover.",
+    "informationSource": "https://ykan.or.id/en/publications/articles/press-release/ratifies-customary-regulation-for-marine-and-coastal-conservation"
+  },
+  {
+    "file": "ID_PT+ID_PS.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_PT",
+    "name": "Anyaman tas Kamoro",
+    "nameEn": "Kamoro bag weaving",
+    "note": "Kamoro women weave bags from local grasses, a craft also presented at cultural festivals.",
+    "informationSource": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_RI",
+    "name": "Pacu jalur",
+    "nameEn": "Pacu jalur",
+    "note": "Teams race long wooden boats in Kuantan Singingi’s traditional rowing competition.",
+    "informationSource": "https://id.wikipedia.org/wiki/Pacu_jalur"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_SA",
+    "name": "Maengket",
+    "nameEn": "Maengket",
+    "note": "Minahasan performers combine group dance with singing in Maengket.",
+    "informationSource": "https://id.wikipedia.org/wiki/Maengket"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_SB",
+    "name": "Randai",
+    "nameEn": "Randai",
+    "note": "This Minangkabau theater combines storytelling, music, movement, and martial-arts elements.",
+    "informationSource": "https://en.wikipedia.org/wiki/Randai"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SG",
+    "name": "Tari Lulo (Tolaki)",
+    "nameEn": "Lulo dance (Tolaki)",
+    "note": "A communal dance associated with Tolaki communities.",
+    "informationSource": "https://repository.iainpare.ac.id/id/eprint/2011/"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SN",
+    "name": "Tari Pakarena (Makassar)",
+    "nameEn": "Tari Pakarena (Makassar)",
+    "note": "A South Sulawesi dance known for graceful movements and fan gestures.",
+    "informationSource": "https://rri.co.id/budaya/2241502/mengenal-tari-pakarena-tarian-klasik-khas-sulawesi-selatan"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SR",
+    "name": "Golla kambu",
+    "nameEn": "Golla kambu",
+    "note": "A Mandar sweet made with sticky rice, coconut and palm sugar.",
+    "informationSource": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SS",
+    "name": "Mie celor",
+    "nameEn": "Mie celor",
+    "note": "Palembang-style noodles come with a thick coconut-milk and shrimp broth.",
+    "informationSource": "https://id.wikipedia.org/wiki/Mie_celor"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_ST",
+    "name": "Uta dada",
+    "nameEn": "Uta dada",
+    "note": "Smoked chicken or fish is cooked in a spiced coconut-milk broth.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SU",
+    "name": "Naniura",
+    "nameEn": "Naniura",
+    "note": "This Batak dish marinates raw fish in citrus juice and spices rather than cooking it over fire.",
+    "informationSource": "https://id.wikipedia.org/wiki/Naniura"
+  }
+]

@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_KI"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Dayak beadwork: Kenyah attire",
+          "id": "Busana manik-manik Dayak Kenyah",
+          "ja": "ダヤック・クニャのビーズ衣装"
+        },
+        "note": {
+          "en": "Beaded patterns decorate Kenyah ta’a and sapei sapaq attire, traditions also found in North Kalimantan.",
+          "id": "Motif manik menghiasi busana ta’a dan sapei sapaq masyarakat Kenyah, yang juga dijumpai di Kalimantan Utara.",
+          "ja": "クニャのタアやサペイ・サパックを彩るビーズ装飾で、北カリマンタンにも伝わります。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya",
+        "image": null
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Kustim ceremonial attire",
+          "id": "Busana adat Kustim",
+          "ja": "クスティムの儀礼衣装"
+        },
+        "note": {
+          "en": "This Kutai Kartanegara court attire was traditionally reserved for royalty at important ceremonies.",
+          "id": "Busana istana Kutai Kartanegara ini secara tradisional dikenakan keluarga kerajaan dalam upacara penting.",
+          "ja": "クタイ・カルタヌガラの宮廷衣装で、伝統的には王族が重要な儀式で着用しました。"
+        },
+        "source": "https://setkab.go.id/en/president-jokowi-leads-79th-independence-day-ceremony-in-kutai-kartanegara-traditional-attire",
+        "image": null
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Takwo attire",
+          "id": "Baju adat Takwo",
+          "ja": "タクウォの伝統衣装"
+        },
+        "note": {
+          "en": "This Kutai formal outfit features dark fabric and golden decoration around the collar and sleeves.",
+          "id": "Busana resmi Kutai ini memakai kain gelap dengan hiasan keemasan pada bagian kerah dan lengan.",
+          "ja": "暗い色の布地に、襟や袖の金色の装飾を合わせたクタイの礼装です。"
+        },
+        "source": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Nasi bekepor",
+          "id": "Nasi bekepor",
+          "ja": "ナシ・ブクポル"
+        },
+        "note": {
+          "en": "This Kutai rice dish is cooked with spices and traditionally served with several accompaniments.",
+          "id": "Nasi khas Kutai ini dimasak dengan rempah-rempah dan disajikan bersama aneka lauk pendamping.",
+          "ja": "香辛料と炊き上げるクタイの米料理で、さまざまなおかずと一緒に供されます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
+        "image": null
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Gence ruan",
+          "id": "Gence ruan",
+          "ja": "ゲンチェ・ルアン"
+        },
+        "note": {
+          "en": "Grilled snakehead fish is topped with a spicy sauce made from chillies and seasonings.",
+          "id": "Ikan gabus bakar disiram sambal khas berbahan cabai dan rempah.",
+          "ja": "焼いた雷魚に、唐辛子や香辛料を使った辛いソースをかける料理です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
+        "image": null
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Amplang fish crackers",
+          "id": "Kerupuk ikan Amplang",
+          "ja": "アンプランの魚せんべい"
+        },
+        "note": {
+          "en": "These crisp fish crackers are a well-known snack and souvenir from East Kalimantan.",
+          "id": "Kerupuk ikan renyah ini dikenal sebagai camilan dan oleh-oleh khas Kalimantan Timur.",
+          "ja": "魚を使った軽い食感の揚げ菓子で、東カリマンタンの土産として親しまれています。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Hudoq masked dance",
+          "id": "Tari Hudoq",
+          "ja": "フドックの仮面舞踊"
+        },
+        "note": {
+          "en": "Among Dayak communities including the Bahau, masked Hudoq rituals express prayers for agricultural wellbeing.",
+          "id": "Pada masyarakat Dayak, termasuk Bahau, ritual bertopeng Hudoq menyampaikan doa bagi kesejahteraan pertanian.",
+          "ja": "バハウなどのダヤック社会で伝わる仮面の儀礼舞踊で、農耕の恵みを祈ります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Hudoq?oldformat=true",
+        "image": {
+          "id": "east-kalimantan-dance",
+          "path": "/assets/img/east-kalimantan-dance.webp",
+          "title": "Tari Hudoq.jpg",
+          "artist": "Herusutimbul",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Tari_Hudoq.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Gong dance (Kancet Ledo)",
+          "id": "Tari Gong (Kancet Ledo)",
+          "ja": "ゴング舞踊（カンチェット・レド）"
+        },
+        "note": {
+          "en": "In this Kenyah dance, a woman dances gracefully on a gong to the accompaniment of sampe music.",
+          "id": "Dalam tarian Kenyah ini, seorang perempuan menari dengan lembut di atas gong diiringi musik sampe.",
+          "ja": "サンペの伴奏に合わせ、女性がゴングの上で優雅に舞うクニャの踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Gong?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KI",
+        "name": {
+          "en": "Sampe music",
+          "id": "Musik Sampe",
+          "ja": "サンペの音楽"
+        },
+        "note": {
+          "en": "This plucked Dayak instrument accompanies music and customary activities, with names varying by community.",
+          "id": "Alat musik petik Dayak ini mengiringi musik dan kegiatan adat, dengan sebutan yang berbeda menurut komunitas.",
+          "ja": "音楽や慣習行事で演奏されるダヤックの撥弦楽器で、呼び名は地域や共同体によって異なります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Sampe?oldformat=true",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KI",
+      "name": {
+        "en": "Kakaban jellyfish lake, Berau",
+        "id": "Danau ubur-ubur Kakaban, Berau",
+        "ja": "ブラウのカカバン・クラゲ湖"
+      },
+      "video": "WqWLuVcKpmg",
+      "videoTitle": "STINGLESS Jellyfish lake | KAKABAN Berau Borneo TRAVEL VLOG",
+      "videoAuthor": "Fearless & Far"
+    },
+    {
+      "province": "ID_KI",
+      "name": {
+        "en": "Mulawarman Museum, Tenggarong",
+        "id": "Museum Mulawarman, Tenggarong",
+        "ja": "トゥンガロンのムラワルマン博物館"
+      },
+      "video": "O31lkqgDrr0",
+      "videoTitle": "Koleksi Museum Mulawarman Tenggarong Kalimantan Timur",
+      "videoAuthor": "ARTELU CHANNEL"
+    },
+    {
+      "province": "ID_KI",
+      "name": {
+        "en": "Lamin Mancong longhouse",
+        "id": "Rumah panjang Lamin Mancong",
+        "ja": "ラミン・マンチョンの長屋"
+      },
+      "video": "hnIYv-uIF6M",
+      "videoTitle": "Lamin Mancong - Kutai Barat",
+      "videoAuthor": "Muhammad Furkan"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KI",
+      "text": {
+        "en": "Lamin Mancong is a longhouse associated with the Dayak Benuaq community.",
+        "id": "Lamin Mancong adalah rumah panjang yang terkait dengan masyarakat Dayak Benuaq.",
+        "ja": "ラミン・マンチョンはダヤック・ブヌアックにゆかりのある長屋です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Lamin_Mancong?oldformat=true"
+    },
+    {
+      "province": "ID_KI",
+      "text": {
+        "en": "Kakaban Island in Berau contains a brackish lake known for its stingless jellyfish.",
+        "id": "Pulau Kakaban di Berau memiliki danau berair payau yang dikenal dengan ubur-ubur tidak menyengat.",
+        "ja": "ブラウのカカバン島には汽水湖があり、刺さないクラゲが生息することで知られています。"
+      },
+      "source": "https://www.indonesia.travel/us/en/destination/kalimantan/east-kalimantan/derawan-archipelago---kakaban-island"
+    },
+    {
+      "province": "ID_KI",
+      "text": {
+        "en": "Nasi bekepor comes from Kutai Kartanegara and was historically a dish served to Kutai rulers.",
+        "id": "Nasi bekepor berasal dari Kutai Kartanegara dan dahulu menjadi hidangan bagi para raja Kutai.",
+        "ja": "ナシ・ブクポルはクタイ・カルタヌガラに伝わる料理で、かつてクタイの王たちに供されました。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Nasi_bekepor?oldformat=true"
+    }
+  ]
+}

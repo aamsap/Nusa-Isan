@@ -1,0 +1,222 @@
+{
+  "provinces": [
+    "ID_RI"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Baju kurung Melayu",
+          "id": "Baju kurung Melayu",
+          "ja": "マレーのバジュ・クルン"
+        },
+        "note": {
+          "en": "This loose-fitting garment is part of Malay dress traditions in Riau.",
+          "id": "Busana berpotongan longgar ini menjadi bagian tradisi pakaian Melayu di Riau.",
+          "ja": "ゆったりした形の衣服で、リアウのマレーの服飾文化の一つです。"
+        },
+        "source": "https://budaya-indonesia.org/Baju-Kurung-Cekak-Musang-Riau",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Baju kurung cekak musang",
+          "id": "Baju kurung cekak musang",
+          "ja": "バジュ・クルン・チェカッ・ムサン"
+        },
+        "note": {
+          "en": "This Malay men’s shirt has a standing collar and is worn with trousers and a waist cloth.",
+          "id": "Baju laki-laki Melayu ini berkerah tegak dan dikenakan dengan celana serta kain samping.",
+          "ja": "立ち襟のあるマレーの男性の上着で、ズボンと腰布を合わせます。"
+        },
+        "source": "https://budaya-indonesia.org/Baju-Kurung-Cekak-Musang-Riau",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Siak songket",
+          "id": "Songket Siak",
+          "ja": "シアクのソンケット"
+        },
+        "note": {
+          "en": "This woven textile comes from Siak and was once associated with its royal court.",
+          "id": "Kain tenun ini berasal dari Siak dan dahulu berkaitan dengan lingkungan istananya.",
+          "ja": "シアクに伝わる織物で、かつては王宮で用いられていました。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tenun_Siak",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Asam pedas baung",
+          "id": "Asam pedas baung",
+          "ja": "アサム・プダス・バウン"
+        },
+        "note": {
+          "en": "In Riau, baung fish is one of the fish used in sour, spicy asam pedas.",
+          "id": "Di Riau, ikan baung menjadi salah satu bahan asam pedas yang bercita rasa asam dan pedas.",
+          "ja": "リアウではバウンという淡水魚を、酸味と辛味のある煮込みに使います。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Asam_pedas",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Gulai ikan patin",
+          "id": "Gulai ikan patin",
+          "ja": "グライ・イカン・パティン"
+        },
+        "note": {
+          "en": "This Riau fish curry combines patin catfish with coconut milk and aromatic spices.",
+          "id": "Gulai khas Riau ini memadukan ikan patin dengan santan dan rempah aromatik.",
+          "ja": "パティンという淡水魚をココナツミルクと香辛料で煮込む、リアウの料理です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gulai-ikan-patin",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Bolu kemojo",
+          "id": "Bolu kemojo",
+          "ja": "ボル・クモジョ"
+        },
+        "note": {
+          "en": "This dense Riau cake takes its name from a frangipani-like flower shape.",
+          "id": "Kue padat khas Riau ini dinamai sesuai bentuknya yang menyerupai bunga kemboja.",
+          "ja": "プルメリアの花に似た形に由来する名を持つ、リアウのしっとりした菓子です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bolu_kemojo",
+        "image": {
+          "id": "riau-food-bolu-kemojo",
+          "path": "/assets/img/riau-food-bolu-kemojo.webp",
+          "title": "Bolu Kemojo: Kue Khas Riau yang Wangi dan Lembut",
+          "artist": "Indonesia Travel",
+          "license": "Unverified (see source)",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/bolu-kemojo",
+          "changes": "Resized and converted to WebP",
+          "reviewStatus": "pending-user-audit"
+        }
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Zapin Meskom",
+          "id": "Zapin Meskom",
+          "ja": "ザピン・メスコム"
+        },
+        "note": {
+          "en": "This local zapin tradition comes from Meskom in Bengkalis.",
+          "id": "Tradisi zapin setempat ini berasal dari Meskom di Bengkalis.",
+          "ja": "ブンカリスのメスコムに伝わる、地域独自のザピンです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Zapin_Meskom",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Pacu jalur",
+          "id": "Pacu jalur",
+          "ja": "パチュ・ジャルール"
+        },
+        "note": {
+          "en": "Teams race long wooden boats in Kuantan Singingi’s traditional rowing competition.",
+          "id": "Tim berlomba mendayung perahu kayu panjang dalam tradisi Kuantan Singingi.",
+          "ja": "クアンタン・シンギンギの伝統競技で、長い木造船をチームでこいで競います。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Pacu_jalur",
+        "image": null
+      },
+      {
+        "province": "ID_RI",
+        "name": {
+          "en": "Randai Kuantan",
+          "id": "Randai Kuantan",
+          "ja": "ランダイ・クアンタン"
+        },
+        "note": {
+          "en": "This Kuantan Singingi theater uses dialogue, sung pantun, and instrumental accompaniment.",
+          "id": "Teater Kuantan Singingi ini memakai dialog, pantun yang dilagukan, dan iringan musik.",
+          "ja": "対話、歌う詩、器楽の伴奏を組み合わせたクアンタン・シンギンギの演劇です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Randai_Kuantan",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_RI",
+      "name": {
+        "en": "Siak Sri Indrapura Palace",
+        "id": "Istana Siak Sri Indrapura",
+        "ja": "シアク・スリ・インドラプラ宮殿"
+      },
+      "video": "YDe0H92CeLw",
+      "videoTitle": "Perjalanan ke Masa Lalu: Keajaiban Istana Siak yang Jarang Diungkap | Citraloka",
+      "videoAuthor": "DAAI Magazine"
+    },
+    {
+      "province": "ID_RI",
+      "name": {
+        "en": "Muara Takus Temple",
+        "id": "Candi Muara Takus",
+        "ja": "ムアラ・タクス寺院"
+      },
+      "video": "JXs8wtTNdxA",
+      "videoTitle": "Candi Muara Takus; Misteri Sejarah Yang Hilang - Insight With Desi Anwar",
+      "videoAuthor": "CNN Indonesia"
+    },
+    {
+      "province": "ID_RI",
+      "name": {
+        "en": "Bono tidal bore at Teluk Meranti",
+        "id": "Ombak Bono di Teluk Meranti",
+        "ja": "トゥルッ・ムランティのボノ大潮波"
+      },
+      "video": "mPnxVZoFGcg",
+      "videoTitle": "Dahsyatnya Gelombang Bono Teluk Meranti, Riau.",
+      "videoAuthor": "Sasri Andika"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_RI",
+      "text": {
+        "en": "Zapin Meskom is a local Bengkalis tradition, related to but distinct from other zapin forms.",
+        "id": "Zapin Meskom berasal dari Bengkalis dan memiliki corak tersendiri di antara ragam zapin.",
+        "ja": "ザピン・メスコムはブンカリス独自の伝統で、他のザピンとは異なります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Zapin_Meskom"
+    },
+    {
+      "province": "ID_RI",
+      "text": {
+        "en": "Muara Takus in Kampar is a Buddhist temple complex with brick-built monuments.",
+        "id": "Muara Takus di Kampar merupakan kompleks percandian Buddha dengan bangunan bata.",
+        "ja": "カンパルのムアラ・タクスは、れんが造りの建造物が残る仏教寺院群です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Muara_Takus"
+    },
+    {
+      "province": "ID_RI",
+      "text": {
+        "en": "Siak Palace preserves the history of the Siak Sri Indrapura Sultanate in Riau.",
+        "id": "Istana Siak menyimpan sejarah Kesultanan Siak Sri Indrapura di Riau.",
+        "ja": "シアク宮殿はリアウのシアク・スリ・インドラプラ王国の歴史を伝えています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Siak_Sri_Indrapura_Palace"
+    }
+  ]
+}

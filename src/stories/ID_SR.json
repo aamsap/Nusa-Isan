@@ -1,0 +1,212 @@
+{
+  "provinces": [
+    "ID_SR"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Mandar silk sarong",
+          "id": "Sarung sutra Mandar",
+          "ja": "マンダルの絹サロン"
+        },
+        "note": {
+          "en": "Lipaq Saqbe is a woven silk sarong worn with Mandar ceremonial clothing.",
+          "id": "Lipaq Saqbe adalah sarung sutra tenun yang melengkapi busana adat Mandar.",
+          "ja": "リパ・サッベはマンダルの礼装に合わせる絹織物の腰布です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Baju Pokko",
+          "id": "Baju Pokko",
+          "ja": "ポッコの衣装"
+        },
+        "note": {
+          "en": "This Mandar blouse is worn for dance performances.",
+          "id": "Baju Mandar ini dikenakan dalam pertunjukan tari.",
+          "ja": "マンダルの舞踊で着用する上衣です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Sekomandi cloth",
+          "id": "Kain Sekomandi",
+          "ja": "セコマンディ織"
+        },
+        "note": {
+          "en": "This ikat textile is made in the Kalumpang area of Mamuju.",
+          "id": "Kain tenun ikat ini dibuat di wilayah Kalumpang, Mamuju.",
+          "ja": "マムジュ県カルンパン地域で作られる絣織物です。"
+        },
+        "source": "https://www.indonesia.travel/sa/en/travel-ideas/heritage/tenun-ikat-sekomandi",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Jepa",
+          "id": "Jepa",
+          "ja": "ジェパ"
+        },
+        "note": {
+          "en": "A cassava-and-coconut flatbread from the Mandar culinary tradition.",
+          "id": "Roti pipih berbahan singkong dan kelapa dalam tradisi kuliner Mandar.",
+          "ja": "キャッサバとココナッツで作るマンダルの薄焼きパンです。"
+        },
+        "source": "https://indonesiakaya.com/pustaka-indonesia/jepa/",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Bau peapi",
+          "id": "Bau peapi",
+          "ja": "バウ・ペアピ"
+        },
+        "note": {
+          "en": "A Mandar fish dish often eaten with jepa.",
+          "id": "Hidangan ikan Mandar yang sering disantap bersama jepa.",
+          "ja": "ジェパと一緒に食べられるマンダルの魚料理です。"
+        },
+        "source": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Golla kambu",
+          "id": "Golla kambu",
+          "ja": "ゴラ・カンブ"
+        },
+        "note": {
+          "en": "A Mandar sweet made with sticky rice, coconut and palm sugar.",
+          "id": "Penganan manis Mandar berbahan beras ketan, kelapa, dan gula aren.",
+          "ja": "もち米、ココナッツ、ヤシ糖を使うマンダルの菓子です。"
+        },
+        "source": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Tari Pattuqduq Towaine",
+          "id": "Tari Pattuqduq Towaine",
+          "ja": "パットゥドゥ・トワイネ舞踊"
+        },
+        "note": {
+          "en": "A Mandar welcoming dance performed by women.",
+          "id": "Tarian penyambutan Mandar yang dibawakan oleh perempuan.",
+          "ja": "女性が踊るマンダルの歓迎舞踊です。"
+        },
+        "source": "https://pariwisataindonesia.id/budaya-dan-sejarah/penyambutan-para-pejuang/",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Sayyang Pattudduq",
+          "id": "Sayyang Pattudduq",
+          "ja": "サヤン・パットゥドゥ"
+        },
+        "note": {
+          "en": "In this Mandar tradition, trained horses move to musical rhythms.",
+          "id": "Dalam tradisi Mandar ini, kuda terlatih bergerak mengikuti irama musik.",
+          "ja": "訓練された馬が音楽に合わせて動くマンダルの伝統です。"
+        },
+        "source": "https://pariwisataindonesia.id/budaya-dan-sejarah/menunggangi-kuda-menari/",
+        "image": null
+      },
+      {
+        "province": "ID_SR",
+        "name": {
+          "en": "Sandeq boatbuilding",
+          "id": "Pembuatan perahu sandeq",
+          "ja": "サンデック造船"
+        },
+        "note": {
+          "en": "Mandar boatbuilders craft slender sailing outriggers called sandeq.",
+          "id": "Pembuat perahu Mandar merakit perahu layar bercadik ramping bernama sandeq.",
+          "ja": "マンダルの船大工は細身の帆走アウトリガー船サンデックを作ります。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Sandeq",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SR",
+      "name": {
+        "en": "Karampuang Island",
+        "id": "Pulau Karampuang",
+        "ja": "カランプアン島"
+      },
+      "video": "6nOBsiqc-MU",
+      "videoTitle": "Panorama Pulau Karampuang | REDAKSI PAGI (18/01/20)",
+      "videoAuthor": "REDAKSI TRANS7 OFFICIAL"
+    },
+    {
+      "province": "ID_SR",
+      "name": {
+        "en": "Manakarra waterfront",
+        "id": "Pantai Manakarra",
+        "ja": "マナカラ海岸"
+      },
+      "video": "HOxInduNCfE",
+      "videoTitle": "Pantai Manakarra Mamuju | Sulawesi Barat | Drone View 2022",
+      "videoAuthor": "Jejak Udara ID"
+    },
+    {
+      "province": "ID_SR",
+      "name": {
+        "en": "Tamasapi Waterfall",
+        "id": "Air Terjun Tamasapi",
+        "ja": "タマサピの滝"
+      },
+      "video": "kraZX8Au8Uk",
+      "videoTitle": "Pesona Air Terjun Tamasapi",
+      "videoAuthor": "KOMPASTV MAKASSAR"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SR",
+      "text": {
+        "en": "The Mandar sandeq is a slender sailing outrigger with a rich seafaring tradition.",
+        "id": "Sandeq Mandar adalah perahu layar bercadik ramping dengan tradisi bahari yang kaya.",
+        "ja": "マンダルのサンデックは豊かな海洋文化を受け継ぐ細身の帆走アウトリガー船です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Sandeq"
+    },
+    {
+      "province": "ID_SR",
+      "text": {
+        "en": "Sekomandi weaving is associated with Kalumpang in Mamuju Regency.",
+        "id": "Tenun Sekomandi berkaitan dengan Kalumpang di Kabupaten Mamuju.",
+        "ja": "セコマンディ織はマムジュ県のカルンパン地域に伝わっています。"
+      },
+      "source": "https://www.indonesia.travel/sa/en/travel-ideas/heritage/tenun-ikat-sekomandi"
+    },
+    {
+      "province": "ID_SR",
+      "text": {
+        "en": "Sayyang Pattudduq combines horsemanship and music in Mandar celebrations.",
+        "id": "Sayyang Pattudduq memadukan keterampilan berkuda dan musik dalam perayaan Mandar.",
+        "ja": "サヤン・パットゥドゥはマンダルの祝いで馬術と音楽を組み合わせます。"
+      },
+      "source": "https://pariwisataindonesia.id/budaya-dan-sejarah/menunggangi-kuda-menari/"
+    }
+  ]
+}

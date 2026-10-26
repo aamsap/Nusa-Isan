@@ -1,0 +1,342 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_AC",
+    "name": "Kupiah meukeutop",
+    "nameEn": "Kupiah meukeutop",
+    "note": "A traditional Acehnese head covering for men.",
+    "informationSource": "https://id.wikipedia.org/wiki/Meukeutop"
+  },
+  {
+    "file": "ID_BA.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_BA",
+    "name": "Kain endek",
+    "nameEn": "Endek woven cloth",
+    "note": "Balinese weavers use the weft-ikat technique to create patterned endek cloth.",
+    "informationSource": "https://www.indonesia.travel/us/en/travel-ideas/culture/tenun-endek/"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_BB",
+    "name": "Mi Bangka",
+    "nameEn": "Bangka noodles",
+    "note": "This Bangka noodle specialty reflects Hakka culinary influences.",
+    "informationSource": "https://id.wikipedia.org/wiki/Mi_bangka"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_BE",
+    "name": "Tempoyak",
+    "nameEn": "Tempoyak",
+    "note": "In Bengkulu, fermented durian is used in sambal and fish dishes.",
+    "informationSource": "https://bengkulu.antaranews.com/berita/31922/bagar-hiu-dan-tempoyak-menu-favorit-buka-puasa"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_BT",
+    "name": "Rabeg",
+    "nameEn": "Rabeg",
+    "note": "This richly spiced meat dish is associated with Serang and Banten’s sultanate cuisine.",
+    "informationSource": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_GO",
+    "name": "Ilabulo",
+    "nameEn": "Ilabulo",
+    "note": "Sago and chicken offal are seasoned and wrapped in banana leaves.",
+    "informationSource": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_JA",
+    "name": "Nasi gemuk",
+    "nameEn": "Nasi gemuk",
+    "note": "This coconut-milk rice is a familiar breakfast in Jambi.",
+    "informationSource": "https://id.wikipedia.org/wiki/Nasi_gemuk"
+  },
+  {
+    "file": "ID_JB.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_JB",
+    "name": "Surabi Sunda",
+    "nameEn": "Sundanese surabi",
+    "note": "Sundanese rice-flour pancakes cooked in clay vessels, with sweet or savory toppings.",
+    "informationSource": "https://indonesiakaya.com/pustaka-indonesia/mencicipi-nikmatnya-kuliner-khas-sunda-surabi/"
+  },
+  {
+    "file": "ID_JK.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_JK",
+    "name": "Pangsi Betawi",
+    "nameEn": "Betawi pangsi",
+    "note": "Betawi pangsi outfits come in colors including black, red, white and green.",
+    "informationSource": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_KB",
+    "name": "Songket Sambas",
+    "nameEn": "Sambas songket",
+    "note": "Gold- and silver-coloured threads enrich this Sambas Malay ceremonial textile.",
+    "informationSource": "https://id.wikipedia.org/wiki/Songket_Sambas?oldformat=true"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KB",
+    "name": "Zapin Tembung",
+    "nameEn": "Zapin Tembung",
+    "note": "Zapin Tembung is a social dance in West Kalimantan’s cultural repertoire.",
+    "informationSource": "https://en.wikipedia.org/wiki/West_Kalimantan"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KI",
+    "name": "Musik Sampe",
+    "nameEn": "Sampe music",
+    "note": "This plucked Dayak instrument accompanies music and customary activities, with names varying by community.",
+    "informationSource": "https://id.wikipedia.org/wiki/Sampe?oldformat=true"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KR",
+    "name": "Mak Yong",
+    "nameEn": "Mak Yong",
+    "note": "In the Riau Islands, Mak Yong theater brings together acting, dance, and music.",
+    "informationSource": "https://id.wikipedia.org/wiki/Mak_Yong"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KS",
+    "name": "Teater Mamanda",
+    "nameEn": "Mamanda theatre",
+    "note": "This traditional theatre stages royal stories with familiar character roles and lively audience interaction.",
+    "informationSource": "https://id.wikipedia.org/wiki/Mamanda?oldformat=true"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KT",
+    "name": "Tari Giring-giring",
+    "nameEn": "Giring-giring dance",
+    "note": "This Ma’anyan dance uses sticks to express joy at welcomes, harvest celebrations and customary gatherings.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Giring-Giring?oldformat=true"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_KU",
+    "name": "Festival Iraw Tengkayu",
+    "nameEn": "Iraw Tengkayu festival",
+    "note": "Tarakan’s Tidung celebration includes a decorated ceremonial boat and a ritual offering to the sea.",
+    "informationSource": "https://id.wikipedia.org/wiki/Iraw_Tengkayu?oldformat=true"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_LA",
+    "name": "Tari Sigeh Pengunten",
+    "nameEn": "Sigeh Pengunten dance",
+    "note": "This Lampung welcome dance honors guests and draws on Pepadun and Saibatin traditions.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Sigeh_Penguten"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_MA",
+    "name": "Ikan kuah kuning",
+    "nameEn": "Ikan kuah kuning",
+    "note": "Turmeric and citrus season the yellow fish soup served alongside papeda.",
+    "informationSource": "https://papeda.ambon.go.id/what-to-eat/papeda-dan-ikan-kuah-kuning/"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_MU",
+    "name": "Tari Soya-Soya",
+    "nameEn": "Soya-Soya dance",
+    "note": "This energetic martial dance is linked to the history of the Ternate Sultanate.",
+    "informationSource": "https://id.wikipedia.org/wiki/Soya-soya"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_NB",
+    "name": "Sate rembiga",
+    "nameEn": "Sate rembiga",
+    "note": "These beef skewers from Rembiga near Mataram have a spicy, savory and slightly sweet marinade.",
+    "informationSource": "https://www.indonesia.travel/us/en/travel-ideas/gastronomy/sate-rembiga-a-flavorful-culinary-gem-from-west-nusa-tenggara"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_NT",
+    "name": "Caci Manggarai",
+    "nameEn": "Caci of Manggarai",
+    "note": "This Manggarai performance in Flores features a whip-and-shield duel accompanied by song, gongs and drums.",
+    "informationSource": "https://indonesiakaya.com/pustaka-indonesia/tari-caci-tradisi-duel-manggarai-yang-sarat-nilai-keprajuritan/"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_PE",
+    "name": "Hidangan bakar batu",
+    "nameEn": "Bakar batu feast",
+    "note": "Dani cooks use heated stones in an earth oven to cook tubers and meat for communal feasts.",
+    "informationSource": "https://en.wikipedia.org/wiki/Dani_people"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_PD",
+    "name": "Pangan sagu Bariat",
+    "nameEn": "Sago-based foods of Bariat",
+    "note": "Afsya families in Bariat, South Sorong, process sago from their customary forests as a staple.",
+    "informationSource": "https://telusuri.id/sagu-keramat-kampung-bariat/"
+  },
+  {
+    "file": "ID_PT+ID_PS.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_PS",
+    "name": "Sagu sep (Marind)",
+    "nameEn": "Sagu sep (Marind)",
+    "note": "Marind cooks in Merauke prepare sagu sep with sago and grated coconut using hot stones.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/sagu-sep"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_RI",
+    "name": "Bolu kemojo",
+    "nameEn": "Bolu kemojo",
+    "note": "This dense Riau cake takes its name from a frangipani-like flower shape.",
+    "informationSource": "https://id.wikipedia.org/wiki/Bolu_kemojo"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SA",
+    "name": "Bumbu woku",
+    "nameEn": "Woku seasoning",
+    "note": "Minahasan woku uses aromatic herbs and spices for fish, seafood or chicken.",
+    "informationSource": "https://en.wikipedia.org/wiki/Minahasan_cuisine"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SB",
+    "name": "Dendeng balado",
+    "nameEn": "Dendeng balado",
+    "note": "Thin slices of beef are paired with a chili sauce in this Minangkabau dish.",
+    "informationSource": "https://en.wikipedia.org/wiki/Dendeng"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SG",
+    "name": "Kasoami",
+    "nameEn": "Kasoami",
+    "note": "A cassava-based staple sold in Muna communities such as Lohia.",
+    "informationSource": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SN",
+    "name": "Konro",
+    "nameEn": "Konro",
+    "note": "A Makassar beef-rib soup with a dark, spiced broth.",
+    "informationSource": "https://en.wikipedia.org/wiki/Konro"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_SR",
+    "name": "Jepa",
+    "nameEn": "Jepa",
+    "note": "A cassava-and-coconut flatbread from the Mandar culinary tradition.",
+    "informationSource": "https://indonesiakaya.com/pustaka-indonesia/jepa/"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_SS",
+    "name": "Songket lepus",
+    "nameEn": "Lepus songket",
+    "note": "Lepus songket appears in the ceremonial clothing of Palembang brides and grooms.",
+    "informationSource": "https://en.wikipedia.org/wiki/South_Sumatra"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_ST",
+    "name": "Pakaian kulit kayu Ranta",
+    "nameEn": "Ranta barkcloth clothing",
+    "note": "In the Bada Valley, traditional barkcloth clothing is known as ranta.",
+    "informationSource": "https://mongabay.co.id/2022/12/06/kain-kulit-kayu-pakaian-tradisional-dari-lembah-bada/"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_SU",
+    "name": "Arsik",
+    "nameEn": "Arsik",
+    "note": "This Batak fish dish is seasoned with andaliman and aromatic spices.",
+    "informationSource": "https://id.wikipedia.org/wiki/Arsik"
+  },
+  {
+    "file": "ID_YO.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_YO",
+    "name": "Gamelan gaya Yogyakarta",
+    "nameEn": "Yogyakarta-style gamelan",
+    "note": "Yogyakarta’s court tradition preserves a distinctive style of Javanese gamelan.",
+    "informationSource": "https://en.wikipedia.org/wiki/Javanese_gamelan"
+  }
+]

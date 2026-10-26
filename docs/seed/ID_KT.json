@@ -1,0 +1,34 @@
+{
+ "code": "ID_KT",
+ "province": "Kalimantan Tengah",
+ "region": "Kalimantan",
+ "community": "Dayak Ngaju",
+ "existing_primary": {
+  "clothing": "Baju Sangkarut (Dayak Ngaju)",
+  "food": "Juhu singkah",
+  "art": "Karungut oral poetry",
+  "landmark": "Tanjung Puting National Park"
+ },
+ "primary_image": {
+  "id": "central-kalimantan-textile",
+  "path": "/assets/img/central-kalimantan-textile.webp",
+  "title": "Baju Sangkarut.jpg",
+  "artist": "Martini Rahman",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Baju_Sangkarut.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "8iK-qgiYY4M",
+  "title": "Tanjung Puting National Park in Central Borneo | Wonderful Indonesia",
+  "author": "Kementerian Kehutanan RI",
+  "source": "https://www.youtube.com/watch?v=8iK-qgiYY4M"
+ },
+ "existing_fact": {
+  "en": "Tiwah is a sacred Ngaju mortuary ceremony; it should not be treated as a stage show.",
+  "id": "Tiwah adalah upacara sakral masyarakat Ngaju, bukan pertunjukan panggung.",
+  "ja": "ティワはンガジュの神聖な葬送儀礼であり、舞台芸能ではありません。"
+ },
+ "existing_source": null
+}

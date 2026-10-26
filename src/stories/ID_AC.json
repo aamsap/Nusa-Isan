@@ -1,0 +1,230 @@
+{
+  "provinces": [
+    "ID_AC"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Ulee Balang attire",
+          "id": "Busana Ulee Balang",
+          "ja": "ウレー・バランの衣装"
+        },
+        "note": {
+          "en": "Acehnese ceremonial clothing once associated with rulers and nobles.",
+          "id": "Busana upacara Aceh yang dahulu terkait dengan raja dan bangsawan.",
+          "ja": "かつて王や貴族と結びついていたアチェの儀礼衣装です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Ulee_Balang",
+        "image": null
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Kupiah meukeutop",
+          "id": "Kupiah meukeutop",
+          "ja": "クピア・ムクトップ"
+        },
+        "note": {
+          "en": "A traditional Acehnese head covering for men.",
+          "id": "Penutup kepala tradisional bagi lelaki Aceh.",
+          "ja": "アチェの男性が身につける伝統的な帽子です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Meukeutop",
+        "image": null
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Gayo kerawang clothing",
+          "id": "Busana kerawang Gayo",
+          "ja": "ガヨの刺繍衣装"
+        },
+        "note": {
+          "en": "Gayo clothing decorated with distinctive kerawang embroidery.",
+          "id": "Busana Gayo dengan hiasan sulaman kerawang yang khas.",
+          "ja": "ガヨの特徴的なクラワン刺繍をあしらった衣装です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Kerawang_Gayo",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Mie Aceh",
+          "id": "Mie Aceh",
+          "ja": "ミー・アチェ"
+        },
+        "note": {
+          "en": "Spiced noodles served fried or with broth in Aceh.",
+          "id": "Mi berbumbu khas Aceh yang disajikan goreng atau berkuah.",
+          "ja": "炒めたりスープ仕立てにしたりするアチェの香辛料入り麺です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Mie_aceh",
+        "image": {
+          "id": "aceh-food",
+          "path": "/assets/img/aceh-food.webp",
+          "title": "Mie Aceh with beef.jpg",
+          "artist": "Yasmina Haryono",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Mie_Aceh_with_beef.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Kuah pliek u",
+          "id": "Kuah pliek u",
+          "ja": "クア・プリック・ウ"
+        },
+        "note": {
+          "en": "An Acehnese vegetable curry seasoned with fermented coconut residue.",
+          "id": "Gulai sayuran Aceh dengan bumbu pliek u dari ampas kelapa yang difermentasi.",
+          "ja": "発酵させたココナッツの搾りかすで味つけするアチェの野菜カレーです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Kuah_pliek_u",
+        "image": null
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Timphan",
+          "id": "Timphan",
+          "ja": "ティンパン"
+        },
+        "note": {
+          "en": "A steamed Acehnese sweet wrapped in banana leaves.",
+          "id": "Kudapan manis Aceh yang dikukus dalam daun pisang.",
+          "ja": "バナナの葉で包んで蒸すアチェの甘い菓子です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Timphan",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Saman (Gayo)",
+          "id": "Saman (Gayo)",
+          "ja": "サマン（ガヨ）"
+        },
+        "note": {
+          "en": "Gayo performers coordinate rhythmic body movements and singing.",
+          "id": "Penampil Gayo menyelaraskan gerak tubuh berirama dengan nyanyian.",
+          "ja": "ガヨの演者が歌とリズミカルな身体の動きを合わせます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Saman",
+        "image": {
+          "id": "aceh-dance",
+          "path": "/assets/img/aceh-dance.webp",
+          "title": "Saman Dance, Aceh Indonesia.jpg",
+          "artist": "IrmaRosalina",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Saman_Dance,_Aceh_Indonesia.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Seudati",
+          "id": "Seudati",
+          "ja": "スダティ"
+        },
+        "note": {
+          "en": "An Acehnese group dance accompanied by verse and body percussion.",
+          "id": "Tari kelompok Aceh dengan syair dan perkusi tubuh.",
+          "ja": "詩句と身体で刻む打音を伴うアチェの群舞です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Seudati",
+        "image": null
+      },
+      {
+        "province": "ID_AC",
+        "name": {
+          "en": "Didong",
+          "id": "Didong",
+          "ja": "ディドン"
+        },
+        "note": {
+          "en": "A Gayo performance tradition combining poetry, song and movement.",
+          "id": "Seni pertunjukan Gayo yang memadukan syair, nyanyian, dan gerak.",
+          "ja": "詩、歌、動きを組み合わせるガヨの芸能です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Didong",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_AC",
+      "name": {
+        "en": "Gayo Highlands",
+        "id": "Dataran Tinggi Gayo",
+        "ja": "ガヨ高原"
+      },
+      "video": "TkPJlm7w_OQ",
+      "videoTitle": "Indonesia Bagus - Pesona Tanah Gayo Provinsi Aceh",
+      "videoAuthor": "MDTV OFFICIAL"
+    },
+    {
+      "province": "ID_AC",
+      "name": {
+        "en": "Baiturrahman Grand Mosque",
+        "id": "Masjid Raya Baiturrahman",
+        "ja": "バイトゥラフマン大モスク"
+      },
+      "video": "vdXyWMbhNrQ",
+      "videoTitle": "Pesona Masjid Raya Baiturrahman Kota Banda Aceh, Video Drone 2023 Suasana Sore Hari",
+      "videoAuthor": "Raja Drone ID"
+    },
+    {
+      "province": "ID_AC",
+      "name": {
+        "en": "Aceh Tsunami Museum",
+        "id": "Museum Tsunami Aceh",
+        "ja": "アチェ津波博物館"
+      },
+      "video": "FWzQZkmXfQs",
+      "videoTitle": "Aceh Tsunami Museum - Disbudpar Aceh",
+      "videoAuthor": "Disbudpar Aceh"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_AC",
+      "text": {
+        "en": "Saman is a Gayo performance built on tightly synchronized movement and song.",
+        "id": "Saman adalah pertunjukan masyarakat Gayo dengan gerak dan nyanyian yang selaras.",
+        "ja": "サマンはガヨの人々が息を合わせて動き、歌う芸能です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tari_Saman"
+    },
+    {
+      "province": "ID_AC",
+      "text": {
+        "en": "Ulee Balang clothing includes distinct male and female ceremonial ensembles.",
+        "id": "Busana Ulee Balang mencakup perangkat upacara lelaki dan perempuan yang berbeda.",
+        "ja": "ウレー・バランには男性用と女性用の異なる儀礼衣装があります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Ulee_Balang"
+    },
+    {
+      "province": "ID_AC",
+      "text": {
+        "en": "Didong is particularly associated with Gayo communities around Takengon and Bener Meriah.",
+        "id": "Didong lekat dengan masyarakat Gayo di sekitar Takengon dan Bener Meriah.",
+        "ja": "ディドンはタケンゴンやブヌル・ムリア周辺のガヨの人々に親しまれています。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Didong"
+    }
+  ]
+}

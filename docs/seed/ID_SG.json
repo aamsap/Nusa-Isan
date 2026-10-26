@@ -1,0 +1,25 @@
+{
+ "code": "ID_SG",
+ "province": "Sulawesi Tenggara",
+ "region": "Sulawesi",
+ "community": "Tolaki and Buton",
+ "existing_primary": {
+  "clothing": "Buton ceremonial dress",
+  "food": "Sinonggi",
+  "art": "Lulo dance (Tolaki)",
+  "landmark": "Wakatobi National Park"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "PL5HxA01Fz4",
+  "title": "Wonderful Indonesia | Wakatobi",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=PL5HxA01Fz4"
+ },
+ "existing_fact": {
+  "en": "Lulo is a communal dance associated with Tolaki communities.",
+  "id": "Lulo adalah tari bersama yang terkait dengan masyarakat Tolaki.",
+  "ja": "ルロはトラキの人々に伝わる輪になって踊る芸能です。"
+ },
+ "existing_source": null
+}

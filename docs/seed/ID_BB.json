@@ -1,0 +1,34 @@
+{
+ "code": "ID_BB",
+ "province": "Kepulauan Bangka Belitung",
+ "region": "Sumatra",
+ "community": "Bangka Malay",
+ "existing_primary": {
+  "clothing": "Paksian ceremonial dress",
+  "food": "Lempah kuning",
+  "art": "Nganggung communal tradition",
+  "landmark": "Tanjung Tinggi Beach, Belitung"
+ },
+ "primary_image": {
+  "id": "bangka-food",
+  "path": "/assets/img/bangka-food.webp",
+  "title": "Lempah kuning.JPG",
+  "artist": "Taman Renyah",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lempah_kuning.JPG",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "Hvvjm5Pz18Y",
+  "title": "Let's Travel Indonesia - Pantai Tanjung Tinggi, Belitung Barat",
+  "author": "Weekend List",
+  "source": "https://www.youtube.com/watch?v=Hvvjm5Pz18Y"
+ },
+ "existing_fact": {
+  "en": "Nganggung brings food together in decorated trays for communal gatherings.",
+  "id": "Nganggung menghadirkan makanan dalam dulang untuk pertemuan bersama.",
+  "ja": "ンガングンでは料理を飾った盆に載せて持ち寄ります。"
+ },
+ "existing_source": null
+}

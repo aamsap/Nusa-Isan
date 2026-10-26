@@ -1,0 +1,25 @@
+{
+ "code": "ID_PE",
+ "province": "Papua Pegunungan",
+ "region": "Papua",
+ "community": "Highland communities around Wamena",
+ "existing_primary": {
+  "clothing": "Highland woven ornaments",
+  "food": "Ubi jalar / sweet potato",
+  "art": "Highland weaving traditions",
+  "landmark": "Baliem Valley"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "cCRzZd7mfk8",
+  "title": "Jurnal Indonesia Kaya #28: Jejak Peradaban Lembah Baliem",
+  "author": "IndonesiaKaya",
+  "source": "https://www.youtube.com/watch?v=cCRzZd7mfk8"
+ },
+ "existing_fact": {
+  "en": "Honai houses are adapted to the cool highland environment; they are not universal across Papua.",
+  "id": "Rumah honai sesuai dengan lingkungan pegunungan yang sejuk dan tidak mewakili seluruh Papua.",
+  "ja": "ホナイの家は涼しい高地に適応しており、パプア全体を代表するものではありません。"
+ },
+ "existing_source": null
+}

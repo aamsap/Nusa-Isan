@@ -1,0 +1,25 @@
+{
+ "code": "ID_KU",
+ "province": "Kalimantan Utara",
+ "region": "Kalimantan",
+ "community": "Tidung of Tarakan",
+ "existing_primary": {
+  "clothing": "Tidung ceremonial attire",
+  "food": "Kepiting soka",
+  "art": "Iraw Tengkayu festival",
+  "landmark": "Kayan Mentarang National Park"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "r0XGjWyuc1I",
+  "title": "Nature, Culture, Adventure at Kayan Mentarang National Park",
+  "author": "Kementerian Kehutanan RI",
+  "source": "https://www.youtube.com/watch?v=r0XGjWyuc1I"
+ },
+ "existing_fact": {
+  "en": "Iraw Tengkayu is celebrated by Tidung communities in Tarakan.",
+  "id": "Iraw Tengkayu dirayakan oleh masyarakat Tidung di Tarakan.",
+  "ja": "イラウ・トゥンカユはタラカンのティドゥンの人々の祭りです。"
+ },
+ "existing_source": null
+}

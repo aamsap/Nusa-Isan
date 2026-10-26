@@ -1,0 +1,332 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_AC",
+    "name": "Busana kerawang Gayo",
+    "nameEn": "Gayo kerawang clothing",
+    "note": "Gayo clothing decorated with distinctive kerawang embroidery.",
+    "informationSource": "https://id.wikipedia.org/wiki/Kerawang_Gayo"
+  },
+  {
+    "file": "ID_BA.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_BA",
+    "name": "Ayam betutu",
+    "nameEn": "Ayam betutu",
+    "note": "This Balinese chicken dish is seasoned with a rich spice mixture and slowly cooked.",
+    "informationSource": "https://en.wikipedia.org/wiki/Betutu"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_BB",
+    "name": "Tradisi Nganggung",
+    "nameEn": "Nganggung communal tradition",
+    "note": "Bangka families bring food on covered trays to share at communal gatherings.",
+    "informationSource": "https://bacayuk.babelprov.go.id/content/read/mengenal-nganggung-tradisi-turun-temurun-masyarakat-bangka-belitung"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_BE",
+    "name": "Tradisi Tabot",
+    "nameEn": "Tabot procession",
+    "note": "Bengkulu’s Tabot observance commemorates Husayn through rituals in the month of Muharram.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tabut"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_BT",
+    "name": "Angeun lada",
+    "nameEn": "Angeun lada",
+    "note": "This spicy meat soup is found in southern Banten, including Pandeglang and Lebak.",
+    "informationSource": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_GO",
+    "name": "Tari Saronde",
+    "nameEn": "Saronde dance",
+    "note": "The wedding ritual Molapi saronde uses a scarf in a dance led by the groom.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Saronde"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_JA",
+    "name": "Tari Sekapur Sirih",
+    "nameEn": "Sekapur Sirih dance",
+    "note": "Dancers welcome guests while carrying a ceremonial betel offering.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Sekapur_Sirih"
+  },
+  {
+    "file": "ID_JB.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_JB",
+    "name": "Wayang golek",
+    "nameEn": "Wayang golek",
+    "note": "Sundanese wooden-puppet theatre blends storytelling, music, humor and moral lessons.",
+    "informationSource": "https://indonesiakaya.com/pustaka-indonesia/wayang-golek-boneka-kayu-penutur-nilai-hidup-leluhur-sunda/"
+  },
+  {
+    "file": "ID_JK.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_JK",
+    "name": "Soto Betawi",
+    "nameEn": "Soto Betawi",
+    "note": "A Jakarta beef soup with a creamy broth made with coconut milk, milk or both.",
+    "informationSource": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/soto-betawi"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KB",
+    "name": "Telok Belanga",
+    "nameEn": "Telok Belanga",
+    "note": "Malay men in West Kalimantan wear this attire for weddings and customary occasions.",
+    "informationSource": "https://en.wikipedia.org/wiki/West_Kalimantan"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_KI",
+    "name": "Busana manik-manik Dayak Kenyah",
+    "nameEn": "Dayak beadwork: Kenyah attire",
+    "note": "Beaded patterns decorate Kenyah ta’a and sapei sapaq attire, traditions also found in North Kalimantan.",
+    "informationSource": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_KR",
+    "name": "Baju kurung Melayu",
+    "nameEn": "Baju kurung Melayu",
+    "note": "Malay communities in the Riau Islands wear this loose, modest traditional garment.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KR",
+    "name": "Joget Dangkong",
+    "nameEn": "Joget Dangkong",
+    "note": "This Malay social dance is performed in communities across the Riau Islands.",
+    "informationSource": "https://id.wikipedia.org/wiki/Joget_Dangkong"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KS",
+    "name": "Kerajinan kain Sasirangan",
+    "nameEn": "Sasirangan textile craft",
+    "note": "Banjar artisans create patterned cloth using running stitches and resist-dyeing techniques.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/south-kalimantan"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_KT",
+    "name": "Tradisi kematian Tiwah",
+    "nameEn": "Tiwah mortuary tradition",
+    "note": "This sacred Kaharingan mortuary ceremony guides the deceased’s spirit and is not merely a performance.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tiwah?oldformat=true"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KU",
+    "name": "Tari Jugit",
+    "nameEn": "Jugit dance",
+    "note": "Women perform this graceful classical dance to honour guests and mark customary occasions.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-jugit"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_LA",
+    "name": "Tari Melinting",
+    "nameEn": "Melinting dance",
+    "note": "This East Lampung dance is historically linked to the Melinting court.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Melinting"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_MA",
+    "name": "Tifa totobuang",
+    "nameEn": "Tifa totobuang",
+    "note": "Maluku musicians combine tifa drums with rows of small totobuang gongs.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tifa_totobuang"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_MU",
+    "name": "Tari Tide-Tide",
+    "nameEn": "Tide-Tide dance",
+    "note": "Men and women perform this social dance at celebrations in North Halmahera.",
+    "informationSource": "https://wonderful.pulaumorotaikab.go.id/budaya/tarian-tide-tide"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_NB",
+    "name": "Gendang beleq",
+    "nameEn": "Gendang beleq",
+    "note": "This Sasak ensemble in Lombok combines large drums with music and coordinated movement.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gendang-beleq-the-grand-traditional-music-of-lombok"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_NT",
+    "name": "Sasando",
+    "nameEn": "Sasando",
+    "note": "This plucked string instrument from Rote uses a lontar-leaf resonator around a bamboo body.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/sasando"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_PA",
+    "name": "Tari Isolo (Sentani)",
+    "nameEn": "Isolo dance (Sentani)",
+    "note": "Also called Isosolo, this communal dance is performed on boats on Lake Sentani.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Isosolo"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_PB",
+    "name": "Ikan bakar Manokwari",
+    "nameEn": "Manokwari grilled fish",
+    "note": "Fresh grilled fish is topped with a lively chilli, shallot and lime sambal.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat"
+  },
+  {
+    "file": "ID_PT+ID_PS.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_PT",
+    "name": "Tambelo",
+    "nameEn": "Tambelo",
+    "note": "Kamoro communities gather tambelo molluscs from mangrove wood as a local food.",
+    "informationSource": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_RI",
+    "name": "Zapin Meskom",
+    "nameEn": "Zapin Meskom",
+    "note": "This local zapin tradition comes from Meskom in Bengkalis.",
+    "informationSource": "https://id.wikipedia.org/wiki/Zapin_Meskom"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SA",
+    "name": "Upacara Tulude (Sangihe)",
+    "nameEn": "Tulude ceremony (Sangihe)",
+    "note": "Sangihe communities give thanks together through the annual Tulude ceremony.",
+    "informationSource": "https://sangihekab.go.id/2026/02/01/upacara-adat-tulude-2026-ungkapan-syukur-masyarakat-kepualuan-sangihe/"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SB",
+    "name": "Tari Piring",
+    "nameEn": "Tari Piring",
+    "note": "Minangkabau dancers move rhythmically while holding plates in their hands.",
+    "informationSource": "https://en.wikipedia.org/wiki/Piring_dance"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SG",
+    "name": "Kabuto",
+    "nameEn": "Kabuto",
+    "note": "A traditional cassava food found in Muna culinary traditions.",
+    "informationSource": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_SN",
+    "name": "Pallubasa",
+    "nameEn": "Pallubasa",
+    "note": "A Makassar meat soup enriched with toasted grated coconut.",
+    "informationSource": "https://en.wikipedia.org/wiki/Pallubasa"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SR",
+    "name": "Bau peapi",
+    "nameEn": "Bau peapi",
+    "note": "A Mandar fish dish often eaten with jepa.",
+    "informationSource": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SS",
+    "name": "Tekwan",
+    "nameEn": "Tekwan",
+    "note": "Small fish-and-tapioca dumplings are served in a savory shrimp broth.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tekwan"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_ST",
+    "name": "Uta kelo",
+    "nameEn": "Uta kelo",
+    "note": "This Kaili dish cooks moringa leaves in seasoned coconut milk.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SU",
+    "name": "Bika ambon",
+    "nameEn": "Bika ambon",
+    "note": "Despite its name, this honeycombed cake is associated with Medan.",
+    "informationSource": "https://en.wikipedia.org/wiki/Bika_ambon"
+  }
+]

@@ -1,0 +1,34 @@
+{
+ "code": "ID_LA",
+ "province": "Lampung",
+ "region": "Sumatra",
+ "community": "Lampung communities",
+ "existing_primary": {
+  "clothing": "Tapis woven cloth",
+  "food": "Seruit",
+  "art": "Tari Sigeh Pengunten",
+  "landmark": "Way Kambas National Park"
+ },
+ "primary_image": {
+  "id": "lampung-textile",
+  "path": "/assets/img/lampung-textile.webp",
+  "title": "Woman's Ceremonial Skirt (Tapis) MET DP145517.jpg",
+  "artist": "Unknown",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Ceremonial_Skirt_(Tapis)_MET_DP145517.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "w9GTbUEZe0w",
+  "title": "ASEAN Heritage Parks – Way Kambas National Park in Indonesia",
+  "author": "asean secretariat",
+  "source": "https://www.youtube.com/watch?v=w9GTbUEZe0w"
+ },
+ "existing_fact": {
+  "en": "Tapis cloth is decorated with intricate embroidery, often with gold-coloured thread.",
+  "id": "Kain tapis dihiasi sulaman rumit, sering kali dengan benang berwarna emas.",
+  "ja": "タピス布は金色の糸などによる精緻な刺繍が特徴です。"
+ },
+ "existing_source": null
+}

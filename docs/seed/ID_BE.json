@@ -1,0 +1,34 @@
+{
+ "code": "ID_BE",
+ "province": "Bengkulu",
+ "region": "Sumatra",
+ "community": "Communities of Bengkulu",
+ "existing_primary": {
+  "clothing": "Rejang ceremonial dress",
+  "food": "Pendap",
+  "art": "Tabot procession",
+  "landmark": "Fort Marlborough"
+ },
+ "primary_image": {
+  "id": "bengkulu-food",
+  "path": "/assets/img/bengkulu-food.webp",
+  "title": "Pendap from Bengkulu - IMG 20220210 181317 298.jpg",
+  "artist": "Naval Scene",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pendap_from_Bengkulu_-_IMG_20220210_181317_298.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "6vkJSiMLad4",
+  "title": "Wisata Sejarah ke Benteng Marlborough, Bengkulu | RAGAM INDONESIA",
+  "author": "TRANS7 OFFICIAL",
+  "source": "https://www.youtube.com/watch?v=6vkJSiMLad4"
+ },
+ "existing_fact": {
+  "en": "The Tabot observance has a distinctive local history in Bengkulu.",
+  "id": "Tradisi Tabot memiliki sejarah lokal yang khas di Bengkulu.",
+  "ja": "タボットの行事にはブンクルならではの歴史があります。"
+ },
+ "existing_source": null
+}

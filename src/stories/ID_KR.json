@@ -1,0 +1,212 @@
+{
+  "provinces": [
+    "ID_KR"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Baju kurung Melayu",
+          "id": "Baju kurung Melayu",
+          "ja": "マレーのバジュ・クルン"
+        },
+        "note": {
+          "en": "Malay communities in the Riau Islands wear this loose, modest traditional garment.",
+          "id": "Masyarakat Melayu Kepulauan Riau mengenakan busana tradisional yang longgar dan sopan ini.",
+          "ja": "リアウ諸島のマレーの人々に伝わる、ゆったりした控えめな装いです。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Kebaya labuh",
+          "id": "Kebaya labuh",
+          "ja": "クバヤ・ラブー"
+        },
+        "note": {
+          "en": "In Lingga, this long, front-opening kebaya is worn in traditional and ceremonial settings.",
+          "id": "Di Lingga, kebaya panjang dengan bukaan depan ini dikenakan dalam kegiatan adat dan upacara.",
+          "ja": "リンガに伝わる丈の長い前開きのクバヤで、伝統行事や儀礼で着用します。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Teluk belanga",
+          "id": "Teluk belanga",
+          "ja": "トゥルッ・ブランガ"
+        },
+        "note": {
+          "en": "This traditional Malay men’s outfit is documented in Lingga’s dress traditions.",
+          "id": "Busana tradisional laki-laki Melayu ini tercatat dalam tradisi pakaian Lingga.",
+          "ja": "リンガの服飾文化に伝わる、マレーの男性の伝統衣装です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Mie tarempa",
+          "id": "Mie tarempa",
+          "ja": "ミー・タレンパ"
+        },
+        "note": {
+          "en": "Originating in Tarempa, Anambas, these spiced noodles are commonly served with fish.",
+          "id": "Berasal dari Tarempa, Anambas, mi berbumbu ini lazim disajikan dengan ikan.",
+          "ja": "アナンバスのタレンパに由来する麺料理で、香辛料で味付けし魚を添えます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/mie-tarempa",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Gonggong",
+          "id": "Gonggong",
+          "ja": "ゴンゴン"
+        },
+        "note": {
+          "en": "These edible sea snails are commonly boiled and served with a spicy dipping sauce.",
+          "id": "Siput laut ini lazim direbus dan disajikan dengan sambal sebagai cocolan.",
+          "ja": "食用の巻き貝をゆで、辛いソースにつけて味わいます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gong-gong",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Bintan otak-otak",
+          "id": "Otak-otak Bintan",
+          "ja": "ビンタンのオタオタ"
+        },
+        "note": {
+          "en": "Bintan’s seasoned fish cakes are wrapped in banana leaves and grilled.",
+          "id": "Otak-otak Bintan dibuat dari ikan berbumbu, dibungkus daun pisang, lalu dipanggang.",
+          "ja": "香辛料を加えた魚のすり身をバナナの葉で包んで焼く、ビンタンの料理です。"
+        },
+        "source": "https://www.indonesia.travel/uae/en/travel-ideas/gastronomy/bintan-island---mouthwatering-food-experiences-on-bintan-island",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Zapin Penyengat",
+          "id": "Zapin Penyengat",
+          "ja": "ザピン・プニェンガット"
+        },
+        "note": {
+          "en": "Penyengat’s zapin combines rhythmic footwork with gambus and marwas accompaniment.",
+          "id": "Zapin Penyengat memadukan langkah kaki berirama dengan iringan gambus dan marwas.",
+          "ja": "プニェンガットのザピンは、ガンブスやマルワスの伴奏に合わせて足をリズミカルに動かします。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Zapin_Penyengat",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Mak Yong",
+          "id": "Mak Yong",
+          "ja": "マヨン"
+        },
+        "note": {
+          "en": "In the Riau Islands, Mak Yong theater brings together acting, dance, and music.",
+          "id": "Di Kepulauan Riau, teater Mak Yong memadukan seni peran, tari, dan musik.",
+          "ja": "リアウ諸島のマヨンは、演技、踊り、音楽を組み合わせた演劇です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Mak_Yong",
+        "image": null
+      },
+      {
+        "province": "ID_KR",
+        "name": {
+          "en": "Joget Dangkong",
+          "id": "Joget Dangkong",
+          "ja": "ジョゲッ・ダンコン"
+        },
+        "note": {
+          "en": "This Malay social dance is performed in communities across the Riau Islands.",
+          "id": "Tarian pergaulan Melayu ini dipentaskan di berbagai komunitas Kepulauan Riau.",
+          "ja": "リアウ諸島の各地で親しまれる、マレーの交流の踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Joget_Dangkong",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KR",
+      "name": {
+        "en": "Bintan Island",
+        "id": "Pulau Bintan",
+        "ja": "ビンタン島"
+      },
+      "video": "UfzasVLbWCE",
+      "videoTitle": "Bintan Island, Indonesia - Travel Diary",
+      "videoAuthor": "Chloe Ting"
+    },
+    {
+      "province": "ID_KR",
+      "name": {
+        "en": "Penyengat Island",
+        "id": "Pulau Penyengat",
+        "ja": "プニェンガット島"
+      },
+      "video": "DxAdvyTbzGc",
+      "videoTitle": "ADWI 2023 || Desa Wisata Pulau Penyengat, Kota Tanjungpinang, Kepulauan Riau",
+      "videoAuthor": "Kementerian Pariwisata"
+    },
+    {
+      "province": "ID_KR",
+      "name": {
+        "en": "Barelang Bridge",
+        "id": "Jembatan Barelang",
+        "ja": "バレラン橋"
+      },
+      "video": "l9dZ7gjrR0M",
+      "videoTitle": "Jembatan Barelang Batam, jembatan ikoniknya pulau Batam",
+      "videoAuthor": "Syahrial Ahmad"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KR",
+      "text": {
+        "en": "Raja Ali Haji wrote Gurindam Dua Belas on Penyengat Island, an important place in Malay literary history.",
+        "id": "Raja Ali Haji menulis Gurindam Dua Belas di Pulau Penyengat, tempat penting dalam sejarah sastra Melayu.",
+        "ja": "ラジャ・アリ・ハジは、マレー文学史にゆかりの深いプニェンガット島で『グリンダム十二章』を執筆しました。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Gurindam_Dua_Belas"
+    },
+    {
+      "province": "ID_KR",
+      "text": {
+        "en": "Barelang is a chain of six bridges linking Batam with nearby islands, including Rempang and Galang.",
+        "id": "Barelang merupakan rangkaian enam jembatan yang menghubungkan Batam dengan pulau sekitar, termasuk Rempang dan Galang.",
+        "ja": "バレランは、バタム島とルンパン島、ガラン島などを結ぶ六つの橋の総称です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Barelang_Bridge"
+    },
+    {
+      "province": "ID_KR",
+      "text": {
+        "en": "Mak Yong traditions in Batam and Bintan use masks for some characters.",
+        "id": "Tradisi Mak Yong di Batam dan Bintan memakai topeng untuk beberapa tokoh.",
+        "ja": "バタム島やビンタン島のマヨンでは、一部の登場人物が仮面を使います。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Mak_Yong"
+    }
+  ]
+}

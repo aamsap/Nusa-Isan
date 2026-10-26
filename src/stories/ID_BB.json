@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_BB"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Paksian ceremonial dress",
+          "id": "Busana adat Paksian",
+          "ja": "パクシアンの礼装"
+        },
+        "note": {
+          "en": "The paksian crown completes women’s ceremonial attire in Bangka Belitung.",
+          "id": "Mahkota paksian melengkapi busana upacara perempuan di Bangka Belitung.",
+          "ja": "パクシアンの冠は、バンカ・ブリトゥンの女性の礼装を彩る頭飾りです。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
+        "image": null
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Baju Seting",
+          "id": "Baju Seting",
+          "ja": "バジュ・スティン"
+        },
+        "note": {
+          "en": "This bridal blouse is made from velvet or silk and paired with cual cloth.",
+          "id": "Baju pengantin ini dibuat dari beludru atau sutra dan dipadukan dengan kain cual.",
+          "ja": "ベルベットや絹で仕立てる花嫁の上衣で、チュアル布と合わせます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
+        "image": null
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Cual cloth",
+          "id": "Kain cual",
+          "ja": "チュアル布"
+        },
+        "note": {
+          "en": "This intricate woven cloth is associated with Mentok and ceremonial clothing.",
+          "id": "Kain tenun rumit ini dikenal berkaitan dengan Mentok dan busana upacara.",
+          "ja": "ムントックにゆかりのある精緻な織物で、礼装に用いられます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Lempah kuning",
+          "id": "Lempah kuning",
+          "ja": "ルンパ・クニン"
+        },
+        "note": {
+          "en": "This Bangka Belitung fish dish has a yellow broth flavored with turmeric and spices.",
+          "id": "Hidangan ikan Bangka Belitung ini berkuah kuning dengan kunyit dan rempah-rempah.",
+          "ja": "ターメリックなどの香辛料で黄色く仕上げる、バンカ・ブリトゥンの魚料理です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Lempah_kuning",
+        "image": {
+          "id": "bangka-food",
+          "path": "/assets/img/bangka-food.webp",
+          "title": "Lempah kuning.JPG",
+          "artist": "Taman Renyah",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Lempah_kuning.JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Rusip",
+          "id": "Rusip",
+          "ja": "ルシップ"
+        },
+        "note": {
+          "en": "Fermented fish is mixed with chili, shallots and citrus for a pungent condiment.",
+          "id": "Ikan fermentasi dicampur cabai, bawang merah, dan jeruk untuk menghasilkan sambal beraroma kuat.",
+          "ja": "発酵させた魚にトウガラシ、シャロット、かんきつを合わせた、香りの強い調味料です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Rusip",
+        "image": null
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Bangka noodles",
+          "id": "Mi Bangka",
+          "ja": "バンカ麺"
+        },
+        "note": {
+          "en": "This Bangka noodle specialty reflects Hakka culinary influences.",
+          "id": "Hidangan mi khas Bangka ini memperlihatkan pengaruh kuliner Hakka.",
+          "ja": "客家の食文化の影響を受けた、バンカ島の名物麺料理です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Mi_bangka",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Nganggung communal tradition",
+          "id": "Tradisi Nganggung",
+          "ja": "ンガングンの持ち寄り行事"
+        },
+        "note": {
+          "en": "Bangka families bring food on covered trays to share at communal gatherings.",
+          "id": "Keluarga di Bangka membawa makanan dalam dulang bertudung untuk dinikmati bersama.",
+          "ja": "バンカでは各家庭が覆い付きの盆に料理を載せ、集いで分かち合います。"
+        },
+        "source": "https://bacayuk.babelprov.go.id/content/read/mengenal-nganggung-tradisi-turun-temurun-masyarakat-bangka-belitung",
+        "image": null
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Dambus music",
+          "id": "Musik dambus",
+          "ja": "ダンブスの音楽"
+        },
+        "note": {
+          "en": "Bangka’s dambus is a string instrument with a carved deer-head-shaped neck.",
+          "id": "Dambus Bangka adalah alat musik petik dengan kepala berukir menyerupai rusa.",
+          "ja": "バンカの弦楽器ダンブスは、頭部に鹿をかたどった彫刻があるのが特徴です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Dambus",
+        "image": null
+      },
+      {
+        "province": "ID_BB",
+        "name": {
+          "en": "Campak dance",
+          "id": "Tari Campak",
+          "ja": "チャンパック舞踊"
+        },
+        "note": {
+          "en": "This lively Bangka Belitung dance entertains guests at weddings and other gatherings.",
+          "id": "Tari ceria Bangka Belitung ini menghibur tamu pada pernikahan dan pertemuan lainnya.",
+          "ja": "バンカ・ブリトゥンの陽気な踊りで、婚礼やさまざまな集いを盛り上げます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Campak",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_BB",
+      "name": {
+        "en": "Tanjung Tinggi Beach, Belitung",
+        "id": "Pantai Tanjung Tinggi, Belitung",
+        "ja": "タンジュン・ティンギ海岸（ブリトゥン島）"
+      },
+      "video": "Hvvjm5Pz18Y",
+      "videoTitle": "Let's Travel Indonesia - Pantai Tanjung Tinggi, Belitung Barat",
+      "videoAuthor": "Weekend List"
+    },
+    {
+      "province": "ID_BB",
+      "name": {
+        "en": "Lengkuas Island",
+        "id": "Pulau Lengkuas",
+        "ja": "ルンクアス島"
+      },
+      "video": "nkHsz0_VpOs",
+      "videoTitle": "Bertualang ke Belitung: Mengunjungi Wisata Keren Tanpa Ikut Tour",
+      "videoAuthor": "WANDERPACKER"
+    },
+    {
+      "province": "ID_BB",
+      "name": {
+        "en": "Tanjung Kelayang Beach",
+        "id": "Pantai Tanjung Kelayang",
+        "ja": "タンジュン・クラヤン海岸"
+      },
+      "video": "9lILR-AhGgE",
+      "videoTitle": "Pesona Tanjung Kelayang",
+      "videoAuthor": "Kemenko Infrastruktur & Pembangunan Kewilayahan RI"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_BB",
+      "text": {
+        "en": "Nganggung brings food together in decorated trays for communal gatherings.",
+        "id": "Nganggung menghadirkan makanan dalam dulang untuk pertemuan bersama.",
+        "ja": "ンガングンでは料理を飾った盆に載せて持ち寄ります。"
+      },
+      "source": "https://bacayuk.babelprov.go.id/content/read/mengenal-nganggung-tradisi-turun-temurun-masyarakat-bangka-belitung"
+    },
+    {
+      "province": "ID_BB",
+      "text": {
+        "en": "The province’s two main islands are Bangka and Belitung, separated by the Gaspar Strait.",
+        "id": "Dua pulau utama provinsi ini, Bangka dan Belitung, dipisahkan oleh Selat Gaspar.",
+        "ja": "州の二つの主要な島、バンカ島とブリトゥン島の間にはガスパル海峡があります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Kepulauan_Bangka_Belitung"
+    },
+    {
+      "province": "ID_BB",
+      "text": {
+        "en": "The yellow fish dish called lempah kuning on Bangka is known as gangan on Belitung.",
+        "id": "Hidangan ikan berkuah kuning yang disebut lempah kuning di Bangka dikenal sebagai gangan di Belitung.",
+        "ja": "バンカ島でルンパ・クニンと呼ばれる黄色い魚料理は、ブリトゥン島ではガンガンと呼ばれます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Lempah_kuning"
+    }
+  ]
+}

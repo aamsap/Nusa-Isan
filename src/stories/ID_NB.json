@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_NB"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Sasak lambung",
+          "id": "Lambung Sasak",
+          "ja": "ササックのランブン"
+        },
+        "note": {
+          "en": "Sasak women in Lombok wear this black sleeveless top with a long cloth at customary ceremonies.",
+          "id": "Perempuan Sasak di Lombok memakai atasan hitam tanpa lengan ini dengan kain panjang dalam upacara adat.",
+          "ja": "ロンボク島のササックの女性は、儀礼で黒い袖なしの上衣ランブンに長い布を合わせます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-lambung",
+        "image": null
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Sasak pegon",
+          "id": "Pegon Sasak",
+          "ja": "ササックのプゴン"
+        },
+        "note": {
+          "en": "Sasak men in Lombok pair a closed jacket with songket cloth for customary occasions.",
+          "id": "Pria Sasak di Lombok memadukan jas tertutup dengan kain songket untuk acara adat.",
+          "ja": "ロンボク島のササックの男性は、儀礼で前を閉じた上着にソンケット布を合わせます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-pegon",
+        "image": null
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Bima rimpu",
+          "id": "Rimpu Bima",
+          "ja": "ビマのリンプ"
+        },
+        "note": {
+          "en": "In Bima, rimpu uses two sarongs to cover the head and upper body and wrap the lower body.",
+          "id": "Di Bima, rimpu memakai dua sarung untuk menutup kepala dan tubuh bagian atas serta membalut tubuh bagian bawah.",
+          "ja": "ビマのリンプは、二枚のサロンで頭と上半身、下半身をそれぞれ覆う装いです。"
+        },
+        "source": "https://jadesta.kemenpar.go.id/atraksi/rimpu",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Ayam taliwang",
+          "id": "Ayam taliwang",
+          "ja": "アヤム・タリワン"
+        },
+        "note": {
+          "en": "This Lombok chicken dish is grilled with a spicy seasoning of chili, garlic and shrimp paste.",
+          "id": "Ayam khas Lombok ini dibakar dengan bumbu pedas dari cabai, bawang putih, dan terasi.",
+          "ja": "ロンボク島の鶏料理で、唐辛子、ニンニク、エビの発酵調味料を使った辛い味付けで焼きます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/ayam-taliwang",
+        "image": null
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Plecing kangkung",
+          "id": "Plecing kangkung",
+          "ja": "プレチン・カンクン"
+        },
+        "note": {
+          "en": "Lombok-style water spinach is served with a spicy tomato-and-chili sambal.",
+          "id": "Kangkung ala Lombok disajikan dengan sambal tomat dan cabai yang pedas.",
+          "ja": "ロンボク風の空心菜料理で、トマトと唐辛子の辛いサンバルを添えます。"
+        },
+        "source": "https://indonesia.travel/gb/en/travel-ideas/gastronomy/plecing-kangkung-a-spicy-and-refreshing-icon-of-lombok-cuisine",
+        "image": null
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Sate rembiga",
+          "id": "Sate rembiga",
+          "ja": "サテ・レンビガ"
+        },
+        "note": {
+          "en": "These beef skewers from Rembiga near Mataram have a spicy, savory and slightly sweet marinade.",
+          "id": "Sate sapi dari Rembiga dekat Mataram ini memakai bumbu pedas, gurih, dan sedikit manis.",
+          "ja": "マタラム近郊のレンビガに伝わる牛肉の串焼きで、辛さとうま味、ほのかな甘みが特徴です。"
+        },
+        "source": "https://www.indonesia.travel/us/en/travel-ideas/gastronomy/sate-rembiga-a-flavorful-culinary-gem-from-west-nusa-tenggara",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Peresean",
+          "id": "Peresean",
+          "ja": "プルセアン"
+        },
+        "note": {
+          "en": "In Lombok, Sasak contestants face one another with rattan sticks and buffalo-hide shields.",
+          "id": "Di Lombok, petarung Sasak saling berhadapan dengan tongkat rotan dan perisai kulit kerbau.",
+          "ja": "ロンボク島のササックの伝統で、籐の棒と水牛の皮の盾を持った二人が対戦します。"
+        },
+        "source": "https://aman.or.id/story/mengenal-seni-tradisional-perisean-dari-masyarakat-adat-sasak",
+        "image": {
+          "id": "west-nusa-dance",
+          "path": "/assets/img/west-nusa-dance.webp",
+          "title": "Peresean Traditional Sport of Sasak Tribe.jpg",
+          "artist": "RaiyaniM",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Peresean_Traditional_Sport_of_Sasak_Tribe.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Gendang beleq",
+          "id": "Gendang beleq",
+          "ja": "グンダン・ブレック"
+        },
+        "note": {
+          "en": "This Sasak ensemble in Lombok combines large drums with music and coordinated movement.",
+          "id": "Ansambel Sasak di Lombok ini memadukan gendang besar, musik, dan gerakan yang selaras.",
+          "ja": "ロンボク島のササックの芸能で、大太鼓の演奏に音楽と息の合った動きを組み合わせます。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gendang-beleq-the-grand-traditional-music-of-lombok",
+        "image": null
+      },
+      {
+        "province": "ID_NB",
+        "name": {
+          "en": "Sukarara weaving",
+          "id": "Tenun Sukarara",
+          "ja": "スカララの織物"
+        },
+        "note": {
+          "en": "Sukarara in Central Lombok is a center of traditional Sasak handweaving.",
+          "id": "Sukarara di Lombok Tengah merupakan sentra kerajinan tenun tradisional Sasak.",
+          "ja": "中部ロンボクのスカララ村は、ササックの伝統的な手織物の産地です。"
+        },
+        "source": "https://jadesta.kemenpar.go.id/desa/sentra_tenun",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_NB",
+      "name": {
+        "en": "Mount Rinjani",
+        "id": "Gunung Rinjani",
+        "ja": "リンジャニ山"
+      },
+      "video": "Won4nfQRBDg",
+      "videoTitle": "Hiking Mount Rinjani, Indonesia  [Amazing Places 4K]",
+      "videoAuthor": "Amazing Places on Our Planet"
+    },
+    {
+      "province": "ID_NB",
+      "name": {
+        "en": "Gili Trawangan",
+        "id": "Gili Trawangan",
+        "ja": "ギリ・トラワンガン島"
+      },
+      "video": "vT_u66LL0fI",
+      "videoTitle": "Gili Trawangan, Lombok (4K Drone Video - 2019)",
+      "videoAuthor": "Christian Ziegler"
+    },
+    {
+      "province": "ID_NB",
+      "name": {
+        "en": "Sendang Gile Waterfall",
+        "id": "Air Terjun Sendang Gile",
+        "ja": "スンダン・ギレの滝"
+      },
+      "video": "IEfbUdUSsNA",
+      "videoTitle": "Air Terjun Sendang Gile, Surga Tersembunyi di Kaki Gunung Rinjani Lombok yang Menyegarkan",
+      "videoAuthor": "iTrip ID"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_NB",
+      "text": {
+        "en": "Peresean is a Sasak performance with rattan sticks and hide shields.",
+        "id": "Peresean adalah pertunjukan Sasak dengan rotan dan perisai kulit.",
+        "ja": "プルセアンは籐の棒と皮の盾を用いるササックの芸能です。"
+      },
+      "source": "https://aman.or.id/story/mengenal-seni-tradisional-perisean-dari-masyarakat-adat-sasak"
+    },
+    {
+      "province": "ID_NB",
+      "text": {
+        "en": "Gendang beleq means “big drum” in the Sasak language.",
+        "id": "Gendang beleq berarti “gendang besar” dalam bahasa Sasak.",
+        "ja": "ササック語で「グンダン・ブレック」は「大きな太鼓」を意味します。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gendang-beleq-the-grand-traditional-music-of-lombok"
+    },
+    {
+      "province": "ID_NB",
+      "text": {
+        "en": "Sukarara, a weaving center in Central Lombok, is a predominantly Sasak village.",
+        "id": "Sukarara, sentra tenun di Lombok Tengah, merupakan desa yang sebagian besar penduduknya bersuku Sasak.",
+        "ja": "中部ロンボクの織物の産地スカララは、住民の多くがササックの人々である村です。"
+      },
+      "source": "https://jadesta.kemenpar.go.id/desa/sentra_tenun"
+    }
+  ]
+}

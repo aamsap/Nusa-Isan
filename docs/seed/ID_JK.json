@@ -1,0 +1,34 @@
+{
+ "code": "ID_JK",
+ "province": "Daerah Khusus Jakarta",
+ "region": "Java",
+ "community": "Betawi",
+ "existing_primary": {
+  "clothing": "Kebaya encim",
+  "food": "Kerak telor",
+  "art": "Ondel-ondel",
+  "landmark": "National Monument (Monas), Jakarta"
+ },
+ "primary_image": {
+  "id": "jakarta-food",
+  "path": "/assets/img/jakarta-food.webp",
+  "title": "Kerak telor Betawi.jpg",
+  "artist": "Warta Kota",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kerak_telor_Betawi.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "y2JMltYI6Ws",
+  "title": "Monumen Nasional (MONAS) - Wonderful Jakarta",
+  "author": "Wonderful JAKARTA",
+  "source": "https://www.youtube.com/watch?v=y2JMltYI6Ws"
+ },
+ "existing_fact": {
+  "en": "Betawi culture grew through centuries of encounters in the port city of Jakarta.",
+  "id": "Budaya Betawi tumbuh dari perjumpaan panjang di kota pelabuhan Jakarta.",
+  "ja": "ベタウィ文化は港町ジャカルタでの長い交流から育まれました。"
+ },
+ "existing_source": null
+}

@@ -1,0 +1,214 @@
+{
+  "provinces": [
+    "ID_PA",
+    "ID_PE"
+  ],
+  "mergeReason": "Papua Pegunungan lacked a third independently sourced food example in this research batch, so it shares a modal with neighbouring Papua while retaining community-specific labels.",
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_PA",
+        "name": {
+          "en": "Sentani beadwork",
+          "id": "Manik-manik Sentani",
+          "ja": "センタニのビーズ装飾"
+        },
+        "note": {
+          "en": "Mori-mori beads are among the adornments worn by Isosolo dancers around Lake Sentani.",
+          "id": "Manik-manik mori-mori termasuk hiasan penari Isosolo di sekitar Danau Sentani.",
+          "ja": "センタニ湖周辺のイソソロの踊り手は、モリモリと呼ばれるビーズを身につけます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Isosolo",
+        "image": null
+      },
+      {
+        "province": "ID_PE",
+        "name": {
+          "en": "Highland woven accessories: noken",
+          "id": "Pelengkap anyaman pegunungan: noken",
+          "ja": "高地の編み物の装身具：ノケン"
+        },
+        "note": {
+          "en": "In Wamena, noken bags are worn with the strap over the head to carry daily necessities.",
+          "id": "Di Wamena, tas noken dikenakan dengan tali di kepala untuk membawa keperluan sehari-hari.",
+          "ja": "ワメナでは、ノケンのひもを頭に掛けて日用品を運びます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Noken",
+        "image": null
+      },
+      {
+        "province": "ID_PA",
+        "name": {
+          "en": "Khombow barkcloth clothing",
+          "id": "Pakaian kulit kayu khombow",
+          "ja": "コンボウの樹皮布の衣服"
+        },
+        "note": {
+          "en": "At Asei on Lake Sentani, painted khombow bark was traditionally used for clothing.",
+          "id": "Di Asei, Danau Sentani, kulit kayu khombow yang dilukis dahulu digunakan sebagai pakaian.",
+          "ja": "センタニ湖のアセイでは、絵を描いたコンボウの樹皮が伝統的に衣服に使われていました。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Khombow",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_PA",
+        "name": {
+          "en": "Sago preparations",
+          "id": "Olahan sagu",
+          "ja": "サゴの料理"
+        },
+        "note": {
+          "en": "Yoboi villagers process sago starch and serve local foods such as sago ice cream.",
+          "id": "Warga Yoboi mengolah pati sagu dan menyajikan kuliner setempat seperti es krim sagu.",
+          "ja": "ヨボイではサゴのでんぷんを加工し、サゴのアイスクリームなどの地元料理を作ります。"
+        },
+        "source": "https://jadesta.kemenpar.go.id/desa/kampung_yoboi",
+        "image": null
+      },
+      {
+        "province": "ID_PE",
+        "name": {
+          "en": "Sweet potato",
+          "id": "Ubi jalar",
+          "ja": "サツマイモ"
+        },
+        "note": {
+          "en": "Sweet potatoes are a staple crop and an important food in Dani communities of the Baliem Valley.",
+          "id": "Ubi jalar menjadi tanaman pangan pokok dan makanan penting bagi masyarakat Dani di Lembah Baliem.",
+          "ja": "バリエム渓谷のダニの人々にとって、サツマイモは大切な主食作物です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Dani_people",
+        "image": null
+      },
+      {
+        "province": "ID_PE",
+        "name": {
+          "en": "Bakar batu feast",
+          "id": "Hidangan bakar batu",
+          "ja": "焼き石を使う共同の料理"
+        },
+        "note": {
+          "en": "Dani cooks use heated stones in an earth oven to cook tubers and meat for communal feasts.",
+          "id": "Masyarakat Dani memasak umbi dan daging dengan batu panas dalam lubang untuk jamuan bersama.",
+          "ja": "ダニの人々は地面の穴に熱した石を入れ、共同の宴のために芋や肉を蒸し焼きにします。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Dani_people",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_PA",
+        "name": {
+          "en": "Isolo dance (Sentani)",
+          "id": "Tari Isolo (Sentani)",
+          "ja": "イソロの踊り（センタニ）"
+        },
+        "note": {
+          "en": "Also called Isosolo, this communal dance is performed on boats on Lake Sentani.",
+          "id": "Disebut juga Isosolo, tarian bersama ini ditampilkan di atas perahu di Danau Sentani.",
+          "ja": "イソソロとも呼ばれ、センタニ湖の船の上で一緒に踊る芸能です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Isosolo",
+        "image": null
+      },
+      {
+        "province": "ID_PE",
+        "name": {
+          "en": "Highland noken making",
+          "id": "Pembuatan noken pegunungan",
+          "ja": "高地のノケン作り"
+        },
+        "note": {
+          "en": "Knotted or woven noken bags are part of daily life in Wamena and a wider Papuan craft tradition.",
+          "id": "Tas noken yang dirajut atau dianyam menjadi bagian hidup sehari-hari di Wamena dan kerajinan Papua yang lebih luas.",
+          "ja": "結んだり編んだりするノケン作りは、ワメナの日常とパプア各地の工芸文化につながっています。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Noken",
+        "image": null
+      },
+      {
+        "province": "ID_PA",
+        "name": {
+          "en": "Khombow bark painting",
+          "id": "Lukisan kulit kayu khombow",
+          "ja": "コンボウの樹皮絵画"
+        },
+        "note": {
+          "en": "Artists in Asei Besar paint bark with motifs rooted in Sentani nature and local knowledge.",
+          "id": "Seniman Asei Besar melukis kulit kayu dengan motif alam dan pengetahuan lokal Sentani.",
+          "ja": "アセイ・ブサールの作り手は、センタニの自然や地域の知恵に根ざした模様を樹皮に描きます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Khombow",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_PA",
+      "name": {
+        "en": "Lake Sentani",
+        "id": "Danau Sentani",
+        "ja": "センタニ湖"
+      },
+      "video": "1ENmucqhEXU",
+      "videoTitle": "Sentani Lake, a 104 KM square of Beautiful Scenery",
+      "videoAuthor": "SEA Today News"
+    },
+    {
+      "province": "ID_PE",
+      "name": {
+        "en": "Baliem Valley",
+        "id": "Lembah Baliem",
+        "ja": "バリエム渓谷"
+      },
+      "video": "cCRzZd7mfk8",
+      "videoTitle": "Jurnal Indonesia Kaya #28: Jejak Peradaban Lembah Baliem",
+      "videoAuthor": "IndonesiaKaya"
+    },
+    {
+      "province": "ID_PA",
+      "name": {
+        "en": "Youtefa Bridge, Jayapura",
+        "id": "Jembatan Youtefa, Jayapura",
+        "ja": "ジャヤプラのヨウテファ橋"
+      },
+      "video": "pFNYOt6ehWU",
+      "videoTitle": "JEMBATAN YOUTEFA: MIMPI LAMA, JADI NYATA",
+      "videoAuthor": "Joko Widodo"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_PA",
+      "text": {
+        "en": "Communities at Yoboi on Lake Sentani share knowledge of sago processing and local foodways.",
+        "id": "Masyarakat Yoboi di Danau Sentani berbagi pengetahuan pengolahan sagu dan pangan setempat.",
+        "ja": "センタニ湖のヨボイでは、サゴの加工や地域の食文化の知恵が受け継がれています。"
+      },
+      "source": "https://jadesta.kemenpar.go.id/desa/kampung_yoboi"
+    },
+    {
+      "province": "ID_PE",
+      "text": {
+        "en": "Dani communities in the Baliem Valley use hot stones and a covered earth oven for communal cooking.",
+        "id": "Masyarakat Dani di Lembah Baliem menggunakan batu panas dan lubang tertutup untuk memasak bersama.",
+        "ja": "バリエム渓谷のダニの人々は、熱した石と覆いをした地面の穴で共同の料理を作ります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Dani_people"
+    },
+    {
+      "province": "ID_PA",
+      "text": {
+        "en": "Khombow painting comes from Asei Besar on Lake Sentani; bark once used for clothing also became a painting surface.",
+        "id": "Lukisan khombow berasal dari Asei Besar di Danau Sentani; kulit kayu untuk pakaian juga menjadi media lukis.",
+        "ja": "コンボウの絵画はセンタニ湖のアセイ・ブサールに伝わり、衣服に使われた樹皮が絵画の素材にもなりました。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Khombow"
+    }
+  ]
+}

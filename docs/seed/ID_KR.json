@@ -1,0 +1,25 @@
+{
+ "code": "ID_KR",
+ "province": "Kepulauan Riau",
+ "region": "Sumatra",
+ "community": "Malay communities of Penyengat",
+ "existing_primary": {
+  "clothing": "Baju kurung Melayu",
+  "food": "Mie tarempa",
+  "art": "Zapin Penyengat",
+  "landmark": "Bintan Island"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "UfzasVLbWCE",
+  "title": "Bintan Island, Indonesia - Travel Diary",
+  "author": "Chloe Ting",
+  "source": "https://www.youtube.com/watch?v=UfzasVLbWCE"
+ },
+ "existing_fact": {
+  "en": "Penyengat Island is an important centre of Malay literary and court history.",
+  "id": "Pulau Penyengat merupakan pusat penting sejarah sastra dan istana Melayu.",
+  "ja": "プニェンガット島はマレー文学と王宮の歴史にゆかりがあります。"
+ },
+ "existing_source": "https://ejournal.yasin-alsys.org/masaliq/article/view/917"
+}

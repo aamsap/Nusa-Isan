@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_SA"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Laku tepu Sangihe",
+          "id": "Laku tepu Sangihe",
+          "ja": "サンギヘのラク・テプ"
+        },
+        "note": {
+          "en": "Sangihe ceremonial dress is traditionally made with kofo banana fibre.",
+          "id": "Busana adat Sangihe ini secara tradisional dibuat dari serat pisang kofo.",
+          "ja": "サンギヘの礼装で、伝統的にはコフォというバナナの繊維で作られます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
+        "image": null
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Minahasa traditional dress",
+          "id": "Busana adat Minahasa",
+          "ja": "ミナハサの伝統衣装"
+        },
+        "note": {
+          "en": "Minahasa women wear embroidered kebaya with a long cloth at ceremonial occasions.",
+          "id": "Perempuan Minahasa memakai kebaya bersulam dengan kain panjang dalam acara adat.",
+          "ja": "ミナハサの女性は儀礼の際、刺繍入りのクバヤに長い腰布を合わせます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
+        "image": null
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Bolaang Mongondow traditional dress",
+          "id": "Busana adat Bolaang Mongondow",
+          "ja": "ボラアン・モゴンドウの伝統衣装"
+        },
+        "note": {
+          "en": "Bright colours and gold ornaments distinguish Bolaang Mongondow ceremonial clothing.",
+          "id": "Warna mencolok dan ornamen emas menjadi ciri busana adat Bolaang Mongondow.",
+          "ja": "ボラアン・モゴンドウの礼装は鮮やかな色と金色の装飾が特徴です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Tinutuan",
+          "id": "Tinutuan",
+          "ja": "ティヌトゥアン"
+        },
+        "note": {
+          "en": "This Manado porridge combines rice with vegetables.",
+          "id": "Bubur khas Manado ini memadukan beras dengan aneka sayuran.",
+          "ja": "マナドの郷土粥で、米とさまざまな野菜を煮込みます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Tinutuan",
+        "image": {
+          "id": "north-sulawesi-food",
+          "path": "/assets/img/north-sulawesi-food.webp",
+          "title": "Tinutuan bubur Manado.JPG",
+          "artist": "Midori",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Tinutuan_bubur_Manado.JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Cakalang fufu",
+          "id": "Cakalang fufu",
+          "ja": "チャカラン・フフ"
+        },
+        "note": {
+          "en": "Skipjack tuna is smoked for this North Sulawesi speciality.",
+          "id": "Ikan cakalang diasapi untuk menghasilkan hidangan khas Sulawesi Utara ini.",
+          "ja": "カツオを燻製にした北スラウェシの名物です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/cakalang-fufu",
+        "image": null
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Woku seasoning",
+          "id": "Bumbu woku",
+          "ja": "ウォクの香辛料"
+        },
+        "note": {
+          "en": "Minahasan woku uses aromatic herbs and spices for fish, seafood or chicken.",
+          "id": "Woku Minahasa memakai rempah dan herba aromatik untuk ikan, hasil laut, atau ayam.",
+          "ja": "ミナハサのウォクは魚介や鶏肉に香草と香辛料を効かせる調理法です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Minahasan_cuisine",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Tulude ceremony (Sangihe)",
+          "id": "Upacara Tulude (Sangihe)",
+          "ja": "トゥルデの儀式（サンギヘ）"
+        },
+        "note": {
+          "en": "Sangihe communities give thanks together through the annual Tulude ceremony.",
+          "id": "Masyarakat Sangihe mengungkapkan syukur bersama melalui upacara Tulude tahunan.",
+          "ja": "サンギヘの人々が年に一度、共同で感謝をささげる儀式です。"
+        },
+        "source": "https://sangihekab.go.id/2026/02/01/upacara-adat-tulude-2026-ungkapan-syukur-masyarakat-kepualuan-sangihe/",
+        "image": null
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Maengket",
+          "id": "Maengket",
+          "ja": "マエンケット"
+        },
+        "note": {
+          "en": "Minahasan performers combine group dance with singing in Maengket.",
+          "id": "Pertunjukan Maengket Minahasa memadukan tari kelompok dan nyanyian.",
+          "ja": "ミナハサのマエンケットは集団舞踊と歌を組み合わせた芸能です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Maengket",
+        "image": null
+      },
+      {
+        "province": "ID_SA",
+        "name": {
+          "en": "Kabasaran",
+          "id": "Kabasaran",
+          "ja": "カバサラン"
+        },
+        "note": {
+          "en": "This Minahasan warrior dance is performed in striking ceremonial costume.",
+          "id": "Tari keprajuritan Minahasa ini dibawakan dengan busana upacara yang mencolok.",
+          "ja": "ミナハサに伝わる戦士の踊りで、華やかな儀礼衣装を着て舞います。"
+        },
+        "source": "https://www.pustaka-bpkxii.org/pustaka/tari-kabasaran-suku-bangsa-minahasa",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SA",
+      "name": {
+        "en": "Bunaken Marine Park",
+        "id": "Taman Laut Bunaken",
+        "ja": "ブナケン海洋公園"
+      },
+      "video": "XW5Op06q2yA",
+      "videoTitle": "Wonderful Indonesia | Manado - Bunaken National Park",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_SA",
+      "name": {
+        "en": "Lake Linow",
+        "id": "Danau Linow",
+        "ja": "リノウ湖"
+      },
+      "video": "HynxFKcYue4",
+      "videoTitle": "Sulfur lake Danau Linow",
+      "videoAuthor": "Геннадий"
+    },
+    {
+      "province": "ID_SA",
+      "name": {
+        "en": "Tangkoko Nature Reserve",
+        "id": "Cagar Alam Tangkoko",
+        "ja": "タンココ自然保護区"
+      },
+      "video": "aIS3G1GsEDU",
+      "videoTitle": "I Explored SULAWESI’S Hidden Gems | Solo Female Travel in Indonesia",
+      "videoAuthor": "Flora Gonning"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SA",
+      "text": {
+        "en": "Tulude marks gratitude and renewal in Sangihe communities.",
+        "id": "Tulude menandai rasa syukur dan pembaruan di masyarakat Sangihe.",
+        "ja": "トゥルデはサンギヘの人々の感謝と新たな年を祝う行事です。"
+      },
+      "source": "https://sangihekab.go.id/2026/02/01/upacara-adat-tulude-2026-ungkapan-syukur-masyarakat-kepualuan-sangihe/"
+    },
+    {
+      "province": "ID_SA",
+      "text": {
+        "en": "Kofo banana fibre is a traditional material for Sangihe Laku tepu clothing.",
+        "id": "Serat pisang kofo merupakan bahan tradisional untuk busana Laku tepu Sangihe.",
+        "ja": "サンギヘのラク・テプには、伝統的にコフォというバナナの繊維が使われます。"
+      },
+      "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara"
+    },
+    {
+      "province": "ID_SA",
+      "text": {
+        "en": "Tinutuan is also known as bubur Manado, or Manado porridge.",
+        "id": "Tinutuan juga dikenal sebagai bubur Manado.",
+        "ja": "ティヌトゥアンは「ブブル・マナド」、つまりマナドの粥とも呼ばれます。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Tinutuan"
+    }
+  ]
+}

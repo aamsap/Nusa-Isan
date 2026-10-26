@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_GO"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Bili’u ceremonial attire",
+          "id": "Busana adat Bili’u",
+          "ja": "ビリウの礼装"
+        },
+        "note": {
+          "en": "Gorontalo brides wear Bili’u with elaborate ornaments and a distinctive headdress.",
+          "id": "Pengantin perempuan Gorontalo mengenakan Bili’u dengan perhiasan dan hiasan kepala khas.",
+          "ja": "ゴロンタロの花嫁が身に着ける礼装で、豪華な装身具と独特の冠を合わせます。"
+        },
+        "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
+        "image": null
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Makuta",
+          "id": "Makuta",
+          "ja": "マクタ"
+        },
+        "note": {
+          "en": "Makuta is ceremonial wedding attire worn by men in Gorontalo.",
+          "id": "Makuta merupakan busana upacara pernikahan yang dikenakan laki-laki di Gorontalo.",
+          "ja": "ゴロンタロで男性が婚礼に着る伝統衣装です。"
+        },
+        "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
+        "image": null
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Walimomo",
+          "id": "Walimomo",
+          "ja": "ワリモモ"
+        },
+        "note": {
+          "en": "Women wear Walimomo during marriage rites and other Gorontalo customary ceremonies.",
+          "id": "Perempuan memakai Walimomo dalam rangkaian perkawinan dan upacara adat Gorontalo lainnya.",
+          "ja": "女性が婚礼の儀式やゴロンタロのさまざまな伝統行事で着る衣装です。"
+        },
+        "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Binte biluhuta",
+          "id": "Binte biluhuta",
+          "ja": "ビンテ・ビルフタ"
+        },
+        "note": {
+          "en": "This Gorontalo corn soup can include shrimp or skipjack tuna.",
+          "id": "Sup jagung khas Gorontalo ini dapat berisi udang atau ikan cakalang.",
+          "ja": "ゴロンタロのトウモロコシのスープで、エビやカツオを加えることもあります。"
+        },
+        "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/",
+        "image": {
+          "id": "gorontalo-food",
+          "path": "/assets/img/gorontalo-food.webp",
+          "title": "Binte Biluhuta.jpg",
+          "artist": "Supardisahabu",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Binte_Biluhuta.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Ayam iloni",
+          "id": "Ayam iloni",
+          "ja": "アヤム・イロニ"
+        },
+        "note": {
+          "en": "Chicken is seasoned with spices and coconut milk before grilling.",
+          "id": "Ayam dibumbui rempah dan santan sebelum dibakar.",
+          "ja": "鶏肉に香辛料とココナッツミルクの味をなじませてから焼きます。"
+        },
+        "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/",
+        "image": null
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Ilabulo",
+          "id": "Ilabulo",
+          "ja": "イラブロ"
+        },
+        "note": {
+          "en": "Sago and chicken offal are seasoned and wrapped in banana leaves.",
+          "id": "Sagu dan jeroan ayam dibumbui lalu dibungkus dengan daun pisang.",
+          "ja": "サゴ澱粉と鶏の内臓に味を付け、バナナの葉で包む料理です。"
+        },
+        "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Saronde dance",
+          "id": "Tari Saronde",
+          "ja": "サロンデ舞踊"
+        },
+        "note": {
+          "en": "The wedding ritual Molapi saronde uses a scarf in a dance led by the groom.",
+          "id": "Ritual perkawinan Molapi saronde memakai selendang dalam tarian yang dibawakan pengantin laki-laki.",
+          "ja": "婚礼儀式のモラピ・サロンデでは、新郎が布を使って踊ります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Saronde",
+        "image": null
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Karawo embroidery",
+          "id": "Sulaman Karawo",
+          "ja": "カラウォ刺繍"
+        },
+        "note": {
+          "en": "Gorontalo artisans cut and withdraw fabric threads before embroidering openwork patterns.",
+          "id": "Perajin Gorontalo memotong dan mencabut benang kain sebelum menyulam pola terawang.",
+          "ja": "布の糸を切って抜き、透かし模様を刺繍するゴロンタロの手仕事です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Karawo",
+        "image": null
+      },
+      {
+        "province": "ID_GO",
+        "name": {
+          "en": "Tumbilotohe",
+          "id": "Tumbilotohe",
+          "ja": "トゥンビロトヘ"
+        },
+        "note": {
+          "en": "Lamps illuminate Gorontalo homes and streets during the final nights of Ramadan.",
+          "id": "Lampu menerangi rumah dan jalan di Gorontalo pada malam-malam terakhir Ramadan.",
+          "ja": "ラマダン末期の夜、ゴロンタロの家々や通りに灯りをともす行事です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tumbilotohe",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_GO",
+      "name": {
+        "en": "Otanaha Fortress",
+        "id": "Benteng Otanaha",
+        "ja": "オタナハ要塞"
+      },
+      "video": "3LoWXBKOMTU",
+      "videoTitle": "Wisata Sejarah, Benteng Otanaha - NET 5",
+      "videoAuthor": "MDTV NEWS OFFICIAL"
+    },
+    {
+      "province": "ID_GO",
+      "name": {
+        "en": "Saronde Island",
+        "id": "Pulau Saronde",
+        "ja": "サロンデ島"
+      },
+      "video": "BtDDzue4S2A",
+      "videoTitle": "Pesona Pulau Saronde - GACOR #3 Pulau Saronde",
+      "videoAuthor": "Humas Bea Cukai Gorontalo"
+    },
+    {
+      "province": "ID_GO",
+      "name": {
+        "en": "Olele Marine Park",
+        "id": "Taman Laut Olele",
+        "ja": "オレレ海洋公園"
+      },
+      "video": "4tCseAbFVqk",
+      "videoTitle": "Snorkling di  Taman Laut Olele | RAGAM INDONESIA (26/06/19)",
+      "videoAuthor": "TRANS7 Lifestyle"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_GO",
+      "text": {
+        "en": "Karawo is a delicate hand-embroidery practice associated with Gorontalo.",
+        "id": "Karawo adalah tradisi sulam tangan halus yang terkait dengan Gorontalo.",
+        "ja": "カラウォはゴロンタロに伝わる繊細な手刺繍です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Karawo"
+    },
+    {
+      "province": "ID_GO",
+      "text": {
+        "en": "Binte biluhuta is also called milu siram, referring to corn served with broth.",
+        "id": "Binte biluhuta juga disebut milu siram, yakni jagung yang disajikan dengan kuah.",
+        "ja": "ビンテ・ビルフタは、トウモロコシに汁を注ぐ「ミル・シラム」とも呼ばれます。"
+      },
+      "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/"
+    },
+    {
+      "province": "ID_GO",
+      "text": {
+        "en": "Tumbilotohe brings lamp-lighting celebrations to Gorontalo during the last three nights before Eid al-Fitr.",
+        "id": "Tumbilotohe meramaikan Gorontalo dengan lampu pada tiga malam terakhir menjelang Idulfitri.",
+        "ja": "ゴロンタロのトゥンビロトヘでは、断食明けの祭りを前にした最後の三夜に灯りをともします。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tumbilotohe"
+    }
+  ]
+}

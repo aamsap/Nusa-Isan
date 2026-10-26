@@ -1,0 +1,25 @@
+{
+ "code": "ID_SR",
+ "province": "Sulawesi Barat",
+ "region": "Sulawesi",
+ "community": "Mandar",
+ "existing_primary": {
+  "clothing": "Mandar silk sarong",
+  "food": "Jepa",
+  "art": "Tari Pattuqduq Towaine",
+  "landmark": "Karampuang Island"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "6nOBsiqc-MU",
+  "title": "Panorama Pulau Karampuang | REDAKSI PAGI (18/01/20)",
+  "author": "REDAKSI TRANS7 OFFICIAL",
+  "source": "https://www.youtube.com/watch?v=6nOBsiqc-MU"
+ },
+ "existing_fact": {
+  "en": "The Mandar sandeq is a slender sailing outrigger with a rich seafaring tradition.",
+  "id": "Sandeq Mandar adalah perahu layar bercadik ramping dengan tradisi bahari yang kaya.",
+  "ja": "マンダルのサンデックは細身の帆走アウトリガー船です。"
+ },
+ "existing_source": null
+}

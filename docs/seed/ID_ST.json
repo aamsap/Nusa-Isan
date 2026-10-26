@@ -1,0 +1,34 @@
+{
+ "code": "ID_ST",
+ "province": "Sulawesi Tengah",
+ "region": "Sulawesi",
+ "community": "Kaili and Kulawi",
+ "existing_primary": {
+  "clothing": "Kaili traditional dress",
+  "food": "Kaledo",
+  "art": "Tari Dero",
+  "landmark": "Togean Islands"
+ },
+ "primary_image": {
+  "id": "central-sulawesi-food",
+  "path": "/assets/img/central-sulawesi-food.webp",
+  "title": "Sup Kaledo.jpg",
+  "artist": "Supardisahabu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sup_Kaledo.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "9xOgSqK6gsg",
+  "title": "Togean Islands: A pain to get to, AMAZING when you get there",
+  "author": "Indie Traveller",
+  "source": "https://www.youtube.com/watch?v=9xOgSqK6gsg"
+ },
+ "existing_fact": {
+  "en": "Barkcloth-making survives among communities in Central Sulawesi.",
+  "id": "Tradisi pembuatan kain kulit kayu masih hidup di sejumlah komunitas Sulawesi Tengah.",
+  "ja": "中スラウェシの一部の共同体には樹皮布の製作が伝わっています。"
+ },
+ "existing_source": null
+}

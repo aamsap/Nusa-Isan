@@ -1,0 +1,34 @@
+{
+ "code": "ID_SB",
+ "province": "Sumatera Barat",
+ "region": "Sumatra",
+ "community": "Minangkabau",
+ "existing_primary": {
+  "clothing": "Bundo Kanduang dress",
+  "food": "Rendang",
+  "art": "Tari Piring",
+  "landmark": "Harau Valley"
+ },
+ "primary_image": {
+  "id": "west-sumatra-food",
+  "path": "/assets/img/west-sumatra-food.webp",
+  "title": "Beef Rendang..JPG",
+  "artist": "Miansari66",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Beef_Rendang..JPG",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "EHk1CeGJhX8",
+  "title": "INDONESIA – West Sumatra — 05: Harau Valley",
+  "author": "Journey Beyond the Horizon",
+  "source": "https://www.youtube.com/watch?v=EHk1CeGJhX8"
+ },
+ "existing_fact": {
+  "en": "Minangkabau society is known for matrilineal kinship traditions.",
+  "id": "Masyarakat Minangkabau dikenal dengan tradisi kekerabatan matrilineal.",
+  "ja": "ミナンカバウの社会には母系親族の伝統があります。"
+ },
+ "existing_source": null
+}

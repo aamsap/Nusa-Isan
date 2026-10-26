@@ -1,0 +1,34 @@
+{
+ "code": "ID_BT",
+ "province": "Banten",
+ "region": "Java",
+ "community": "Baduy and Bantenese",
+ "existing_primary": {
+  "clothing": "Baduy woven clothing",
+  "food": "Sate bandeng",
+  "art": "Debus Banten",
+  "landmark": "Banten Grand Mosque"
+ },
+ "primary_image": {
+  "id": "banten-dance",
+  "path": "/assets/img/banten-dance.webp",
+  "title": "Debus, The Ancient Martial Art and Culture of Banten.jpg",
+  "artist": "Ministry of Tourism, Republic of Indonesia",
+  "license": "Public domain",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Debus,_The_Ancient_Martial_Art_and_Culture_of_Banten.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Debus,_The_Ancient_Martial_Art_and_Culture_of_Banten.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "vZzYjhn7-kQ",
+  "title": "Masjid Agung Banten, Tempat Ibadah Bersejarah Tujuan Favorit Libur Panjang - NET12",
+  "author": "MDTV NEWS OFFICIAL",
+  "source": "https://www.youtube.com/watch?v=vZzYjhn7-kQ"
+ },
+ "existing_fact": {
+  "en": "Baduy weaving and Banten’s Debus belong to different communities within this province.",
+  "id": "Tenun Baduy dan Debus Banten berasal dari komunitas yang berbeda di provinsi ini.",
+  "ja": "バドゥイの織物とバンテンのドゥブスは、異なる共同体の文化です。"
+ },
+ "existing_source": null
+}

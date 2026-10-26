@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_NT"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Sumba ikat textiles",
+          "id": "Tenun ikat Sumba",
+          "ja": "スンバ島のイカット織物"
+        },
+        "note": {
+          "en": "Sumba ikat textiles hold an important place in local social and religious traditions.",
+          "id": "Tenun ikat Sumba memiliki peran penting dalam tradisi sosial dan keagamaan setempat.",
+          "ja": "スンバ島のイカット織物は、地域の社会生活や宗教的な伝統で重要な役割を果たします。"
+        },
+        "source": "https://indonesia.travel/gb/en/travel-ideas/nihisumba-the-epitome-of-tranquility-leisure-adventure-and-lavishness",
+        "image": {
+          "id": "east-nusa-textile",
+          "path": "/assets/img/east-nusa-textile.webp",
+          "title": "Tenun Ikat Kodi, SBD, NTT.jpg",
+          "artist": "Rintobili",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Tenun_Ikat_Kodi,_SBD,_NTT.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Rote ti’i langga",
+          "id": "Ti’i langga Rote",
+          "ja": "ロテ島のティイ・ランガ"
+        },
+        "note": {
+          "en": "This distinctive hat made from dried lontar palm leaves is part of Rote men’s customary dress.",
+          "id": "Topi khas dari daun lontar kering ini merupakan bagian dari busana adat pria Rote.",
+          "ja": "乾燥させたロンタルヤシの葉で作る独特な帽子で、ロテ島の男性の伝統衣装の一部です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/east-nusa-tenggara",
+        "image": null
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Manggarai songke",
+          "id": "Songke Manggarai",
+          "ja": "マンガライのソンケ"
+        },
+        "note": {
+          "en": "Manggarai songke is a predominantly black patterned cloth worn like a sarong.",
+          "id": "Songke Manggarai merupakan kain bermotif yang didominasi warna hitam dan dikenakan seperti sarung.",
+          "ja": "マンガライのソンケは、黒を基調に模様を織り込んだ布で、サロンのように身に着けます。"
+        },
+        "source": "https://www.gramedia.com/literasi/pakaian-adat-ntt-nusa-tenggara-timur/",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Se’i smoked meat",
+          "id": "Daging asap se’i",
+          "ja": "セイの燻製肉"
+        },
+        "note": {
+          "en": "This East Nusa Tenggara specialty slowly smokes meat, commonly beef or pork, over wood.",
+          "id": "Hidangan khas NTT ini dibuat dengan mengasapi daging, umumnya sapi atau babi, secara perlahan di atas kayu bakar.",
+          "ja": "東ヌサ・トゥンガラの郷土料理で、牛肉や豚肉などを薪の煙でじっくり燻します。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/sei",
+        "image": null
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Jagung bose",
+          "id": "Jagung bose",
+          "ja": "ジャグン・ボセ"
+        },
+        "note": {
+          "en": "Especially associated with Timor, this savory dish cooks softened maize with beans and coconut milk.",
+          "id": "Hidangan gurih yang khas terutama di Timor ini dibuat dari jagung yang dilunakkan, kacang-kacangan, dan santan.",
+          "ja": "特にティモール島で親しまれる料理で、柔らかくしたトウモロコシを豆やココナツミルクと煮ます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/jagung-bose",
+        "image": null
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Catemak jagung",
+          "id": "Catemak jagung",
+          "ja": "チャトゥマック・ジャグン"
+        },
+        "note": {
+          "en": "This savory East Nusa Tenggara dish combines maize, beans and pumpkin.",
+          "id": "Hidangan gurih khas NTT ini memadukan jagung, kacang-kacangan, dan labu.",
+          "ja": "東ヌサ・トゥンガラの料理で、トウモロコシ、豆、カボチャを一緒に煮ます。"
+        },
+        "source": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/catemak-jagung",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Caci of Manggarai",
+          "id": "Caci Manggarai",
+          "ja": "マンガライのチャチ"
+        },
+        "note": {
+          "en": "This Manggarai performance in Flores features a whip-and-shield duel accompanied by song, gongs and drums.",
+          "id": "Pertunjukan Manggarai di Flores ini menampilkan duel cambuk dan perisai dengan iringan nyanyian, gong, dan gendang.",
+          "ja": "フローレス島のマンガライの芸能で、歌やゴング、太鼓に合わせて鞭と盾を使う二人が対戦します。"
+        },
+        "source": "https://indonesiakaya.com/pustaka-indonesia/tari-caci-tradisi-duel-manggarai-yang-sarat-nilai-keprajuritan/",
+        "image": null
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Sasando",
+          "id": "Sasando",
+          "ja": "ササンド"
+        },
+        "note": {
+          "en": "This plucked string instrument from Rote uses a lontar-leaf resonator around a bamboo body.",
+          "id": "Alat musik petik dari Rote ini memakai resonator daun lontar yang mengelilingi badan bambu.",
+          "ja": "ロテ島の撥弦楽器で、竹の胴の周囲にロンタルヤシの葉で作った共鳴部があります。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/sasando",
+        "image": null
+      },
+      {
+        "province": "ID_NT",
+        "name": {
+          "en": "Pasola of Sumba",
+          "id": "Pasola Sumba",
+          "ja": "スンバ島のパソラ"
+        },
+        "note": {
+          "en": "In Sumba’s Pasola ritual, opposing groups of riders throw wooden spears from horseback.",
+          "id": "Dalam ritual Pasola di Sumba, dua kelompok penunggang kuda saling melempar lembing kayu.",
+          "ja": "スンバ島の儀礼パソラでは、二組の騎馬の乗り手が馬上から木の槍を投げ合います。"
+        },
+        "source": "https://indonesia.travel/gb/en/travel-ideas/nihisumba-the-epitome-of-tranquility-leisure-adventure-and-lavishness",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_NT",
+      "name": {
+        "en": "Komodo National Park",
+        "id": "Taman Nasional Komodo",
+        "ja": "コモド国立公園"
+      },
+      "video": "oKOoFm27720",
+      "videoTitle": "Wonderful Indonesia | Komodo National Park - The Other Side of the World",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_NT",
+      "name": {
+        "en": "Kelimutu crater lakes",
+        "id": "Danau kawah Kelimutu",
+        "ja": "クリムトゥの火口湖群"
+      },
+      "video": "kjrDZ-UMgfM",
+      "videoTitle": "Tri-colored Crater Lakes of Mt. Kelimutu, Indonesia  [Amazing Places 4K]",
+      "videoAuthor": "Amazing Places on Our Planet"
+    },
+    {
+      "province": "ID_NT",
+      "name": {
+        "en": "Wae Rebo village",
+        "id": "Desa Wae Rebo",
+        "ja": "ワエ・レボ村"
+      },
+      "video": "2Phq22FZ-hk",
+      "videoTitle": "No Roads In! Our Trek to Remote WAE REBO Village | Flores Indonesia 🇮🇩",
+      "videoAuthor": "The Roving Balys"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_NT",
+      "text": {
+        "en": "In Cancar, Manggarai, rice fields form a spider-web pattern known locally as lodok.",
+        "id": "Di Cancar, Manggarai, sawah membentuk pola jaring laba-laba yang dikenal setempat sebagai lodok.",
+        "ja": "マンガライのチャンチャルには、ロドックと呼ばれる蜘蛛の巣状の区画を持つ水田があります。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/adventure/looking-to-do-sustainable-travel-visit-these-5-villages-around-labuan-bajo"
+    },
+    {
+      "province": "ID_NT",
+      "text": {
+        "en": "Kelimutu in Flores has three crater lakes whose water colors can change.",
+        "id": "Kelimutu di Flores memiliki tiga danau kawah yang warna airnya dapat berubah.",
+        "ja": "フローレス島のクリムトゥには、水の色が変化する三つの火口湖があります。"
+      },
+      "source": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/east-nusa-tenggara"
+    },
+    {
+      "province": "ID_NT",
+      "text": {
+        "en": "The tall cone-shaped traditional houses of Wae Rebo are called mbaru niang.",
+        "id": "Rumah adat berbentuk kerucut tinggi di Wae Rebo disebut mbaru niang.",
+        "ja": "ワエ・レボの背の高い円錐形の伝統家屋は、ムバル・ニアンと呼ばれます。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/adventure/looking-to-do-sustainable-travel-visit-these-5-villages-around-labuan-bajo"
+    }
+  ]
+}

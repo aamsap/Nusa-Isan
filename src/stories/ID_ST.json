@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_ST"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Kaili traditional dress: Nggembe",
+          "id": "Busana adat Kaili: Nggembe",
+          "ja": "カイリの伝統衣装：ンゲンベ"
+        },
+        "note": {
+          "en": "Kaili women wear this loose, round-necked blouse for customary occasions.",
+          "id": "Perempuan Kaili mengenakan blus longgar berkerah bulat ini dalam acara adat.",
+          "ja": "カイリの女性が伝統行事で着る、丸い襟のゆったりした上衣です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-kaili",
+        "image": null
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Donggala sarong (Buya Sabe)",
+          "id": "Sarung Donggala (Buya Sabe)",
+          "ja": "ドンガラのサロン（ブヤ・サベ）"
+        },
+        "note": {
+          "en": "Donggala woven cloth is worn as a sarong with Kaili traditional clothing.",
+          "id": "Kain tenun Donggala dikenakan sebagai sarung pelengkap busana adat Kaili.",
+          "ja": "ドンガラの織物は、カイリの伝統衣装に合わせる腰布として着用されます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-kaili",
+        "image": null
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Ranta barkcloth clothing",
+          "id": "Pakaian kulit kayu Ranta",
+          "ja": "樹皮布の衣装ランタ"
+        },
+        "note": {
+          "en": "In the Bada Valley, traditional barkcloth clothing is known as ranta.",
+          "id": "Di Lembah Bada, pakaian tradisional dari kulit kayu dikenal sebagai ranta.",
+          "ja": "バダ渓谷では、樹皮から作る伝統衣装をランタと呼びます。"
+        },
+        "source": "https://mongabay.co.id/2022/12/06/kain-kulit-kayu-pakaian-tradisional-dari-lembah-bada/",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Kaledo",
+          "id": "Kaledo",
+          "ja": "カレド"
+        },
+        "note": {
+          "en": "This Central Sulawesi soup features beef leg bones and marrow.",
+          "id": "Sup khas Sulawesi Tengah ini memakai tulang kaki sapi beserta sumsumnya.",
+          "ja": "牛の脚の骨と骨髄を味わう中スラウェシのスープです。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah",
+        "image": {
+          "id": "central-sulawesi-food",
+          "path": "/assets/img/central-sulawesi-food.webp",
+          "title": "Sup Kaledo.jpg",
+          "artist": "Supardisahabu",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Sup_Kaledo.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Uta kelo",
+          "id": "Uta kelo",
+          "ja": "ウタ・ケロ"
+        },
+        "note": {
+          "en": "This Kaili dish cooks moringa leaves in seasoned coconut milk.",
+          "id": "Masakan Kaili ini mengolah daun kelor dengan santan berbumbu.",
+          "ja": "モリンガの葉を香辛料入りのココナッツミルクで煮るカイリ料理です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah",
+        "image": null
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Uta dada",
+          "id": "Uta dada",
+          "ja": "ウタ・ダダ"
+        },
+        "note": {
+          "en": "Smoked chicken or fish is cooked in a spiced coconut-milk broth.",
+          "id": "Ayam atau ikan asap dimasak dalam kuah santan berbumbu.",
+          "ja": "燻製の鶏肉や魚を、香辛料入りのココナッツミルクで煮込みます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Dero dance",
+          "id": "Tari Dero",
+          "ja": "デロ舞踊"
+        },
+        "note": {
+          "en": "This communal dance from Poso expresses joy and togetherness in Pamona communities.",
+          "id": "Tari bersama dari Poso ini mengungkapkan sukacita dan kebersamaan masyarakat Pamona.",
+          "ja": "ポソに伝わる共同の踊りで、パモナの人々の喜びや連帯を表します。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Dero",
+        "image": null
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Pamonte dance",
+          "id": "Tari Pamonte",
+          "ja": "パモンテ舞踊"
+        },
+        "note": {
+          "en": "Kaili women perform a dance inspired by the activities of the rice harvest.",
+          "id": "Perempuan Kaili membawakan tarian yang terinspirasi kegiatan panen padi.",
+          "ja": "カイリの女性が、稲の収穫作業を題材にした踊りを披露します。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Pamonte",
+        "image": null
+      },
+      {
+        "province": "ID_ST",
+        "name": {
+          "en": "Lalove flute",
+          "id": "Seruling Lalove",
+          "ja": "ラロヴェの笛"
+        },
+        "note": {
+          "en": "This traditional Kaili wind instrument is associated with healing rituals.",
+          "id": "Alat musik tiup tradisional Kaili ini berkaitan dengan ritual penyembuhan.",
+          "ja": "カイリの伝統的な管楽器で、治癒の儀式と結び付いています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Lalove",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_ST",
+      "name": {
+        "en": "Togean Islands",
+        "id": "Kepulauan Togean",
+        "ja": "トギアン諸島"
+      },
+      "video": "9xOgSqK6gsg",
+      "videoTitle": "Togean Islands: A pain to get to, AMAZING when you get there",
+      "videoAuthor": "Indie Traveller"
+    },
+    {
+      "province": "ID_ST",
+      "name": {
+        "en": "Paisupok Lake",
+        "id": "Danau Paisupok",
+        "ja": "パイスポック湖"
+      },
+      "video": "brRl1ZNdv2k",
+      "videoTitle": "Danau Paisupok Banggai Kepulauan Sulawesi Tengah",
+      "videoAuthor": "LekWin Martodimedjo Channel"
+    },
+    {
+      "province": "ID_ST",
+      "name": {
+        "en": "Bada Valley megaliths",
+        "id": "Megalit Lembah Bada",
+        "ja": "バダ渓谷の巨石遺跡"
+      },
+      "video": "Ee4iq0erNfE",
+      "videoTitle": "MEGALITHS of Central Sulawesi, Bada Valley, Tentena, INDONESIA",
+      "videoAuthor": "SAM INDOWILD"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_ST",
+      "text": {
+        "en": "Barkcloth-making survives among communities in Central Sulawesi.",
+        "id": "Tradisi pembuatan kain kulit kayu masih hidup di sejumlah komunitas Sulawesi Tengah.",
+        "ja": "中スラウェシの一部の共同体には樹皮布の製作が伝わっています。"
+      },
+      "source": "https://mongabay.co.id/2022/12/06/kain-kulit-kayu-pakaian-tradisional-dari-lembah-bada/"
+    },
+    {
+      "province": "ID_ST",
+      "text": {
+        "en": "Barkcloth has different local names: ranta in Bada, kumpe or mbesa in Kulawi, hampi in Napu, and inodo in Besoa.",
+        "id": "Kain kulit kayu disebut ranta di Bada, kumpe atau mbesa di Kulawi, hampi di Napu, dan inodo di Besoa.",
+        "ja": "樹皮布はバダではランタ、クラウィではクンペまたはンベサ、ナプではハンピ、ベソアではイノドと呼ばれます。"
+      },
+      "source": "https://mongabay.co.id/2022/12/06/kain-kulit-kayu-pakaian-tradisional-dari-lembah-bada/"
+    },
+    {
+      "province": "ID_ST",
+      "text": {
+        "en": "Kaledo is often eaten with boiled cassava rather than rice.",
+        "id": "Kaledo kerap disantap bersama singkong rebus sebagai pengganti nasi.",
+        "ja": "カレドには、米飯の代わりに茹でたキャッサバを添えることがあります。"
+      },
+      "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-sulawesi-tengah"
+    }
+  ]
+}

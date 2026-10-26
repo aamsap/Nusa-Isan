@@ -1,0 +1,34 @@
+{
+ "code": "ID_YO",
+ "province": "Daerah Istimewa Yogyakarta",
+ "region": "Java",
+ "community": "Javanese court traditions of Yogyakarta",
+ "existing_primary": {
+  "clothing": "Yogyakarta-style batik and blangkon",
+  "food": "Gudeg",
+  "art": "Gamelan gaya Yogyakarta",
+  "landmark": "Prambanan Temple"
+ },
+ "primary_image": {
+  "id": "yogyakarta-food",
+  "path": "/assets/img/yogyakarta-food.webp",
+  "title": "Gudeg Ayam.jpg",
+  "artist": "Indonesiagood",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gudeg_Ayam.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "_onpsWOkhq0",
+  "title": "Prambanan Temple Compounds (UNESCO/NHK)",
+  "author": "UNESCO",
+  "source": "https://www.youtube.com/watch?v=_onpsWOkhq0"
+ },
+ "existing_fact": {
+  "en": "Sekaten is among the shared traditions connected with the Surakarta and Yogyakarta courts.",
+  "id": "Sekaten adalah salah satu tradisi bersama yang terkait dengan keraton Surakarta dan Yogyakarta.",
+  "ja": "スカテンはスラカルタとジョグジャカルタの宮廷に関わる共通の伝統です。"
+ },
+ "existing_source": null
+}

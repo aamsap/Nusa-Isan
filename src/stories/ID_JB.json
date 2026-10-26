@@ -1,0 +1,239 @@
+{
+  "provinces": [
+    "ID_JB"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Sundanese kebaya",
+          "id": "Kebaya Sunda",
+          "ja": "スンダのクバヤ"
+        },
+        "note": {
+          "en": "A Sundanese blouse typically worn with a batik skirt and a shawl.",
+          "id": "Kebaya perempuan Sunda yang lazim dipadukan dengan kain batik dan selendang.",
+          "ja": "バティックの腰布や肩掛けと合わせる、スンダの女性用ブラウスです。"
+        },
+        "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
+        "image": null
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Sundanese pangsi",
+          "id": "Pangsi Sunda",
+          "ja": "スンダのパンシ"
+        },
+        "note": {
+          "en": "A practical Sundanese outfit with a loose shirt and trousers, commonly in black.",
+          "id": "Busana Sunda yang praktis berupa atasan dan celana longgar, lazimnya berwarna hitam.",
+          "ja": "ゆったりした上着とズボンを組み合わせた、黒が一般的なスンダの実用的な衣装です。"
+        },
+        "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
+        "image": null
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Sundanese beskap",
+          "id": "Beskap Sunda",
+          "ja": "スンダのブスカップ"
+        },
+        "note": {
+          "en": "A high-collared formal jacket worn by Sundanese men for important occasions.",
+          "id": "Jas adat berkerah tinggi yang dikenakan pria Sunda pada acara penting atau resmi.",
+          "ja": "大切な儀式や式典でスンダの男性が着る、立ち襟の礼装用上着です。"
+        },
+        "source": "https://www.detik.com/jabar/budaya/d-6889232/7-baju-adat-sunda-mulai-dari-kebaya-hingga-menak",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Karedok",
+          "id": "Karedok",
+          "ja": "カレドック"
+        },
+        "note": {
+          "en": "A Sundanese raw-vegetable salad dressed with a seasoned peanut sauce.",
+          "id": "Hidangan Sunda berupa aneka sayuran mentah dengan bumbu kacang.",
+          "ja": "生野菜に香辛料入りのピーナッツソースをかける、スンダのサラダです。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/karedok",
+        "image": null
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Batagor Bandung",
+          "id": "Batagor Bandung",
+          "ja": "バタゴール・バンドン"
+        },
+        "note": {
+          "en": "Bandung-style fried fish-and-tofu dumplings served with peanut sauce.",
+          "id": "Olahan ikan dan tahu goreng khas Bandung yang disajikan dengan bumbu kacang.",
+          "ja": "魚のすり身や豆腐を揚げ、ピーナッツソースで食べるバンドン名物です。"
+        },
+        "source": "https://www.indonesia.travel/sa/en/travel-ideas/gastronomy/dont-miss-these-5-must-try-street-foods-in-bandung",
+        "image": {
+          "id": "west-java-food-batagor",
+          "path": "/assets/img/west-java-food-batagor.webp",
+          "title": "Batagor Bandung.jpg",
+          "artist": "Sabquesera",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Batagor_Bandung.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Sundanese surabi",
+          "id": "Surabi Sunda",
+          "ja": "スンダのスラビ"
+        },
+        "note": {
+          "en": "Sundanese rice-flour pancakes cooked in clay vessels, with sweet or savory toppings.",
+          "id": "Kue tepung beras khas Sunda yang dimasak dalam cetakan tanah liat dengan aneka topping.",
+          "ja": "土製の器で焼くスンダの米粉パンケーキで、甘いものから塩味まで楽しめます。"
+        },
+        "source": "https://indonesiakaya.com/pustaka-indonesia/mencicipi-nikmatnya-kuliner-khas-sunda-surabi/",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Jaipongan",
+          "id": "Jaipongan",
+          "ja": "ジャイポンガン"
+        },
+        "note": {
+          "en": "An energetic West Javanese dance shaped by folk performance and pencak silat movements.",
+          "id": "Tari dinamis Jawa Barat yang mengolah unsur kesenian rakyat dan gerak pencak silat.",
+          "ja": "民俗芸能やプンチャック・シラットの動きを取り入れた、西ジャワの躍動的な舞踊です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-jaipong",
+        "image": {
+          "id": "west-java-dance",
+          "path": "/assets/img/west-java-dance.webp",
+          "title": "Jaipong indonesian culture.jpg",
+          "artist": "Fachrie athallah",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Jaipong_indonesian_culture.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Angklung",
+          "id": "Angklung",
+          "ja": "アンクルン"
+        },
+        "note": {
+          "en": "Bamboo instruments are shaken together to create melodies through ensemble cooperation.",
+          "id": "Alat musik bambu dimainkan dengan digoyangkan bersama untuk membentuk melodi.",
+          "ja": "竹の楽器を揺らして音を出し、奏者が協力して旋律を紡ぎます。"
+        },
+        "source": "https://ich.unesco.org/en/RL/indonesian-angklung-00393",
+        "image": {
+          "id": "west-java-art-angklung",
+          "path": "/assets/img/west-java-art-angklung.webp",
+          "title": "Pertunjukan Angklung di Saung Angklung Udjo.jpg",
+          "artist": "Irhanz",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Pertunjukan_Angklung_di_Saung_Angklung_Udjo.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JB",
+        "name": {
+          "en": "Wayang golek",
+          "id": "Wayang golek",
+          "ja": "ワヤン・ゴレック"
+        },
+        "note": {
+          "en": "Sundanese wooden-puppet theatre blends storytelling, music, humor and moral lessons.",
+          "id": "Teater boneka kayu Sunda memadukan cerita, musik, humor, dan pesan moral.",
+          "ja": "語り、音楽、ユーモア、教訓を織り交ぜた、スンダの木製人形劇です。"
+        },
+        "source": "https://indonesiakaya.com/pustaka-indonesia/wayang-golek-boneka-kayu-penutur-nilai-hidup-leluhur-sunda/",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_JB",
+      "name": {
+        "en": "Kawah Putih, Bandung",
+        "id": "Kawah Putih, Bandung",
+        "ja": "バンドンのカワ・プティ"
+      },
+      "video": "f6do-dKp8MQ",
+      "videoTitle": "Paris of Java - Bandung & Kawah Putih",
+      "videoAuthor": "Pabbsways"
+    },
+    {
+      "province": "ID_JB",
+      "name": {
+        "en": "Tangkuban Perahu",
+        "id": "Tangkuban Perahu",
+        "ja": "タンクバン・プラフ"
+      },
+      "video": "GiAsY6-3X6o",
+      "videoTitle": "Disappointed in LEMBANG, Bandung🇮🇩 Indonesia Vlog: Tangkuban Perahu, Orchid Forest Cikole, Sari Ater",
+      "videoAuthor": "Natalie's Passport"
+    },
+    {
+      "province": "ID_JB",
+      "name": {
+        "en": "Gedung Sate, Bandung",
+        "id": "Gedung Sate, Bandung",
+        "ja": "バンドンのグドゥン・サテ"
+      },
+      "video": "Trh7Axb121E",
+      "videoTitle": "Gedung Sate Yuk",
+      "videoAuthor": "Humas Jabar"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_JB",
+      "text": {
+        "en": "Jaipongan developed in West Java as an energetic modern performance tradition.",
+        "id": "Jaipongan berkembang di Jawa Barat sebagai tradisi pertunjukan yang dinamis.",
+        "ja": "ジャイポンガンは西ジャワで発展した躍動的な芸能です。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-jaipong"
+    },
+    {
+      "province": "ID_JB",
+      "text": {
+        "en": "Indonesian Angklung was inscribed on UNESCO’s Representative List of Intangible Cultural Heritage in 2010.",
+        "id": "Angklung Indonesia masuk Daftar Representatif Warisan Budaya Takbenda UNESCO pada 2010.",
+        "ja": "インドネシアのアンクルンは、2010年にユネスコ無形文化遺産の代表一覧表に記載されました。"
+      },
+      "source": "https://ich.unesco.org/en/RL/indonesian-angklung-00393"
+    },
+    {
+      "province": "ID_JB",
+      "text": {
+        "en": "Udjo Ngalagena and Uum Sumiyati founded Saung Angklung Udjo in Bandung in 1966 to preserve Sundanese arts.",
+        "id": "Udjo Ngalagena dan Uum Sumiyati mendirikan Saung Angklung Udjo di Bandung pada 1966 untuk melestarikan seni Sunda.",
+        "ja": "ウジョ・ンガラゲナとウム・スミヤティは、スンダ芸能を守るため、1966年にバンドンでサウン・アンクルン・ウジョを設立しました。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/adventure/bandung---saung-mang-udjo"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "code": "ID_BA",
+ "province": "Bali",
+ "region": "Bali & Nusa Tenggara",
+ "community": "Balinese",
+ "existing_primary": {
+  "clothing": "Kebaya and kamen",
+  "food": "Ayam betutu",
+  "art": "Kecak",
+  "landmark": "Tanah Lot Temple"
+ },
+ "primary_image": {
+  "id": "bali-dance",
+  "path": "/assets/img/bali-dance.webp",
+  "title": "Kecak Dance Bali.jpg",
+  "artist": "Dhani ilham",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kecak_Dance_Bali.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "ZLB6f6_3AZ0",
+  "title": "Tanah Lot Temple in Bali Indonesia 4K",
+  "author": "Island Hopper TV",
+  "source": "https://www.youtube.com/watch?v=ZLB6f6_3AZ0"
+ },
+ "existing_fact": {
+  "en": "Kecak layers rhythmic voices into a large choral performance.",
+  "id": "Kecak menyatukan suara berirama dalam pertunjukan paduan suara besar.",
+  "ja": "ケチャは幾重にも重なる掛け声でつくられる大規模な芸能です。"
+ },
+ "existing_source": null
+}

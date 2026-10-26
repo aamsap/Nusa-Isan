@@ -1,0 +1,34 @@
+{
+ "code": "ID_JI",
+ "province": "Jawa Timur",
+ "region": "Java",
+ "community": "East Javanese",
+ "existing_primary": {
+  "clothing": "Pesa’an Madura",
+  "food": "Rawon",
+  "art": "Ludruk",
+  "landmark": "Mount Bromo"
+ },
+ "primary_image": {
+  "id": "east-java-food",
+  "path": "/assets/img/east-java-food.webp",
+  "title": "Rawon Setan.jpg",
+  "artist": "christian r from Jakarta",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rawon_Setan.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "EpEe4gpKJ98",
+  "title": "Feeling Indonesia Through Dance | Bromo | Explore to Inspire",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=EpEe4gpKJ98"
+ },
+ "existing_fact": {
+  "en": "Ludruk is a popular East Javanese theatre form performed with humour and music.",
+  "id": "Ludruk adalah teater rakyat Jawa Timur dengan humor dan musik.",
+  "ja": "ルドゥルックは笑いと音楽を伴う東ジャワの民衆演劇です。"
+ },
+ "existing_source": null
+}

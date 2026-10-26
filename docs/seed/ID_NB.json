@@ -1,0 +1,34 @@
+{
+ "code": "ID_NB",
+ "province": "Nusa Tenggara Barat",
+ "region": "Bali & Nusa Tenggara",
+ "community": "Sasak of Lombok",
+ "existing_primary": {
+  "clothing": "Lambung Sasak",
+  "food": "Ayam taliwang",
+  "art": "Peresean",
+  "landmark": "Mount Rinjani"
+ },
+ "primary_image": {
+  "id": "west-nusa-dance",
+  "path": "/assets/img/west-nusa-dance.webp",
+  "title": "Peresean Traditional Sport of Sasak Tribe.jpg",
+  "artist": "RaiyaniM",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Peresean_Traditional_Sport_of_Sasak_Tribe.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "Won4nfQRBDg",
+  "title": "Hiking Mount Rinjani, Indonesia  [Amazing Places 4K]",
+  "author": "Amazing Places on Our Planet",
+  "source": "https://www.youtube.com/watch?v=Won4nfQRBDg"
+ },
+ "existing_fact": {
+  "en": "Peresean is a Sasak performance with rattan sticks and hide shields.",
+  "id": "Peresean adalah pertunjukan Sasak dengan rotan dan perisai kulit.",
+  "ja": "プルセアンは籐の棒と皮の盾を用いるササックの芸能です。"
+ },
+ "existing_source": null
+}

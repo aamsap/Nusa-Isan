@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_KT"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Baju Sangkarut (Dayak Ngaju)",
+          "id": "Baju Sangkarut (Dayak Ngaju)",
+          "ja": "バジュ・サンカルット（ダヤック・ンガジュ）"
+        },
+        "note": {
+          "en": "This Ngaju sleeveless garment features ornaments such as beads and shells.",
+          "id": "Busana tanpa lengan masyarakat Ngaju ini dihiasi antara lain dengan manik-manik dan cangkang kerang.",
+          "ja": "ンガジュの袖なし衣装で、ビーズや貝殻などの装飾が施されます。"
+        },
+        "source": "https://hubud.kemenhub.go.id/upbu/sanggu/liburan-pariwisata/seni-budaya/354DE951-6365-4766-956B-2651D3E12305",
+        "image": {
+          "id": "central-kalimantan-textile",
+          "path": "/assets/img/central-kalimantan-textile.webp",
+          "title": "Baju Sangkarut.jpg",
+          "artist": "Martini Rahman",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Baju_Sangkarut.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Upak Nyamu bark-cloth vest",
+          "id": "Baju Upak Nyamu",
+          "ja": "ウパック・ニャムの樹皮衣"
+        },
+        "note": {
+          "en": "Nyamu bark is made into a plain sleeveless vest, simpler than the ornamented Sangkarut.",
+          "id": "Kulit kayu nyamu dibuat menjadi rompi polos tanpa lengan, lebih sederhana daripada Sangkarut berhias.",
+          "ja": "ニャムの樹皮で作る無地の袖なし衣装で、装飾のあるサンカルットより簡素です。"
+        },
+        "source": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai",
+        "image": null
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Baju Pawang ritual attire",
+          "id": "Baju Pawang",
+          "ja": "バジュ・パワンの儀礼衣装"
+        },
+        "note": {
+          "en": "Kaharingan ritual specialists wear this wood-fibre garment with fringe and beads when offering prayers.",
+          "id": "Pemimpin ritual Kaharingan mengenakan busana serat kayu berumbai dan bermanik ini saat memanjatkan doa.",
+          "ja": "カハリンガンの儀礼を担う人が祈りの際に着る、房飾りとビーズを施した木の繊維の衣装です。"
+        },
+        "source": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Juhu singkah",
+          "id": "Juhu singkah",
+          "ja": "ジュフ・シンカ"
+        },
+        "note": {
+          "en": "Young rattan shoots are cooked in broth, often with freshwater fish and sour eggplant.",
+          "id": "Umbut rotan dimasak berkuah, sering bersama ikan air tawar dan terong asam.",
+          "ja": "若いラタンの芽を煮込む汁料理で、川魚や酸味のあるナスを合わせることがあります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Juhu_singkah?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Kalumpe",
+          "id": "Kalumpe",
+          "ja": "カルンペ"
+        },
+        "note": {
+          "en": "Pounded cassava leaves are cooked with seasonings in this Dayak vegetable dish.",
+          "id": "Daun singkong yang ditumbuk halus dimasak bersama bumbu dalam hidangan sayur khas Dayak ini.",
+          "ja": "細かく搗いたキャッサバの葉を香味野菜などと煮る、ダヤックの野菜料理です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan",
+        "image": null
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Wadi fermented fish",
+          "id": "Wadi",
+          "ja": "ワディの発酵魚"
+        },
+        "note": {
+          "en": "Freshwater fish is fermented using a traditional Dayak preservation method.",
+          "id": "Ikan air tawar difermentasi dengan cara pengawetan tradisional masyarakat Dayak.",
+          "ja": "川魚を発酵させる、ダヤックの伝統的な保存食です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Karungut oral poetry",
+          "id": "Sastra lisan Karungut",
+          "ja": "カルングットの口承詩"
+        },
+        "note": {
+          "en": "Sung oral poetry conveys stories, advice and cultural knowledge in Central Kalimantan.",
+          "id": "Sastra lisan yang dilagukan ini menyampaikan kisah, nasihat, dan pengetahuan budaya di Kalimantan Tengah.",
+          "ja": "詩を歌う口承芸能で、中部カリマンタンの物語や教訓、文化の知識を伝えます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Karungut?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Giring-giring dance",
+          "id": "Tari Giring-giring",
+          "ja": "ギリンギリン舞踊"
+        },
+        "note": {
+          "en": "This Ma’anyan dance uses sticks to express joy at welcomes, harvest celebrations and customary gatherings.",
+          "id": "Tarian Ma’anyan ini memakai tongkat untuk mengungkapkan kegembiraan saat penyambutan, pesta panen, dan acara adat.",
+          "ja": "棒を用いて喜びを表すマアニャンの踊りで、歓迎や収穫祝い、慣習行事などで踊られます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Giring-Giring?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KT",
+        "name": {
+          "en": "Tiwah mortuary tradition",
+          "id": "Tradisi kematian Tiwah",
+          "ja": "ティワの葬送儀礼"
+        },
+        "note": {
+          "en": "This sacred Kaharingan mortuary ceremony guides the deceased’s spirit and is not merely a performance.",
+          "id": "Upacara kematian sakral Kaharingan ini mengantarkan roh orang yang wafat dan bukan sekadar pertunjukan.",
+          "ja": "亡くなった人の魂を送るカハリンガンの神聖な葬送儀礼で、単なる見世物ではありません。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tiwah?oldformat=true",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KT",
+      "name": {
+        "en": "Tanjung Puting National Park",
+        "id": "Taman Nasional Tanjung Puting",
+        "ja": "タンジュン・プティン国立公園"
+      },
+      "video": "8iK-qgiYY4M",
+      "videoTitle": "Tanjung Puting National Park in Central Borneo | Wonderful Indonesia",
+      "videoAuthor": "Kementerian Kehutanan RI"
+    },
+    {
+      "province": "ID_KT",
+      "name": {
+        "en": "Sebangau National Park",
+        "id": "Taman Nasional Sebangau",
+        "ja": "セバンガウ国立公園"
+      },
+      "video": "SNmH7ur_JJ8",
+      "videoTitle": "SEBANGAU NATIONAL PARK - KALIMANTAN WITH NATURAL SOUND EXPERIENCE",
+      "videoAuthor": "Jovicel Diary"
+    },
+    {
+      "province": "ID_KT",
+      "name": {
+        "en": "Tangkiling Hill",
+        "id": "Bukit Tangkiling",
+        "ja": "タンキリンの丘"
+      },
+      "video": "rDb-rtI0eIM",
+      "videoTitle": "Bukit Tangkiling, Wisata Alam Berbalut Legenda Sangkuriang ala Dayak di Kawasan 9 Bukit Palangkaraya",
+      "videoAuthor": "iTrip ID"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KT",
+      "text": {
+        "en": "Tiwah is a sacred Ngaju mortuary ceremony; it should not be treated as a stage show.",
+        "id": "Tiwah adalah upacara sakral masyarakat Ngaju, bukan pertunjukan panggung.",
+        "ja": "ティワはンガジュの神聖な葬送儀礼であり、舞台芸能ではありません。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tiwah?oldformat=true"
+    },
+    {
+      "province": "ID_KT",
+      "text": {
+        "en": "Sebangau National Park protects peat-swamp forest that provides habitat for Bornean orangutans.",
+        "id": "Taman Nasional Sebangau melindungi hutan rawa gambut yang menjadi habitat orangutan Kalimantan.",
+        "ja": "セバンガウ国立公園は、ボルネオオランウータンが暮らす泥炭湿地林を保全しています。"
+      },
+      "source": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan"
+    },
+    {
+      "province": "ID_KT",
+      "text": {
+        "en": "The pounded cassava-leaf dish called kalumpe among Ma’anyan communities is also known as karuang in Ngaju.",
+        "id": "Hidangan daun singkong tumbuk yang disebut kalumpe oleh masyarakat Ma’anyan dikenal sebagai karuang dalam bahasa Ngaju.",
+        "ja": "キャッサバの葉を搗いて作る料理は、マアニャンではカルンペ、ンガジュではカルアンと呼ばれます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Kalumpe?oldformat=true"
+    }
+  ]
+}

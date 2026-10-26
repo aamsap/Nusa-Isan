@@ -1,0 +1,34 @@
+{
+ "code": "ID_PB",
+ "province": "Papua Barat",
+ "region": "Papua",
+ "community": "Arfak",
+ "existing_primary": {
+  "clothing": "Arfak ceremonial attire",
+  "food": "Papeda",
+  "art": "Tumbu Tanah dance (Arfak)",
+  "landmark": "Mansinam Island, Manokwari"
+ },
+ "primary_image": {
+  "id": "west-papua-dance",
+  "path": "/assets/img/west-papua-dance.webp",
+  "title": "Tari Tumbu Tanah (1).jpg",
+  "artist": "Keenan63",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tari_Tumbu_Tanah_(1).jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "eNQQn0G58jY",
+  "title": "PULAU MANSINAM | Pesona Wisata, Sejarah & Budaya di Tanah Papua",
+  "author": "Pokdarwis Mansinam",
+  "source": "https://www.youtube.com/watch?v=eNQQn0G58jY"
+ },
+ "existing_fact": {
+  "en": "The Arfak Mountains are home to communities with distinct languages and traditions.",
+  "id": "Pegunungan Arfak adalah rumah bagi komunitas dengan bahasa dan tradisi yang beragam.",
+  "ja": "アルファク山地には独自の言語と伝統を持つ人々が暮らしています。"
+ },
+ "existing_source": null
+}

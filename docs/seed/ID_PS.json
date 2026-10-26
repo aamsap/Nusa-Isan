@@ -1,0 +1,34 @@
+{
+ "code": "ID_PS",
+ "province": "Papua Selatan",
+ "region": "Papua",
+ "community": "Asmat",
+ "existing_primary": {
+  "clothing": "Asmat ceremonial adornment",
+  "food": "Sago and fish",
+  "art": "Asmat woodcarving",
+  "landmark": "Wasur National Park, Merauke"
+ },
+ "primary_image": {
+  "id": "south-papua-art",
+  "path": "/assets/img/south-papua-art.webp",
+  "title": "Asmat Carving.jpg",
+  "artist": "Si Gam",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Asmat_Carving.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "RWb_Fr5JRjg",
+  "title": "TAMAN NASIONAL WASUR MERAUKE - NATIONAL GEOGRAPHIC INDONESIA",
+  "author": "Nat Geo Indonesia",
+  "source": "https://www.youtube.com/watch?v=RWb_Fr5JRjg"
+ },
+ "existing_fact": {
+  "en": "Asmat carving carries meanings connected with ancestors and community life.",
+  "id": "Ukiran Asmat memuat makna yang terkait dengan leluhur dan kehidupan bersama.",
+  "ja": "アスマットの彫刻には祖先と共同体の暮らしに関わる意味があります。"
+ },
+ "existing_source": null
+}

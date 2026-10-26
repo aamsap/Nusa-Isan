@@ -1,0 +1,34 @@
+{
+ "code": "ID_SS",
+ "province": "Sumatera Selatan",
+ "region": "Sumatra",
+ "community": "Palembang Malay",
+ "existing_primary": {
+  "clothing": "Aesan Gede",
+  "food": "Pempek",
+  "art": "Tari Gending Sriwijaya",
+  "landmark": "Ampera Bridge, Palembang"
+ },
+ "primary_image": {
+  "id": "south-sumatra-food",
+  "path": "/assets/img/south-sumatra-food.webp",
+  "title": "Pempek Palembang.jpg",
+  "artist": "Prambors FM",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pempek_Palembang.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "-Ic3EC0I0Gs",
+  "title": "Antara Sejarah, Budaya, dan Potensi Wisata, Jembatan Ampera Palembang",
+  "author": "KOMPASTV PALEMBANG",
+  "source": "https://www.youtube.com/watch?v=-Ic3EC0I0Gs"
+ },
+ "existing_fact": {
+  "en": "Pempek is commonly served with cuko, a tangy, dark dipping sauce.",
+  "id": "Pempek biasa disajikan bersama cuko, kuah cocol bercita rasa asam.",
+  "ja": "プンペッには甘酸っぱい黒いソース「チュコ」を添えます。"
+ },
+ "existing_source": null
+}

@@ -1,0 +1,34 @@
+{
+ "code": "ID_SU",
+ "province": "Sumatera Utara",
+ "region": "Sumatra",
+ "community": "Batak Toba",
+ "existing_primary": {
+  "clothing": "Ulos woven cloth",
+  "food": "Arsik",
+  "art": "Tortor",
+  "landmark": "Lake Toba"
+ },
+ "primary_image": {
+  "id": "north-sumatra-textile",
+  "path": "/assets/img/north-sumatra-textile.webp",
+  "title": "Weaving ulos cloth.jpg",
+  "artist": "Nocomentapapun",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Weaving_ulos_cloth.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "TY6-3LTRcMM",
+  "title": "The Great Lake Toba, a Heaven for Explorers",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=TY6-3LTRcMM"
+ },
+ "existing_fact": {
+  "en": "Ulos is woven and exchanged in important Batak ceremonies.",
+  "id": "Ulos ditenun dan diberikan dalam upacara penting masyarakat Batak.",
+  "ja": "ウロスはバタックの大切な儀礼で織られ、贈られる布です。"
+ },
+ "existing_source": null
+}

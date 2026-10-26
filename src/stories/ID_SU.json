@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_SU"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Ulos woven cloth",
+          "id": "Kain tenun ulos",
+          "ja": "ウロスの織物"
+        },
+        "note": {
+          "en": "Batak communities weave and exchange ulos at important ceremonies.",
+          "id": "Masyarakat Batak menenun dan memberikan ulos dalam upacara penting.",
+          "ja": "バタックの人々は大切な儀礼でウロスを織り、贈ります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Ulos",
+        "image": {
+          "id": "north-sumatra-textile",
+          "path": "/assets/img/north-sumatra-textile.webp",
+          "title": "Weaving ulos cloth.jpg",
+          "artist": "Nocomentapapun",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Weaving_ulos_cloth.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Uis Karo",
+          "id": "Uis Karo",
+          "ja": "カロのウイス"
+        },
+        "note": {
+          "en": "Uis is a traditional woven cloth of Karo communities in North Sumatra.",
+          "id": "Uis adalah kain tenun tradisional masyarakat Karo di Sumatera Utara.",
+          "ja": "ウイスは北スマトラのカロの人々に伝わる織物です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Uis",
+        "image": null
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Baru Oholu",
+          "id": "Baru Oholu",
+          "ja": "バル・オホル"
+        },
+        "note": {
+          "en": "Baru Oholu is traditional men’s attire on Nias.",
+          "id": "Baru Oholu merupakan busana tradisional laki-laki Nias.",
+          "ja": "バル・オホルはニアスの男性の伝統衣装です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Baru_Oholu",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Arsik",
+          "id": "Arsik",
+          "ja": "アルシック"
+        },
+        "note": {
+          "en": "This Batak fish dish is seasoned with andaliman and aromatic spices.",
+          "id": "Hidangan ikan khas Batak ini dibumbui andaliman dan rempah aromatik.",
+          "ja": "バタックの魚料理で、アンダリマンなどの香辛料で味付けします。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Arsik",
+        "image": null
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Bika ambon",
+          "id": "Bika ambon",
+          "ja": "ビカ・アンボン"
+        },
+        "note": {
+          "en": "Despite its name, this honeycombed cake is associated with Medan.",
+          "id": "Meski bernama ambon, kue berongga ini dikenal sebagai kuliner Medan.",
+          "ja": "名前にアンボンとありますが、メダンで親しまれる網目状の菓子です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Bika_ambon",
+        "image": null
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Naniura",
+          "id": "Naniura",
+          "ja": "ナニウラ"
+        },
+        "note": {
+          "en": "This Batak dish marinates raw fish in citrus juice and spices rather than cooking it over fire.",
+          "id": "Hidangan Batak ini merendam ikan mentah dalam perasan jeruk dan rempah tanpa dimasak di atas api.",
+          "ja": "バタックの料理で、火を使わず生魚を柑橘の果汁と香辛料に漬けます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Naniura",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Tortor",
+          "id": "Tortor",
+          "ja": "トルトル"
+        },
+        "note": {
+          "en": "Tortor dancing is an important part of Batak customary ceremonies.",
+          "id": "Tari tortor merupakan bagian penting dalam upacara adat Batak.",
+          "ja": "トルトルはバタックの慣習儀礼で大切にされる踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tortor",
+        "image": null
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Sigale-gale",
+          "id": "Sigale-gale",
+          "ja": "シガレガレ"
+        },
+        "note": {
+          "en": "This articulated wooden puppet belongs to Batak Toba performance traditions.",
+          "id": "Boneka kayu bersendi ini merupakan bagian dari tradisi pertunjukan Batak Toba.",
+          "ja": "関節のある木製人形を使う、トバ・バタックの伝統芸能です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Sigale_gale",
+        "image": null
+      },
+      {
+        "province": "ID_SU",
+        "name": {
+          "en": "Fahombo stone jumping",
+          "id": "Lompat batu fahombo",
+          "ja": "ファホンボの石跳び"
+        },
+        "note": {
+          "en": "In Nias, performers leap over a tall stone structure in the fahombo tradition.",
+          "id": "Dalam tradisi fahombo di Nias, pelompat melompati susunan batu yang tinggi.",
+          "ja": "ニアスのファホンボでは、高く積んだ石を跳び越えます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Fahombo",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SU",
+      "name": {
+        "en": "Lake Toba",
+        "id": "Danau Toba",
+        "ja": "トバ湖"
+      },
+      "video": "TY6-3LTRcMM",
+      "videoTitle": "The Great Lake Toba, a Heaven for Explorers",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_SU",
+      "name": {
+        "en": "Maimun Palace",
+        "id": "Istana Maimun",
+        "ja": "マイムーン宮殿"
+      },
+      "video": "hak68DSave4",
+      "videoTitle": "Istana Maimun Medan Sumatera Utara Terbaru | Maimun Palace Medan Indonesia - 4K Walking Tour",
+      "videoAuthor": "HeriPro"
+    },
+    {
+      "province": "ID_SU",
+      "name": {
+        "en": "Sipiso-piso Waterfall",
+        "id": "Air Terjun Sipiso-piso",
+        "ja": "シピソピソの滝"
+      },
+      "video": "EbMSvp2gs1Q",
+      "videoTitle": "Drone Air Terjun Sipiso - Piso | Salah satu air terjun tertinggi di Indonesia",
+      "videoAuthor": "Jojo Hutagalung"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SU",
+      "text": {
+        "en": "Ulos is woven and exchanged in important Batak ceremonies.",
+        "id": "Ulos ditenun dan diberikan dalam upacara penting masyarakat Batak.",
+        "ja": "ウロスはバタックの大切な儀礼で織られ、贈られる布です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Ulos"
+    },
+    {
+      "province": "ID_SU",
+      "text": {
+        "en": "Lake Toba occupies the caldera of a supervolcano, with Samosir Island within the lake.",
+        "id": "Danau Toba menempati kaldera gunung api super, dengan Pulau Samosir di dalam danaunya.",
+        "ja": "トバ湖は巨大火山のカルデラにあり、湖の中にはサモシール島があります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Lake_Toba"
+    },
+    {
+      "province": "ID_SU",
+      "text": {
+        "en": "Maimun Palace in Medan is a surviving palace of the Deli Sultanate.",
+        "id": "Istana Maimun di Medan merupakan peninggalan Kesultanan Deli.",
+        "ja": "メダンのマイムーン宮殿は、ドゥリ王国の歴史を伝える宮殿です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Maimun_Palace"
+    }
+  ]
+}

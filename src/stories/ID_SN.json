@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_SN"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Toraja ceremonial textiles",
+          "id": "Kain adat Toraja",
+          "ja": "トラジャの儀礼用織物"
+        },
+        "note": {
+          "en": "Woven cloth is part of Toraja ceremonial attire.",
+          "id": "Kain tenun merupakan bagian dari busana upacara Toraja.",
+          "ja": "織物はトラジャの儀礼用衣装の一部です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-toraja",
+        "image": null
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Baju Bodo",
+          "id": "Baju Bodo",
+          "ja": "バジュ・ボド"
+        },
+        "note": {
+          "en": "A loose traditional blouse worn by Bugis and Makassar women.",
+          "id": "Baju tradisional berpotongan longgar yang dikenakan perempuan Bugis dan Makassar.",
+          "ja": "ブギスやマカッサルの女性が着る、ゆったりした伝統的な上衣です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Bodo_blouse",
+        "image": null
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Sengkang silk",
+          "id": "Sutra Sengkang",
+          "ja": "センカンの絹織物"
+        },
+        "note": {
+          "en": "Silk weaving is a living textile tradition in Sengkang, Wajo.",
+          "id": "Tenun sutra merupakan tradisi tekstil yang hidup di Sengkang, Wajo.",
+          "ja": "ワジョ県センカンでは絹織物の伝統が受け継がれています。"
+        },
+        "source": "https://sulawesi.travel/en/articles/sulawesi-textiles-ikat-silk",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Coto Makassar",
+          "id": "Coto Makassar",
+          "ja": "チョト・マカッサル"
+        },
+        "note": {
+          "en": "A Makassar beef-and-offal soup seasoned with ground peanuts and spices.",
+          "id": "Sup daging dan jeroan sapi khas Makassar berbumbu kacang tanah dan rempah.",
+          "ja": "牛肉や内臓をピーナッツと香辛料で煮込むマカッサルのスープです。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Coto_Makassar",
+        "image": {
+          "id": "south-sulawesi-food",
+          "path": "/assets/img/south-sulawesi-food.webp",
+          "title": "Coto Makassar dish.JPG",
+          "artist": "(Lofor)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Coto_Makassar_dish.JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Konro",
+          "id": "Konro",
+          "ja": "コンロ"
+        },
+        "note": {
+          "en": "A Makassar beef-rib soup with a dark, spiced broth.",
+          "id": "Sup iga sapi Makassar dengan kuah gelap kaya rempah.",
+          "ja": "香辛料をきかせた濃い色のスープで牛のリブを煮るマカッサル料理です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Konro",
+        "image": null
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Pallubasa",
+          "id": "Pallubasa",
+          "ja": "パルバサ"
+        },
+        "note": {
+          "en": "A Makassar meat soup enriched with toasted grated coconut.",
+          "id": "Sup daging Makassar dengan tambahan kelapa parut sangrai.",
+          "ja": "炒ったココナッツを加えるマカッサルの肉入りスープです。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Pallubasa",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Tari Pakarena (Makassar)",
+          "id": "Tari Pakarena (Makassar)",
+          "ja": "パカレナ舞踊（マカッサル）"
+        },
+        "note": {
+          "en": "A South Sulawesi dance known for graceful movements and fan gestures.",
+          "id": "Tari Sulawesi Selatan yang dikenal dengan gerak gemulai dan permainan kipas.",
+          "ja": "優美な身振りと扇の動きが特徴の南スラウェシの舞踊です。"
+        },
+        "source": "https://rri.co.id/budaya/2241502/mengenal-tari-pakarena-tarian-klasik-khas-sulawesi-selatan",
+        "image": null
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Pa'gellu dance",
+          "id": "Tari Pa'gellu",
+          "ja": "パゲル舞踊"
+        },
+        "note": {
+          "en": "A Toraja dance performed on joyful occasions.",
+          "id": "Tarian Toraja yang dibawakan pada acara sukacita.",
+          "ja": "祝いの場で踊られるトラジャの舞踊です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Torajan_people",
+        "image": null
+      },
+      {
+        "province": "ID_SN",
+        "name": {
+          "en": "Pinisi boatbuilding",
+          "id": "Pembuatan kapal pinisi",
+          "ja": "ピニシ造船"
+        },
+        "note": {
+          "en": "South Sulawesi shipwrights pass down skills for building wooden sailing vessels.",
+          "id": "Pembuat kapal Sulawesi Selatan mewariskan keterampilan membangun kapal layar kayu.",
+          "ja": "南スラウェシの船大工は木造帆船を造る技術を受け継いでいます。"
+        },
+        "source": "https://www.indonesia.travel/id/en/travel-ideas/culture/kapal-pinisi",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SN",
+      "name": {
+        "en": "Tongkonan houses, Tana Toraja",
+        "id": "Rumah tongkonan, Tana Toraja",
+        "ja": "タナ・トラジャのトンコナン家屋"
+      },
+      "video": "6x46n9viTts",
+      "videoTitle": "Wonderful Indonesia | Tana Toraja, South Sulawesi",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_SN",
+      "name": {
+        "en": "Rammang-Rammang",
+        "id": "Rammang-Rammang",
+        "ja": "ランマン・ランマン"
+      },
+      "video": "YiVfPx6WPo8",
+      "videoTitle": "ADWI 2023 || Desa Wisata Rammang-Rammang, Kab. Maros, Sulawesi Selatan",
+      "videoAuthor": "Kementerian Pariwisata"
+    },
+    {
+      "province": "ID_SN",
+      "name": {
+        "en": "Fort Rotterdam",
+        "id": "Benteng Rotterdam",
+        "ja": "ロッテルダム要塞"
+      },
+      "video": "orZSHM4Q-cY",
+      "videoTitle": "Wisata Sejarah Ke Benteng Rotterdam Makassar",
+      "videoAuthor": "Arsip Nusantara"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SN",
+      "text": {
+        "en": "Tongkonan houses are important in Toraja kinship and ancestral life.",
+        "id": "Rumah tongkonan penting dalam kekerabatan dan kehidupan leluhur Toraja.",
+        "ja": "トンコナン家屋はトラジャの親族関係と祖先を敬う暮らしに深く結びついています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Tongkonan"
+    },
+    {
+      "province": "ID_SN",
+      "text": {
+        "en": "Sengkang in Wajo is known for its silk-weaving tradition.",
+        "id": "Sengkang di Wajo dikenal dengan tradisi tenun sutranya.",
+        "ja": "ワジョ県センカンは絹織物の伝統で知られています。"
+      },
+      "source": "https://sulawesi.travel/en/articles/sulawesi-textiles-ikat-silk"
+    },
+    {
+      "province": "ID_SN",
+      "text": {
+        "en": "Pinisi boatbuilding skills are passed from one generation of South Sulawesi shipwrights to the next.",
+        "id": "Keahlian pembuatan pinisi diwariskan antargenerasi pembuat kapal di Sulawesi Selatan.",
+        "ja": "南スラウェシの船大工はピニシ造船の技術を世代から世代へ伝えています。"
+      },
+      "source": "https://www.indonesia.travel/id/en/travel-ideas/culture/kapal-pinisi"
+    }
+  ]
+}

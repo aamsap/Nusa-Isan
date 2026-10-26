@@ -1,0 +1,34 @@
+{
+ "code": "ID_SA",
+ "province": "Sulawesi Utara",
+ "region": "Sulawesi",
+ "community": "Sangihe and Minahasa",
+ "existing_primary": {
+  "clothing": "Laku tepu Sangihe",
+  "food": "Tinutuan",
+  "art": "Tulude ceremony (Sangihe)",
+  "landmark": "Bunaken Marine Park"
+ },
+ "primary_image": {
+  "id": "north-sulawesi-food",
+  "path": "/assets/img/north-sulawesi-food.webp",
+  "title": "Tinutuan bubur Manado.JPG",
+  "artist": "Midori",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Tinutuan_bubur_Manado.JPG",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "XW5Op06q2yA",
+  "title": "Wonderful Indonesia | Manado - Bunaken National Park",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=XW5Op06q2yA"
+ },
+ "existing_fact": {
+  "en": "Tulude marks gratitude and renewal in Sangihe communities.",
+  "id": "Tulude menandai rasa syukur dan pembaruan di masyarakat Sangihe.",
+  "ja": "トゥルデはサンギヘの人々の感謝と新たな年を祝う行事です。"
+ },
+ "existing_source": null
+}

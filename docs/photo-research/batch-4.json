@@ -1,0 +1,332 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_AC",
+    "name": "Timphan",
+    "nameEn": "Timphan",
+    "note": "A steamed Acehnese sweet wrapped in banana leaves.",
+    "informationSource": "https://id.wikipedia.org/wiki/Timphan"
+  },
+  {
+    "file": "ID_BA.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_BA",
+    "name": "Tari Barong",
+    "nameEn": "Barong dance",
+    "note": "Barong and Rangda dramatize the struggle between good and evil in Balinese performance.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/barong"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_BB",
+    "name": "Tari Campak",
+    "nameEn": "Campak dance",
+    "note": "This lively Bangka Belitung dance entertains guests at weddings and other gatherings.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Campak"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_BE",
+    "name": "Musik Dol",
+    "nameEn": "Dol drumming",
+    "note": "Dol drums accompany Bengkulu’s Tabot observance and other cultural performances.",
+    "informationSource": "https://id.wikipedia.org/wiki/Dol"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_BT",
+    "name": "Seba Baduy",
+    "nameEn": "Seba Baduy",
+    "note": "Baduy representatives bring harvest offerings during a customary visit to regional leaders.",
+    "informationSource": "https://id.wikipedia.org/wiki/Seba_Baduy"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_GO",
+    "name": "Tumbilotohe",
+    "nameEn": "Tumbilotohe",
+    "note": "Lamps illuminate Gorontalo homes and streets during the final nights of Ramadan.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tumbilotohe"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_JA",
+    "name": "Tari Selampit Delapan",
+    "nameEn": "Selampit Delapan dance",
+    "note": "Eight dancers weave coloured scarves or cords through coordinated movement.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Selampit_Delapan"
+  },
+  {
+    "file": "ID_JI.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_JI",
+    "name": "Udeng Ponorogo",
+    "nameEn": "Ponorogo udeng",
+    "note": "In Ponorogo, different folded headcloth styles relate to social roles and ritual use.",
+    "informationSource": "https://id.wikipedia.org/wiki/Udeng"
+  },
+  {
+    "file": "ID_JK.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_JK",
+    "name": "Gambang kromong",
+    "nameEn": "Gambang kromong",
+    "note": "A Betawi ensemble combining Chinese and local musical traditions.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gambang-kromong"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_KB",
+    "name": "Bubur pedas Sambas",
+    "nameEn": "Sambas spiced porridge",
+    "note": "Roasted rice, vegetables and herbs make a fragrant Sambas Malay porridge.",
+    "informationSource": "https://id.wikipedia.org/wiki/Bubur_pedas?oldformat=true"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_KI",
+    "name": "Baju adat Takwo",
+    "nameEn": "Takwo attire",
+    "note": "This Kutai formal outfit features dark fabric and golden decoration around the collar and sleeves.",
+    "informationSource": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_KR",
+    "name": "Teluk belanga",
+    "nameEn": "Teluk belanga",
+    "note": "This traditional Malay men’s outfit is documented in Lingga’s dress traditions.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KS",
+    "name": "Bagajah gamuling baular lulut",
+    "nameEn": "Bagajah gamuling baular lulut",
+    "note": "In this Banjar wedding style, the bride wears an udat chest wrap with jasmine adornments.",
+    "informationSource": "https://www.detik.com/kalimantan/budaya/d-8172884/4-baju-adat-kalimantan-selatan-warisan-budaya-banjar-yang-tetap-lestari"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_KT",
+    "name": "Baju Pawang",
+    "nameEn": "Baju Pawang ritual attire",
+    "note": "Kaharingan ritual specialists wear this wood-fibre garment with fringe and beads when offering prayers.",
+    "informationSource": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_KU",
+    "name": "Busana perempuan Ta’a",
+    "nameEn": "Ta’a women’s attire",
+    "note": "Kenyah women wear ta’a attire with colourful beadwork, a tradition shared with East Kalimantan.",
+    "informationSource": "https://www.kompas.com/skola/read/2021/02/26/153000969/ta-a-dan-sapei-sapaq-pakaian-adat-kalimantan-utara"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_LA",
+    "name": "Mahkota siger",
+    "nameEn": "Siger crown",
+    "note": "Women wear this golden-colored crown as part of Lampung ceremonial dress.",
+    "informationSource": "https://en.wikipedia.org/wiki/Lampung"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_MA",
+    "name": "Baju cele",
+    "nameEn": "Baju cele",
+    "note": "Maluku’s cele shirt is known for small checks or geometric stripes.",
+    "informationSource": "https://id.wikipedia.org/wiki/Baju_Cele"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_MU",
+    "name": "Busana keraton Manteren Lamo",
+    "nameEn": "Manteren Lamo court dress",
+    "note": "A red closed jacket with silver buttons marks this sultanate dress tradition.",
+    "informationSource": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_NB",
+    "name": "Lambung Sasak",
+    "nameEn": "Sasak lambung",
+    "note": "Sasak women in Lombok wear this black sleeveless top with a long cloth at customary ceremonies.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-lambung"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_NT",
+    "name": "Ti’i langga Rote",
+    "nameEn": "Rote ti’i langga",
+    "note": "This distinctive hat made from dried lontar palm leaves is part of Rote men’s customary dress.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/east-nusa-tenggara"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_PA",
+    "name": "Manik-manik Sentani",
+    "nameEn": "Sentani beadwork",
+    "note": "Mori-mori beads are among the adornments worn by Isosolo dancers around Lake Sentani.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Isosolo"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_PA",
+    "name": "Lukisan kulit kayu khombow",
+    "nameEn": "Khombow bark painting",
+    "note": "Artists in Asei Besar paint bark with motifs rooted in Sentani nature and local knowledge.",
+    "informationSource": "https://id.wikipedia.org/wiki/Khombow"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_PB",
+    "name": "Kerajinan monga Arfak",
+    "nameEn": "Arfak monga weaving",
+    "note": "Women in Manokwari make Arfak noken using mincauw bark fibre and pineapple-leaf fibre.",
+    "informationSource": "https://www.antaranews.com/berita/4339271/semangat-perempuan-perempuan-arfak-melestarikan-noken"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_RI",
+    "name": "Baju kurung Melayu",
+    "nameEn": "Baju kurung Melayu",
+    "note": "This loose-fitting garment is part of Malay dress traditions in Riau.",
+    "informationSource": "https://budaya-indonesia.org/Baju-Kurung-Cekak-Musang-Riau"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_RI",
+    "name": "Randai Kuantan",
+    "nameEn": "Randai Kuantan",
+    "note": "This Kuantan Singingi theater uses dialogue, sung pantun, and instrumental accompaniment.",
+    "informationSource": "https://id.wikipedia.org/wiki/Randai_Kuantan"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_SA",
+    "name": "Kabasaran",
+    "nameEn": "Kabasaran",
+    "note": "This Minahasan warrior dance is performed in striking ceremonial costume.",
+    "informationSource": "https://www.pustaka-bpkxii.org/pustaka/tari-kabasaran-suku-bangsa-minahasa"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_SB",
+    "name": "Saluang",
+    "nameEn": "Saluang",
+    "note": "The saluang is a bamboo flute used in Minangkabau music.",
+    "informationSource": "https://en.wikipedia.org/wiki/Saluang"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_SG",
+    "name": "Tari Linda",
+    "nameEn": "Linda dance",
+    "note": "A Muna dance associated with the Karia customary ceremony.",
+    "informationSource": "https://rama.kemdiktisaintek.go.id/document/detail/oai%3Adigilib.isi.ac.id%3A11912-15"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_SN",
+    "name": "Tari Pa'gellu",
+    "nameEn": "Pa'gellu dance",
+    "note": "A Toraja dance performed on joyful occasions.",
+    "informationSource": "https://en.wikipedia.org/wiki/Torajan_people"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SR",
+    "name": "Tari Pattuqduq Towaine",
+    "nameEn": "Tari Pattuqduq Towaine",
+    "note": "A Mandar welcoming dance performed by women.",
+    "informationSource": "https://pariwisataindonesia.id/budaya-dan-sejarah/penyambutan-para-pejuang/"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SS",
+    "name": "Tari Gending Sriwijaya",
+    "nameEn": "Gending Sriwijaya dance",
+    "note": "This Palembang welcome dance evokes the grandeur of the former Srivijaya kingdom.",
+    "informationSource": "https://en.wikipedia.org/wiki/South_Sumatra"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_ST",
+    "name": "Tari Dero",
+    "nameEn": "Dero dance",
+    "note": "This communal dance from Poso expresses joy and togetherness in Pamona communities.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Dero"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_SU",
+    "name": "Tortor",
+    "nameEn": "Tortor",
+    "note": "Tortor dancing is an important part of Batak customary ceremonies.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tortor"
+  }
+]

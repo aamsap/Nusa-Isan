@@ -1,0 +1,34 @@
+{
+ "code": "ID_JB",
+ "province": "Jawa Barat",
+ "region": "Java",
+ "community": "Sundanese",
+ "existing_primary": {
+  "clothing": "Sundanese kebaya",
+  "food": "Karedok",
+  "art": "Jaipongan",
+  "landmark": "Kawah Putih, Bandung"
+ },
+ "primary_image": {
+  "id": "west-java-dance",
+  "path": "/assets/img/west-java-dance.webp",
+  "title": "Jaipong indonesian culture.jpg",
+  "artist": "Fachrie athallah",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jaipong_indonesian_culture.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "f6do-dKp8MQ",
+  "title": "Paris of Java - Bandung & Kawah Putih",
+  "author": "Pabbsways",
+  "source": "https://www.youtube.com/watch?v=f6do-dKp8MQ"
+ },
+ "existing_fact": {
+  "en": "Jaipongan developed in West Java as an energetic modern performance tradition.",
+  "id": "Jaipongan berkembang di Jawa Barat sebagai tradisi pertunjukan yang dinamis.",
+  "ja": "ジャイポンガンは西ジャワで発展した躍動的な芸能です。"
+ },
+ "existing_source": null
+}

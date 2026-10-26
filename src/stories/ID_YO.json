@@ -1,0 +1,266 @@
+{
+  "provinces": [
+    "ID_YO"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Yogyakarta-style batik and blangkon",
+          "id": "Batik dan blangkon gaya Yogyakarta",
+          "ja": "ジョグジャカルタ様式のバティックとブランコン"
+        },
+        "note": {
+          "en": "Batik cloth and the Yogyakarta blangkon form part of local traditional dress.",
+          "id": "Kain batik dan blangkon Yogyakarta merupakan bagian dari busana tradisional setempat.",
+          "ja": "バティックの布とジョグジャカルタ式ブランコンは、地域の伝統衣装の一部です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
+        "image": {
+          "id": "yogyakarta-clothing-blangkon",
+          "path": "/assets/img/yogyakarta-clothing-blangkon.webp",
+          "title": "Ngayogyakarta-style blangkon, 2015-05-17 04.jpg",
+          "artist": "Crisco 1492",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Ngayogyakarta-style_blangkon%2C_2015-05-17_04.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Surjan",
+          "id": "Surjan",
+          "ja": "スルジャン"
+        },
+        "note": {
+          "en": "This men’s traditional jacket is often made from striped lurik cloth.",
+          "id": "Busana atas tradisional pria ini kerap dibuat dari kain lurik bergaris.",
+          "ja": "男性用の伝統的な上着で、縞模様のルリック織を使うものがよく見られます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
+        "image": null
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Pranakan",
+          "id": "Pranakan",
+          "ja": "プラナカン"
+        },
+        "note": {
+          "en": "Pranakan is a distinctive form of dress worn by Yogyakarta palace attendants.",
+          "id": "Pranakan merupakan busana khas yang dikenakan Abdi Dalem Keraton Yogyakarta.",
+          "ja": "プラナカンは、ジョグジャカルタ王宮の奉仕者アブディ・ダルムが着用する独特の衣装です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Gudeg",
+          "id": "Gudeg",
+          "ja": "グドゥッ"
+        },
+        "note": {
+          "en": "Yogyakarta’s gudeg is young jackfruit slowly cooked with coconut milk and palm sugar.",
+          "id": "Gudeg Yogyakarta dibuat dari nangka muda yang dimasak perlahan dengan santan dan gula aren.",
+          "ja": "ジョグジャカルタのグドゥッは、若いジャックフルーツをココナッツミルクとヤシ糖で煮込みます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Gudeg",
+        "image": {
+          "id": "yogyakarta-food",
+          "path": "/assets/img/yogyakarta-food.webp",
+          "title": "Gudeg Ayam.jpg",
+          "artist": "Indonesiagood",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Gudeg_Ayam.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Bakpia Pathok",
+          "id": "Bakpia Pathok",
+          "ja": "バクピア・パトック"
+        },
+        "note": {
+          "en": "These Yogyakarta pastries traditionally contain a sweet mung-bean filling.",
+          "id": "Kue khas Yogyakarta ini secara tradisional berisi kacang hijau manis.",
+          "ja": "ジョグジャカルタ名物の焼き菓子で、伝統的な餡は甘い緑豆です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bakpia_pathok",
+        "image": {
+          "id": "yogyakarta-food-bakpia",
+          "path": "/assets/img/yogyakarta-food-bakpia.webp",
+          "title": "Bakpia pathuk.jpg",
+          "artist": "Jmarlon",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Bakpia_pathuk.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Sate klathak",
+          "id": "Sate klathak",
+          "ja": "サテ・クラタック"
+        },
+        "note": {
+          "en": "From Bantul, this goat-meat satay is grilled on metal skewers.",
+          "id": "Sate kambing asal Bantul ini dipanggang dengan tusukan besi.",
+          "ja": "バントゥル発祥のヤギ肉のサテで、金属の串を使って焼きます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Sate_klatak",
+        "image": {
+          "id": "yogyakarta-food-sate-klathak",
+          "path": "/assets/img/yogyakarta-food-sate-klathak.webp",
+          "title": "10. Sate Klathak 2.jpg",
+          "artist": "Danangtrihartanto",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:10._Sate_Klathak_2.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Yogyakarta-style gamelan",
+          "id": "Gamelan gaya Yogyakarta",
+          "ja": "ジョグジャカルタ様式のガムラン"
+        },
+        "note": {
+          "en": "Yogyakarta’s court tradition preserves a distinctive style of Javanese gamelan.",
+          "id": "Tradisi keraton Yogyakarta menjaga salah satu gaya khas gamelan Jawa.",
+          "ja": "ジョグジャカルタの宮廷伝統では、ジャワ・ガムランの独自の様式が受け継がれています。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Javanese_gamelan",
+        "image": null
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Wayang kulit",
+          "id": "Wayang kulit",
+          "ja": "ワヤン・クリッ"
+        },
+        "note": {
+          "en": "Yogyakarta is a center of leather shadow-puppet carving and performance.",
+          "id": "Yogyakarta merupakan salah satu pusat pembuatan dan pertunjukan wayang kulit.",
+          "ja": "ジョグジャカルタは、革製の影絵人形の制作と上演の中心地の一つです。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Wayang",
+        "image": {
+          "id": "yogyakarta-art-wayang",
+          "path": "/assets/img/yogyakarta-art-wayang.webp",
+          "title": "Yogyakarta Indonesia Handcrafting-of-Wayang-kulit-01.jpg",
+          "artist": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Handcrafting-of-Wayang-kulit-01.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_YO",
+        "name": {
+          "en": "Kotagede silverwork",
+          "id": "Kerajinan perak Kotagede",
+          "ja": "コタグデの銀細工"
+        },
+        "note": {
+          "en": "Kotagede’s silversmiths make jewelry and decorative silver objects.",
+          "id": "Perajin perak Kotagede membuat perhiasan dan benda hias dari perak.",
+          "ja": "コタグデの銀細工職人は、装身具や銀の装飾品を制作します。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Kotagede",
+        "image": {
+          "id": "yogyakarta-art-kotagede-silver",
+          "path": "/assets/img/yogyakarta-art-kotagede-silver.webp",
+          "title": "COLLECTIE TROPENMUSEUM Zilversmederij in Kotagede of Jogjakarta TMnr 60054140.jpg",
+          "artist": "Unknown author",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Zilversmederij_in_Kotagede_of_Jogjakarta_TMnr_60054140.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_YO",
+      "name": {
+        "en": "Prambanan Temple",
+        "id": "Candi Prambanan",
+        "ja": "プランバナン寺院"
+      },
+      "video": "_onpsWOkhq0",
+      "videoTitle": "Prambanan Temple Compounds (UNESCO/NHK)",
+      "videoAuthor": "UNESCO"
+    },
+    {
+      "province": "ID_YO",
+      "name": {
+        "en": "Taman Sari, Yogyakarta",
+        "id": "Taman Sari, Yogyakarta",
+        "ja": "タマン・サリ（ジョグジャカルタ）"
+      },
+      "video": "p7oE-Y_lFAk",
+      "videoTitle": "Yogyakarta Taman Sari Water Castle",
+      "videoAuthor": "Days We Spend"
+    },
+    {
+      "province": "ID_YO",
+      "name": {
+        "en": "Kraton Yogyakarta",
+        "id": "Keraton Yogyakarta",
+        "ja": "ジョグジャカルタ王宮"
+      },
+      "video": "0uavw6X8Dbk",
+      "videoTitle": "Yogyakarta tour EP5--Kraton Yogyakarta (Yogyakarta palace)",
+      "videoAuthor": "Lost in Indonesia"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_YO",
+      "text": {
+        "en": "Sekaten is a tradition associated with both the Yogyakarta and Surakarta courts.",
+        "id": "Sekaten adalah tradisi yang terkait dengan Keraton Yogyakarta dan Surakarta.",
+        "ja": "スカテンは、ジョグジャカルタとスラカルタの両宮廷に関わる伝統です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Sekaten"
+    },
+    {
+      "province": "ID_YO",
+      "text": {
+        "en": "Kotagede preserves traces of the early Islamic Mataram capital and is known for silverwork.",
+        "id": "Kotagede menyimpan jejak ibu kota awal Mataram Islam dan dikenal dengan kerajinan peraknya.",
+        "ja": "コタグデにはイスラム期マタラム王国初期の都の面影が残り、銀細工でも知られています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Kotagede"
+    },
+    {
+      "province": "ID_YO",
+      "text": {
+        "en": "Prambanan’s temple complex straddles the boundary between Yogyakarta and Central Java.",
+        "id": "Kompleks Candi Prambanan berada di perbatasan Daerah Istimewa Yogyakarta dan Jawa Tengah.",
+        "ja": "プランバナン寺院群は、ジョグジャカルタ特別州と中部ジャワ州の境界にまたがっています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Prambanan"
+    }
+  ]
+}

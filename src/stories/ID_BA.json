@@ -1,0 +1,239 @@
+{
+  "provinces": [
+    "ID_BA"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Kebaya and kamen",
+          "id": "Kebaya dan kamen",
+          "ja": "クバヤとカムン"
+        },
+        "note": {
+          "en": "A fitted blouse and wrapped cloth form part of Balinese women’s ceremonial dress.",
+          "id": "Kebaya dan kain kamen menjadi bagian busana upacara perempuan Bali.",
+          "ja": "体に沿う上着と巻き布は、バリの女性の儀礼衣装の一部です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Kebaya",
+        "image": null
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Udeng headcloth",
+          "id": "Udeng",
+          "ja": "ウデン（頭布）"
+        },
+        "note": {
+          "en": "Balinese men fold this headcloth for temple visits and ceremonies.",
+          "id": "Pria Bali melipat ikat kepala ini untuk bersembahyang dan mengikuti upacara.",
+          "ja": "バリの男性が寺院参拝や儀礼で着用する、折りたたんだ頭布です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/udeng",
+        "image": null
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Endek woven cloth",
+          "id": "Kain endek",
+          "ja": "エンデック織物"
+        },
+        "note": {
+          "en": "Balinese weavers use the weft-ikat technique to create patterned endek cloth.",
+          "id": "Penenun Bali memakai teknik ikat pakan untuk membuat kain endek bermotif.",
+          "ja": "バリの織り手が緯糸の絣技法で模様を織り出す布です。"
+        },
+        "source": "https://www.indonesia.travel/us/en/travel-ideas/culture/tenun-endek/",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Ayam betutu",
+          "id": "Ayam betutu",
+          "ja": "アヤム・ブトゥトゥ"
+        },
+        "note": {
+          "en": "This Balinese chicken dish is seasoned with a rich spice mixture and slowly cooked.",
+          "id": "Hidangan ayam Bali ini dibumbui campuran rempah lalu dimasak perlahan.",
+          "ja": "鶏肉に豊かな香辛料をなじませ、じっくり調理するバリ料理です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Betutu",
+        "image": null
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Sate lilit",
+          "id": "Sate lilit",
+          "ja": "サテ・リリット"
+        },
+        "note": {
+          "en": "Seasoned minced meat or fish is wrapped around skewers before grilling.",
+          "id": "Daging atau ikan cincang berbumbu dililitkan pada tusuk lalu dibakar.",
+          "ja": "味付けしたひき肉や魚のすり身を串に巻き付けて焼きます。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/sate-lilit-balis-uniquely-flavorful-satay",
+        "image": {
+          "id": "bali-food-lilit",
+          "path": "/assets/img/bali-food-lilit.webp",
+          "title": "Sate Lilit.jpg",
+          "artist": "Kresnanta",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Sate_Lilit.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Nasi jinggo",
+          "id": "Nasi jinggo",
+          "ja": "ナシ・ジンゴ"
+        },
+        "note": {
+          "en": "Small banana-leaf rice parcels contain modest portions of assorted side dishes.",
+          "id": "Bungkusan nasi kecil berdaun pisang ini berisi aneka lauk dalam porsi sederhana.",
+          "ja": "バナナの葉で包んだ少量のご飯に、いくつかのおかずを添えます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Nasi_jinggo",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Kecak",
+          "id": "Kecak",
+          "ja": "ケチャ"
+        },
+        "note": {
+          "en": "A seated chorus creates interlocking vocal rhythms in this Balinese performance.",
+          "id": "Paduan suara yang duduk membentuk irama vokal saling bersahutan dalam pertunjukan Bali ini.",
+          "ja": "座った合唱団が掛け声を重ね、複雑なリズムを生み出すバリの芸能です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Kecak",
+        "image": {
+          "id": "bali-dance",
+          "path": "/assets/img/bali-dance.webp",
+          "title": "Kecak Dance Bali.jpg",
+          "artist": "Dhani ilham",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kecak_Dance_Bali.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Legong dance",
+          "id": "Tari Legong",
+          "ja": "レゴン舞踊"
+        },
+        "note": {
+          "en": "Precise hand gestures and eye movements accompany gamelan music in this Balinese dance.",
+          "id": "Gerak tangan dan mata yang cermat berpadu dengan musik gamelan dalam tarian Bali ini.",
+          "ja": "繊細な手や目の動きが、ガムランの伴奏と響き合うバリ舞踊です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/legong-dance-the-exquisite-classical-dance-of-bali",
+        "image": {
+          "id": "bali-art-legong",
+          "path": "/assets/img/bali-art-legong.webp",
+          "title": "Legong Dance Bali Indonesia.jpg",
+          "artist": "Philip Nalangan",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Legong_Dance_Bali_Indonesia.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_BA",
+        "name": {
+          "en": "Barong dance",
+          "id": "Tari Barong",
+          "ja": "バロン舞踊"
+        },
+        "note": {
+          "en": "Barong and Rangda dramatize the struggle between good and evil in Balinese performance.",
+          "id": "Barong dan Rangda menggambarkan pertarungan kebaikan dan kejahatan dalam pertunjukan Bali.",
+          "ja": "バロンとランダが善と悪の戦いを表す、バリの芸能です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/barong",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_BA",
+      "name": {
+        "en": "Tanah Lot Temple",
+        "id": "Pura Tanah Lot",
+        "ja": "タナロット寺院"
+      },
+      "video": "ZLB6f6_3AZ0",
+      "videoTitle": "Tanah Lot Temple in Bali Indonesia 4K",
+      "videoAuthor": "Island Hopper TV"
+    },
+    {
+      "province": "ID_BA",
+      "name": {
+        "en": "Uluwatu Temple",
+        "id": "Pura Uluwatu",
+        "ja": "ウルワツ寺院"
+      },
+      "video": "ZSn3Z-CN2jM",
+      "videoTitle": "🇮🇩 ULUWATU BALI INDONESIA: 4K VIRTUAL WALKING TOUR. Uluwatu Temple - The Best Park on the Bluff",
+      "videoAuthor": "Let's WALK"
+    },
+    {
+      "province": "ID_BA",
+      "name": {
+        "en": "Tirta Empul Temple",
+        "id": "Pura Tirta Empul",
+        "ja": "ティルタ・ウンプル寺院"
+      },
+      "video": "fl7et2YK-RY",
+      "videoTitle": "Tirta Empul Temple | Complete Guide | Trekkerpedia",
+      "videoAuthor": "Trekkerpedia"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_BA",
+      "text": {
+        "en": "Kecak layers rhythmic voices into a large choral performance.",
+        "id": "Kecak menyatukan suara berirama dalam pertunjukan paduan suara besar.",
+        "ja": "ケチャは幾重にも重なる掛け声でつくられる大規模な芸能です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Kecak"
+    },
+    {
+      "province": "ID_BA",
+      "text": {
+        "en": "Legong dance is accompanied by gamelan music.",
+        "id": "Tari Legong diiringi musik gamelan.",
+        "ja": "レゴン舞踊はガムランの伴奏に合わせて踊られます。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/legong-dance-the-exquisite-classical-dance-of-bali"
+    },
+    {
+      "province": "ID_BA",
+      "text": {
+        "en": "Barong and Rangda embody the struggle between good and evil in Balinese dance.",
+        "id": "Barong dan Rangda melambangkan pertarungan kebaikan dan kejahatan dalam tarian Bali.",
+        "ja": "バロンとランダは、バリ舞踊の中で善と悪の戦いを象徴します。"
+      },
+      "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/barong"
+    }
+  ]
+}

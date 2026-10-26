@@ -1,0 +1,342 @@
+[
+  {
+    "file": "ID_AC.json",
+    "section": "clothing",
+    "index": 0,
+    "province": "ID_AC",
+    "name": "Busana Ulee Balang",
+    "nameEn": "Ulee Balang attire",
+    "note": "Acehnese ceremonial clothing once associated with rulers and nobles.",
+    "informationSource": "https://id.wikipedia.org/wiki/Ulee_Balang"
+  },
+  {
+    "file": "ID_BA.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_BA",
+    "name": "Udeng",
+    "nameEn": "Udeng headcloth",
+    "note": "Balinese men fold this headcloth for temple visits and ceremonies.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/udeng"
+  },
+  {
+    "file": "ID_BB.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_BB",
+    "name": "Rusip",
+    "nameEn": "Rusip",
+    "note": "Fermented fish is mixed with chili, shallots and citrus for a pungent condiment.",
+    "informationSource": "https://id.wikipedia.org/wiki/Rusip"
+  },
+  {
+    "file": "ID_BE.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_BE",
+    "name": "Lemea",
+    "nameEn": "Lemea",
+    "note": "This Rejang specialty ferments chopped bamboo shoots with fish before cooking.",
+    "informationSource": "https://jurnal.unived.ac.id/index.php/agritepa/article/view/3836"
+  },
+  {
+    "file": "ID_BT.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_BT",
+    "name": "Sate bandeng",
+    "nameEn": "Sate bandeng",
+    "note": "Seasoned boneless milkfish is stuffed back into its skin and grilled.",
+    "informationSource": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera"
+  },
+  {
+    "file": "ID_GO.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_GO",
+    "name": "Ayam iloni",
+    "nameEn": "Ayam iloni",
+    "note": "Chicken is seasoned with spices and coconut milk before grilling.",
+    "informationSource": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/"
+  },
+  {
+    "file": "ID_JA.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_JA",
+    "name": "Gulai tepek ikan",
+    "nameEn": "Gulai tepek ikan",
+    "note": "Flattened fish cakes are served in a coconut curry with pineapple.",
+    "informationSource": "https://id.wikipedia.org/wiki/Gulai_tepek_ikan"
+  },
+  {
+    "file": "ID_JB.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_JB",
+    "name": "Karedok",
+    "nameEn": "Karedok",
+    "note": "A Sundanese raw-vegetable salad dressed with a seasoned peanut sauce.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/karedok"
+  },
+  {
+    "file": "ID_JK.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_JK",
+    "name": "Baju sadariah",
+    "nameEn": "Baju sadariah",
+    "note": "A loose, long-sleeved Betawi shirt, commonly worn with a peci cap.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/culture/baju-sadariah"
+  },
+  {
+    "file": "ID_JT.json",
+    "section": "art",
+    "index": 2,
+    "province": "ID_JT",
+    "name": "Ukiran Jepara",
+    "nameEn": "Jepara woodcarving",
+    "note": "Jepara’s woodcarvers create decorative carving, including furniture ornaments.",
+    "informationSource": "https://id.wikipedia.org/wiki/Ukiran_Jepara"
+  },
+  {
+    "file": "ID_KB.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KB",
+    "name": "Jonggan",
+    "nameEn": "Jonggan",
+    "note": "Dayak Kanayatn communities perform this social dance at celebrations and customary events.",
+    "informationSource": "https://id.wikipedia.org/wiki/Jonggan?oldformat=true"
+  },
+  {
+    "file": "ID_KI.json",
+    "section": "art",
+    "index": 1,
+    "province": "ID_KI",
+    "name": "Tari Gong (Kancet Ledo)",
+    "nameEn": "Gong dance (Kancet Ledo)",
+    "note": "In this Kenyah dance, a woman dances gracefully on a gong to the accompaniment of sampe music.",
+    "informationSource": "https://id.wikipedia.org/wiki/Tari_Gong?oldformat=true"
+  },
+  {
+    "file": "ID_KR.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_KR",
+    "name": "Zapin Penyengat",
+    "nameEn": "Zapin Penyengat",
+    "note": "Penyengat’s zapin combines rhythmic footwork with gambus and marwas accompaniment.",
+    "informationSource": "https://id.wikipedia.org/wiki/Zapin_Penyengat"
+  },
+  {
+    "file": "ID_KS.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_KS",
+    "name": "Madihin",
+    "nameEn": "Madihin",
+    "note": "Banjar performers deliver witty verse with percussion, sharing humour, advice and social commentary.",
+    "informationSource": "https://www.indonesia.travel/gb/en/travel-ideas/culture/madihin"
+  },
+  {
+    "file": "ID_KT.json",
+    "section": "art",
+    "index": 0,
+    "province": "ID_KT",
+    "name": "Sastra lisan Karungut",
+    "nameEn": "Karungut oral poetry",
+    "note": "Sung oral poetry conveys stories, advice and cultural knowledge in Central Kalimantan.",
+    "informationSource": "https://id.wikipedia.org/wiki/Karungut?oldformat=true"
+  },
+  {
+    "file": "ID_KU.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_KU",
+    "name": "Tudai",
+    "nameEn": "Tudai shellfish",
+    "note": "These coastal Tarakan shellfish are often cooked with simple seasonings that retain their natural flavour.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan"
+  },
+  {
+    "file": "ID_LA.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_LA",
+    "name": "Gabing",
+    "nameEn": "Gabing",
+    "note": "Young coconut trunk is cooked with coconut milk and spices.",
+    "informationSource": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations"
+  },
+  {
+    "file": "ID_MA.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_MA",
+    "name": "Kohu-kohu",
+    "nameEn": "Kohu-kohu",
+    "note": "Fresh vegetables, grated coconut and smoked skipjack meet in this Maluku salad.",
+    "informationSource": "https://papeda.ambon.go.id/what-to-eat/kohu-kohu/"
+  },
+  {
+    "file": "ID_MU.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_MU",
+    "name": "Halua kenari",
+    "nameEn": "Halua kenari",
+    "note": "Kenari nuts and palm sugar form a sweet associated with North Maluku.",
+    "informationSource": "https://www.kompasiana.com/sutiono/5ccd2e178d947a45d6034957/buah-kenari-memperkaya-kuliner-khas-maluku-utara"
+  },
+  {
+    "file": "ID_NB.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_NB",
+    "name": "Plecing kangkung",
+    "nameEn": "Plecing kangkung",
+    "note": "Lombok-style water spinach is served with a spicy tomato-and-chili sambal.",
+    "informationSource": "https://indonesia.travel/gb/en/travel-ideas/gastronomy/plecing-kangkung-a-spicy-and-refreshing-icon-of-lombok-cuisine"
+  },
+  {
+    "file": "ID_NT.json",
+    "section": "food",
+    "index": 2,
+    "province": "ID_NT",
+    "name": "Catemak jagung",
+    "nameEn": "Catemak jagung",
+    "note": "This savory East Nusa Tenggara dish combines maize, beans and pumpkin.",
+    "informationSource": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/catemak-jagung"
+  },
+  {
+    "file": "ID_PA+ID_PE.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_PE",
+    "name": "Ubi jalar",
+    "nameEn": "Sweet potato",
+    "note": "Sweet potatoes are a staple crop and an important food in Dani communities of the Baliem Valley.",
+    "informationSource": "https://en.wikipedia.org/wiki/Dani_people"
+  },
+  {
+    "file": "ID_PB+ID_PD.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_PB",
+    "name": "Papeda",
+    "nameEn": "Papeda",
+    "note": "In Manokwari, sticky sago porridge is often served with yellow fish soup.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat"
+  },
+  {
+    "file": "ID_PT+ID_PS.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_PS",
+    "name": "Ikan gastor bakar, Merauke",
+    "nameEn": "Grilled gastor fish, Merauke",
+    "note": "In Merauke, gastor fish from local swamps and rivers is grilled and served with sambal.",
+    "informationSource": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/merauke"
+  },
+  {
+    "file": "ID_RI.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_RI",
+    "name": "Gulai ikan patin",
+    "nameEn": "Gulai ikan patin",
+    "note": "This Riau fish curry combines patin catfish with coconut milk and aromatic spices.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gulai-ikan-patin"
+  },
+  {
+    "file": "ID_SA.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SA",
+    "name": "Cakalang fufu",
+    "nameEn": "Cakalang fufu",
+    "note": "Skipjack tuna is smoked for this North Sulawesi speciality.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/cakalang-fufu"
+  },
+  {
+    "file": "ID_SB.json",
+    "section": "food",
+    "index": 1,
+    "province": "ID_SB",
+    "name": "Sate Padang",
+    "nameEn": "Sate Padang",
+    "note": "These West Sumatran skewers are served with a thick, spiced sauce.",
+    "informationSource": "https://en.wikipedia.org/wiki/Sate_Padang"
+  },
+  {
+    "file": "ID_SG.json",
+    "section": "food",
+    "index": 0,
+    "province": "ID_SG",
+    "name": "Sinonggi",
+    "nameEn": "Sinonggi",
+    "note": "A Tolaki sago dish served with vegetables and savory accompaniments.",
+    "informationSource": "https://www.indonesia.travel/sa/en/travel-ideas/gastronomy/sinonggi"
+  },
+  {
+    "file": "ID_SN.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_SN",
+    "name": "Sutra Sengkang",
+    "nameEn": "Sengkang silk",
+    "note": "Silk weaving is a living textile tradition in Sengkang, Wajo.",
+    "informationSource": "https://sulawesi.travel/en/articles/sulawesi-textiles-ikat-silk"
+  },
+  {
+    "file": "ID_SR.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_SR",
+    "name": "Kain Sekomandi",
+    "nameEn": "Sekomandi cloth",
+    "note": "This ikat textile is made in the Kalumpang area of Mamuju.",
+    "informationSource": "https://www.indonesia.travel/sa/en/travel-ideas/heritage/tenun-ikat-sekomandi"
+  },
+  {
+    "file": "ID_SS.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_SS",
+    "name": "Aesan Paksangko",
+    "nameEn": "Aesan Paksangko",
+    "note": "This Palembang wedding ensemble pairs embroidered songket with a distinctive headdress.",
+    "informationSource": "https://en.wikipedia.org/wiki/South_Sumatra"
+  },
+  {
+    "file": "ID_ST.json",
+    "section": "clothing",
+    "index": 1,
+    "province": "ID_ST",
+    "name": "Sarung Donggala (Buya Sabe)",
+    "nameEn": "Donggala sarong (Buya Sabe)",
+    "note": "Donggala woven cloth is worn as a sarong with Kaili traditional clothing.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-kaili"
+  },
+  {
+    "file": "ID_SU.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_SU",
+    "name": "Baru Oholu",
+    "nameEn": "Baru Oholu",
+    "note": "Baru Oholu is traditional men’s attire on Nias.",
+    "informationSource": "https://id.wikipedia.org/wiki/Baru_Oholu"
+  },
+  {
+    "file": "ID_YO.json",
+    "section": "clothing",
+    "index": 2,
+    "province": "ID_YO",
+    "name": "Pranakan",
+    "nameEn": "Pranakan",
+    "note": "Pranakan is a distinctive form of dress worn by Yogyakarta palace attendants.",
+    "informationSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire"
+  }
+]

@@ -1,0 +1,25 @@
+{
+ "code": "ID_PA",
+ "province": "Papua",
+ "region": "Papua",
+ "community": "Sentani",
+ "existing_primary": {
+  "clothing": "Sentani beadwork",
+  "food": "Sago preparations",
+  "art": "Isolo dance (Sentani)",
+  "landmark": "Lake Sentani"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "1ENmucqhEXU",
+  "title": "Sentani Lake, a 104 KM square of Beautiful Scenery",
+  "author": "SEA Today News",
+  "source": "https://www.youtube.com/watch?v=1ENmucqhEXU"
+ },
+ "existing_fact": {
+  "en": "Communities around Lake Sentani keep knowledge of sago landscapes and foodways.",
+  "id": "Komunitas sekitar Danau Sentani menjaga pengetahuan tentang lanskap dan pangan sagu.",
+  "ja": "センタニ湖周辺ではサゴの景観と食文化の知恵が受け継がれています。"
+ },
+ "existing_source": "https://jadesta.kemenpar.go.id/desa/kampung_yoboi"
+}

@@ -1,0 +1,34 @@
+{
+ "code": "ID_GO",
+ "province": "Gorontalo",
+ "region": "Sulawesi",
+ "community": "Gorontalo",
+ "existing_primary": {
+  "clothing": "Bili’u ceremonial attire",
+  "food": "Binte biluhuta",
+  "art": "Saronde dance",
+  "landmark": "Otanaha Fortress"
+ },
+ "primary_image": {
+  "id": "gorontalo-food",
+  "path": "/assets/img/gorontalo-food.webp",
+  "title": "Binte Biluhuta.jpg",
+  "artist": "Supardisahabu",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Binte_Biluhuta.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "3LoWXBKOMTU",
+  "title": "Wisata Sejarah, Benteng Otanaha - NET 5",
+  "author": "MDTV NEWS OFFICIAL",
+  "source": "https://www.youtube.com/watch?v=3LoWXBKOMTU"
+ },
+ "existing_fact": {
+  "en": "Karawo is a delicate hand-embroidery practice associated with Gorontalo.",
+  "id": "Karawo adalah tradisi sulam tangan halus yang terkait dengan Gorontalo.",
+  "ja": "カラウォはゴロンタロに伝わる繊細な手刺繍です。"
+ },
+ "existing_source": null
+}

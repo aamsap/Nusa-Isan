@@ -1,0 +1,239 @@
+{
+  "provinces": [
+    "ID_JK"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Kebaya encim",
+          "id": "Kebaya encim",
+          "ja": "クバヤ・エンチム"
+        },
+        "note": {
+          "en": "A Betawi blouse shaped by Chinese influence, often paired with a batik skirt.",
+          "id": "Kebaya perempuan Betawi dengan pengaruh Tionghoa, kerap dipadukan dengan kain batik.",
+          "ja": "中国文化の影響を受けたベタウィの女性用ブラウスで、バティックの腰布と合わせます。"
+        },
+        "source": "https://setkab.go.id/en/indonesia-showcases-betawi-culture-in-welcoming-asean-leaders/",
+        "image": {
+          "id": "jakarta-clothing",
+          "path": "/assets/img/jakarta-clothing.webp",
+          "title": "Kebaya Encim Betawi 20240622 121405.jpg",
+          "artist": "Naval Scene",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kebaya_Encim_Betawi_20240622_121405.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Baju sadariah",
+          "id": "Baju sadariah",
+          "ja": "バジュ・サダリア"
+        },
+        "note": {
+          "en": "A loose, long-sleeved Betawi shirt, commonly worn with a peci cap.",
+          "id": "Baju longgar berlengan panjang khas Betawi, lazim dipadukan dengan peci.",
+          "ja": "ゆったりした長袖のベタウィの男性用シャツで、ペチ帽と合わせるのが一般的です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/baju-sadariah",
+        "image": null
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Betawi pangsi",
+          "id": "Pangsi Betawi",
+          "ja": "ベタウィのパンシ"
+        },
+        "note": {
+          "en": "Betawi pangsi outfits come in colors including black, red, white and green.",
+          "id": "Busana pangsi Betawi hadir dalam beragam warna, termasuk hitam, merah, putih, dan hijau.",
+          "ja": "ベタウィのパンシ衣装には、黒、赤、白、緑などの色があります。"
+        },
+        "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Kerak telor",
+          "id": "Kerak telor",
+          "ja": "クラック・テロール"
+        },
+        "note": {
+          "en": "A Betawi egg-and-sticky-rice snack topped with toasted coconut and fried shallots.",
+          "id": "Kudapan Betawi dari telur dan beras ketan, ditaburi serundeng dan bawang goreng.",
+          "ja": "卵ともち米を焼き、炒ったココナッツと揚げエシャロットをのせるベタウィの軽食です。"
+        },
+        "source": "https://indonesiakaya.com/pustaka-indonesia/kerak-telor-si-makanan-betawi-paling-kesohor/",
+        "image": {
+          "id": "jakarta-food",
+          "path": "/assets/img/jakarta-food.webp",
+          "title": "Kerak telor Betawi.jpg",
+          "artist": "Warta Kota",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kerak_telor_Betawi.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Soto Betawi",
+          "id": "Soto Betawi",
+          "ja": "ソト・ブタウィ"
+        },
+        "note": {
+          "en": "A Jakarta beef soup with a creamy broth made with coconut milk, milk or both.",
+          "id": "Soto khas Jakarta berisi daging sapi dengan kuah gurih dari santan, susu, atau keduanya.",
+          "ja": "牛肉を使い、ココナッツミルクや牛乳でまろやかに仕上げるジャカルタのスープです。"
+        },
+        "source": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/soto-betawi",
+        "image": null
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Roti buaya",
+          "id": "Roti buaya",
+          "ja": "ロティ・ブアヤ"
+        },
+        "note": {
+          "en": "Crocodile-shaped bread presented at Betawi weddings as a symbol of fidelity.",
+          "id": "Roti berbentuk buaya dalam pernikahan adat Betawi yang melambangkan kesetiaan.",
+          "ja": "ベタウィの結婚式で、夫婦の忠実さを象徴するワニ形のパンです。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/roti-buaya",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Ondel-ondel",
+          "id": "Ondel-ondel",
+          "ja": "オンデル・オンデル"
+        },
+        "note": {
+          "en": "Giant, brightly dressed Betawi puppets appear in parades and cultural celebrations.",
+          "id": "Boneka raksasa Betawi berbusana cerah tampil dalam arak-arakan dan perayaan budaya.",
+          "ja": "鮮やかな衣装のベタウィの巨大人形が、行列や文化の祭りを彩ります。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/ondel-ondel",
+        "image": {
+          "id": "jakarta-art",
+          "path": "/assets/img/jakarta-art.webp",
+          "title": "Ondel Ondel Betawi.jpg",
+          "artist": "Herusutimbul",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Ondel_Ondel_Betawi.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Gambang kromong",
+          "id": "Gambang kromong",
+          "ja": "ガンバン・クロモン"
+        },
+        "note": {
+          "en": "A Betawi ensemble combining Chinese and local musical traditions.",
+          "id": "Ansambel Betawi yang memadukan tradisi musik Tionghoa dan lokal.",
+          "ja": "中国と地元の音楽文化が融合したベタウィの合奏音楽です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gambang-kromong",
+        "image": null
+      },
+      {
+        "province": "ID_JK",
+        "name": {
+          "en": "Tanjidor",
+          "id": "Tanjidor",
+          "ja": "タンジドル"
+        },
+        "note": {
+          "en": "A Betawi ensemble featuring wind instruments and percussion for community celebrations.",
+          "id": "Ansambel Betawi dengan alat musik tiup dan perkusi untuk meramaikan perayaan warga.",
+          "ja": "管楽器と打楽器を中心に、地域の祝い事を盛り上げるベタウィの合奏音楽です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tanjidor",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_JK",
+      "name": {
+        "en": "National Monument (Monas), Jakarta",
+        "id": "Monumen Nasional (Monas), Jakarta",
+        "ja": "ジャカルタの独立記念塔（モナス）"
+      },
+      "video": "y2JMltYI6Ws",
+      "videoTitle": "Monumen Nasional (MONAS) - Wonderful Jakarta",
+      "videoAuthor": "Wonderful JAKARTA"
+    },
+    {
+      "province": "ID_JK",
+      "name": {
+        "en": "Kota Tua Jakarta",
+        "id": "Kota Tua Jakarta",
+        "ja": "ジャカルタ旧市街（コタ・トゥア）"
+      },
+      "video": "y2UcxLY8KLs",
+      "videoTitle": "JAKARTA – Our First Time in INDONESIA 🇮🇩",
+      "videoAuthor": "Pinned on Places"
+    },
+    {
+      "province": "ID_JK",
+      "name": {
+        "en": "Istiqlal Mosque",
+        "id": "Masjid Istiqlal",
+        "ja": "イスティクラル・モスク"
+      },
+      "video": "ybzU6bMgHD8",
+      "videoTitle": "ISTIQLAL MOSQUE TOUR IN THE HEART OF JAKARTA. DON'T MISS THIS PLACE 📍🇮🇩",
+      "videoAuthor": "Cowok Perancis"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_JK",
+      "text": {
+        "en": "Betawi culture grew through centuries of encounters in the port city of Jakarta.",
+        "id": "Budaya Betawi tumbuh dari perjumpaan panjang di kota pelabuhan Jakarta.",
+        "ja": "ベタウィ文化は港町ジャカルタでの長い交流から育まれました。"
+      },
+      "source": "https://indonesiakaya.com/pustaka-indonesia/kerak-telor-si-makanan-betawi-paling-kesohor/"
+    },
+    {
+      "province": "ID_JK",
+      "text": {
+        "en": "Setu Babakan in South Jakarta is a cultural preservation area dedicated to Betawi heritage.",
+        "id": "Setu Babakan di Jakarta Selatan merupakan kawasan pelestarian warisan budaya Betawi.",
+        "ja": "南ジャカルタのストゥ・ババカンは、ベタウィの文化遺産を守るための地区です。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/10-betawi-uniqueness-that-you-can-find-in-setu-babakan"
+    },
+    {
+      "province": "ID_JK",
+      "text": {
+        "en": "Gambang kromong combines Chinese instruments with Betawi musical traditions.",
+        "id": "Gambang kromong memadukan alat musik Tionghoa dengan tradisi musik Betawi.",
+        "ja": "ガンバン・クロモンは、中国由来の楽器とベタウィの音楽の伝統を融合させています。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gambang-kromong"
+    }
+  ]
+}

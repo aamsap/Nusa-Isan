@@ -1,0 +1,34 @@
+{
+ "code": "ID_KB",
+ "province": "Kalimantan Barat",
+ "region": "Kalimantan",
+ "community": "Sambas Malay and Dayak communities",
+ "existing_primary": {
+  "clothing": "Songket Sambas",
+  "food": "Bubur pedas Sambas",
+  "art": "Tari Monong (Dayak)",
+  "landmark": "Equator Monument, Pontianak"
+ },
+ "primary_image": {
+  "id": "west-kalimantan-textile",
+  "path": "/assets/img/west-kalimantan-textile.webp",
+  "title": "Kain Samping Songket Lelaki.jpg",
+  "artist": "Andiamd",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kain_Samping_Songket_Lelaki.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "Af5HwAJvNCo",
+  "title": "Mengenal Tugu Khatulistiwa Pontianak, Titik Nol Pembelah Bumi — Video GNFI",
+  "author": "Good News From Indonesia",
+  "source": "https://www.youtube.com/watch?v=Af5HwAJvNCo"
+ },
+ "existing_fact": {
+  "en": "Sambas songket is woven by artisans in the Sambas community.",
+  "id": "Songket Sambas ditenun oleh para perajin masyarakat Sambas.",
+  "ja": "サンバス・ソンケットはサンバスの職人が織る布です。"
+ },
+ "existing_source": "https://repositori.kemendikdasmen.go.id/27619/"
+}

@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_JA"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Jambi batik · baju kurung tanggung",
+          "id": "Batik Jambi · baju kurung tanggung",
+          "ja": "ジャンビのバティックとバジュ・クルン・タングン"
+        },
+        "note": {
+          "en": "Jambi batik features plant and animal motifs; baju kurung tanggung is local ceremonial dress.",
+          "id": "Batik Jambi bermotif flora dan fauna; baju kurung tanggung adalah busana adat setempat.",
+          "ja": "ジャンビのバティックには動植物の文様があり、バジュ・クルン・タングンは地域の礼装です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Batik_Jambi",
+        "image": {
+          "id": "jambi-textile",
+          "path": "/assets/img/jambi-textile.webp",
+          "title": "Batik-jambi.jpg",
+          "artist": "Aditya alakbar",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Batik-jambi.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Tengkuluk headcloth",
+          "id": "Tengkuluk",
+          "ja": "トゥンクルックの頭布"
+        },
+        "note": {
+          "en": "Women in Jambi Malay communities fold cloth into distinctive head coverings.",
+          "id": "Perempuan Melayu Jambi melipat kain menjadi penutup kepala dengan bentuk khas.",
+          "ja": "ジャンビのマレー系女性は、布を折って特徴あるかぶり物にします。"
+        },
+        "source": "https://jptam.org/index.php/jptam/article/view/26919",
+        "image": null
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Lacak headcloth",
+          "id": "Lacak",
+          "ja": "ラチャックのかぶり物"
+        },
+        "note": {
+          "en": "The lacak is a head covering worn with Jambi Malay men’s ceremonial dress.",
+          "id": "Lacak adalah penutup kepala yang melengkapi busana adat pria Melayu Jambi.",
+          "ja": "ラチャックはジャンビのマレー系男性が礼装に合わせるかぶり物です。"
+        },
+        "source": "https://kumparan.com/berita-hari-ini/pakaian-adat-jambi-baju-kurung-tanggung-dan-aksesorisnya-1uvs3maRmjj",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Patin fish with tempoyak",
+          "id": "Tempoyak ikan patin",
+          "ja": "パティン魚のトゥンポヤック煮"
+        },
+        "note": {
+          "en": "Fermented durian seasons patin fish in this Jambi dish.",
+          "id": "Durian fermentasi menjadi bumbu olahan ikan patin khas Jambi.",
+          "ja": "発酵させたドリアンでパティン魚を味付けするジャンビの料理です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tempoyak",
+        "image": null
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Gulai tepek ikan",
+          "id": "Gulai tepek ikan",
+          "ja": "グライ・テペック・イカン"
+        },
+        "note": {
+          "en": "Flattened fish cakes are served in a coconut curry with pineapple.",
+          "id": "Adonan ikan pipih disajikan dalam kuah gulai bersantan dengan nanas.",
+          "ja": "平たくした魚の練り物を、パイナップル入りのココナツカレーで煮ます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Gulai_tepek_ikan",
+        "image": null
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Nasi gemuk",
+          "id": "Nasi gemuk",
+          "ja": "ナシ・グムック"
+        },
+        "note": {
+          "en": "This coconut-milk rice is a familiar breakfast in Jambi.",
+          "id": "Nasi bersantan ini lazim disantap sebagai sarapan di Jambi.",
+          "ja": "ココナツミルクで炊くご飯で、ジャンビの朝食として親しまれています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Nasi_gemuk",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Sekapur Sirih dance",
+          "id": "Tari Sekapur Sirih",
+          "ja": "スカプル・シリの踊り"
+        },
+        "note": {
+          "en": "Dancers welcome guests while carrying a ceremonial betel offering.",
+          "id": "Penari menyambut tamu sambil membawa persembahan sirih dalam cerano.",
+          "ja": "儀礼用のキンマを載せた器を持ち、来客を歓迎する踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Sekapur_Sirih",
+        "image": null
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Rentak Kudo dance",
+          "id": "Tari Rentak Kudo",
+          "ja": "ルンタック・クドの踊り"
+        },
+        "note": {
+          "en": "This Kerinci dance from Hamparan Rawang is known for its stamping steps.",
+          "id": "Tari Kerinci dari Hamparan Rawang ini dikenal dengan gerak menghentak.",
+          "ja": "ハンパラン・ラワンに伝わるクリンチの踊りで、力強く踏み鳴らす足取りが特徴です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Rentak_Kudo",
+        "image": null
+      },
+      {
+        "province": "ID_JA",
+        "name": {
+          "en": "Selampit Delapan dance",
+          "id": "Tari Selampit Delapan",
+          "ja": "スランピット・ドゥラパンの踊り"
+        },
+        "note": {
+          "en": "Eight dancers weave coloured scarves or cords through coordinated movement.",
+          "id": "Delapan penari merangkai syal atau tali berwarna melalui gerak yang kompak.",
+          "ja": "８人の踊り手が息を合わせ、色鮮やかな布やひもを編み合わせます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Selampit_Delapan",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_JA",
+      "name": {
+        "en": "Muaro Jambi temple complex",
+        "id": "Kompleks Candi Muaro Jambi",
+        "ja": "ムアロ・ジャンビ寺院群"
+      },
+      "video": "tKYdIFx5CdI",
+      "videoTitle": "JAMBI ELOK - Candi Muaro Jambi, Wisata Sejarah yang Kekinian",
+      "videoAuthor": "Tribun Jambi"
+    },
+    {
+      "province": "ID_JA",
+      "name": {
+        "en": "Lake Kerinci",
+        "id": "Danau Kerinci",
+        "ja": "クリンチ湖"
+      },
+      "video": "nY9Ey1XyXiE",
+      "videoTitle": "DANAU KERINCI || WISATA UNGGULAN KERINCI",
+      "videoAuthor": "silver ulas"
+    },
+    {
+      "province": "ID_JA",
+      "name": {
+        "en": "Lake Kaco",
+        "id": "Danau Kaco",
+        "ja": "カチョ湖"
+      },
+      "video": "timSmRFTmCw",
+      "videoTitle": "DANAU KACO - The Mirror Lake of Sumatra, Indonesia (Kerinci, Jambi)",
+      "videoAuthor": "Kristian Hansen"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_JA",
+      "text": {
+        "en": "The Kerinci Incung script is one of Sumatra’s historic writing traditions.",
+        "id": "Aksara Incung Kerinci adalah salah satu tradisi tulis bersejarah di Sumatra.",
+        "ja": "クリンチのインチュン文字はスマトラに伝わる歴史的な文字です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Aksara_Incung"
+    },
+    {
+      "province": "ID_JA",
+      "text": {
+        "en": "Muaro Jambi’s temple complex stands beside the Batang Hari River.",
+        "id": "Kompleks Candi Muaro Jambi berada di tepi Sungai Batang Hari.",
+        "ja": "ムアロ・ジャンビ寺院群はバタンハリ川のほとりにあります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Candi_Muaro_Jambi"
+    },
+    {
+      "province": "ID_JA",
+      "text": {
+        "en": "Nasi gemuk is also found in Palembang, reflecting food traditions shared across provincial borders.",
+        "id": "Nasi gemuk juga dijumpai di Palembang, mencerminkan tradisi kuliner lintas batas provinsi.",
+        "ja": "ナシ・グムックはパレンバンでも食べられ、州境を越えた食文化のつながりを示します。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Nasi_gemuk"
+    }
+  ]
+}

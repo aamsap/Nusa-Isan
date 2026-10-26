@@ -1,0 +1,34 @@
+{
+ "code": "ID_SN",
+ "province": "Sulawesi Selatan",
+ "region": "Sulawesi",
+ "community": "Toraja and Bugis",
+ "existing_primary": {
+  "clothing": "Toraja ceremonial textiles",
+  "food": "Coto Makassar",
+  "art": "Tari Pakarena (Makassar)",
+  "landmark": "Tongkonan houses, Tana Toraja"
+ },
+ "primary_image": {
+  "id": "south-sulawesi-food",
+  "path": "/assets/img/south-sulawesi-food.webp",
+  "title": "Coto Makassar dish.JPG",
+  "artist": "(Lofor)",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Coto_Makassar_dish.JPG",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "6x46n9viTts",
+  "title": "Wonderful Indonesia | Tana Toraja, South Sulawesi",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=6x46n9viTts"
+ },
+ "existing_fact": {
+  "en": "Tongkonan houses are important in Toraja kinship and ancestral life.",
+  "id": "Rumah tongkonan penting dalam kekerabatan dan kehidupan leluhur Toraja.",
+  "ja": "トンコナンの家はトラジャの親族関係と祖先の暮らしに深く結びつきます。"
+ },
+ "existing_source": null
+}

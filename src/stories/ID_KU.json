@@ -1,0 +1,212 @@
+{
+  "provinces": [
+    "ID_KU"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Tidung ceremonial attire: Selampoy",
+          "id": "Busana adat Tidung: Selampoy",
+          "ja": "ティドゥンの儀礼衣装スランポイ"
+        },
+        "note": {
+          "en": "Selampoy is customary attire of the Tidung Ulun Pagun community associated with Tarakan.",
+          "id": "Selampoy merupakan pakaian adat masyarakat Tidung Ulun Pagun yang berkaitan dengan Tarakan.",
+          "ja": "スランポイは、タラカンにゆかりのあるティドゥン・ウルン・パグンの伝統衣装です。"
+        },
+        "source": "https://pustaka-bpkxii.org/slims/index.php?id=4052&keywords=&p=show_detail",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Ta’a women’s attire",
+          "id": "Busana perempuan Ta’a",
+          "ja": "女性の衣装タア"
+        },
+        "note": {
+          "en": "Kenyah women wear ta’a attire with colourful beadwork, a tradition shared with East Kalimantan.",
+          "id": "Perempuan Kenyah mengenakan busana ta’a berhias manik warna-warni, tradisi yang juga ada di Kalimantan Timur.",
+          "ja": "色とりどりのビーズを施すクニャの女性衣装で、東カリマンタンにも共通する伝統です。"
+        },
+        "source": "https://www.kompas.com/skola/read/2021/02/26/153000969/ta-a-dan-sapei-sapaq-pakaian-adat-kalimantan-utara",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Sapei Sapaq men’s attire",
+          "id": "Busana laki-laki Sapei Sapaq",
+          "ja": "男性の衣装サペイ・サパック"
+        },
+        "note": {
+          "en": "This Kenyah men’s ensemble features a specially shaped garment decorated with patterned beadwork.",
+          "id": "Busana laki-laki Kenyah ini memiliki baju berbentuk khas dengan hiasan manik-manik bermotif.",
+          "ja": "独特の形の上衣に、模様を描くビーズ装飾を施したクニャの男性衣装です。"
+        },
+        "source": "https://www.kompas.com/skola/read/2021/02/26/153000969/ta-a-dan-sapei-sapaq-pakaian-adat-kalimantan-utara",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Kepiting soka",
+          "id": "Kepiting soka",
+          "ja": "クピティン・ソカ"
+        },
+        "note": {
+          "en": "Tarakan is known for soft-shell crab harvested shortly after moulting, while its shell is still tender.",
+          "id": "Tarakan dikenal dengan kepiting soka yang dipanen setelah berganti kulit, saat cangkangnya masih lunak.",
+          "ja": "タラカン名物のソフトシェルクラブで、脱皮直後の殻が柔らかいうちに収穫します。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Nasi subut",
+          "id": "Nasi subut",
+          "ja": "ナシ・スブット"
+        },
+        "note": {
+          "en": "Rice, corn and purple sweet potato form this colourful dish associated with Tana Tidung.",
+          "id": "Nasi, jagung, dan ubi jalar ungu dipadukan dalam hidangan berwarna khas yang terkait dengan Tana Tidung.",
+          "ja": "米、トウモロコシ、紫サツマイモを合わせる、タナ・ティドゥンに伝わる彩り豊かな料理です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/nasi-subut",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Tudai shellfish",
+          "id": "Tudai",
+          "ja": "トゥダイの貝料理"
+        },
+        "note": {
+          "en": "These coastal Tarakan shellfish are often cooked with simple seasonings that retain their natural flavour.",
+          "id": "Kerang pesisir Tarakan ini sering dimasak dengan bumbu sederhana untuk mempertahankan cita rasa alaminya.",
+          "ja": "タラカン沿岸で採れる貝を使い、素材の風味を生かす素朴な味付けで調理します。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Iraw Tengkayu festival",
+          "id": "Festival Iraw Tengkayu",
+          "ja": "イラウ・トゥンカユ祭"
+        },
+        "note": {
+          "en": "Tarakan’s Tidung celebration includes a decorated ceremonial boat and a ritual offering to the sea.",
+          "id": "Perayaan masyarakat Tidung di Tarakan ini mencakup perahu adat berhias dan ritual penghanyutan sesaji ke laut.",
+          "ja": "装飾した儀礼の舟や海への供物の儀式を伴う、タラカンのティドゥンの祭りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Iraw_Tengkayu?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Jugit dance",
+          "id": "Tari Jugit",
+          "ja": "ジュギット舞踊"
+        },
+        "note": {
+          "en": "Women perform this graceful classical dance to honour guests and mark customary occasions.",
+          "id": "Perempuan membawakan tarian klasik yang anggun ini untuk menghormati tamu dan mengisi momen adat.",
+          "ja": "客人への敬意や慣習行事のために女性が優雅に舞う、北カリマンタンの古典舞踊です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-jugit",
+        "image": null
+      },
+      {
+        "province": "ID_KU",
+        "name": {
+          "en": "Dayak beadwork craft",
+          "id": "Kerajinan manik-manik Dayak",
+          "ja": "ダヤックのビーズ工芸"
+        },
+        "note": {
+          "en": "Dayak artisans make patterned beadwork, one of North Kalimantan’s recognised local crafts.",
+          "id": "Perajin Dayak merangkai manik-manik bermotif, salah satu kerajinan lokal yang dikenal di Kalimantan Utara.",
+          "ja": "ビーズを組み合わせて模様を作るダヤックの工芸で、北カリマンタンの手仕事として知られます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KU",
+      "name": {
+        "en": "Kayan Mentarang National Park",
+        "id": "Taman Nasional Kayan Mentarang",
+        "ja": "カヤン・ムンタラン国立公園"
+      },
+      "video": "r0XGjWyuc1I",
+      "videoTitle": "Nature, Culture, Adventure at Kayan Mentarang National Park",
+      "videoAuthor": "Kementerian Kehutanan RI"
+    },
+    {
+      "province": "ID_KU",
+      "name": {
+        "en": "Baloy Tidung traditional house, Tarakan",
+        "id": "Rumah Baloy Adat Tidung, Tarakan",
+        "ja": "タラカンのティドゥン伝統家屋バロイ"
+      },
+      "video": "mAAR1yvosc8",
+      "videoTitle": "Rumah Baloy Adat Tidung: Aset Budaya Tarakan yang Patut Dilestarikan",
+      "videoAuthor": "BerwisataTV"
+    },
+    {
+      "province": "ID_KU",
+      "name": {
+        "en": "Amal Beach, Tarakan",
+        "id": "Pantai Amal, Tarakan",
+        "ja": "タラカンのアマル海岸"
+      },
+      "video": "odqwMdzNyf0",
+      "videoTitle": "Pantai Amal Tarakan, Destinasi Wisata Bahari dengan View Laut Indah",
+      "videoAuthor": "iTrip ID"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KU",
+      "text": {
+        "en": "Iraw Tengkayu is celebrated by Tidung communities in Tarakan.",
+        "id": "Iraw Tengkayu dirayakan oleh masyarakat Tidung di Tarakan.",
+        "ja": "イラウ・トゥンカユはタラカンのティドゥンの人々の祭りです。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Iraw_Tengkayu?oldformat=true"
+    },
+    {
+      "province": "ID_KU",
+      "text": {
+        "en": "Baloy is a traditional house associated with Tidung communities.",
+        "id": "Baloy merupakan rumah adat yang berkaitan dengan masyarakat Tidung.",
+        "ja": "バロイはティドゥンの人々に伝わる伝統家屋です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Suku_Tidung?oldformat=true"
+    },
+    {
+      "province": "ID_KU",
+      "text": {
+        "en": "North Kalimantan’s linguistic heritage includes Tidung, Bulungan, Kenyah, Kayan and Lundayeh, alongside Indonesian.",
+        "id": "Warisan bahasa Kalimantan Utara mencakup Tidung, Bulungan, Kenyah, Kayan, dan Lundayeh, selain bahasa Indonesia.",
+        "ja": "北カリマンタンではインドネシア語のほか、ティドゥン語、ブルンガン語、クニャ語、カヤン語、ルンダイェ語などが使われます。"
+      },
+      "source": "https://www.indonesia.travel/id/id/destination/kalimantan/north-kalimantan"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_MA"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Baju cele",
+          "id": "Baju cele",
+          "ja": "バジュ・チェレ"
+        },
+        "note": {
+          "en": "Maluku’s cele shirt is known for small checks or geometric stripes.",
+          "id": "Baju cele Maluku dikenal dengan kotak kecil atau garis geometris.",
+          "ja": "マルクのバジュ・チェレは、小さな格子や幾何学的な縞が特徴です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Baju_Cele",
+        "image": null
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Kebaya dansa",
+          "id": "Kebaya dansa",
+          "ja": "クバヤ・ダンサ"
+        },
+        "note": {
+          "en": "In Ambon dress traditions, this round-necked shirt is worn by men at festivities.",
+          "id": "Dalam tradisi busana Ambon, baju berleher bundar ini dipakai lelaki saat pesta.",
+          "ja": "アンボンの服飾文化では、男性が祝宴で着る丸襟の上着です。"
+        },
+        "source": "https://www.antaranews.com/berita/4292483/ragam-rupa-pakaian-adat-maluku",
+        "image": null
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Nona rok ensemble",
+          "id": "Busana nona rok",
+          "ja": "ノナ・ロックの装い"
+        },
+        "note": {
+          "en": "This formal ensemble pairs a white kebaya with a pleated skirt and a silver waist clasp.",
+          "id": "Busana resmi ini memadukan kebaya putih, rok berlipit, dan pending perak.",
+          "ja": "白いクバヤにひだのあるスカートと銀の腰留めを合わせる礼装です。"
+        },
+        "source": "https://www.antaranews.com/berita/4292483/ragam-rupa-pakaian-adat-maluku",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Papeda",
+          "id": "Papeda",
+          "ja": "パペダ"
+        },
+        "note": {
+          "en": "Sago starch becomes a sticky staple, often served with yellow fish soup in Ambon.",
+          "id": "Sagu diolah menjadi pangan lengket, lazim disantap dengan ikan kuah kuning di Ambon.",
+          "ja": "アンボンでは、粘りのあるサゴのでんぷん料理を黄色い魚のスープとともに食べます。"
+        },
+        "source": "https://papeda.ambon.go.id/what-to-eat/papeda-dan-ikan-kuah-kuning/",
+        "image": null
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Kohu-kohu",
+          "id": "Kohu-kohu",
+          "ja": "コフコフ"
+        },
+        "note": {
+          "en": "Fresh vegetables, grated coconut and smoked skipjack meet in this Maluku salad.",
+          "id": "Sayuran segar, kelapa parut, dan cakalang asar berpadu dalam hidangan Maluku ini.",
+          "ja": "野菜、すりおろしたココナツ、燻製カツオを合わせるマルクの和え物です。"
+        },
+        "source": "https://papeda.ambon.go.id/what-to-eat/kohu-kohu/",
+        "image": null
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Ikan kuah kuning",
+          "id": "Ikan kuah kuning",
+          "ja": "イカン・クア・クニン"
+        },
+        "note": {
+          "en": "Turmeric and citrus season the yellow fish soup served alongside papeda.",
+          "id": "Kunyit dan jeruk membumbui ikan kuah kuning yang disantap bersama papeda.",
+          "ja": "ウコンと柑橘で風味を付けた魚のスープで、パペダの付け合わせです。"
+        },
+        "source": "https://papeda.ambon.go.id/what-to-eat/papeda-dan-ikan-kuah-kuning/",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Cakalele",
+          "id": "Cakalele",
+          "ja": "チャカレレ"
+        },
+        "note": {
+          "en": "This martial dance tradition is shared by communities in the Maluku Islands.",
+          "id": "Tradisi tari perang ini dikenal di berbagai komunitas Kepulauan Maluku.",
+          "ja": "マルク諸島のさまざまな共同体に伝わる、戦いを表現する踊りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Cakalele",
+        "image": {
+          "id": "maluku-dance",
+          "path": "/assets/img/maluku-dance.webp",
+          "title": "Cakalele - Maluku.jpg",
+          "artist": "Ardian Djati",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Cakalele_-_Maluku.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Tifa totobuang",
+          "id": "Tifa totobuang",
+          "ja": "ティファ・トトブアン"
+        },
+        "note": {
+          "en": "Maluku musicians combine tifa drums with rows of small totobuang gongs.",
+          "id": "Pemusik Maluku memadukan gendang tifa dengan deretan gong kecil totobuang.",
+          "ja": "ティファ太鼓と、列に並べた小さなトトブアンのゴングを合奏します。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tifa_totobuang",
+        "image": null
+      },
+      {
+        "province": "ID_MA",
+        "name": {
+          "en": "Lenso dance",
+          "id": "Tari lenso",
+          "ja": "レンソの踊り"
+        },
+        "note": {
+          "en": "Handkerchiefs animate this social dance performed at celebrations in Maluku.",
+          "id": "Saputangan mewarnai tari pergaulan yang ditampilkan dalam perayaan di Maluku.",
+          "ja": "マルクの祝いの場で踊られる交流の踊りで、ハンカチを使います。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Lenso",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_MA",
+      "name": {
+        "en": "Banda Neira",
+        "id": "Banda Neira",
+        "ja": "バンダ・ネイラ"
+      },
+      "video": "4fwNNY8RL9M",
+      "videoTitle": "See Indonesia; Banda Neira, The Land of Spice",
+      "videoAuthor": "SEA Today News"
+    },
+    {
+      "province": "ID_MA",
+      "name": {
+        "en": "Ora Beach, Seram",
+        "id": "Pantai Ora, Seram",
+        "ja": "セラム島のオラ海岸"
+      },
+      "video": "xsPNbwL-gtE",
+      "videoTitle": "ORA BEACH Maluku, looks like Jurassic World | Backpacker Tampan",
+      "videoAuthor": "Backpacker Tampan"
+    },
+    {
+      "province": "ID_MA",
+      "name": {
+        "en": "Fort Amsterdam, Hila",
+        "id": "Benteng Amsterdam, Hila",
+        "ja": "ヒラのアムステルダム要塞"
+      },
+      "video": "Q0qy3Niz_aQ",
+      "videoTitle": "SEJARAH BENTENG AMSTERDAM AMBON | MALUKU",
+      "videoAuthor": "QJP OFFICIAL"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_MA",
+      "text": {
+        "en": "Cele clothing often uses small checks or geometric stripes.",
+        "id": "Busana cele kerap menggunakan kotak kecil atau garis geometris.",
+        "ja": "チェレの服には、小さな格子や幾何学的な縞がよく使われます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Baju_Cele"
+    },
+    {
+      "province": "ID_MA",
+      "text": {
+        "en": "Totobuang are small gongs, while tifa are drums; together they form a Maluku ensemble.",
+        "id": "Totobuang adalah gong kecil, sedangkan tifa adalah gendang; keduanya membentuk ansambel Maluku.",
+        "ja": "トトブアンは小さなゴング、ティファは太鼓で、ともにマルクの合奏を構成します。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tifa_totobuang"
+    },
+    {
+      "province": "ID_MA",
+      "text": {
+        "en": "Lenso means handkerchief, the cloth used as a prop in the dance.",
+        "id": "Lenso berarti saputangan, kain yang menjadi properti dalam tarian tersebut.",
+        "ja": "レンソとはハンカチのことで、踊りの小道具として使われます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tari_Lenso"
+    }
+  ]
+}

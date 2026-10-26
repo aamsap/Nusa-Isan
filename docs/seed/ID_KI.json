@@ -1,0 +1,34 @@
+{
+ "code": "ID_KI",
+ "province": "Kalimantan Timur",
+ "region": "Kalimantan",
+ "community": "Dayak Benuaq and Kutai",
+ "existing_primary": {
+  "clothing": "Dayak beadwork",
+  "food": "Nasi bekepor",
+  "art": "Tari Hudoq (Dayak communities)",
+  "landmark": "Kakaban jellyfish lake, Berau"
+ },
+ "primary_image": {
+  "id": "east-kalimantan-dance",
+  "path": "/assets/img/east-kalimantan-dance.webp",
+  "title": "Tari Hudoq.jpg",
+  "artist": "Herusutimbul",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tari_Hudoq.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "WqWLuVcKpmg",
+  "title": "STINGLESS Jellyfish lake | KAKABAN Berau Borneo TRAVEL VLOG",
+  "author": "Fearless & Far",
+  "source": "https://www.youtube.com/watch?v=WqWLuVcKpmg"
+ },
+ "existing_fact": {
+  "en": "Lamin Mancong is a longhouse associated with the Dayak Benuaq community.",
+  "id": "Lamin Mancong adalah rumah panjang yang terkait dengan masyarakat Dayak Benuaq.",
+  "ja": "ラミン・マンチョンはダヤック・ブヌアックにゆかりのある長屋です。"
+ },
+ "existing_source": null
+}

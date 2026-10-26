@@ -1,0 +1,34 @@
+{
+ "code": "ID_JT",
+ "province": "Jawa Tengah",
+ "region": "Java",
+ "community": "Javanese court traditions of Surakarta",
+ "existing_primary": {
+  "clothing": "Surakarta-style batik and blangkon",
+  "food": "Lumpia Semarang",
+  "art": "Gamelan gaya Surakarta · Wayang kulit",
+  "landmark": "Borobudur Temple, Magelang"
+ },
+ "primary_image": {
+  "id": "central-java-art",
+  "path": "/assets/img/central-java-art.webp",
+  "title": "Wayang Kulit, Central Java cropped.jpg",
+  "artist": "ASITRAC",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Wayang_Kulit,_Central_Java_cropped.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "lIZeZMbUG6s",
+  "title": "The Gems of Borobudur Temple",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=lIZeZMbUG6s"
+ },
+ "existing_fact": {
+  "en": "Surakarta and Yogyakarta preserve related, but distinct, styles of Javanese court gamelan.",
+  "id": "Surakarta dan Yogyakarta menjaga gaya gamelan keraton Jawa yang berkerabat namun berbeda.",
+  "ja": "スラカルタとジョグジャカルタには近縁ながら異なる宮廷ガムランがあります。"
+ },
+ "existing_source": null
+}

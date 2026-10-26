@@ -1,0 +1,212 @@
+{
+  "provinces": [
+    "ID_KB"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Sambas songket",
+          "id": "Songket Sambas",
+          "ja": "サンバス・ソンケット"
+        },
+        "note": {
+          "en": "Gold- and silver-coloured threads enrich this Sambas Malay ceremonial textile.",
+          "id": "Benang berwarna emas dan perak menghiasi kain upacara Melayu Sambas ini.",
+          "ja": "金色や銀色の糸で彩る、サンバスのムラユ系社会の儀礼用織物です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Songket_Sambas?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Telok Belanga",
+          "id": "Telok Belanga",
+          "ja": "トゥロック・ブランガ"
+        },
+        "note": {
+          "en": "Malay men in West Kalimantan wear this attire for weddings and customary occasions.",
+          "id": "Lelaki Melayu di Kalimantan Barat mengenakannya saat pernikahan dan acara adat.",
+          "ja": "西カリマンタンのムラユ系男性が婚礼や慣習行事で着る衣装です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Baju Kurong",
+          "id": "Baju Kurong",
+          "ja": "バジュ・クロン"
+        },
+        "note": {
+          "en": "This Malay women’s ensemble is worn at weddings and traditional functions in West Kalimantan.",
+          "id": "Busana perempuan Melayu ini dikenakan pada pernikahan dan acara adat di Kalimantan Barat.",
+          "ja": "西カリマンタンのムラユ系女性が婚礼や慣習行事で着る装いです。"
+        },
+        "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Sambas spiced porridge",
+          "id": "Bubur pedas Sambas",
+          "ja": "サンバスのブブル・プダス"
+        },
+        "note": {
+          "en": "Roasted rice, vegetables and herbs make a fragrant Sambas Malay porridge.",
+          "id": "Beras sangrai, sayuran, dan rempah membentuk bubur harum khas Melayu Sambas.",
+          "ja": "炒り米、野菜、香草を使う、サンバスのムラユ系社会のおかゆです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bubur_pedas?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Pengkang",
+          "id": "Pengkang",
+          "ja": "プンカン"
+        },
+        "note": {
+          "en": "These triangular sticky-rice parcels contain dried shrimp and are grilled in banana leaves.",
+          "id": "Ketan segitiga berisi ebi ini dibungkus daun pisang lalu dibakar.",
+          "ja": "干しエビ入りのもち米を三角形に包み、バナナの葉で焼く軽食です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Pengkang?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Chai kue",
+          "id": "Chai kue",
+          "ja": "チャイクエ"
+        },
+        "note": {
+          "en": "These Chinese-Indonesian dumplings in West Kalimantan can contain jicama, taro or chives.",
+          "id": "Pangsit Tionghoa di Kalimantan Barat ini dapat berisi bengkuang, talas, atau kucai.",
+          "ja": "西カリマンタンの華人系社会の軽食で、クズイモやタロイモ、ニラなどを包みます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Chai_kue?oldformat=true",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Monong dance",
+          "id": "Tari Monong",
+          "ja": "モノン舞踊"
+        },
+        "note": {
+          "en": "This Dayak dance has roots in healing rituals; contemporary performances also exist.",
+          "id": "Tarian Dayak ini berakar pada ritual penyembuhan dan juga dipentaskan pada masa kini.",
+          "ja": "治癒儀礼に由来するダヤックの踊りで、現在は舞台でも披露されます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Monong?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Jonggan",
+          "id": "Jonggan",
+          "ja": "ジョンガン"
+        },
+        "note": {
+          "en": "Dayak Kanayatn communities perform this social dance at celebrations and customary events.",
+          "id": "Masyarakat Dayak Kanayatn menarikan Jonggan pada perayaan dan acara adat.",
+          "ja": "ダヤック・カナヤトンの人々が祝い事や慣習行事で踊る交流の舞踊です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Jonggan?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KB",
+        "name": {
+          "en": "Zapin Tembung",
+          "id": "Zapin Tembung",
+          "ja": "ザピン・トゥンブン"
+        },
+        "note": {
+          "en": "Zapin Tembung is a social dance in West Kalimantan’s cultural repertoire.",
+          "id": "Zapin Tembung merupakan tari pergaulan dalam khazanah budaya Kalimantan Barat.",
+          "ja": "西カリマンタンで親しまれている交流の舞踊です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KB",
+      "name": {
+        "en": "Equator Monument, Pontianak",
+        "id": "Tugu Khatulistiwa, Pontianak",
+        "ja": "ポンティアナックの赤道記念碑"
+      },
+      "video": "Af5HwAJvNCo",
+      "videoTitle": "Mengenal Tugu Khatulistiwa Pontianak, Titik Nol Pembelah Bumi — Video GNFI",
+      "videoAuthor": "Good News From Indonesia"
+    },
+    {
+      "province": "ID_KB",
+      "name": {
+        "en": "Lake Sentarum",
+        "id": "Danau Sentarum",
+        "ja": "スンタルム湖"
+      },
+      "video": "lUjdjCLeJds",
+      "videoTitle": "DANAU SENTARUM - Dayak Life, Culture & Adventure (West Kalimantan)",
+      "videoAuthor": "Kristian Hansen"
+    },
+    {
+      "province": "ID_KB",
+      "name": {
+        "en": "Kadriah Palace",
+        "id": "Istana Kadriah",
+        "ja": "カドリア宮殿"
+      },
+      "video": "qXILDojaEt4",
+      "videoTitle": "Istana Kadriah Kesultanan Pontianak Kalimantan Barat",
+      "videoAuthor": "LekWin Martodimedjo Channel"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KB",
+      "text": {
+        "en": "Sambas songket is woven by artisans in the Sambas community.",
+        "id": "Songket Sambas ditenun oleh para perajin masyarakat Sambas.",
+        "ja": "サンバス・ソンケットはサンバスの職人が織る布です。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Songket_Sambas?oldformat=true"
+    },
+    {
+      "province": "ID_KB",
+      "text": {
+        "en": "Jonggan belongs to Dayak Kanayatn communities; it is not a label for every Dayak dance.",
+        "id": "Jonggan merupakan tradisi masyarakat Dayak Kanayatn, bukan sebutan bagi semua tari Dayak.",
+        "ja": "ジョンガンはダヤック・カナヤトンの伝統で、ダヤックの踊り全体を指す名称ではありません。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Jonggan?oldformat=true"
+    },
+    {
+      "province": "ID_KB",
+      "text": {
+        "en": "Pengkang is often served with a shellfish sambal in the Pontianak area.",
+        "id": "Pengkang di kawasan Pontianak kerap disajikan dengan sambal kepah.",
+        "ja": "ポンティアナック周辺では、プンカンに貝のサンバルを添えることがあります。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Pengkang?oldformat=true"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "code": "ID_PD",
+ "province": "Papua Barat Daya",
+ "region": "Papua",
+ "community": "Moi of Malaumkarta",
+ "existing_primary": {
+  "clothing": "Moi ceremonial attire",
+  "food": "Sago-based dishes",
+  "art": "Moi Egek customary stewardship",
+  "landmark": "Raja Ampat Islands"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "05bHAQEimOE",
+  "title": "Raja Ampat - The Kings of the Ocean",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=05bHAQEimOE"
+ },
+ "existing_fact": {
+  "en": "Egek describes customary resource stewardship practised by Moi communities in Malaumkarta.",
+  "id": "Egek adalah tata kelola sumber daya adat masyarakat Moi di Malaumkarta.",
+  "ja": "エゲックはマラウムカルタのモイの人々が実践する資源管理です。"
+ },
+ "existing_source": null
+}

@@ -1,0 +1,34 @@
+{
+ "code": "ID_PT",
+ "province": "Papua Tengah",
+ "region": "Papua",
+ "community": "Kamoro of Mimika",
+ "existing_primary": {
+  "clothing": "Kamoro ceremonial ornaments",
+  "food": "Sago and fish",
+  "art": "Mbitoro carving (Kamoro)",
+  "landmark": "Puncak Jaya / Carstensz Pyramid"
+ },
+ "primary_image": {
+  "id": "central-papua-art",
+  "path": "/assets/img/central-papua-art.webp",
+  "title": "Pengukiran patung Mbitoro.jpg",
+  "artist": "Kemdikbud",
+  "license": "Public domain",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "ENW5Viy37GA",
+  "title": "GUNUNG PUNCAK JAYA / CARSTENSZ PYRAMID - Atap Negeri Papua Tengah #5",
+  "author": "Fiersa Besari",
+  "source": "https://www.youtube.com/watch?v=ENW5Viy37GA"
+ },
+ "existing_fact": {
+  "en": "Kamoro mbitoro is a form of ancestral carving associated with Mimika.",
+  "id": "Mbitoro Kamoro adalah seni ukir leluhur yang terkait dengan Mimika.",
+  "ja": "カモロのムビトロはミミカに伝わる祖先に関わる彫刻です。"
+ },
+ "existing_source": null
+}

@@ -1,0 +1,34 @@
+{
+ "code": "ID_NT",
+ "province": "Nusa Tenggara Timur",
+ "region": "Bali & Nusa Tenggara",
+ "community": "Manggarai and Sumba communities",
+ "existing_primary": {
+  "clothing": "Tenun ikat Sumba",
+  "food": "Se’i smoked meat",
+  "art": "Caci (Manggarai)",
+  "landmark": "Komodo National Park"
+ },
+ "primary_image": {
+  "id": "east-nusa-textile",
+  "path": "/assets/img/east-nusa-textile.webp",
+  "title": "Tenun Ikat Kodi, SBD, NTT.jpg",
+  "artist": "Rintobili",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tenun_Ikat_Kodi,_SBD,_NTT.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "oKOoFm27720",
+  "title": "Wonderful Indonesia | Komodo National Park - The Other Side of the World",
+  "author": "Wonderful Indonesia",
+  "source": "https://www.youtube.com/watch?v=oKOoFm27720"
+ },
+ "existing_fact": {
+  "en": "In Manggarai, some communal fields are divided in a spider-web pattern called lodok.",
+  "id": "Di Manggarai, sebagian lahan komunal dibagi berpola jaring laba-laba yang disebut lodok.",
+  "ja": "マンガライにはロドックと呼ばれる蜘蛛の巣状の共有地割があります。"
+ },
+ "existing_source": null
+}

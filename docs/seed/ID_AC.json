@@ -1,0 +1,34 @@
+{
+ "code": "ID_AC",
+ "province": "Aceh",
+ "region": "Sumatra",
+ "community": "Gayo and Acehnese",
+ "existing_primary": {
+  "clothing": "Ulee Balang attire",
+  "food": "Mie Aceh",
+  "art": "Saman (Gayo)",
+  "landmark": "Gayo Highlands"
+ },
+ "primary_image": {
+  "id": "aceh-dance",
+  "path": "/assets/img/aceh-dance.webp",
+  "title": "Saman Dance, Aceh Indonesia.jpg",
+  "artist": "IrmaRosalina",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Saman_Dance,_Aceh_Indonesia.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "TkPJlm7w_OQ",
+  "title": "Indonesia Bagus - Pesona Tanah Gayo Provinsi Aceh",
+  "author": "MDTV OFFICIAL",
+  "source": "https://www.youtube.com/watch?v=TkPJlm7w_OQ"
+ },
+ "existing_fact": {
+  "en": "Saman is a Gayo performance built on tightly synchronized movement and song.",
+  "id": "Saman adalah pertunjukan masyarakat Gayo dengan gerak dan nyanyian yang selaras.",
+  "ja": "サマンはガヨの人々が息を合わせて動き、歌う芸能です。"
+ },
+ "existing_source": null
+}

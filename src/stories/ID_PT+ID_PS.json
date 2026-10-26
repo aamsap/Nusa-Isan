@@ -1,0 +1,232 @@
+{
+  "provinces": [
+    "ID_PT",
+    "ID_PS"
+  ],
+  "mergeReason": "Papua Tengah lacked three independently sourced clothing examples in this research batch, so it shares a modal with neighbouring Papua Selatan while keeping Kamoro and Asmat traditions distinct.",
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_PT",
+        "name": {
+          "en": "Kamoro ceremonial dress: Mbiikao",
+          "id": "Busana upacara Kamoro: Mbiikao",
+          "ja": "カモロの儀礼装束：ムビイカオ"
+        },
+        "note": {
+          "en": "In Mimika, Mbiikao masks have a rattan framework and a sheath of sago-leaf fibres.",
+          "id": "Di Mimika, topeng Mbiikao berkerangka rotan dan berselubung serat daun sagu.",
+          "ja": "ミミカのムビイカオの仮面装束は、籐の骨組みをサゴの葉の繊維で覆って作ります。"
+        },
+        "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
+        "image": null
+      },
+      {
+        "province": "ID_PS",
+        "name": {
+          "en": "Asmat shell nose ornament: bipanew",
+          "id": "Hiasan hidung kerang Asmat: bipanew",
+          "ja": "アスマットの貝の鼻飾り：ビパネウ"
+        },
+        "note": {
+          "en": "Historical Asmat bipanew ornaments were made from shell and worn by men through the pierced nasal septum.",
+          "id": "Hiasan bipanew Asmat dahulu dibuat dari kerang dan dikenakan laki-laki melalui tindik sekat hidung.",
+          "ja": "アスマットの伝統的なビパネウは貝で作られ、男性が鼻の隔壁の穴に通して身につけました。"
+        },
+        "source": "https://www.papuaerfgoed.org/en/EA/59/20",
+        "image": null
+      },
+      {
+        "province": "ID_PS",
+        "name": {
+          "en": "Asmat body-paint colours",
+          "id": "Warna rias tubuh Asmat",
+          "ja": "アスマットの身体装飾の色"
+        },
+        "note": {
+          "en": "Traditional Asmat body colours use red earth, powdered shells for white, and charcoal for black.",
+          "id": "Warna rias tradisional Asmat berasal dari tanah merah, kulit kerang halus untuk putih, dan arang untuk hitam.",
+          "ja": "アスマットの伝統的な身体装飾には、赤土、白い貝殻の粉、黒い木炭が使われます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Suku_Asmat",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_PS",
+        "name": {
+          "en": "Grilled gastor fish, Merauke",
+          "id": "Ikan gastor bakar, Merauke",
+          "ja": "メラウケのガストルの焼き魚"
+        },
+        "note": {
+          "en": "In Merauke, gastor fish from local swamps and rivers is grilled and served with sambal.",
+          "id": "Di Merauke, ikan gastor dari rawa dan sungai setempat dibakar dan disajikan dengan sambal.",
+          "ja": "メラウケでは、地域の湿地や川で採れるガストルを焼き、サンバルを添えて食べます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/merauke",
+        "image": null
+      },
+      {
+        "province": "ID_PS",
+        "name": {
+          "en": "Sagu sep (Marind)",
+          "id": "Sagu sep (Marind)",
+          "ja": "サゴ・セップ（マリンド）"
+        },
+        "note": {
+          "en": "Marind cooks in Merauke prepare sagu sep with sago and grated coconut using hot stones.",
+          "id": "Masyarakat Marind di Merauke membuat sagu sep dari sagu dan kelapa parut dengan batu panas.",
+          "ja": "メラウケのマリンドの人々は、サゴとすりおろしたココナツを熱した石で調理してサゴ・セップを作ります。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/sagu-sep",
+        "image": null
+      },
+      {
+        "province": "ID_PT",
+        "name": {
+          "en": "Tambelo",
+          "id": "Tambelo",
+          "ja": "タンベロ"
+        },
+        "note": {
+          "en": "Kamoro communities gather tambelo molluscs from mangrove wood as a local food.",
+          "id": "Masyarakat Kamoro mengambil moluska tambelo dari kayu bakau sebagai pangan setempat.",
+          "ja": "カモロの人々はマングローブの木からタンベロという軟体動物を採り、食用にします。"
+        },
+        "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_PT",
+        "name": {
+          "en": "Mbitoro carving (Kamoro)",
+          "id": "Ukiran mbitoro (Kamoro)",
+          "ja": "ムビトロの彫刻（カモロ）"
+        },
+        "note": {
+          "en": "Kamoro mbitoro poles honour the dead and are associated with initiation ceremonies in Mimika.",
+          "id": "Tiang mbitoro Kamoro menghormati orang yang telah wafat dan terkait upacara inisiasi di Mimika.",
+          "ja": "ミミカのカモロのムビトロの柱は、亡き人をしのび、通過儀礼にも関わる彫刻です。"
+        },
+        "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
+        "image": {
+          "id": "central-papua-art",
+          "path": "/assets/img/central-papua-art.webp",
+          "title": "Pengukiran patung Mbitoro.jpg",
+          "artist": "Kemdikbud",
+          "license": "Public domain",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_PS",
+        "name": {
+          "en": "Asmat woodcarving",
+          "id": "Seni ukir Asmat",
+          "ja": "アスマットの木彫"
+        },
+        "note": {
+          "en": "Asmat woodcarving includes stylized figures and forms that honour ancestors.",
+          "id": "Seni ukir Asmat mencakup figur dan bentuk bergaya yang menghormati leluhur.",
+          "ja": "アスマットの木彫には、祖先を敬うための様式化された人物や形が表されます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Asmat_people",
+        "image": {
+          "id": "south-papua-art",
+          "path": "/assets/img/south-papua-art.webp",
+          "title": "Asmat Carving.jpg",
+          "artist": "Si Gam",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Asmat_Carving.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_PT",
+        "name": {
+          "en": "Kamoro bag weaving",
+          "id": "Anyaman tas Kamoro",
+          "ja": "カモロの袋編み"
+        },
+        "note": {
+          "en": "Kamoro women weave bags from local grasses, a craft also presented at cultural festivals.",
+          "id": "Perempuan Kamoro menganyam tas dari rerumputan setempat, juga ditampilkan dalam festival budaya.",
+          "ja": "カモロの女性たちは地域の草で袋を編み、文化祭でもその工芸を紹介しています。"
+        },
+        "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_PT",
+      "name": {
+        "en": "Puncak Jaya / Carstensz Pyramid",
+        "id": "Puncak Jaya / Piramida Carstensz",
+        "ja": "プンチャック・ジャヤ／カルステンツ・ピラミッド"
+      },
+      "video": "ENW5Viy37GA",
+      "videoTitle": "GUNUNG PUNCAK JAYA / CARSTENSZ PYRAMID - Atap Negeri Papua Tengah #5",
+      "videoAuthor": "Fiersa Besari"
+    },
+    {
+      "province": "ID_PS",
+      "name": {
+        "en": "Wasur National Park, Merauke",
+        "id": "Taman Nasional Wasur, Merauke",
+        "ja": "メラウケのワスル国立公園"
+      },
+      "video": "RWb_Fr5JRjg",
+      "videoTitle": "TAMAN NASIONAL WASUR MERAUKE - NATIONAL GEOGRAPHIC INDONESIA",
+      "videoAuthor": "Nat Geo Indonesia"
+    },
+    {
+      "province": "ID_PS",
+      "name": {
+        "en": "Time Capsule Monument, Merauke",
+        "id": "Monumen Kapsul Waktu, Merauke",
+        "ja": "メラウケのタイムカプセル記念碑"
+      },
+      "video": "7L0Yevocaio",
+      "videoTitle": "kapsul waktu Merauke",
+      "videoAuthor": "Direktorat Bina Penataan Bangunan"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_PT",
+      "text": {
+        "en": "Kamoro mbitoro is an ancestral carving tradition associated with Mimika; Kamoro and Asmat carving traditions are related but distinct.",
+        "id": "Mbitoro Kamoro merupakan tradisi ukir leluhur di Mimika; seni ukir Kamoro dan Asmat berkaitan tetapi berbeda.",
+        "ja": "カモロのムビトロはミミカに伝わる祖先に関わる彫刻です。カモロとアスマットの彫刻は関連がありますが、それぞれ異なる伝統です。"
+      },
+      "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture"
+    },
+    {
+      "province": "ID_PS",
+      "text": {
+        "en": "Asmat carving carries meanings connected with ancestors and community life.",
+        "id": "Ukiran Asmat memuat makna yang terkait dengan leluhur dan kehidupan bersama.",
+        "ja": "アスマットの彫刻には祖先と共同体の暮らしに関わる意味があります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Asmat_people"
+    },
+    {
+      "province": "ID_PS",
+      "text": {
+        "en": "Many Asmat homes are raised on wooden posts in a landscape shaped by rivers, swamps and tidal flooding.",
+        "id": "Banyak rumah Asmat berdiri di atas tiang kayu dalam bentang sungai, rawa, dan genangan pasang.",
+        "ja": "アスマットでは、川や湿地、潮による浸水に合わせて、多くの家が木の杭の上に建てられています。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Asmat_people"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "provinces": [
+    "ID_JT"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Surakarta-style batik and blangkon",
+          "id": "Batik dan blangkon gaya Surakarta",
+          "ja": "スラカルタ様式のバティックとブランコン"
+        },
+        "note": {
+          "en": "The Surakarta blangkon is a regional form of the folded Javanese headcloth.",
+          "id": "Blangkon Surakarta merupakan salah satu bentuk ikat kepala tradisional Jawa.",
+          "ja": "スラカルタのブランコンは、ジャワの伝統的な頭布の地域様式です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Blangkon",
+        "image": null
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Pekalongan batik",
+          "id": "Batik Pekalongan",
+          "ja": "プカロンガンのバティック"
+        },
+        "note": {
+          "en": "Pekalongan’s coastal batik is known for colorful floral and animal motifs.",
+          "id": "Batik pesisir Pekalongan dikenal dengan motif tumbuhan dan hewan yang penuh warna.",
+          "ja": "プカロンガンの海岸部のバティックは、色鮮やかな草花や動物の文様で知られます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Batik_Pekalongan",
+        "image": {
+          "id": "central-java-clothing-batik-pekalongan",
+          "path": "/assets/img/central-java-clothing-batik-pekalongan.webp",
+          "title": "Batik Buketan Pekalongan Tulis 1.jpg",
+          "artist": "Gandrasta Bangko",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Batik_Buketan_Pekalongan_Tulis_1.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Lasem batik",
+          "id": "Batik Lasem",
+          "ja": "ラセムのバティック"
+        },
+        "note": {
+          "en": "Lasem in Rembang blends Chinese and Javanese influences in its hand-drawn batik.",
+          "id": "Batik tulis Lasem di Rembang memadukan pengaruh budaya Tionghoa dan Jawa.",
+          "ja": "ルンバン県ラセムの手描きバティックには、中国とジャワの文化が融合しています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Batik_Lasem",
+        "image": {
+          "id": "central-java-clothing-batik-lasem",
+          "path": "/assets/img/central-java-clothing-batik-lasem.webp",
+          "title": "Batik Lasem Tulis.jpg",
+          "artist": "Gandrasta Bangko",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Batik_Lasem_Tulis.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Lumpia Semarang",
+          "id": "Lumpia Semarang",
+          "ja": "ルンピア・スマラン"
+        },
+        "note": {
+          "en": "Semarang’s spring rolls are commonly filled with bamboo shoots and served with sauce.",
+          "id": "Lumpia khas Semarang lazim berisi rebung dan disajikan dengan saus.",
+          "ja": "スマラン名物の春巻きは、一般にタケノコを詰め、ソースを添えます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Lumpia_Semarang",
+        "image": {
+          "id": "central-java-food-lumpia",
+          "path": "/assets/img/central-java-food-lumpia.webp",
+          "title": "Loenpia Semarang with sauce.JPG",
+          "artist": "Midori",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Loenpia_Semarang_with_sauce.JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Nasi liwet Solo",
+          "id": "Nasi liwet Solo",
+          "ja": "ソロのナシ・リウェット"
+        },
+        "note": {
+          "en": "Solo’s nasi liwet pairs coconut-milk rice with chicken and savory accompaniments.",
+          "id": "Nasi liwet Solo memadukan nasi santan dengan ayam dan lauk gurih.",
+          "ja": "ソロのナシ・リウェットは、ココナッツミルクで炊いたご飯に鶏肉などを添えます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Nasi_liwet",
+        "image": {
+          "id": "central-java-food-nasi-liwet",
+          "path": "/assets/img/central-java-food-nasi-liwet.webp",
+          "title": "Nasi Liwet Solo.jpg",
+          "artist": "Gunawan Kartapranata",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Nasi_Liwet_Solo.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Soto Kudus",
+          "id": "Soto Kudus",
+          "ja": "ソト・クドゥス"
+        },
+        "note": {
+          "en": "Kudus is known for soto made with chicken or buffalo meat.",
+          "id": "Kudus dikenal dengan soto berbahan daging ayam atau kerbau.",
+          "ja": "クドゥスでは、鶏肉や水牛肉を使うソトが親しまれています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Soto_kudus",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Surakarta gamelan and wayang kulit",
+          "id": "Gamelan gaya Surakarta dan wayang kulit",
+          "ja": "スラカルタのガムランとワヤン・クリッ"
+        },
+        "note": {
+          "en": "Gamelan accompanies shadow-puppet theatre in Surakarta’s performing traditions.",
+          "id": "Gamelan mengiringi pertunjukan wayang kulit dalam tradisi seni Surakarta.",
+          "ja": "スラカルタの芸能では、ガムランが影絵芝居ワヤン・クリッを伴奏します。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Javanese_gamelan",
+        "image": {
+          "id": "central-java-art",
+          "path": "/assets/img/central-java-art.webp",
+          "title": "Wayang Kulit, Central Java cropped.jpg",
+          "artist": "ASITRAC",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Wayang_Kulit,_Central_Java_cropped.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Bedhaya Ketawang",
+          "id": "Bedhaya Ketawang",
+          "ja": "ブドヨ・クタワン"
+        },
+        "note": {
+          "en": "This sacred court dance is linked to coronation commemorations at the Surakarta palace.",
+          "id": "Tarian sakral ini terkait peringatan penobatan di Keraton Surakarta.",
+          "ja": "この神聖な宮廷舞踊は、スラカルタ王宮の即位記念儀礼と結びついています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bedaya_Ketawang",
+        "image": {
+          "id": "central-java-art-bedhaya-ketawang",
+          "path": "/assets/img/central-java-art-bedhaya-ketawang.webp",
+          "title": "Sacred Dance Bedhoyo Ketawang A.JPG",
+          "artist": "ESCapade",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Sacred_Dance_Bedhoyo_Ketawang_A.JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JT",
+        "name": {
+          "en": "Jepara woodcarving",
+          "id": "Ukiran Jepara",
+          "ja": "ジュパラの木彫"
+        },
+        "note": {
+          "en": "Jepara’s woodcarvers create decorative carving, including furniture ornaments.",
+          "id": "Pengukir Jepara menghasilkan ukiran hias, termasuk ornamen mebel.",
+          "ja": "ジュパラの職人は、家具の装飾をはじめとする木彫を手がけます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Ukiran_Jepara",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_JT",
+      "name": {
+        "en": "Borobudur Temple, Magelang",
+        "id": "Candi Borobudur, Magelang",
+        "ja": "ボロブドゥール寺院（マグラン）"
+      },
+      "video": "lIZeZMbUG6s",
+      "videoTitle": "The Gems of Borobudur Temple",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_JT",
+      "name": {
+        "en": "Lawang Sewu, Semarang",
+        "id": "Lawang Sewu, Semarang",
+        "ja": "ラワン・セウ（スマラン）"
+      },
+      "video": "VooQMpJ4GKQ",
+      "videoTitle": "LAWANG SEWU SEMARANG - SEMARANG SERIBU PINTU WISATA WAHANA BARU IMMERSIVE",
+      "videoAuthor": "Andika Hariadi"
+    },
+    {
+      "province": "ID_JT",
+      "name": {
+        "en": "Arjuna Temple Complex, Dieng",
+        "id": "Kompleks Candi Arjuna, Dieng",
+        "ja": "アルジュナ寺院群（ディエン）"
+      },
+      "video": "HUlYFAkMd0M",
+      "videoTitle": "JELAJAH DIENG !!! | Perjalanan Epik menuju wisata candi Arjuna",
+      "videoAuthor": "lucas wijoko"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_JT",
+      "text": {
+        "en": "Surakarta and Yogyakarta preserve related but distinct styles of Javanese court gamelan.",
+        "id": "Surakarta dan Yogyakarta menjaga gaya gamelan keraton Jawa yang berkerabat namun berbeda.",
+        "ja": "スラカルタとジョグジャカルタには、近縁ながら異なる宮廷ガムランの様式があります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Javanese_gamelan"
+    },
+    {
+      "province": "ID_JT",
+      "text": {
+        "en": "Borobudur in Magelang is a Buddhist monument with stacked terraces and stupas.",
+        "id": "Borobudur di Magelang adalah monumen Buddha dengan teras bertingkat dan stupa.",
+        "ja": "マグランのボロブドゥールは、段状の回廊とストゥーパを持つ仏教遺跡です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Borobudur"
+    },
+    {
+      "province": "ID_JT",
+      "text": {
+        "en": "Lawang Sewu in Semarang was built as the headquarters of a Dutch East Indies railway company.",
+        "id": "Lawang Sewu di Semarang dibangun sebagai kantor pusat perusahaan kereta api Hindia Belanda.",
+        "ja": "スマランのラワン・セウは、オランダ領東インドの鉄道会社の本社として建てられました。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Lawang_Sewu"
+    }
+  ]
+}

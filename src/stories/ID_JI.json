@@ -1,0 +1,248 @@
+{
+  "provinces": [
+    "ID_JI"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Pesa’an Madura",
+          "id": "Pesa’an Madura",
+          "ja": "マドゥラのプサアン"
+        },
+        "note": {
+          "en": "Madura’s men’s outfit includes loose trousers and a red-and-white striped shirt.",
+          "id": "Busana pria Madura ini mencakup celana longgar dan kaus bergaris merah putih.",
+          "ja": "マドゥラの男性の衣装で、ゆったりしたズボンと赤白の縞模様のシャツを組み合わせます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Pesa'an",
+        "image": null
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Madura batik",
+          "id": "Batik Madura",
+          "ja": "マドゥラのバティック"
+        },
+        "note": {
+          "en": "Bangkalan, Pamekasan and Sumenep are important centers of Madura batik.",
+          "id": "Bangkalan, Pamekasan, dan Sumenep merupakan pusat penting pembuatan batik Madura.",
+          "ja": "バンカラン、パムカサン、スムヌップは、マドゥラのバティックの主要な産地です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Batik_Madura",
+        "image": {
+          "id": "east-java-clothing-batik-madura",
+          "path": "/assets/img/east-java-clothing-batik-madura.webp",
+          "title": "Batik Tulis Madura.jpg",
+          "artist": "Ivuole",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Batik_Tulis_Madura.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Ponorogo udeng",
+          "id": "Udeng Ponorogo",
+          "ja": "ポノロゴのウデン"
+        },
+        "note": {
+          "en": "In Ponorogo, different folded headcloth styles relate to social roles and ritual use.",
+          "id": "Di Ponorogo, ragam bentuk udeng berkaitan dengan peran sosial dan penggunaan dalam ritual.",
+          "ja": "ポノロゴでは、頭布ウデンの様式が社会的な役割や儀礼での用途と結びついています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Udeng",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Rawon",
+          "id": "Rawon",
+          "ja": "ラウォン"
+        },
+        "note": {
+          "en": "This East Javanese beef soup gets its dark broth from keluak nuts.",
+          "id": "Sup daging sapi khas Jawa Timur ini memiliki kuah gelap dari kluwek.",
+          "ja": "東ジャワの牛肉スープで、クルアックの実が黒いスープのもとになります。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Rawon",
+        "image": {
+          "id": "east-java-food",
+          "path": "/assets/img/east-java-food.webp",
+          "title": "Rawon Setan.jpg",
+          "artist": "christian r from Jakarta",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Rawon_Setan.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Soto Lamongan",
+          "id": "Soto Lamongan",
+          "ja": "ソト・ラモンガン"
+        },
+        "note": {
+          "en": "Lamongan’s chicken soup is known for its savory koya topping.",
+          "id": "Soto ayam khas Lamongan dikenal dengan taburan koya yang gurih.",
+          "ja": "ラモンガンの鶏肉スープは、香ばしい粉末のトッピング「コヤ」で知られています。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Soto_Lamongan",
+        "image": null
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Rujak cingur",
+          "id": "Rujak cingur",
+          "ja": "ルジャック・チングル"
+        },
+        "note": {
+          "en": "Associated with Surabaya, this salad combines vegetables, cow snout and a petis-based dressing.",
+          "id": "Rujak khas Surabaya ini memadukan sayuran, cingur sapi, dan bumbu berbahan petis.",
+          "ja": "スラバヤゆかりの料理で、野菜や牛の鼻先の肉を、プティスを使うたれで和えます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Rujak_cingur",
+        "image": {
+          "id": "east-java-food-rujak-cingur",
+          "path": "/assets/img/east-java-food-rujak-cingur.webp",
+          "title": "Rujak Cingur.jpg",
+          "artist": "Gunkarta  at  English Wikipedia",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Rujak_Cingur.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Ludruk",
+          "id": "Ludruk",
+          "ja": "ルドゥルック"
+        },
+        "note": {
+          "en": "East Javanese folk theatre combines everyday stories with humor, music and dance.",
+          "id": "Teater rakyat Jawa Timur ini memadukan kisah keseharian dengan humor, musik, dan tari.",
+          "ja": "東ジャワの民衆演劇で、日常の物語に笑い、音楽、踊りを織り交ぜます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Ludruk",
+        "image": null
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Reog Ponorogo",
+          "id": "Reog Ponorogo",
+          "ja": "レオグ・ポノロゴ"
+        },
+        "note": {
+          "en": "Ponorogo’s performance tradition features a lion-faced mask crowned with peacock feathers.",
+          "id": "Seni pertunjukan Ponorogo ini menampilkan topeng singa berhias bulu merak.",
+          "ja": "ポノロゴの芸能で、クジャクの羽を飾った獅子の顔の大きな仮面が登場します。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Reog",
+        "image": null
+      },
+      {
+        "province": "ID_JI",
+        "name": {
+          "en": "Gandrung Banyuwangi",
+          "id": "Gandrung Banyuwangi",
+          "ja": "ガンドゥルン・バニュワンギ"
+        },
+        "note": {
+          "en": "Gandrung is a dance tradition associated with Banyuwangi’s Osing community.",
+          "id": "Gandrung merupakan tradisi tari yang terkait dengan masyarakat Osing di Banyuwangi.",
+          "ja": "ガンドゥルンは、バニュワンギのオシンの人々にゆかりのある舞踊です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Gandrung_Banyuwangi",
+        "image": {
+          "id": "east-java-art-gandrung",
+          "path": "/assets/img/east-java-art-gandrung.webp",
+          "title": "Eksotika Penari Gandrung Banyuwangi.jpg",
+          "artist": "Ivuvisual",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Eksotika_Penari_Gandrung_Banyuwangi.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_JI",
+      "name": {
+        "en": "Mount Bromo",
+        "id": "Gunung Bromo",
+        "ja": "ブロモ山"
+      },
+      "video": "EpEe4gpKJ98",
+      "videoTitle": "Feeling Indonesia Through Dance | Bromo | Explore to Inspire",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_JI",
+      "name": {
+        "en": "Ijen Crater",
+        "id": "Kawah Ijen",
+        "ja": "イジェン火口"
+      },
+      "video": "OooHrN6aRnQ",
+      "videoTitle": "Explore Kawah Ijen, Pesona di Ujung Pulau Jawa",
+      "videoAuthor": "Froyonion"
+    },
+    {
+      "province": "ID_JI",
+      "name": {
+        "en": "Tumpak Sewu Waterfall",
+        "id": "Air Terjun Tumpak Sewu",
+        "ja": "トゥンパック・セウ滝"
+      },
+      "video": "9L4UdnAfRJc",
+      "videoTitle": "Guide to Tumpak Sewu: Massive Waterfalls on East Java",
+      "videoAuthor": "Jared Dillingham"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_JI",
+      "text": {
+        "en": "Ludruk is an East Javanese folk theatre form performed with humor and music.",
+        "id": "Ludruk adalah teater rakyat Jawa Timur dengan humor dan musik.",
+        "ja": "ルドゥルックは、笑いと音楽を伴う東ジャワの民衆演劇です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Ludruk"
+    },
+    {
+      "province": "ID_JI",
+      "text": {
+        "en": "Rawon’s characteristic dark broth is colored by keluak nuts.",
+        "id": "Kuah gelap khas rawon memperoleh warnanya dari kluwek.",
+        "ja": "ラウォンの独特の黒いスープは、クルアックの実で色づけされます。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Rawon"
+    },
+    {
+      "province": "ID_JI",
+      "text": {
+        "en": "Madura batik is produced in centers including Bangkalan, Pamekasan and Sumenep.",
+        "id": "Batik Madura dibuat di sejumlah sentra, termasuk Bangkalan, Pamekasan, dan Sumenep.",
+        "ja": "マドゥラのバティックは、バンカラン、パムカサン、スムヌップなどの産地で制作されます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Batik_Madura"
+    }
+  ]
+}

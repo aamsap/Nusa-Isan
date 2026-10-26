@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_KS"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Baamar galung pancar matahari",
+          "id": "Baamar galung pancar matahari",
+          "ja": "バアマル・ガルン・パンチャル・マタハリ"
+        },
+        "note": {
+          "en": "This Banjar wedding ensemble combines sparkling decoration, golden accessories and floral adornments.",
+          "id": "Busana pengantin Banjar ini memadukan hiasan berkilau, aksesori keemasan, dan rangkaian bunga.",
+          "ja": "輝く装飾や金色の装身具、花飾りを組み合わせたバンジャルの婚礼衣装です。"
+        },
+        "source": "https://www.detik.com/kalimantan/budaya/d-8172884/4-baju-adat-kalimantan-selatan-warisan-budaya-banjar-yang-tetap-lestari",
+        "image": null
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Bagajah gamuling baular lulut",
+          "id": "Bagajah gamuling baular lulut",
+          "ja": "バガジャ・ガムリン・バウラル・ルルット"
+        },
+        "note": {
+          "en": "In this Banjar wedding style, the bride wears an udat chest wrap with jasmine adornments.",
+          "id": "Dalam busana pengantin Banjar ini, mempelai perempuan mengenakan kemben udat dengan hiasan bunga melati.",
+          "ja": "花嫁がウダットと呼ばれる胸布とジャスミンの花飾りを身に着ける、バンジャルの婚礼衣装です。"
+        },
+        "source": "https://www.detik.com/kalimantan/budaya/d-8172884/4-baju-adat-kalimantan-selatan-warisan-budaya-banjar-yang-tetap-lestari",
+        "image": null
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Babaju kun galung pacinan",
+          "id": "Babaju kun galung pacinan",
+          "ja": "ババジュ・クン・ガルン・パチナン"
+        },
+        "note": {
+          "en": "This Banjar wedding style combines Chinese and Middle Eastern influences.",
+          "id": "Busana pengantin Banjar ini memadukan pengaruh budaya Tiongkok dan Timur Tengah.",
+          "ja": "中国と中東の文化的影響を取り入れた、バンジャルの婚礼衣装です。"
+        },
+        "source": "https://www.detik.com/kalimantan/budaya/d-8172884/4-baju-adat-kalimantan-selatan-warisan-budaya-banjar-yang-tetap-lestari",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Soto Banjar",
+          "id": "Soto Banjar",
+          "ja": "ソト・バンジャル"
+        },
+        "note": {
+          "en": "This aromatic chicken soup is commonly served with rice cakes, potato patties and boiled egg.",
+          "id": "Soto ayam beraroma rempah ini biasa disajikan dengan ketupat, perkedel kentang, dan telur rebus.",
+          "ja": "香辛料が香る鶏のスープで、クトゥパットやジャガイモの揚げ団子、ゆで卵を添えます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/south-kalimantan",
+        "image": {
+          "id": "south-kalimantan-food",
+          "path": "/assets/img/south-kalimantan-food.webp",
+          "title": "Soto Banjar 1.jpg",
+          "artist": "Fitri Penyalai",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Soto_Banjar_1.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Ketupat Kandangan",
+          "id": "Ketupat Kandangan",
+          "ja": "クトゥパット・カンダンガン"
+        },
+        "note": {
+          "en": "Rice cakes from Kandangan are served with snakehead fish and a seasoned coconut-milk sauce.",
+          "id": "Ketupat khas Kandangan disajikan dengan ikan haruan dan kuah santan berbumbu.",
+          "ja": "カンダンガンのクトゥパットに、雷魚と香辛料入りのココナッツミルクの汁を合わせます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Ketupat_Kandangan?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Bingka",
+          "id": "Bingka",
+          "ja": "ビンカ"
+        },
+        "note": {
+          "en": "This soft, sweet Banjar cake uses eggs and coconut milk and is often baked in a flower-shaped mould.",
+          "id": "Kue Banjar yang manis dan lembut ini memakai telur serta santan dan sering dipanggang dalam cetakan bunga.",
+          "ja": "卵とココナッツミルクを使う甘く柔らかなバンジャルの菓子で、花形の型で焼くことが多いです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Bingka?oldformat=true",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Madihin",
+          "id": "Madihin",
+          "ja": "マディヒン"
+        },
+        "note": {
+          "en": "Banjar performers deliver witty verse with percussion, sharing humour, advice and social commentary.",
+          "id": "Seniman Banjar membawakan syair jenaka dengan tabuhan, menyampaikan humor, nasihat, dan kritik sosial.",
+          "ja": "打楽器に合わせて機知に富む詩を語り、笑いや教訓、社会への批評を伝えるバンジャルの芸能です。"
+        },
+        "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/madihin",
+        "image": null
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Mamanda theatre",
+          "id": "Teater Mamanda",
+          "ja": "ママンダ劇"
+        },
+        "note": {
+          "en": "This traditional theatre stages royal stories with familiar character roles and lively audience interaction.",
+          "id": "Teater tradisional ini mengangkat kisah kerajaan dengan tokoh baku dan interaksi yang hidup bersama penonton.",
+          "ja": "王や大臣などの定型的な登場人物が王国の物語を演じ、観客との掛け合いも楽しむ伝統劇です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Mamanda?oldformat=true",
+        "image": null
+      },
+      {
+        "province": "ID_KS",
+        "name": {
+          "en": "Sasirangan textile craft",
+          "id": "Kerajinan kain Sasirangan",
+          "ja": "サシランガンの染織工芸"
+        },
+        "note": {
+          "en": "Banjar artisans create patterned cloth using running stitches and resist-dyeing techniques.",
+          "id": "Perajin Banjar membuat kain bermotif dengan teknik jelujur dan pewarnaan ikat celup.",
+          "ja": "布を縫い絞って染め分け、独特の模様を生み出すバンジャルの染織工芸です。"
+        },
+        "source": "https://www.indonesia.travel/id/id/destination/kalimantan/south-kalimantan",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_KS",
+      "name": {
+        "en": "Lok Baintan Floating Market",
+        "id": "Pasar Terapung Lok Baintan",
+        "ja": "ロック・バインタン水上マーケット"
+      },
+      "video": "tdpAGZ73mMw",
+      "videoTitle": "Pasar Terapung Lok Baintan \"Tumbuh Bersama Kita\" - Wisata Kalimantan",
+      "videoAuthor": "Wisata Kalimantan"
+    },
+    {
+      "province": "ID_KS",
+      "name": {
+        "en": "Loksado bamboo-rafting river",
+        "id": "Sungai untuk bamboo rafting di Loksado",
+        "ja": "ロクサドの竹いかだ下り"
+      },
+      "video": "gZCCwxMC6AU",
+      "videoTitle": "Loksado - Bamboo Rafting in the Mountains, South Kalimantan",
+      "videoAuthor": "Kristian Hansen"
+    },
+    {
+      "province": "ID_KS",
+      "name": {
+        "en": "Sultan Suriansyah Mosque",
+        "id": "Masjid Sultan Suriansyah",
+        "ja": "スルタン・スリアンシャー・モスク"
+      },
+      "video": "QrZNQ8KMyuU",
+      "videoTitle": "CERITA SINGKAT MASJID SULTAN SURIANSYAH BANJARMASIN",
+      "videoAuthor": "Video ODAN"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_KS",
+      "text": {
+        "en": "Madihin combines witty verse and rhythmic percussion, serving as entertainment and a medium for moral messages and social commentary.",
+        "id": "Madihin memadukan syair jenaka dan irama tabuhan sebagai hiburan sekaligus sarana pesan moral serta kritik sosial.",
+        "ja": "マディヒンは機知に富む詩と打楽器を組み合わせ、娯楽とともに教訓や社会への批評を伝えます。"
+      },
+      "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/madihin"
+    },
+    {
+      "province": "ID_KS",
+      "text": {
+        "en": "At Lok Baintan Floating Market in Banjar Regency, traders sell local goods from wooden boats called jukung.",
+        "id": "Di Pasar Terapung Lok Baintan, Kabupaten Banjar, pedagang menjual hasil lokal dari perahu kayu yang disebut jukung.",
+        "ja": "バンジャル県のロック・バインタン水上マーケットでは、ジュクンと呼ばれる木舟で地元の品物を売買します。"
+      },
+      "source": "https://www.indonesia.travel/id/id/destination/kalimantan/south-kalimantan"
+    },
+    {
+      "province": "ID_KS",
+      "text": {
+        "en": "The Banjar Bubungan Tinggi house is recognised by its steep, towering roof and was historically associated with royal and noble households.",
+        "id": "Rumah Bubungan Tinggi khas Banjar memiliki atap curam menjulang dan dahulu berkaitan dengan keluarga kesultanan serta bangsawan.",
+        "ja": "バンジャルのブブンガン・ティンギ家屋は高く急勾配の屋根が特徴で、かつて王族や貴族の住まいでした。"
+      },
+      "source": "https://www.indonesia.travel/id/id/destination/kalimantan/south-kalimantan"
+    }
+  ]
+}

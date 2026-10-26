@@ -1,0 +1,223 @@
+{
+  "provinces": [
+    "ID_PB",
+    "ID_PD"
+  ],
+  "mergeReason": "Southwest Papua lacked three independently verified, locally specific clothing entries within its post-2022 borders, so this neighbouring pair shares a modal.",
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Arfak ceremonial attire: maya",
+          "id": "Busana adat Arfak: maya",
+          "ja": "アルファクの儀礼衣装：マヤ"
+        },
+        "note": {
+          "en": "Male Tumbu Tanah dancers traditionally wear a maya loincloth made from dried bark.",
+          "id": "Penari lelaki Tumbu Tanah secara tradisional mengenakan cawat maya dari kulit kayu kering.",
+          "ja": "トゥンブ・タナを踊る男性は、伝統的に乾いた樹皮で作る腰布マヤを身に着けます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah",
+        "image": null
+      },
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Sre-a dance wrap",
+          "id": "Kain tari sre-a",
+          "ja": "踊りの巻き布スレア"
+        },
+        "note": {
+          "en": "Arfak women’s Tumbu Tanah dress now uses a long cloth wrapped from chest downward.",
+          "id": "Busana penari perempuan Arfak kini memakai kain panjang yang dililit dari dada ke bawah.",
+          "ja": "アルファクの女性の踊りでは、現在は胸から下を長い布で包みます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah",
+        "image": null
+      },
+      {
+        "province": "ID_PD",
+        "name": {
+          "en": "Raja Ampat noken accessory",
+          "id": "Aksesori noken Raja Ampat",
+          "ja": "ラジャ・アンパットのノケン"
+        },
+        "note": {
+          "en": "In Raja Ampat, woven noken bags include examples made from pandan-like mat leaves.",
+          "id": "Di Raja Ampat, tas noken anyaman antara lain dibuat dari daun tikar.",
+          "ja": "ラジャ・アンパットでは、葉を編んで作るノケンの袋が見られます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Noken",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Papeda",
+          "id": "Papeda",
+          "ja": "パペダ"
+        },
+        "note": {
+          "en": "In Manokwari, sticky sago porridge is often served with yellow fish soup.",
+          "id": "Di Manokwari, papeda sagu yang lengket lazim disajikan bersama ikan kuah kuning.",
+          "ja": "マノクワリでは、粘りのあるサゴのかゆを黄色い魚のスープとともに食べます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat",
+        "image": null
+      },
+      {
+        "province": "ID_PD",
+        "name": {
+          "en": "Sago-based foods of Bariat",
+          "id": "Pangan sagu Bariat",
+          "ja": "バリアットのサゴ食"
+        },
+        "note": {
+          "en": "Afsya families in Bariat, South Sorong, process sago from their customary forests as a staple.",
+          "id": "Keluarga Afsya di Bariat, Sorong Selatan, mengolah sagu hutan adat sebagai makanan pokok.",
+          "ja": "南ソロンのバリアットでは、アフシャの人々が慣習林のサゴを主食として加工します。"
+        },
+        "source": "https://telusuri.id/sagu-keramat-kampung-bariat/",
+        "image": null
+      },
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Manokwari grilled fish",
+          "id": "Ikan bakar Manokwari",
+          "ja": "マノクワリの焼き魚"
+        },
+        "note": {
+          "en": "Fresh grilled fish is topped with a lively chilli, shallot and lime sambal.",
+          "id": "Ikan bakar segar diberi sambal cabai, bawang merah, dan jeruk nipis yang kuat rasanya.",
+          "ja": "焼き魚に唐辛子、赤玉ねぎ、ライムの鮮やかなサンバルをかけます。"
+        },
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Tumbu Tanah dance (Arfak)",
+          "id": "Tari Tumbu Tanah (Arfak)",
+          "ja": "トゥンブ・タナの踊り（アルファク）"
+        },
+        "note": {
+          "en": "Arfak communities perform this collective dance for weddings and welcoming guests.",
+          "id": "Masyarakat Arfak menarikan tari bersama ini untuk perkawinan dan penyambutan tamu.",
+          "ja": "アルファクの人々が、結婚式や来客を迎える場でともに踊る伝統です。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah",
+        "image": {
+          "id": "west-papua-dance",
+          "path": "/assets/img/west-papua-dance.webp",
+          "title": "Tari Tumbu Tanah (1).jpg",
+          "artist": "Keenan63",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Tari_Tumbu_Tanah_(1).jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_PD",
+        "name": {
+          "en": "Moi Egek customary stewardship",
+          "id": "Tata kelola adat Egek Moi",
+          "ja": "モイのエゲックによる資源管理"
+        },
+        "note": {
+          "en": "In Malaumkarta, Moi communities temporarily close fishing areas so marine resources can recover.",
+          "id": "Di Malaumkarta, masyarakat Moi menutup sementara area tangkap agar sumber daya laut pulih.",
+          "ja": "マラウムカルタでは、モイの人々が漁場を一時閉鎖し、海の資源の回復を促します。"
+        },
+        "source": "https://ykan.or.id/en/publications/articles/press-release/ratifies-customary-regulation-for-marine-and-coastal-conservation",
+        "image": null
+      },
+      {
+        "province": "ID_PB",
+        "name": {
+          "en": "Arfak monga weaving",
+          "id": "Kerajinan monga Arfak",
+          "ja": "アルファクのモンガ作り"
+        },
+        "note": {
+          "en": "Women in Manokwari make Arfak noken using mincauw bark fibre and pineapple-leaf fibre.",
+          "id": "Perempuan di Manokwari membuat noken Arfak dari serat kulit kayu mincauw dan pelepah nanas.",
+          "ja": "マノクワリの女性たちは、ミンチャウの樹皮やパイナップルの葉の繊維でノケンを作ります。"
+        },
+        "source": "https://www.antaranews.com/berita/4339271/semangat-perempuan-perempuan-arfak-melestarikan-noken",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_PB",
+      "name": {
+        "en": "Mansinam Island, Manokwari",
+        "id": "Pulau Mansinam, Manokwari",
+        "ja": "マノクワリのマンシナム島"
+      },
+      "video": "eNQQn0G58jY",
+      "videoTitle": "PULAU MANSINAM | Pesona Wisata, Sejarah & Budaya di Tanah Papua",
+      "videoAuthor": "Pokdarwis Mansinam"
+    },
+    {
+      "province": "ID_PD",
+      "name": {
+        "en": "Raja Ampat Islands",
+        "id": "Kepulauan Raja Ampat",
+        "ja": "ラジャ・アンパット諸島"
+      },
+      "video": "05bHAQEimOE",
+      "videoTitle": "Raja Ampat - The Kings of the Ocean",
+      "videoAuthor": "Wonderful Indonesia"
+    },
+    {
+      "province": "ID_PB",
+      "name": {
+        "en": "Arfak Mountains",
+        "id": "Pegunungan Arfak",
+        "ja": "アルファク山地"
+      },
+      "video": "ZjRSrmIftwk",
+      "videoTitle": "KOTA TERAMAN DI PAPUA I Pegunungan Arfak.",
+      "videoAuthor": "Berlian Daandel"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_PB",
+      "text": {
+        "en": "The Hatam, Moile, Meyah and Sougb communities use different names for the shared Tumbu Tanah dance tradition.",
+        "id": "Komunitas Hatam, Moile, Meyah, dan Sougb memiliki nama berbeda untuk tradisi tari Tumbu Tanah.",
+        "ja": "ハタム、モイレ、メヤ、ソウブの共同体では、共通するトゥンブ・タナの踊りを異なる名前で呼びます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah"
+    },
+    {
+      "province": "ID_PD",
+      "text": {
+        "en": "Egek is practised by Moi communities in Malaumkarta, Sorong Regency, now part of Southwest Papua.",
+        "id": "Egek dipraktikkan masyarakat Moi di Malaumkarta, Kabupaten Sorong, yang kini termasuk Papua Barat Daya.",
+        "ja": "エゲックは、現在の南西パプア州ソロン県マラウムカルタで、モイの人々が実践しています。"
+      },
+      "source": "https://ykan.or.id/en/publications/articles/press-release/ratifies-customary-regulation-for-marine-and-coastal-conservation"
+    },
+    {
+      "province": "ID_PD",
+      "text": {
+        "en": "In Bariat, South Sorong, the Afsya community maintains inherited knowledge of harvesting and processing sago.",
+        "id": "Di Bariat, Sorong Selatan, masyarakat Afsya menjaga pengetahuan turun-temurun untuk memanen dan mengolah sagu.",
+        "ja": "南ソロンのバリアットでは、アフシャの人々がサゴの収穫と加工に関する知識を代々伝えています。"
+      },
+      "source": "https://telusuri.id/sagu-keramat-kampung-bariat/"
+    }
+  ]
+}

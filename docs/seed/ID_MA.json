@@ -1,0 +1,34 @@
+{
+ "code": "ID_MA",
+ "province": "Maluku",
+ "region": "Maluku",
+ "community": "Ambonese and other Maluku communities",
+ "existing_primary": {
+  "clothing": "Baju cele",
+  "food": "Papeda",
+  "art": "Cakalele",
+  "landmark": "Banda Neira"
+ },
+ "primary_image": {
+  "id": "maluku-dance",
+  "path": "/assets/img/maluku-dance.webp",
+  "title": "Cakalele - Maluku.jpg",
+  "artist": "Ardian Djati",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cakalele_-_Maluku.jpg",
+  "changes": "Resized and converted to WebP"
+ },
+ "existing_video": {
+  "id": "4fwNNY8RL9M",
+  "title": "See Indonesia; Banda Neira, The Land of Spice",
+  "author": "SEA Today News",
+  "source": "https://www.youtube.com/watch?v=4fwNNY8RL9M"
+ },
+ "existing_fact": {
+  "en": "Cakalele takes different forms among communities across Maluku.",
+  "id": "Cakalele memiliki ragam bentuk di berbagai komunitas Maluku.",
+  "ja": "チャカレレにはマルク各地の共同体ごとに異なる形があります。"
+ },
+ "existing_source": null
+}

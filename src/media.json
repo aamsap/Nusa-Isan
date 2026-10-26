@@ -1,0 +1,412 @@
+[
+  {
+    "id": "aceh-dance",
+    "path": "/assets/img/aceh-dance.webp",
+    "title": "Saman Dance, Aceh Indonesia.jpg",
+    "artist": "IrmaRosalina",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saman_Dance,_Aceh_Indonesia.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "north-sumatra-textile",
+    "path": "/assets/img/north-sumatra-textile.webp",
+    "title": "Weaving ulos cloth.jpg",
+    "artist": "Nocomentapapun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weaving_ulos_cloth.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-sumatra-food",
+    "path": "/assets/img/west-sumatra-food.webp",
+    "title": "Beef Rendang..JPG",
+    "artist": "Miansari66",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Beef_Rendang..JPG",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "south-sumatra-food",
+    "path": "/assets/img/south-sumatra-food.webp",
+    "title": "Pempek Palembang.jpg",
+    "artist": "Prambors FM",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pempek_Palembang.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "lampung-textile",
+    "path": "/assets/img/lampung-textile.webp",
+    "title": "Woman's Ceremonial Skirt (Tapis) MET DP145517.jpg",
+    "artist": "Unknown",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Ceremonial_Skirt_(Tapis)_MET_DP145517.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-java-dance",
+    "path": "/assets/img/west-java-dance.webp",
+    "title": "Jaipong indonesian culture.jpg",
+    "artist": "Fachrie athallah",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaipong_indonesian_culture.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "central-java-art",
+    "path": "/assets/img/central-java-art.webp",
+    "title": "Wayang Kulit, Central Java cropped.jpg",
+    "artist": "ASITRAC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wayang_Kulit,_Central_Java_cropped.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "yogyakarta-food",
+    "path": "/assets/img/yogyakarta-food.webp",
+    "title": "Gudeg Ayam.jpg",
+    "artist": "Indonesiagood",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gudeg_Ayam.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "bali-dance",
+    "path": "/assets/img/bali-dance.webp",
+    "title": "Kecak Dance Bali.jpg",
+    "artist": "Dhani ilham",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kecak_Dance_Bali.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "east-nusa-textile",
+    "path": "/assets/img/east-nusa-textile.webp",
+    "title": "Tenun Ikat Kodi, SBD, NTT.jpg",
+    "artist": "Rintobili",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tenun_Ikat_Kodi,_SBD,_NTT.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-kalimantan-textile",
+    "path": "/assets/img/west-kalimantan-textile.webp",
+    "title": "Kain Samping Songket Lelaki.jpg",
+    "artist": "Andiamd",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kain_Samping_Songket_Lelaki.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "south-sulawesi-culture",
+    "path": "/assets/img/south-sulawesi-culture.webp",
+    "title": "Tongkonan traditionnal Toraja house.jpg",
+    "artist": "Benoît Vicart",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Tongkonan_traditionnal_Toraja_house.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "papua-textile",
+    "path": "/assets/img/papua-textile.webp",
+    "title": "Membuat noken.jpg",
+    "artist": "Keenan63",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Membuat_noken.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "south-papua-art",
+    "path": "/assets/img/south-papua-art.webp",
+    "title": "Asmat Carving.jpg",
+    "artist": "Si Gam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asmat_Carving.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "jakarta-food",
+    "path": "/assets/img/jakarta-food.webp",
+    "title": "Kerak telor Betawi.jpg",
+    "artist": "Warta Kota",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerak_telor_Betawi.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "banten-dance",
+    "path": "/assets/img/banten-dance.webp",
+    "title": "Debus, The Ancient Martial Art and Culture of Banten.jpg",
+    "artist": "Ministry of Tourism, Republic of Indonesia",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Debus,_The_Ancient_Martial_Art_and_Culture_of_Banten.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Debus,_The_Ancient_Martial_Art_and_Culture_of_Banten.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "east-java-food",
+    "path": "/assets/img/east-java-food.webp",
+    "title": "Rawon Setan.jpg",
+    "artist": "christian r from Jakarta",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rawon_Setan.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-nusa-dance",
+    "path": "/assets/img/west-nusa-dance.webp",
+    "title": "Peresean Traditional Sport of Sasak Tribe.jpg",
+    "artist": "RaiyaniM",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peresean_Traditional_Sport_of_Sasak_Tribe.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "south-kalimantan-food",
+    "path": "/assets/img/south-kalimantan-food.webp",
+    "title": "Soto Banjar 1.jpg",
+    "artist": "Fitri Penyalai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Soto_Banjar_1.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "north-sulawesi-food",
+    "path": "/assets/img/north-sulawesi-food.webp",
+    "title": "Tinutuan bubur Manado.JPG",
+    "artist": "Midori",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tinutuan_bubur_Manado.JPG",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "gorontalo-food",
+    "path": "/assets/img/gorontalo-food.webp",
+    "title": "Binte Biluhuta.jpg",
+    "artist": "Supardisahabu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Binte_Biluhuta.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "central-sulawesi-food",
+    "path": "/assets/img/central-sulawesi-food.webp",
+    "title": "Sup Kaledo.jpg",
+    "artist": "Supardisahabu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sup_Kaledo.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "maluku-dance",
+    "path": "/assets/img/maluku-dance.webp",
+    "title": "Cakalele - Maluku.jpg",
+    "artist": "Ardian Djati",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cakalele_-_Maluku.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "jambi-textile",
+    "path": "/assets/img/jambi-textile.webp",
+    "title": "Batik-jambi.jpg",
+    "artist": "Aditya alakbar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Batik-jambi.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "bengkulu-food",
+    "path": "/assets/img/bengkulu-food.webp",
+    "title": "Pendap from Bengkulu - IMG 20220210 181317 298.jpg",
+    "artist": "Naval Scene",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pendap_from_Bengkulu_-_IMG_20220210_181317_298.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "bangka-food",
+    "path": "/assets/img/bangka-food.webp",
+    "title": "Lempah kuning.JPG",
+    "artist": "Taman Renyah",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lempah_kuning.JPG",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "central-kalimantan-textile",
+    "path": "/assets/img/central-kalimantan-textile.webp",
+    "title": "Baju Sangkarut.jpg",
+    "artist": "Martini Rahman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baju_Sangkarut.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "east-kalimantan-dance",
+    "path": "/assets/img/east-kalimantan-dance.webp",
+    "title": "Tari Hudoq.jpg",
+    "artist": "Herusutimbul",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tari_Hudoq.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "south-sulawesi-food",
+    "path": "/assets/img/south-sulawesi-food.webp",
+    "title": "Coto Makassar dish.JPG",
+    "artist": "(Lofor)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coto_Makassar_dish.JPG",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "north-maluku-food",
+    "path": "/assets/img/north-maluku-food.webp",
+    "title": "Gohu Ikan in Ternate.jpg",
+    "artist": "M.akbar.raf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gohu_Ikan_in_Ternate.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-papua-dance",
+    "path": "/assets/img/west-papua-dance.webp",
+    "title": "Tari Tumbu Tanah (1).jpg",
+    "artist": "Keenan63",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tari_Tumbu_Tanah_(1).jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "central-papua-art",
+    "path": "/assets/img/central-papua-art.webp",
+    "title": "Pengukiran patung Mbitoro.jpg",
+    "artist": "Kemdikbud",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pengukiran_patung_Mbitoro.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "aceh-food",
+    "path": "/assets/img/aceh-food.webp",
+    "title": "Mie Aceh with beef.jpg",
+    "artist": "Yasmina Haryono",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mie_Aceh_with_beef.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "bali-food-lilit",
+    "path": "/assets/img/bali-food-lilit.webp",
+    "title": "Sate Lilit.jpg",
+    "artist": "Kresnanta",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sate_Lilit.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "bali-art-legong",
+    "path": "/assets/img/bali-art-legong.webp",
+    "title": "Legong Dance Bali Indonesia.jpg",
+    "artist": "Philip Nalangan",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Legong_Dance_Bali_Indonesia.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "jakarta-clothing",
+    "path": "/assets/img/jakarta-clothing.webp",
+    "title": "Kebaya Encim Betawi 20240622 121405.jpg",
+    "artist": "Naval Scene",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kebaya_Encim_Betawi_20240622_121405.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "jakarta-art",
+    "path": "/assets/img/jakarta-art.webp",
+    "title": "Ondel Ondel Betawi.jpg",
+    "artist": "Herusutimbul",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ondel_Ondel_Betawi.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-java-food-batagor",
+    "path": "/assets/img/west-java-food-batagor.webp",
+    "title": "Batagor Bandung.jpg",
+    "artist": "Sabquesera",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Batagor_Bandung.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "west-java-art-angklung",
+    "path": "/assets/img/west-java-art-angklung.webp",
+    "title": "Pertunjukan Angklung di Saung Angklung Udjo.jpg",
+    "artist": "Irhanz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pertunjukan_Angklung_di_Saung_Angklung_Udjo.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "yogyakarta-food-bakpia",
+    "path": "/assets/img/yogyakarta-food-bakpia.webp",
+    "title": "Bakpia pathuk.jpg",
+    "artist": "Jmarlon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bakpia_pathuk.jpg",
+    "changes": "Resized and converted to WebP"
+  },
+  {
+    "id": "yogyakarta-art-wayang",
+    "path": "/assets/img/yogyakarta-art-wayang.webp",
+    "title": "Yogyakarta Indonesia Handcrafting-of-Wayang-kulit-01.jpg",
+    "artist": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Handcrafting-of-Wayang-kulit-01.jpg",
+    "changes": "Resized and converted to WebP"
+  }
+]

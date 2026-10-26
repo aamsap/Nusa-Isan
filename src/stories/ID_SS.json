@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_SS"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Aesan Gede",
+          "id": "Aesan Gede",
+          "ja": "アエサン・グデ"
+        },
+        "note": {
+          "en": "Palembang bridal dress combines songket with elaborate golden ornaments.",
+          "id": "Busana pengantin Palembang memadukan songket dengan perhiasan keemasan yang megah.",
+          "ja": "パレンバンの婚礼衣装で、ソンケット織に華やかな金色の装飾を合わせます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Aesan Paksangko",
+          "id": "Aesan Paksangko",
+          "ja": "アエサン・パクサンコ"
+        },
+        "note": {
+          "en": "This Palembang wedding ensemble pairs embroidered songket with a distinctive headdress.",
+          "id": "Busana pernikahan Palembang ini memadukan songket bersulam dengan hiasan kepala khas.",
+          "ja": "刺繍入りのソンケット織と独特の頭飾りを合わせるパレンバンの婚礼衣装です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Lepus songket",
+          "id": "Songket lepus",
+          "ja": "ルプス・ソンケット"
+        },
+        "note": {
+          "en": "Lepus songket appears in the ceremonial clothing of Palembang brides and grooms.",
+          "id": "Songket lepus digunakan dalam busana upacara pengantin perempuan dan laki-laki Palembang.",
+          "ja": "パレンバンの花嫁と花婿の礼装に用いられるソンケット織です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Pempek",
+          "id": "Pempek",
+          "ja": "プンペッ"
+        },
+        "note": {
+          "en": "These Palembang fish-and-tapioca cakes are served with tangy cuko sauce.",
+          "id": "Olahan ikan dan tapioka khas Palembang ini disajikan dengan kuah cuko bercita rasa asam.",
+          "ja": "魚とタピオカ粉で作るパレンバンの練り物で、酸味のあるチュコを添えます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": {
+          "id": "south-sumatra-food",
+          "path": "/assets/img/south-sumatra-food.webp",
+          "title": "Pempek Palembang.jpg",
+          "artist": "Prambors FM",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Pempek_Palembang.jpg",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Tekwan",
+          "id": "Tekwan",
+          "ja": "テクワン"
+        },
+        "note": {
+          "en": "Small fish-and-tapioca dumplings are served in a savory shrimp broth.",
+          "id": "Bola-bola kecil dari ikan dan tapioka disajikan dalam kuah udang yang gurih.",
+          "ja": "魚とタピオカ粉の小さな団子を、うま味のあるエビのスープでいただきます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Tekwan",
+        "image": null
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Mie celor",
+          "id": "Mie celor",
+          "ja": "ミー・チュロール"
+        },
+        "note": {
+          "en": "Palembang-style noodles come with a thick coconut-milk and shrimp broth.",
+          "id": "Mie celor gaya Palembang disajikan dengan kuah kental dari santan dan kaldu udang.",
+          "ja": "パレンバン式の麺料理で、ココナツミルクとエビだしの濃厚なスープをかけます。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Mie_celor",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Gending Sriwijaya dance",
+          "id": "Tari Gending Sriwijaya",
+          "ja": "グンディン・スリウィジャヤ舞踊"
+        },
+        "note": {
+          "en": "This Palembang welcome dance evokes the grandeur of the former Srivijaya kingdom.",
+          "id": "Tari penyambutan dari Palembang ini menggambarkan keagungan Kerajaan Sriwijaya dahulu.",
+          "ja": "かつてのスリウィジャヤ王国の栄華を表す、パレンバンの歓迎舞踊です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Tanggai dance",
+          "id": "Tari Tanggai",
+          "ja": "タンガイ舞踊"
+        },
+        "note": {
+          "en": "Graceful gestures and ornate local dress honor arriving guests.",
+          "id": "Gerak yang anggun dan busana daerah berhias digunakan untuk menghormati tamu yang datang.",
+          "ja": "優雅な身振りと華やかな郷土衣装で、訪れた客を歓迎します。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      },
+      {
+        "province": "ID_SS",
+        "name": {
+          "en": "Tenun Songket dance",
+          "id": "Tari Tenun Songket",
+          "ja": "トゥヌン・ソンケット舞踊"
+        },
+        "note": {
+          "en": "This dance portrays the daily work of women weaving South Sumatran songket.",
+          "id": "Tarian ini menggambarkan kegiatan sehari-hari perempuan menenun songket Sumatera Selatan.",
+          "ja": "南スマトラの女性たちがソンケットを織る日々の営みを表現する舞踊です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/South_Sumatra",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SS",
+      "name": {
+        "en": "Ampera Bridge, Palembang",
+        "id": "Jembatan Ampera, Palembang",
+        "ja": "アンペラ橋（パレンバン）"
+      },
+      "video": "-Ic3EC0I0Gs",
+      "videoTitle": "Antara Sejarah, Budaya, dan Potensi Wisata, Jembatan Ampera Palembang",
+      "videoAuthor": "KOMPASTV PALEMBANG"
+    },
+    {
+      "province": "ID_SS",
+      "name": {
+        "en": "Kemaro Island",
+        "id": "Pulau Kemaro",
+        "ja": "クマロ島"
+      },
+      "video": "Mb5qKTgrfuU",
+      "videoTitle": "Exploring Kemaro Island – A Sampan Journey #PulauKemaro",
+      "videoAuthor": "Gembelana"
+    },
+    {
+      "province": "ID_SS",
+      "name": {
+        "en": "Bukit Siguntang",
+        "id": "Bukit Siguntang",
+        "ja": "シグンタンの丘"
+      },
+      "video": "39iz27jp24Q",
+      "videoTitle": "BUKIT SIGUNTANG PALEMBANG",
+      "videoAuthor": "Bang brew Tv"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SS",
+      "text": {
+        "en": "Pempek is commonly served with cuko, a tangy, dark dipping sauce.",
+        "id": "Pempek biasa disajikan bersama cuko, kuah cocol bercita rasa asam.",
+        "ja": "プンペッには甘酸っぱい黒いソース「チュコ」を添えます。"
+      },
+      "source": "https://en.wikipedia.org/wiki/South_Sumatra"
+    },
+    {
+      "province": "ID_SS",
+      "text": {
+        "en": "Ampera Bridge connects Palembang’s Seberang Ulu and Seberang Ilir across the Musi River.",
+        "id": "Jembatan Ampera menghubungkan Seberang Ulu dan Seberang Ilir di Palembang melintasi Sungai Musi.",
+        "ja": "アンペラ橋はムシ川をまたぎ、パレンバンのスブラン・ウル地区とスブラン・イリル地区を結んでいます。"
+      },
+      "source": "https://id.wikipedia.org/wiki/Jembatan_Ampera"
+    },
+    {
+      "province": "ID_SS",
+      "text": {
+        "en": "Aesan Gede and Aesan Paksangko are two ceremonial bridal styles associated with Palembang.",
+        "id": "Aesan Gede dan Aesan Paksangko merupakan dua gaya busana pengantin adat yang dikenal di Palembang.",
+        "ja": "パレンバンには、アエサン・グデとアエサン・パクサンコという二つの代表的な婚礼衣装があります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/South_Sumatra"
+    }
+  ]
+}

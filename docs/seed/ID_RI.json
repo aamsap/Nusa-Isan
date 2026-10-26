@@ -1,0 +1,25 @@
+{
+ "code": "ID_RI",
+ "province": "Riau",
+ "region": "Sumatra",
+ "community": "Malay communities of Bengkalis",
+ "existing_primary": {
+  "clothing": "Baju kurung Melayu",
+  "food": "Asam pedas baung",
+  "art": "Zapin Meskom",
+  "landmark": "Siak Sri Indrapura Palace"
+ },
+ "primary_image": null,
+ "existing_video": {
+  "id": "YDe0H92CeLw",
+  "title": "Perjalanan ke Masa Lalu: Keajaiban Istana Siak yang Jarang Diungkap | Citraloka",
+  "author": "DAAI Magazine",
+  "source": "https://www.youtube.com/watch?v=YDe0H92CeLw"
+ },
+ "existing_fact": {
+  "en": "Zapin Meskom is a local Bengkalis tradition, related to but distinct from other zapin forms.",
+  "id": "Zapin Meskom berasal dari Bengkalis dan memiliki corak tersendiri di antara ragam zapin.",
+  "ja": "ザピン・メスコムはブンカリス独自の伝統で、他のザピンとは異なります。"
+ },
+ "existing_source": "https://prokopim.bengkaliskab.go.id/web/detailberita/17354/warisan-budaya-bengkalis,-zapin-meskom-catat-rekor-muri-tingkat-dunia"
+}

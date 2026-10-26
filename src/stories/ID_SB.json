@@ -1,0 +1,221 @@
+{
+  "provinces": [
+    "ID_SB"
+  ],
+  "sections": {
+    "clothing": [
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Bundo Kanduang dress",
+          "id": "Busana Bundo Kanduang",
+          "ja": "ブンド・カンドゥアンの衣装"
+        },
+        "note": {
+          "en": "This Minangkabau women’s ensemble includes a loose blouse and a distinctive head covering.",
+          "id": "Busana perempuan Minangkabau ini mencakup baju longgar dan penutup kepala yang khas.",
+          "ja": "ミナンカバウの女性の衣装で、ゆったりした上着と独特の頭飾りを組み合わせます。"
+        },
+        "source": "https://min.wikipedia.org/wiki/Pakaian_bundo_kanduang",
+        "image": null
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Suntiang",
+          "id": "Suntiang",
+          "ja": "スンティアン"
+        },
+        "note": {
+          "en": "Minangkabau brides wear this elaborate tiered headdress.",
+          "id": "Pengantin perempuan Minangkabau memakai hiasan kepala bertingkat ini.",
+          "ja": "ミナンカバウの花嫁が身に着ける、幾重にも重なる華やかな頭飾りです。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Suntiang",
+        "image": null
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Pandai Sikek songket",
+          "id": "Songket Pandai Sikek",
+          "ja": "パンダイ・シケッのソンケット"
+        },
+        "note": {
+          "en": "Weavers in Pandai Sikek create songket with decorative gold- or silver-colored threads.",
+          "id": "Penenun Pandai Sikek membuat songket dengan hiasan benang berwarna emas atau perak.",
+          "ja": "パンダイ・シケッでは、金色や銀色の糸を織り込んだソンケットを作ります。"
+        },
+        "source": "https://id.wikipedia.org/wiki/Songket_Pandai_Sikek",
+        "image": null
+      }
+    ],
+    "food": [
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Rendang",
+          "id": "Rendang",
+          "ja": "ルンダン"
+        },
+        "note": {
+          "en": "In Minangkabau cooking, meat is slowly cooked with coconut milk and spices until the sauce reduces.",
+          "id": "Dalam masakan Minangkabau, daging dimasak perlahan bersama santan dan rempah hingga kuah menyusut.",
+          "ja": "ミナンカバウの料理で、肉をココナツミルクと香辛料でじっくり煮詰めます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Rendang",
+        "image": {
+          "id": "west-sumatra-food",
+          "path": "/assets/img/west-sumatra-food.webp",
+          "title": "Beef Rendang..JPG",
+          "artist": "Miansari66",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Beef_Rendang..JPG",
+          "changes": "Resized and converted to WebP"
+        }
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Sate Padang",
+          "id": "Sate Padang",
+          "ja": "サテ・パダン"
+        },
+        "note": {
+          "en": "These West Sumatran skewers are served with a thick, spiced sauce.",
+          "id": "Sate khas Sumatera Barat ini disajikan dengan kuah kental berbumbu rempah.",
+          "ja": "西スマトラの串料理で、とろみのある香辛料入りのソースをかけます。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Sate_Padang",
+        "image": null
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Dendeng balado",
+          "id": "Dendeng balado",
+          "ja": "デンデン・バラド"
+        },
+        "note": {
+          "en": "Thin slices of beef are paired with a chili sauce in this Minangkabau dish.",
+          "id": "Irisan tipis daging sapi dipadukan dengan sambal dalam hidangan Minangkabau ini.",
+          "ja": "薄切りの牛肉に唐辛子のソースを合わせたミナンカバウ料理です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Dendeng",
+        "image": null
+      }
+    ],
+    "art": [
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Tari Piring",
+          "id": "Tari Piring",
+          "ja": "タリ・ピリン"
+        },
+        "note": {
+          "en": "Minangkabau dancers move rhythmically while holding plates in their hands.",
+          "id": "Penari Minangkabau bergerak berirama sambil memegang piring di tangan.",
+          "ja": "ミナンカバウの踊り手が両手に皿を持ち、リズミカルに踊ります。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Piring_dance",
+        "image": null
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Randai",
+          "id": "Randai",
+          "ja": "ランダイ"
+        },
+        "note": {
+          "en": "This Minangkabau theater combines storytelling, music, movement, and martial-arts elements.",
+          "id": "Teater Minangkabau ini memadukan cerita, musik, gerak, dan unsur silat.",
+          "ja": "物語、音楽、動き、武術の要素を組み合わせたミナンカバウの演劇です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Randai",
+        "image": null
+      },
+      {
+        "province": "ID_SB",
+        "name": {
+          "en": "Saluang",
+          "id": "Saluang",
+          "ja": "サルアン"
+        },
+        "note": {
+          "en": "The saluang is a bamboo flute used in Minangkabau music.",
+          "id": "Saluang adalah suling bambu yang digunakan dalam musik Minangkabau.",
+          "ja": "サルアンはミナンカバウの音楽で使われる竹笛です。"
+        },
+        "source": "https://en.wikipedia.org/wiki/Saluang",
+        "image": null
+      }
+    ]
+  },
+  "landmarks": [
+    {
+      "province": "ID_SB",
+      "name": {
+        "en": "Harau Valley",
+        "id": "Lembah Harau",
+        "ja": "ハラウ渓谷"
+      },
+      "video": "EHk1CeGJhX8",
+      "videoTitle": "INDONESIA – West Sumatra — 05: Harau Valley",
+      "videoAuthor": "Journey Beyond the Horizon"
+    },
+    {
+      "province": "ID_SB",
+      "name": {
+        "en": "Pagaruyung Palace",
+        "id": "Istana Basa Pagaruyung",
+        "ja": "パガルユン宮殿"
+      },
+      "video": "7_bb_rG-VMo",
+      "videoTitle": "Pesona Megahnya Istana Basa Pagaruyung Batusangkar Sumatera Barat",
+      "videoAuthor": "Tribunnews"
+    },
+    {
+      "province": "ID_SB",
+      "name": {
+        "en": "Jam Gadang",
+        "id": "Jam Gadang",
+        "ja": "ジャム・ガダン時計塔"
+      },
+      "video": "UVq5LF084PQ",
+      "videoTitle": "Jalan-Jalan Pagi di Jam Gadang Bukittinggi",
+      "videoAuthor": "Nugroho Febianto"
+    }
+  ],
+  "facts": [
+    {
+      "province": "ID_SB",
+      "text": {
+        "en": "Minangkabau society is known for matrilineal kinship traditions.",
+        "id": "Masyarakat Minangkabau dikenal dengan tradisi kekerabatan matrilineal.",
+        "ja": "ミナンカバウの社会には母系親族の伝統があります。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Minangkabau_people"
+    },
+    {
+      "province": "ID_SB",
+      "text": {
+        "en": "Rumah gadang houses are recognized by their dramatic, upward-curving roof ends.",
+        "id": "Rumah gadang dikenal melalui ujung atapnya yang melengkung ke atas.",
+        "ja": "ルマ・ガダンは、両端が大きく反り上がった屋根が特徴です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Rumah_Gadang"
+    },
+    {
+      "province": "ID_SB",
+      "text": {
+        "en": "In Tanah Datar, pacu jawi races take place in muddy rice fields after the harvest.",
+        "id": "Di Tanah Datar, pacu jawi berlangsung di sawah berlumpur setelah panen.",
+        "ja": "タナ・ダタルのパチュ・ジャウィは、収穫後の泥の水田で行う牛の競走です。"
+      },
+      "source": "https://en.wikipedia.org/wiki/Pacu_jawi"
+    }
+  ]
+}
