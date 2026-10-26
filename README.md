@@ -6,7 +6,7 @@ An interactive, multilingual cultural atlas for visitors at an event in Japan. *
 
 ```bash
 npm install
-npm run dev       # http://127.0.0.1:5178
+npm run dev       # http://127.0.0.1:5178 (or the next free port)
 npm run typecheck
 npm test
 npm run build

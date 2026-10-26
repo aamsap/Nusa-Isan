@@ -20,11 +20,11 @@
         "image": {
           "id": "id-sa-clothing-laku-tepu-sangihe",
           "path": "/assets/img/id-sa-clothing-laku-tepu-sangihe.webp",
-          "title": "Sulawesi Utara",
-          "artist": "Web source (unverified)",
+          "title": "Laku Tepu, Pakaian Adat Sulawesi Utara",
+          "artist": "Web source (www.kompas.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://id.wikipedia.org/wiki/Sulawesi_Utara",
+          "source": "https://www.kompas.com/skola/read/2021/02/25/141000969/laku-tepu-pakaian-adat-sulawesi-utara?page=all",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -68,11 +68,11 @@
         "image": {
           "id": "id-sa-clothing-bolaang-mongondow-traditional-dress",
           "path": "/assets/img/id-sa-clothing-bolaang-mongondow-traditional-dress.webp",
-          "title": "Rumah Adat Bolaang Mongondow",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://www.indonesia.travel/id/id/destination/sulawesi/north-sulawesi/rumah-adat-bolaang-mongondow",
+          "title": "Pakaian Adat Bolaang Mongondow.jpg",
+          "artist": "Ana Ainina",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Pakaian_Adat_Bolaang_Mongondow.jpg",
           "changes": "Resized and converted to WebP"
         }
       }
@@ -142,11 +142,11 @@
         "image": {
           "id": "id-sa-food-woku-seasoning",
           "path": "/assets/img/id-sa-food-woku-seasoning.webp",
-          "title": "Rica-Rica and Woku: Understanding Minahasan Heat",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://sulawesi.com/pt/articles/rica-rica-woku-minahasan-heat",
+          "title": "Woku rahang tuna.jpg",
+          "artist": "NazlyBiya",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Woku_rahang_tuna.jpg",
           "changes": "Resized and converted to WebP"
         }
       }
@@ -168,11 +168,11 @@
         "image": {
           "id": "id-sa-art-tulude-ceremony-sangihe",
           "path": "/assets/img/id-sa-art-tulude-ceremony-sangihe.webp",
-          "title": "    Yang unik dari Kepulauan Sangihe. - RRI.co.id\n",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://rri.co.id/manokwari/berita-lain/878890/yang-unik-dari-kepulauan-sangihe",
+          "title": "Kue tamo.jpg",
+          "artist": "Dianmasoara",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kue_tamo.jpg",
           "changes": "Resized and converted to WebP"
         }
       },

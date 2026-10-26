@@ -68,11 +68,11 @@
         "image": {
           "id": "id-st-clothing-ranta-barkcloth-clothing",
           "path": "/assets/img/id-st-clothing-ranta-barkcloth-clothing.webp",
-          "title": "Barkcloth Odyssey",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://cintabumiartisans.com/pages/barkcloth-odyssey",
+          "title": "Barkcloth dress of Lore Bada, Central Sulawesi.jpg",
+          "artist": "26Isabella",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Barkcloth_dress_of_Lore_Bada,_Central_Sulawesi.jpg",
           "changes": "Resized and converted to WebP"
         }
       }

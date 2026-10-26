@@ -68,11 +68,11 @@
         "image": {
           "id": "id-nt-clothing-manggarai-songke",
           "path": "/assets/img/id-nt-clothing-manggarai-songke.webp",
-          "title": "Traditional Dress of NTT (Nusa Tenggara Timur): 7 Named Costumes by Tribe",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://indahnesia.id/journal/mengenal-pakaian-adat-ntt",
+          "title": "Kain tenun songke Manggarai-Flores-NTT.jpg",
+          "artist": "Kresensia ngawas",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kain_tenun_songke_Manggarai-Flores-NTT.jpg",
           "changes": "Resized and converted to WebP"
         }
       }
@@ -142,11 +142,11 @@
         "image": {
           "id": "id-nt-food-catemak-jagung",
           "path": "/assets/img/id-nt-food-catemak-jagung.webp",
-          "title": "Katemak",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://grokipedia.com/page/katemak",
+          "title": "Jagung Bose.jpg",
+          "artist": "Blogger Eksis",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Jagung_Bose.jpg",
           "changes": "Resized and converted to WebP"
         }
       }

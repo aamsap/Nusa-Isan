@@ -120,11 +120,11 @@
         "image": {
           "id": "id-pd-food-sago-based-foods-of-bariat",
           "path": "/assets/img/id-pd-food-sago-based-foods-of-bariat.webp",
-          "title": "Papeda (food)",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://grokipedia.com/page/Papeda_(food)",
+          "title": "Papeda, Kuah Kuning, Ikan Tude Bakar 2.jpg",
+          "artist": "Gunawan Kartapranata",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Papeda,_Kuah_Kuning,_Ikan_Tude_Bakar_2.jpg",
           "changes": "Resized and converted to WebP"
         }
       },

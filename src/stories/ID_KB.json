@@ -20,11 +20,11 @@
         "image": {
           "id": "id-kb-clothing-sambas-songket",
           "path": "/assets/img/id-kb-clothing-sambas-songket.webp",
-          "title": "Blessings To Barkat Songket | Lembaga Gemawan",
-          "artist": "Web source (unverified)",
+          "title": "Kain Tenun Songket Sambas: Warisan Budaya Kalimantan",
+          "artist": "Web source (www.indonesia.travel)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://gemawan.org/en/blessings-to-barkat-songket",
+          "source": "https://www.indonesia.travel/us/en/travel-ideas/culture/kain-tenun-songket-sambas",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -94,11 +94,11 @@
         "image": {
           "id": "id-kb-food-sambas-spiced-porridge",
           "path": "/assets/img/id-kb-food-sambas-spiced-porridge.webp",
-          "title": "Bubur pedas",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://grokipedia.com/page/bubur_pedas",
+          "title": "Bubur 100618-4100 sbs.jpg",
+          "artist": "Wibowo Djatmiko (Wie146)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Bubur_100618-4100_sbs.jpg",
           "changes": "Resized and converted to WebP"
         }
       },

@@ -44,11 +44,11 @@
         "image": {
           "id": "id-bb-clothing-baju-seting",
           "path": "/assets/img/id-bb-clothing-baju-seting.webp",
-          "title": "Baju Adat Bangka Belitung : Nama, Ciri Khas, dan Keunikannya",
-          "artist": "Web source (unverified)",
+          "title": "Baju Seting dan Kain Cual, Pakaian Adat Bangka Belitung",
+          "artist": "Web source (regional.kompas.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-bangka-belitung",
+          "source": "https://regional.kompas.com/read/2022/03/08/160000378/baju-seting-dan-kain-cual-pakaian-adat-bangka-belitung?page=all",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -68,11 +68,11 @@
         "image": {
           "id": "id-bb-clothing-cual-cloth",
           "path": "/assets/img/id-bb-clothing-cual-cloth.webp",
-          "title": "Baju Adat Bangka Belitung : Nama, Ciri Khas, dan Keunikannya",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-bangka-belitung",
+          "title": "Kain limar (shoulder cloth) from Sumatra, Bangka Island, late 19th century, HAA.JPG",
+          "artist": "Hiart",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Kain_limar_(shoulder_cloth)_from_Sumatra,_Bangka_Island,_late_19th_century,_HAA.JPG",
           "changes": "Resized and converted to WebP"
         }
       }

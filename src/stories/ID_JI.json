@@ -118,11 +118,11 @@
         "image": {
           "id": "id-ji-food-soto-lamongan",
           "path": "/assets/img/id-ji-food-soto-lamongan.webp",
-          "title": "Soto Lamongan Cak Har",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://geokepo.id/en/lokasi/lamongan/soto-lamongan-cak-har",
+          "title": "Soto Lamongan.jpg",
+          "artist": "Wiwik P",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Soto_Lamongan.jpg",
           "changes": "Resized and converted to WebP"
         }
       },

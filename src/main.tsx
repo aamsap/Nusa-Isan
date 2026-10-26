@@ -33,18 +33,32 @@ function Credit({ image, language }: { image: Media; language: Language }) {
   const copy = t(language);
   return <p className="image-credit"><a href={image.source} target="_blank" rel="noreferrer">{copy.originalImage}: {image.title}</a><span> {copy.imageCredit}: {image.artist} · </span><a href={image.licenseUrl} target="_blank" rel="noreferrer">{image.license}</a><span> · {copy.imageChange}</span></p>;
 }
+function PhotoPreview({ photo, closeLabel, onClose }: { photo: { src: string; alt: string } | null; closeLabel: string; onClose: () => void }) {
+  const ref = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    if (photo && !el.open) el.showModal();
+    if (!photo && el.open) el.close();
+  }, [photo]);
+  return <dialog className="photo-preview" ref={ref} onClose={event => { event.stopPropagation(); onClose(); }} onCancel={event => event.stopPropagation()} onClick={event => { event.stopPropagation(); if (event.target === event.currentTarget) onClose(); }}>
+    {photo && <><button type="button" className="photo-preview-close" onClick={onClose} aria-label={closeLabel}>×</button><img src={photo.src} alt={photo.alt} /></>}
+  </dialog>;
+}
 function GroupStory({ group, language }: { group: StoryGroup; language: Language }) {
   const copy = t(language);
+  const [preview, setPreview] = useState<{ src: string; alt: string } | null>(null);
   const merged = group.provinces.length > 1;
   const tag = (code: string) => merged ? <span className="item-province">{cultureByCode[code]?.province}</span> : null;
   const titles: Record<SectionKind, string> = {clothing: copy.clothing, food: copy.food, art: copy.art};
   const markers: Record<SectionKind, string> = {clothing: '#8ed462', food: '#ff705d', art: '#2ba0ff'};
   return <article className="province-story">
+    <PhotoPreview photo={preview} closeLabel={copy.close} onClose={() => setPreview(null)} />
     <div className="story-heading"><span className="story-province-tag">{merged ? copy.mergedTag : copy.province}</span><h3>{group.provinces.map(code => cultureByCode[code]?.province).join(' · ')}</h3><p>{group.provinces.map(code => culturalTerm(cultureByCode[code], 'community', language)).join(' · ')}</p></div>
     {sectionKinds.map(kind => <section className="item-section" key={kind}>
       <div className="item-section-head"><span className="detail-marker" style={{backgroundColor: markers[kind]}} aria-hidden="true"/><h4>{titles[kind]}</h4></div>
       <ol className="item-grid">{group.sections[kind].map((item, index) => <li className="item-card" key={`${item.province}-${item.name.en}`} style={{'--i': index} as React.CSSProperties}>
-        {item.image ? <figure className="item-photo"><img loading="lazy" src={item.image.path} alt={item.name[language]} /><figcaption className="image-credit"><a href={item.image.source} target="_blank" rel="noreferrer">{copy.originalImage} ↗</a><span> · {item.image.artist}</span><span> · {item.image.licenseUrl ? <a href={item.image.licenseUrl} target="_blank" rel="noreferrer">{item.image.license}</a> : copy.licenseUnverified}</span><span> · {copy.imageChange}</span></figcaption></figure>
+        {item.image ? <figure className="item-photo"><button type="button" className="item-photo-button" onClick={() => setPreview({src: item.image!.path, alt: item.name[language]})} aria-label={`${copy.previewPhoto}: ${item.name[language]}`}><img loading="lazy" src={item.image.path} alt={item.name[language]} /></button></figure>
           : <div className="item-photo item-photo-empty" aria-hidden="true"><span>{['✳', '✶', '✦'][index % 3]}</span></div>}
         <div className="item-text">{tag(item.province)}<strong>{item.name[language]}</strong><p>{item.note[language]}</p><div className="item-links"><a className="item-source" href={item.source} target="_blank" rel="noreferrer">{copy.source} ↗</a>{item.image && <a className="item-photo-source" href={item.image.source} target="_blank" rel="noreferrer">{copy.photoSource} ↗</a>}</div></div>
       </li>)}</ol>

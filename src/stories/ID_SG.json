@@ -119,11 +119,11 @@
         "image": {
           "id": "id-sg-food-kasoami",
           "path": "/assets/img/id-sg-food-kasoami.webp",
-          "title": "Corn, Sago, and Sweet Potatoes that Cross the Ocean",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://kompas.id/artikel/en-jagung-sagu-dan-ubi-yang-mengarungi-samudra",
+          "title": "Kasuami.jpg",
+          "artist": "Arzan 88",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kasuami.jpg",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -143,11 +143,11 @@
         "image": {
           "id": "id-sg-food-kabuto",
           "path": "/assets/img/id-sg-food-kabuto.webp",
-          "title": "Sisemba and the Traditional Martial Arts of Sulawesi",
-          "artist": "Web source (unverified)",
+          "title": "Kabuto Pulau Muna » Budaya Indonesia",
+          "artist": "Web source (budaya-indonesia.org)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://sulawesi.com/pt/articles/sisemba-sulawesi-martial-arts",
+          "source": "https://budaya-indonesia.org/Kabuto-Warisan-Kuliner-Dari-Muna",
           "changes": "Resized and converted to WebP"
         }
       }
@@ -193,11 +193,11 @@
         "image": {
           "id": "id-sg-art-linda-dance",
           "path": "/assets/img/id-sg-art-linda-dance.webp",
-          "title": "Sulawesi Tenggara - Wikipedia bahasa Indonesia, ensiklopedia bebas",
-          "artist": "Web source (unverified)",
+          "title": "Berusia Ratusan Tahun, Tarian Linda Masih Bertahan di Buton",
+          "artist": "Web source (travel.kompas.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://id.wikipedia.org/wiki/Sulawesi_Tenggara",
+          "source": "https://travel.kompas.com/read/2016/03/14/223900027/Berusia.Ratusan.Tahun.Tarian.Linda.Masih.Bertahan.di.Buton?page=all",
           "changes": "Resized and converted to WebP"
         }
       },

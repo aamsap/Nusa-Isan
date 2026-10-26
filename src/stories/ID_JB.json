@@ -20,11 +20,11 @@
         "image": {
           "id": "id-jb-clothing-sundanese-kebaya",
           "path": "/assets/img/id-jb-clothing-sundanese-kebaya.webp",
-          "title": "Rumah Adat Jawa Barat",
-          "artist": "Web source (unverified)",
+          "title": "7 Baju Adat Sunda, Mulai dari Kebaya Hingga Menak",
+          "artist": "Web source (www.detik.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://interiorbali.com/rumah-adat-jawa-barat",
+          "source": "https://www.detik.com/jabar/budaya/d-6889232/7-baju-adat-sunda-mulai-dari-kebaya-hingga-menak",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -94,11 +94,11 @@
         "image": {
           "id": "id-jb-food-karedok",
           "path": "/assets/img/id-jb-food-karedok.webp",
-          "title": "Karedok, Sumedang | Indo.Rent",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://indo.rent/indonesia/west-java/sumedang/jatigede/karedok",
+          "title": "Karedok in Ubud 1.jpg",
+          "artist": "Gunawan Kartapranata",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Karedok_in_Ubud_1.jpg",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -216,11 +216,11 @@
         "image": {
           "id": "id-jb-art-wayang-golek",
           "path": "/assets/img/id-jb-art-wayang-golek.webp",
-          "title": "Wayang Golek di Jawa Barat: Jejak dan Perjalanan yang Tak Terputus",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://www.detik.com/jabar/budaya/d-7625195/wayang-golek-di-jawa-barat-jejak-dan-perjalanan-yang-tak-terputus",
+          "title": "Wayang santri.jpg",
+          "artist": "Sudanto Ponco Sularso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Wayang_santri.jpg",
           "changes": "Resized and converted to WebP"
         }
       }

@@ -20,11 +20,11 @@
         "image": {
           "id": "id-ri-clothing-baju-kurung-melayu",
           "path": "/assets/img/id-ri-clothing-baju-kurung-melayu.webp",
-          "title": "Baju Kurung",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://en.wikipedia.org/wiki/Baju_Kurung",
+          "title": "Pakaian sehari- hari wanita melayu duduk 3.jpg",
+          "artist": "Riski Syahputra",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Pakaian_sehari-_hari_wanita_melayu_duduk_3.jpg",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -68,11 +68,11 @@
         "image": {
           "id": "id-ri-clothing-siak-songket",
           "path": "/assets/img/id-ri-clothing-siak-songket.webp",
-          "title": "KAJIAN MOTIF TENUN SONGKET MELAYU SIAK TRADISIONAL KHAS RIAU",
-          "artist": "Web source (unverified)",
+          "title": "Kain Tenun Songket Riau",
+          "artist": "Web source (travel.detik.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://openalex.org/works/W2781215217",
+          "source": "https://travel.detik.com/galeri-foto/d-5465678/kain-tenun-songket-riau",
           "changes": "Resized and converted to WebP"
         }
       }
@@ -169,11 +169,11 @@
         "image": {
           "id": "id-ri-art-zapin-meskom",
           "path": "/assets/img/id-ri-art-zapin-meskom.webp",
-          "title": "Sejarah Perkembangan Tari Zapin Desa Meskom Kecamatan Bengkalis Kabupaten Bengkalis - Neliti",
-          "artist": "Web source (unverified)",
+          "title": "Penari Veteran Bengkalis Juara I Tari Zapin Melayu Riau - RRI.co.id",
+          "artist": "Web source (rri.co.id)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://media.neliti.com/media/publications/205955-sejarah-perkembangan-tari-zapin-desa-mes.pdf",
+          "source": "https://rri.co.id/bengkalis/budaya/2495510/penari-veteran-bengkalis-juara-i-tari-zapin-melayu-riau",
           "changes": "Resized and converted to WebP"
         }
       },

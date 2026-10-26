@@ -68,11 +68,11 @@
         "image": {
           "id": "id-go-clothing-walimomo",
           "path": "/assets/img/id-go-clothing-walimomo.webp",
-          "title": "Lima Budaya Gorontalo Ditetapkan Jadi WBTB Indonesia – Berita Gorontalo",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://berita.gorontaloprov.go.id/2023/09/14/lima-budaya-gorontalo-ditetapkan-jadi-wbtb-indonesia",
+          "title": "Wolimomo.jpg",
+          "artist": "Hendrik Saleh",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Wolimomo.jpg",
           "changes": "Resized and converted to WebP"
         }
       }

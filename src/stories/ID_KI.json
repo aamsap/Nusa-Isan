@@ -20,11 +20,11 @@
         "image": {
           "id": "id-ki-clothing-dayak-beadwork-kenyah-attire",
           "path": "/assets/img/id-ki-clothing-dayak-beadwork-kenyah-attire.webp",
-          "title": "Beadwork from Island Southeast Asia in Global Museum Collections — Art of The Ancestors | Island Southeast Asia, Oceania",
-          "artist": "Web source (unverified)",
-          "license": "Unverified — pending manual audit",
-          "licenseUrl": null,
-          "source": "https://www.artoftheancestors.com/blog/beadwork-island-southeast-asia",
+          "title": "Busana Dayak.jpg",
+          "artist": "Muhamad Nahrowi",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Busana_Dayak.jpg",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -44,11 +44,11 @@
         "image": {
           "id": "id-ki-clothing-kustim-ceremonial-attire",
           "path": "/assets/img/id-ki-clothing-kustim-ceremonial-attire.webp",
-          "title": "Makna di Balik Baju Adat Kustin Dipakai Jokowi Saat HUT ke-79 RI di IKN - merdeka.com",
-          "artist": "Web source (unverified)",
+          "title": "Baju Kustin, Pakaian Adat Kalimantan Timur",
+          "artist": "Web source (www.kompas.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://www.merdeka.com/peristiwa/read/7899033/makna-di-balik-baju-adat-kustin-dipakai-jokowi-saat-hut-ke-79-ri-di-ikn",
+          "source": "https://www.kompas.com/skola/read/2021/02/23/174500069/baju-kustin-pakaian-adat-kalimantan-timur?page=all",
           "changes": "Resized and converted to WebP"
         }
       },
@@ -68,11 +68,11 @@
         "image": {
           "id": "id-ki-clothing-takwo-attire",
           "path": "/assets/img/id-ki-clothing-takwo-attire.webp",
-          "title": "Guide to traditional Japanese attire | Time Out Tokyo",
-          "artist": "Web source (unverified)",
+          "title": "Mengenal Pakaian Adat Baju Takwo dari Kalimantan Timur | IDN Times Kaltim",
+          "artist": "Web source (kaltim.idntimes.com)",
           "license": "Unverified — pending manual audit",
           "licenseUrl": null,
-          "source": "https://www.timeout.com/tokyo/shopping/guide-to-traditional-japanese-attire",
+          "source": "https://kaltim.idntimes.com/life/education/linggauni/mengenal-pakaian-adat-baju-takwo-dari-kalimantan-timur",
           "changes": "Resized and converted to WebP"
         }
       }

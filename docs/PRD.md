@@ -40,7 +40,7 @@ Out: ticketing, authentication, user tracking, automatically guessed province ph
 | Network | Online-only is acceptable; videos may require visitor connectivity. |
 | Stack | React + TypeScript + Vite, Three.js interactive map, GSAP action animations. |
 | Repo | Local first. No private GitHub repo yet. |
-| Deployment | This prototype is previewed locally on Jarvis and, while the temporary loopback-only reverse SSH tunnel runs, on Ironheart at `127.0.0.1:5178`. No public atlas route or deployment exists. Any future deployment requires desk approval for the exact version and target. |
+| Deployment | This prototype is previewed locally on Jarvis and, while the temporary loopback-only reverse SSH tunnel runs, on Ironheart at `127.0.0.1:5178`. The dev server prefers port 5178 but falls back to the next free port (e.g. 5179) when 5178 is taken, such as on Ironheart while the tunnel holds it; the tunnel itself only reaches a Jarvis server bound to 5178. No public atlas route or deployment exists. Any future deployment requires desk approval for the exact version and target. |
 
 ## Open decisions / risks
 
