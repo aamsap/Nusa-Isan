@@ -41,7 +41,16 @@
           "ja": "男性用の伝統的な上着で、縞模様のルリック織を使うものがよく見られます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
-        "image": null
+        "image": {
+          "id": "id-yo-clothing-surjan",
+          "path": "/assets/img/id-yo-clothing-surjan.webp",
+          "title": "Surjan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/destination/java/yogyakarta/surjan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_YO",
@@ -56,7 +65,16 @@
           "ja": "プラナカンは、ジョグジャカルタ王宮の奉仕者アブディ・ダルムが着用する独特の衣装です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
-        "image": null
+        "image": {
+          "id": "id-yo-clothing-pranakan",
+          "path": "/assets/img/id-yo-clothing-pranakan.webp",
+          "title": "Pakaian Adat Khas Yogyakarta: Jenis, Filosofi, dan Penggunaannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/yogyakartas-traditional-attire",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -147,7 +165,16 @@
           "ja": "ジョグジャカルタの宮廷伝統では、ジャワ・ガムランの独自の様式が受け継がれています。"
         },
         "source": "https://en.wikipedia.org/wiki/Javanese_gamelan",
-        "image": null
+        "image": {
+          "id": "id-yo-art-yogyakarta-style-gamelan",
+          "path": "/assets/img/id-yo-art-yogyakarta-style-gamelan.webp",
+          "title": "Sekaten’s Eternal Rhythm: When Gamelan Becomes the Heartbeat of Jogja",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://sonobudoyo.jogjaprov.go.id/en/tulisan/read/gamelan-sekaten-irama-abadi-yang-menyatukan-jogja-di-alun-alun",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_YO",

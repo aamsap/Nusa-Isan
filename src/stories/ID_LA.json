@@ -41,7 +41,16 @@
           "ja": "ランプンの女性が礼装の一部として身に着ける、金色の冠です。"
         },
         "source": "https://en.wikipedia.org/wiki/Lampung",
-        "image": null
+        "image": {
+          "id": "id-la-clothing-siger-crown",
+          "path": "/assets/img/id-la-clothing-siger-crown.webp",
+          "title": "Siger Tower - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Siger_Tower",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_LA",
@@ -56,7 +65,16 @@
           "ja": "主にランプンの男性が礼装に合わせる、金属製の儀礼用帽子です。"
         },
         "source": "https://en.wikipedia.org/wiki/Lampung",
-        "image": null
+        "image": {
+          "id": "id-la-clothing-kopiah-emas",
+          "path": "/assets/img/id-la-clothing-kopiah-emas.webp",
+          "title": "Songkok",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Songkok",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -73,7 +91,16 @@
           "ja": "魚にエビペーストのサンバル、発酵ドリアン、生野菜を添えて分かち合います。"
         },
         "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
-        "image": null
+        "image": {
+          "id": "id-la-food-seruit",
+          "path": "/assets/img/id-la-food-seruit.webp",
+          "title": "Seruit",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/gb/en/travel-ideas/gastronomy/seruit",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_LA",
@@ -88,7 +115,16 @@
           "ja": "ココナツミルクを使うランプンの郷土料理で、燻製の魚を入れるものもあります。"
         },
         "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
-        "image": null
+        "image": {
+          "id": "id-la-food-gulai-taboh",
+          "path": "/assets/img/id-la-food-gulai-taboh.webp",
+          "title": "Profil Provinsi Lampung, Tempat Wisata, dan Makanan Khasnya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/destination/sumatra/lampung",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_LA",
@@ -103,7 +139,16 @@
           "ja": "若いココヤシの幹をココナツミルクと香辛料で煮る料理です。"
         },
         "source": "https://grandehotellampung.com/en/lampungs-legendary-culinary-recommendations",
-        "image": null
+        "image": {
+          "id": "id-la-food-gabing",
+          "path": "/assets/img/id-la-food-gabing.webp",
+          "title": "10 Makanan Khas Lampung yang Wajib Dicoba",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://blog.segari.id/makanan-khas-lampung",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "プパドゥンとサイバティンの伝統を取り入れ、客に敬意を表すランプンの歓迎舞踊です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Sigeh_Penguten",
-        "image": null
+        "image": {
+          "id": "id-la-art-sigeh-pengunten-dance",
+          "path": "/assets/img/id-la-art-sigeh-pengunten-dance.webp",
+          "title": "Preserving Sigeh Pengunten as a Mode of the Traditional Knowledge of Lampung",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://scholar.ui.ac.id/en/publications/preserving-sigeh-pengunten-as-a-mode-of-the-traditional-knowledge",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_LA",
@@ -135,7 +189,16 @@
           "ja": "東ランプンに伝わる舞踊で、歴史的にムリンティンの王家と結び付いています。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Melinting",
-        "image": null
+        "image": {
+          "id": "id-la-art-melinting-dance",
+          "path": "/assets/img/id-la-art-melinting-dance.webp",
+          "title": "Melinting - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Melinting",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_LA",
@@ -150,7 +213,16 @@
           "ja": "ランプンのプパドゥン社会で、ブガウィと呼ばれる慣習儀礼の一部をなす踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Cangget",
-        "image": null
+        "image": {
+          "id": "id-la-art-cangget-dance",
+          "path": "/assets/img/id-la-art-cangget-dance.webp",
+          "title": "Lirik Lagu Cangget Agung dan Artinya, Lagu Daerah Lampung",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumut/budaya/d-6657372/lirik-lagu-cangget-agung-dan-artinya-lagu-daerah-lampung",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

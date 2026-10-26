@@ -17,7 +17,16 @@
           "ja": "クニャのタアやサペイ・サパックを彩るビーズ装飾で、北カリマンタンにも伝わります。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya",
-        "image": null
+        "image": {
+          "id": "id-ki-clothing-dayak-beadwork-kenyah-attire",
+          "path": "/assets/img/id-ki-clothing-dayak-beadwork-kenyah-attire.webp",
+          "title": "Beadwork from Island Southeast Asia in Global Museum Collections — Art of The Ancestors | Island Southeast Asia, Oceania",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.artoftheancestors.com/blog/beadwork-island-southeast-asia",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KI",
@@ -32,7 +41,16 @@
           "ja": "クタイ・カルタヌガラの宮廷衣装で、伝統的には王族が重要な儀式で着用しました。"
         },
         "source": "https://setkab.go.id/en/president-jokowi-leads-79th-independence-day-ceremony-in-kutai-kartanegara-traditional-attire",
-        "image": null
+        "image": {
+          "id": "id-ki-clothing-kustim-ceremonial-attire",
+          "path": "/assets/img/id-ki-clothing-kustim-ceremonial-attire.webp",
+          "title": "Makna di Balik Baju Adat Kustin Dipakai Jokowi Saat HUT ke-79 RI di IKN - merdeka.com",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.merdeka.com/peristiwa/read/7899033/makna-di-balik-baju-adat-kustin-dipakai-jokowi-saat-hut-ke-79-ri-di-ikn",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KI",
@@ -47,7 +65,16 @@
           "ja": "暗い色の布地に、襟や袖の金色の装飾を合わせたクタイの礼装です。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6300998/7-jenis-baju-adat-kalimantan-timur-lengkap-dengan-penjelasannya",
-        "image": null
+        "image": {
+          "id": "id-ki-clothing-takwo-attire",
+          "path": "/assets/img/id-ki-clothing-takwo-attire.webp",
+          "title": "Guide to traditional Japanese attire | Time Out Tokyo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.timeout.com/tokyo/shopping/guide-to-traditional-japanese-attire",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "香辛料と炊き上げるクタイの米料理で、さまざまなおかずと一緒に供されます。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
-        "image": null
+        "image": {
+          "id": "id-ki-food-nasi-bekepor",
+          "path": "/assets/img/id-ki-food-nasi-bekepor.webp",
+          "title": "15 Makanan Khas Kalimantan Timur yang Wajib Dicoba, Lezat dan Unik",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://mediaindonesia.com/kuliner/801969/15-makanan-khas-kalimantan-timur-yang-wajib-dicoba-lezat-dan-unik",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KI",
@@ -79,7 +115,16 @@
           "ja": "焼いた雷魚に、唐辛子や香辛料を使った辛いソースをかける料理です。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
-        "image": null
+        "image": {
+          "id": "id-ki-food-gence-ruan",
+          "path": "/assets/img/id-ki-food-gence-ruan.webp",
+          "title": "Gence Ruan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/gence-ruan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KI",
@@ -94,7 +139,16 @@
           "ja": "魚を使った軽い食感の揚げ菓子で、東カリマンタンの土産として親しまれています。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/kalimantan/east-kalimantan",
-        "image": null
+        "image": {
+          "id": "id-ki-food-amplang-fish-crackers",
+          "path": "/assets/img/id-ki-food-amplang-fish-crackers.webp",
+          "title": "Amplang - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Amplang",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -135,7 +189,16 @@
           "ja": "サンペの伴奏に合わせ、女性がゴングの上で優雅に舞うクニャの踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Gong?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-ki-art-gong-dance-kancet-ledo",
+          "path": "/assets/img/id-ki-art-gong-dance-kancet-ledo.webp",
+          "title": "15 Nama Tarian dan Properti Tari yang Digunakan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/bali/berita/d-6386425/15-nama-tarian-dan-properti-tari-yang-digunakan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KI",
@@ -150,7 +213,16 @@
           "ja": "音楽や慣習行事で演奏されるダヤックの撥弦楽器で、呼び名は地域や共同体によって異なります。"
         },
         "source": "https://id.wikipedia.org/wiki/Sampe?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-ki-art-sampe-music",
+          "path": "/assets/img/id-ki-art-sampe-music.webp",
+          "title": "Sampe",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Sampe",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

@@ -17,7 +17,16 @@
           "ja": "サンギヘの礼装で、伝統的にはコフォというバナナの繊維で作られます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
-        "image": null
+        "image": {
+          "id": "id-sa-clothing-laku-tepu-sangihe",
+          "path": "/assets/img/id-sa-clothing-laku-tepu-sangihe.webp",
+          "title": "Sulawesi Utara",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Sulawesi_Utara",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SA",
@@ -32,7 +41,16 @@
           "ja": "ミナハサの女性は儀礼の際、刺繍入りのクバヤに長い腰布を合わせます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
-        "image": null
+        "image": {
+          "id": "id-sa-clothing-minahasa-traditional-dress",
+          "path": "/assets/img/id-sa-clothing-minahasa-traditional-dress.webp",
+          "title": "Baju Karai dan Wuyang: Pakaian Adat Minahasa, Sulawesi Utara",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-karai-and-wuyang",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SA",
@@ -47,7 +65,16 @@
           "ja": "ボラアン・モゴンドウの礼装は鮮やかな色と金色の装飾が特徴です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-sulawesi-utara",
-        "image": null
+        "image": {
+          "id": "id-sa-clothing-bolaang-mongondow-traditional-dress",
+          "path": "/assets/img/id-sa-clothing-bolaang-mongondow-traditional-dress.webp",
+          "title": "Rumah Adat Bolaang Mongondow",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/destination/sulawesi/north-sulawesi/rumah-adat-bolaang-mongondow",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "カツオを燻製にした北スラウェシの名物です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/cakalang-fufu",
-        "image": null
+        "image": {
+          "id": "id-sa-food-cakalang-fufu",
+          "path": "/assets/img/id-sa-food-cakalang-fufu.webp",
+          "title": "Cakalang Fufu, Ikan Asap Khas Sulawesi Utara yang Wajib Dicoba",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/cakalang-fufu",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SA",
@@ -103,7 +139,16 @@
           "ja": "ミナハサのウォクは魚介や鶏肉に香草と香辛料を効かせる調理法です。"
         },
         "source": "https://en.wikipedia.org/wiki/Minahasan_cuisine",
-        "image": null
+        "image": {
+          "id": "id-sa-food-woku-seasoning",
+          "path": "/assets/img/id-sa-food-woku-seasoning.webp",
+          "title": "Rica-Rica and Woku: Understanding Minahasan Heat",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://sulawesi.com/pt/articles/rica-rica-woku-minahasan-heat",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "サンギヘの人々が年に一度、共同で感謝をささげる儀式です。"
         },
         "source": "https://sangihekab.go.id/2026/02/01/upacara-adat-tulude-2026-ungkapan-syukur-masyarakat-kepualuan-sangihe/",
-        "image": null
+        "image": {
+          "id": "id-sa-art-tulude-ceremony-sangihe",
+          "path": "/assets/img/id-sa-art-tulude-ceremony-sangihe.webp",
+          "title": "    Yang unik dari Kepulauan Sangihe. - RRI.co.id\n",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://rri.co.id/manokwari/berita-lain/878890/yang-unik-dari-kepulauan-sangihe",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SA",
@@ -135,7 +189,16 @@
           "ja": "ミナハサのマエンケットは集団舞踊と歌を組み合わせた芸能です。"
         },
         "source": "https://id.wikipedia.org/wiki/Maengket",
-        "image": null
+        "image": {
+          "id": "id-sa-art-maengket",
+          "path": "/assets/img/id-sa-art-maengket.webp",
+          "title": "Kenali Tari Maengket dan Syairnya yang Penuh Pesan Mendalam",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/edu/detikpedia/d-7285180/kenali-tari-maengket-dan-syairnya-yang-penuh-pesan-mendalam",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SA",
@@ -150,7 +213,16 @@
           "ja": "ミナハサに伝わる戦士の踊りで、華やかな儀礼衣装を着て舞います。"
         },
         "source": "https://www.pustaka-bpkxii.org/pustaka/tari-kabasaran-suku-bangsa-minahasa",
-        "image": null
+        "image": {
+          "id": "id-sa-art-kabasaran",
+          "path": "/assets/img/id-sa-art-kabasaran.webp",
+          "title": "Kabasaran Dance, Minahasa Knight Dance",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://helloindonesia.id/en/tari-kabasaran-tarian-ksatria-minahasa",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

@@ -17,7 +17,16 @@
           "ja": "ロンボク島のササックの女性は、儀礼で黒い袖なしの上衣ランブンに長い布を合わせます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-lambung",
-        "image": null
+        "image": {
+          "id": "id-nb-clothing-sasak-lambung",
+          "path": "/assets/img/id-nb-clothing-sasak-lambung.webp",
+          "title": "Snapshot Budaya: Pakaian Adat Nusa Tenggara Barat dalam Sekilas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.traveloka.com/id-id/explore/destination/pakaian-adat-nusa-tenggara-barat-sasak-mbojo/1006011",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NB",
@@ -32,7 +41,16 @@
           "ja": "ロンボク島のササックの男性は、儀礼で前を閉じた上着にソンケット布を合わせます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-pegon",
-        "image": null
+        "image": {
+          "id": "id-nb-clothing-sasak-pegon",
+          "path": "/assets/img/id-nb-clothing-sasak-pegon.webp",
+          "title": "Tradisi pengobatan Bubus di Lombok Timur jadi warisan budaya tak benda",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://mataram.antaranews.com/berita/564635/tradisi-pengobatan-bubus-di-lombok-timur-jadi-warisan-budaya-tak-benda",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NB",
@@ -47,7 +65,16 @@
           "ja": "ビマのリンプは、二枚のサロンで頭と上半身、下半身をそれぞれ覆う装いです。"
         },
         "source": "https://jadesta.kemenpar.go.id/atraksi/rimpu",
-        "image": null
+        "image": {
+          "id": "id-nb-clothing-bima-rimpu",
+          "path": "/assets/img/id-nb-clothing-bima-rimpu.webp",
+          "title": "Pakaian Rimpu: Busana Tradisional Unik dari Bima",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-rimpu",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "ロンボク島の鶏料理で、唐辛子、ニンニク、エビの発酵調味料を使った辛い味付けで焼きます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/ayam-taliwang",
-        "image": null
+        "image": {
+          "id": "id-nb-food-ayam-taliwang",
+          "path": "/assets/img/id-nb-food-ayam-taliwang.webp",
+          "title": "Kuliner Khas NTB, Ayam Taliwang yang Bikin Lidah Menjerit Nikmat!",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://ntb.disway.id/travel/read/1316/kuliner-khas-ntb-ayam-taliwang-yang-bikin-lidah-menjerit-nikmat",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NB",
@@ -79,7 +115,16 @@
           "ja": "ロンボク風の空心菜料理で、トマトと唐辛子の辛いサンバルを添えます。"
         },
         "source": "https://indonesia.travel/gb/en/travel-ideas/gastronomy/plecing-kangkung-a-spicy-and-refreshing-icon-of-lombok-cuisine",
-        "image": null
+        "image": {
+          "id": "id-nb-food-plecing-kangkung",
+          "path": "/assets/img/id-nb-food-plecing-kangkung.webp",
+          "title": "Sambal Plecing yang Tak Terpisahkan dari Kangkung Lombok",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.kompas.id/artikel/sambal-plecing-pas-dipadukan-dengan-kangkung-lombok",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NB",
@@ -94,7 +139,16 @@
           "ja": "マタラム近郊のレンビガに伝わる牛肉の串焼きで、辛さとうま味、ほのかな甘みが特徴です。"
         },
         "source": "https://www.indonesia.travel/us/en/travel-ideas/gastronomy/sate-rembiga-a-flavorful-culinary-gem-from-west-nusa-tenggara",
-        "image": null
+        "image": {
+          "id": "id-nb-food-sate-rembiga",
+          "path": "/assets/img/id-nb-food-sate-rembiga.webp",
+          "title": "Sate Rembiga",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/id/id/travel-ideas/gastronomy/sate-rembiga-a-flavorful-culinary-gem-from-west-nusa-tenggara",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -135,7 +189,16 @@
           "ja": "ロンボク島のササックの芸能で、大太鼓の演奏に音楽と息の合った動きを組み合わせます。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gendang-beleq-the-grand-traditional-music-of-lombok",
-        "image": null
+        "image": {
+          "id": "id-nb-art-gendang-beleq",
+          "path": "/assets/img/id-nb-art-gendang-beleq.webp",
+          "title": "Dispar Kota Mataram targetkan 5.000 kunjungan Festival Kota Tua Ampenan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://mataram.antaranews.com/berita/578143/dispar-kota-mataram-targetkan-5000-kunjungan-festival-kota-tua-ampenan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NB",
@@ -150,7 +213,16 @@
           "ja": "中部ロンボクのスカララ村は、ササックの伝統的な手織物の産地です。"
         },
         "source": "https://jadesta.kemenpar.go.id/desa/sentra_tenun",
-        "image": null
+        "image": {
+          "id": "id-nb-art-sukarara-weaving",
+          "path": "/assets/img/id-nb-art-sukarara-weaving.webp",
+          "title": "Traditional Hand-Weaving in Villages of Indonesia - Indonesia Travel",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/discover-the-art-of-hand-weaving-at-these-indonesian-villages",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

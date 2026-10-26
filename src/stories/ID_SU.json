@@ -41,7 +41,16 @@
           "ja": "ウイスは北スマトラのカロの人々に伝わる織物です。"
         },
         "source": "https://id.wikipedia.org/wiki/Uis",
-        "image": null
+        "image": {
+          "id": "id-su-clothing-uis-karo",
+          "path": "/assets/img/id-su-clothing-uis-karo.webp",
+          "title": "Uis - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Uis",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SU",
@@ -56,7 +65,16 @@
           "ja": "バル・オホルはニアスの男性の伝統衣装です。"
         },
         "source": "https://id.wikipedia.org/wiki/Baru_Oholu",
-        "image": null
+        "image": {
+          "id": "id-su-clothing-baru-oholu",
+          "path": "/assets/img/id-su-clothing-baru-oholu.webp",
+          "title": "Baru Oholu and Baru Isitö: The Stunning Traditional Clothing of Nias",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/baru-oholu-and-baru-isito-the-stunning-traditional-clothing-of-nias",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -73,7 +91,16 @@
           "ja": "バタックの魚料理で、アンダリマンなどの香辛料で味付けします。"
         },
         "source": "https://id.wikipedia.org/wiki/Arsik",
-        "image": null
+        "image": {
+          "id": "id-su-food-arsik",
+          "path": "/assets/img/id-su-food-arsik.webp",
+          "title": "Arsik - Wikidata",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.wikidata.org/wiki/Q4796545",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SU",
@@ -88,7 +115,16 @@
           "ja": "名前にアンボンとありますが、メダンで親しまれる網目状の菓子です。"
         },
         "source": "https://en.wikipedia.org/wiki/Bika_ambon",
-        "image": null
+        "image": {
+          "id": "id-su-food-bika-ambon",
+          "path": "/assets/img/id-su-food-bika-ambon.webp",
+          "title": "Bika Ambon Calories: 216 kcal per 1 potong (80g) | IndonesianCalorie",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesiancalorie.com/indonesia/foods/desserts/bika-ambon-id",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SU",
@@ -103,7 +139,16 @@
           "ja": "バタックの料理で、火を使わず生魚を柑橘の果汁と香辛料に漬けます。"
         },
         "source": "https://id.wikipedia.org/wiki/Naniura",
-        "image": null
+        "image": {
+          "id": "id-su-food-naniura",
+          "path": "/assets/img/id-su-food-naniura.webp",
+          "title": "\n\n\n\n    Naniura, Sashimi ala Indonesia Hidangan Raja dari Tano Batak - Indonesia Kaya\n\n\n  ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesiakaya.com/pustaka-indonesia/naniura-sashimi-ala-indonesia-hidangan-raja-dari-tano-batak",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "トルトルはバタックの慣習儀礼で大切にされる踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Tortor",
-        "image": null
+        "image": {
+          "id": "id-su-art-tortor",
+          "path": "/assets/img/id-su-art-tortor.webp",
+          "title": "5 Tari Tradisional Asal Sumatera Utara, dari Ungkapan Doa hingga Kisah Asmara",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://regional.kompas.com/read/2022/07/20/202615878/5-tari-tradisional-asal-sumatera-utara-dari-ungkapan-doa-hingga-kisah",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SU",
@@ -135,7 +189,16 @@
           "ja": "関節のある木製人形を使う、トバ・バタックの伝統芸能です。"
         },
         "source": "https://en.wikipedia.org/wiki/Sigale_gale",
-        "image": null
+        "image": {
+          "id": "id-su-art-sigale-gale",
+          "path": "/assets/img/id-su-art-sigale-gale.webp",
+          "title": "The Sigale-gale, Life-sized Puppet Show on Samosir",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/destination/sumatra/north-sumatra/lake-toba---sigale-gale-puppet-show",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SU",
@@ -150,7 +213,16 @@
           "ja": "ニアスのファホンボでは、高く積んだ石を跳び越えます。"
         },
         "source": "https://id.wikipedia.org/wiki/Fahombo",
-        "image": null
+        "image": {
+          "id": "id-su-art-fahombo-stone-jumping",
+          "path": "/assets/img/id-su-art-fahombo-stone-jumping.webp",
+          "title": "On This Indonesian Island, Boys Become Men Through a Stone-Jumping Ritual",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://seasia.co/2026/02/07/on-this-indonesian-island-boys-become-men-through-a-stone-jumping-ritual",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

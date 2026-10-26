@@ -41,7 +41,16 @@
           "ja": "ジャンビのマレー系女性は、布を折って特徴あるかぶり物にします。"
         },
         "source": "https://jptam.org/index.php/jptam/article/view/26919",
-        "image": null
+        "image": {
+          "id": "id-ja-clothing-tengkuluk-headcloth",
+          "path": "/assets/img/id-ja-clothing-tengkuluk-headcloth.webp",
+          "title": "Woman's head cloth or shoulder cloth (tengkuluak or kain sandang, selendang) - Museum of Fine Arts, Boston, USA",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://search.scalarchives.com/id/01727971",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JA",
@@ -56,7 +65,16 @@
           "ja": "ラチャックはジャンビのマレー系男性が礼装に合わせるかぶり物です。"
         },
         "source": "https://kumparan.com/berita-hari-ini/pakaian-adat-jambi-baju-kurung-tanggung-dan-aksesorisnya-1uvs3maRmjj",
-        "image": null
+        "image": {
+          "id": "id-ja-clothing-lacak-headcloth",
+          "path": "/assets/img/id-ja-clothing-lacak-headcloth.webp",
+          "title": "Introducing Batik Jambi as CulturalSustainability From Generation to Generation.ecomogulmagazine.com. 2 September 2021.F",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.ciputra.ac.id/library/en/introducing-batik-jambi-as-culturalsustainability-from-generation-to-generation-ecomogulmagazine-com-2-september-2021-fpd",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -73,7 +91,16 @@
           "ja": "発酵させたドリアンでパティン魚を味付けするジャンビの料理です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tempoyak",
-        "image": null
+        "image": {
+          "id": "id-ja-food-patin-fish-with-tempoyak",
+          "path": "/assets/img/id-ja-food-patin-fish-with-tempoyak.webp",
+          "title": "Gulai Tempoya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/gulai-tempoya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JA",
@@ -88,7 +115,16 @@
           "ja": "平たくした魚の練り物を、パイナップル入りのココナツカレーで煮ます。"
         },
         "source": "https://id.wikipedia.org/wiki/Gulai_tepek_ikan",
-        "image": null
+        "image": {
+          "id": "id-ja-food-gulai-tepek-ikan",
+          "path": "/assets/img/id-ja-food-gulai-tepek-ikan.webp",
+          "title": "Gulai Ikan Tepek cita rasa khas Jambi - ANTARA News Jambi",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://jambi.antaranews.com/berita/547416/gulai-ikan-tepek-cita-rasa-khas-jambi",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JA",
@@ -103,7 +139,16 @@
           "ja": "ココナツミルクで炊くご飯で、ジャンビの朝食として親しまれています。"
         },
         "source": "https://id.wikipedia.org/wiki/Nasi_gemuk",
-        "image": null
+        "image": {
+          "id": "id-ja-food-nasi-gemuk",
+          "path": "/assets/img/id-ja-food-nasi-gemuk.webp",
+          "title": "Nasi gemuk",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Nasi_gemuk",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "儀礼用のキンマを載せた器を持ち、来客を歓迎する踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Sekapur_Sirih",
-        "image": null
+        "image": {
+          "id": "id-ja-art-sekapur-sirih-dance",
+          "path": "/assets/img/id-ja-art-sekapur-sirih-dance.webp",
+          "title": "Tari Sekapur Sirih",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-sekapur-sirih",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JA",
@@ -135,7 +189,16 @@
           "ja": "ハンパラン・ラワンに伝わるクリンチの踊りで、力強く踏み鳴らす足取りが特徴です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Rentak_Kudo",
-        "image": null
+        "image": {
+          "id": "id-ja-art-rentak-kudo-dance",
+          "path": "/assets/img/id-ja-art-rentak-kudo-dance.webp",
+          "title": "RENTAK KUDO TARIAN KERINCI JAMBI POPULER DI ...",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.youtube.com/watch?v=t9z3E_b28ZE",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JA",
@@ -150,7 +213,16 @@
           "ja": "８人の踊り手が息を合わせ、色鮮やかな布やひもを編み合わせます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Selampit_Delapan",
-        "image": null
+        "image": {
+          "id": "id-ja-art-selampit-delapan-dance",
+          "path": "/assets/img/id-ja-art-selampit-delapan-dance.webp",
+          "title": "Suku Melayu Jambi: Akar Budaya, Tradisi, dan Filosofi Hidup yang Mengakar - Portal BPSDM",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://portalbpsdm.jambiprov.go.id/artikel/buku-sastra/suku-melayu-jambi-akar-budaya-tradisi-dan-filosofi-hidup-yang-mengakar",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

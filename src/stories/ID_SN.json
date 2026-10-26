@@ -17,7 +17,16 @@
           "ja": "織物はトラジャの儀礼用衣装の一部です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-toraja",
-        "image": null
+        "image": {
+          "id": "id-sn-clothing-toraja-ceremonial-textiles",
+          "path": "/assets/img/id-sn-clothing-toraja-ceremonial-textiles.webp",
+          "title": "Torajan ceremonial textiles",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://australian.museum/learn/cultures/international-collection/indonesia/torajan-ceremonial-textiles",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SN",
@@ -32,7 +41,16 @@
           "ja": "ブギスやマカッサルの女性が着る、ゆったりした伝統的な上衣です。"
         },
         "source": "https://en.wikipedia.org/wiki/Bodo_blouse",
-        "image": null
+        "image": {
+          "id": "id-sn-clothing-baju-bodo",
+          "path": "/assets/img/id-sn-clothing-baju-bodo.webp",
+          "title": "Di Balik Pesona Baju Bodo - Selayar",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://pariwisata.kepulauanselayarkab.go.id/2017/01/di-balik-pesona-baju-bodo/",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SN",
@@ -47,7 +65,16 @@
           "ja": "ワジョ県センカンでは絹織物の伝統が受け継がれています。"
         },
         "source": "https://sulawesi.travel/en/articles/sulawesi-textiles-ikat-silk",
-        "image": null
+        "image": {
+          "id": "id-sn-clothing-sengkang-silk",
+          "path": "/assets/img/id-sn-clothing-sengkang-silk.webp",
+          "title": "Kain Tenun Sengkang adalah Wastra Asal Sulawesi Selatan, Ini Maknanya - merdeka.com",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.merdeka.com/sumut/read/7619211/kain-tenun-sengkang-adalah-wastra-asal-sulawesi-selatan-ini-maknanya",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "香辛料をきかせた濃い色のスープで牛のリブを煮るマカッサル料理です。"
         },
         "source": "https://en.wikipedia.org/wiki/Konro",
-        "image": null
+        "image": {
+          "id": "id-sn-food-konro",
+          "path": "/assets/img/id-sn-food-konro.webp",
+          "title": "Konro - WikiPangan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://wikipangan.id/wiki/Konro",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SN",
@@ -103,7 +139,16 @@
           "ja": "炒ったココナッツを加えるマカッサルの肉入りスープです。"
         },
         "source": "https://en.wikipedia.org/wiki/Pallubasa",
-        "image": null
+        "image": {
+          "id": "id-sn-food-pallubasa",
+          "path": "/assets/img/id-sn-food-pallubasa.webp",
+          "title": "Pallubasa",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Pallubasa",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "優美な身振りと扇の動きが特徴の南スラウェシの舞踊です。"
         },
         "source": "https://rri.co.id/budaya/2241502/mengenal-tari-pakarena-tarian-klasik-khas-sulawesi-selatan",
-        "image": null
+        "image": {
+          "id": "id-sn-art-tari-pakarena-makassar",
+          "path": "/assets/img/id-sn-art-tari-pakarena-makassar.webp",
+          "title": "Tari Pakarena Asal Sulawesi Selatan: Sejarah, Gerakan, Properti, dan Musik Pengiring   ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://makassar.kompas.com/read/2022/02/25/170838678/tari-pakarena-asal-sulawesi-selatan-sejarah-gerakan-properti-dan-musik?page=all",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SN",
@@ -135,7 +189,16 @@
           "ja": "祝いの場で踊られるトラジャの舞踊です。"
         },
         "source": "https://en.wikipedia.org/wiki/Torajan_people",
-        "image": null
+        "image": {
+          "id": "id-sn-art-pa-gellu-dance",
+          "path": "/assets/img/id-sn-art-pa-gellu-dance.webp",
+          "title": "Tari Pa’gellu",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-pagellu",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SN",
@@ -150,7 +213,16 @@
           "ja": "南スラウェシの船大工は木造帆船を造る技術を受け継いでいます。"
         },
         "source": "https://www.indonesia.travel/id/en/travel-ideas/culture/kapal-pinisi",
-        "image": null
+        "image": {
+          "id": "id-sn-art-pinisi-boatbuilding",
+          "path": "/assets/img/id-sn-art-pinisi-boatbuilding.webp",
+          "title": "Pinisi, Art of Boatbuilding of Peoples of South Sulawesi Province | Intangible Heritage - UNESCO Multimedia Archives",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.unesco.org/archives/multimedia/document-4661",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

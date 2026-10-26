@@ -17,7 +17,16 @@
           "ja": "スラカルタのブランコンは、ジャワの伝統的な頭布の地域様式です。"
         },
         "source": "https://en.wikipedia.org/wiki/Blangkon",
-        "image": null
+        "image": {
+          "id": "id-jt-clothing-surakarta-style-batik-and-blangkon",
+          "path": "/assets/img/id-jt-clothing-surakarta-style-batik-and-blangkon.webp",
+          "title": "Blangkon - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Blangkon",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JT",
@@ -130,7 +139,16 @@
           "ja": "クドゥスでは、鶏肉や水牛肉を使うソトが親しまれています。"
         },
         "source": "https://id.wikipedia.org/wiki/Soto_kudus",
-        "image": null
+        "image": {
+          "id": "id-jt-food-soto-kudus",
+          "path": "/assets/img/id-jt-food-soto-kudus.webp",
+          "title": "Soto Kudus: Kenikmatan Autentik di Tengah Modernisasi - Kompasiana.com",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.kompasiana.com/faisalluthfidwi8593/67574bb3ed6415176d13cfb4/soto-kudus-kenikmatan-autentik-di-tengah-modernisasi",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -195,7 +213,16 @@
           "ja": "ジュパラの職人は、家具の装飾をはじめとする木彫を手がけます。"
         },
         "source": "https://id.wikipedia.org/wiki/Ukiran_Jepara",
-        "image": null
+        "image": {
+          "id": "id-jt-art-jepara-woodcarving",
+          "path": "/assets/img/id-jt-art-jepara-woodcarving.webp",
+          "title": "Jepara Woodcarving",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/jepara-woodcarving",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

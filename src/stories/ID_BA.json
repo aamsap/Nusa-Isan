@@ -17,7 +17,16 @@
           "ja": "体に沿う上着と巻き布は、バリの女性の儀礼衣装の一部です。"
         },
         "source": "https://en.wikipedia.org/wiki/Kebaya",
-        "image": null
+        "image": {
+          "id": "id-ba-clothing-kebaya-and-kamen",
+          "path": "/assets/img/id-ba-clothing-kebaya-and-kamen.webp",
+          "title": "8 Pakaian Adat Bali Beserta Maknanya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/bali/budaya/d-6161401/8-pakaian-adat-bali-beserta-maknanya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BA",
@@ -32,7 +41,16 @@
           "ja": "バリの男性が寺院参拝や儀礼で着用する、折りたたんだ頭布です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/udeng",
-        "image": null
+        "image": {
+          "id": "id-ba-clothing-udeng-headcloth",
+          "path": "/assets/img/id-ba-clothing-udeng-headcloth.webp",
+          "title": "Udeng : The Traditional Headdress of Balinese Men",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://nowbali.co.id/udeng-the-traditional-headress-of-balinese-men",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BA",
@@ -47,7 +65,16 @@
           "ja": "バリの織り手が緯糸の絣技法で模様を織り出す布です。"
         },
         "source": "https://www.indonesia.travel/us/en/travel-ideas/culture/tenun-endek/",
-        "image": null
+        "image": {
+          "id": "id-ba-clothing-endek-woven-cloth",
+          "path": "/assets/img/id-ba-clothing-endek-woven-cloth.webp",
+          "title": "Endek The Story of Bali’s Royal Fabric And Why You Should Bring It Home",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://merusaka.com/bali-cultural-experience/endek-bali-royal-fabric-history-guide",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "鶏肉に豊かな香辛料をなじませ、じっくり調理するバリ料理です。"
         },
         "source": "https://en.wikipedia.org/wiki/Betutu",
-        "image": null
+        "image": {
+          "id": "id-ba-food-ayam-betutu",
+          "path": "/assets/img/id-ba-food-ayam-betutu.webp",
+          "title": "Ayam Betutu: Sejarah, Bumbu, dan Makna Budayanya di Bali",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/ayam-betutu-balis-iconic-spiced-chicken-dish",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BA",
@@ -103,7 +139,16 @@
           "ja": "バナナの葉で包んだ少量のご飯に、いくつかのおかずを添えます。"
         },
         "source": "https://en.wikipedia.org/wiki/Nasi_jinggo",
-        "image": null
+        "image": {
+          "id": "id-ba-food-nasi-jinggo",
+          "path": "/assets/img/id-ba-food-nasi-jinggo.webp",
+          "title": "Resep Nasi Jinggo, Sarapan Murah ala Bali",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.kompas.com/food/read/2020/09/16/071100875/resep-nasi-jinggo-sarapan-murah-ala-bali",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -168,7 +213,16 @@
           "ja": "バロンとランダが善と悪の戦いを表す、バリの芸能です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/barong",
-        "image": null
+        "image": {
+          "id": "id-ba-art-barong-dance",
+          "path": "/assets/img/id-ba-art-barong-dance.webp",
+          "title": "The Barong and the Kris Dance: The Eternal Battle Between Good and Evil",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/fr/en/destination/bali-nusa-tenggara/bali/the-barong-and-the-kris-dance-the-eternal-battle-between-good-and-evil",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

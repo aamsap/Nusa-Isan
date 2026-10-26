@@ -17,7 +17,16 @@
           "ja": "リアウ諸島のマレーの人々に伝わる、ゆったりした控えめな装いです。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
-        "image": null
+        "image": {
+          "id": "id-kr-clothing-baju-kurung-melayu",
+          "path": "/assets/img/id-kr-clothing-baju-kurung-melayu.webp",
+          "title": "Ragam Pakaian Tradisional Melayu Kepulauan Riau",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -32,7 +41,16 @@
           "ja": "リンガに伝わる丈の長い前開きのクバヤで、伝統行事や儀礼で着用します。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
-        "image": null
+        "image": {
+          "id": "id-kr-clothing-kebaya-labuh",
+          "path": "/assets/img/id-kr-clothing-kebaya-labuh.webp",
+          "title": "Ragam Pakaian Tradisional Melayu Kepulauan Riau",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -47,7 +65,16 @@
           "ja": "リンガの服飾文化に伝わる、マレーの男性の伝統衣装です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-elegance",
-        "image": null
+        "image": {
+          "id": "id-kr-clothing-teluk-belanga",
+          "path": "/assets/img/id-kr-clothing-teluk-belanga.webp",
+          "title": "Traditional Clothing of the Riau Island: A Symbol of Elegance",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/gb/en/travel-ideas/culture/traditional-clothing-of-the-riau-island-a-symbol-of-legance",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "アナンバスのタレンパに由来する麺料理で、香辛料で味付けし魚を添えます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/mie-tarempa",
-        "image": null
+        "image": {
+          "id": "id-kr-food-mie-tarempa",
+          "path": "/assets/img/id-kr-food-mie-tarempa.webp",
+          "title": "Mie Tarempa",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://geokepo.id/en/lokasi/anambas-islands/mie-tarempa",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -79,7 +115,16 @@
           "ja": "食用の巻き貝をゆで、辛いソースにつけて味わいます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gong-gong",
-        "image": null
+        "image": {
+          "id": "id-kr-food-gonggong",
+          "path": "/assets/img/id-kr-food-gonggong.webp",
+          "title": "Siput Gonggong: Hidangan Seafood Khas Kepulauan Riau",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/gong-gong",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -94,7 +139,16 @@
           "ja": "香辛料を加えた魚のすり身をバナナの葉で包んで焼く、ビンタンの料理です。"
         },
         "source": "https://www.indonesia.travel/uae/en/travel-ideas/gastronomy/bintan-island---mouthwatering-food-experiences-on-bintan-island",
-        "image": null
+        "image": {
+          "id": "id-kr-food-bintan-otak-otak",
+          "path": "/assets/img/id-kr-food-bintan-otak-otak.webp",
+          "title": "\n                                                        Asal Usul Otak-otak, Makanan Khas Kepulauan Riau yang Dibungkus",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.inews.id/regional/regional/asal-usul-otak-otak-makanan-khas-kepulauan-riau-yang-dibungkus-daun-kelapa",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -111,7 +165,16 @@
           "ja": "プニェンガットのザピンは、ガンブスやマルワスの伴奏に合わせて足をリズミカルに動かします。"
         },
         "source": "https://id.wikipedia.org/wiki/Zapin_Penyengat",
-        "image": null
+        "image": {
+          "id": "id-kr-art-zapin-penyengat",
+          "path": "/assets/img/id-kr-art-zapin-penyengat.webp",
+          "title": "Pulau Penyengat Jadi Simbol Wisata Halal dan Kreatif Kepulauan Riau  | Provinsi Kepulauan Riau",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://kepriprov.go.id/siaran-pers/637-rilis-diskominfo-x-2025",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -126,7 +189,16 @@
           "ja": "リアウ諸島のマヨンは、演技、踊り、音楽を組み合わせた演劇です。"
         },
         "source": "https://id.wikipedia.org/wiki/Mak_Yong",
-        "image": null
+        "image": {
+          "id": "id-kr-art-mak-yong",
+          "path": "/assets/img/id-kr-art-mak-yong.webp",
+          "title": "Riau Islands - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Riau_Islands",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KR",
@@ -141,7 +213,16 @@
           "ja": "リアウ諸島の各地で親しまれる、マレーの交流の踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Joget_Dangkong",
-        "image": null
+        "image": {
+          "id": "id-kr-art-joget-dangkong",
+          "path": "/assets/img/id-kr-art-joget-dangkong.webp",
+          "title": "Riau Islands (Dance & Performance) - SMARTIN News | Corporate Intelligence of SMARTIN Group",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://smartin.news/riau-islands-dance-performance",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

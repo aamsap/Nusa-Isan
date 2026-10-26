@@ -41,7 +41,16 @@
           "ja": "ゆったりした長袖のベタウィの男性用シャツで、ペチ帽と合わせるのが一般的です。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/baju-sadariah",
-        "image": null
+        "image": {
+          "id": "id-jk-clothing-baju-sadariah",
+          "path": "/assets/img/id-jk-clothing-baju-sadariah.webp",
+          "title": "Special Capital Region of Jakarta",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://triptravelindo.com/special-capital-region-of-jakarta",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JK",
@@ -56,7 +65,16 @@
           "ja": "ベタウィのパンシ衣装には、黒、赤、白、緑などの色があります。"
         },
         "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
-        "image": null
+        "image": {
+          "id": "id-jk-clothing-betawi-pangsi",
+          "path": "/assets/img/id-jk-clothing-betawi-pangsi.webp",
+          "title": "Pangsi: The Traditional Betawi Men’s Attire",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://nowjakarta.co.id/pangsi-the-traditional-betawi-mens-attire",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -97,7 +115,16 @@
           "ja": "牛肉を使い、ココナッツミルクや牛乳でまろやかに仕上げるジャカルタのスープです。"
         },
         "source": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/soto-betawi",
-        "image": null
+        "image": {
+          "id": "id-jk-food-soto-betawi",
+          "path": "/assets/img/id-jk-food-soto-betawi.webp",
+          "title": "Soto Betawi: Profil Hingga Destinasi Warung Legendarisnya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/soto-betawii",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JK",
@@ -112,7 +139,16 @@
           "ja": "ベタウィの結婚式で、夫婦の忠実さを象徴するワニ形のパンです。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/roti-buaya",
-        "image": null
+        "image": {
+          "id": "id-jk-food-roti-buaya",
+          "path": "/assets/img/id-jk-food-roti-buaya.webp",
+          "title": "13 Oleh-oleh Makanan Khas Jakarta, Kekinian hingga Jadul",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://food.detik.com/info-kuliner/d-7892120/13-oleh-oleh-makanan-khas-jakarta-kekinian-hingga-jadul",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -153,7 +189,16 @@
           "ja": "中国と地元の音楽文化が融合したベタウィの合奏音楽です。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/gambang-kromong",
-        "image": null
+        "image": {
+          "id": "id-jk-art-gambang-kromong",
+          "path": "/assets/img/id-jk-art-gambang-kromong.webp",
+          "title": "Gambang Kromong, Harmoni Akulturasi Budaya di Jakarta",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/gambang-kromong",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JK",
@@ -168,7 +213,16 @@
           "ja": "管楽器と打楽器を中心に、地域の祝い事を盛り上げるベタウィの合奏音楽です。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tanjidor",
-        "image": null
+        "image": {
+          "id": "id-jk-art-tanjidor",
+          "path": "/assets/img/id-jk-art-tanjidor.webp",
+          "title": "Tanjidor",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Tanjidor",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

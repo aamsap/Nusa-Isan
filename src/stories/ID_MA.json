@@ -17,7 +17,16 @@
           "ja": "マルクのバジュ・チェレは、小さな格子や幾何学的な縞が特徴です。"
         },
         "source": "https://id.wikipedia.org/wiki/Baju_Cele",
-        "image": null
+        "image": {
+          "id": "id-ma-clothing-baju-cele",
+          "path": "/assets/img/id-ma-clothing-baju-cele.webp",
+          "title": "Harga Maluku Batik Terbaru Mei 2026 | BigGo Indonesia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://biggo.id/s/Maluku%20Batik",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MA",
@@ -32,7 +41,16 @@
           "ja": "アンボンの服飾文化では、男性が祝宴で着る丸襟の上着です。"
         },
         "source": "https://www.antaranews.com/berita/4292483/ragam-rupa-pakaian-adat-maluku",
-        "image": null
+        "image": {
+          "id": "id-ma-clothing-kebaya-dansa",
+          "path": "/assets/img/id-ma-clothing-kebaya-dansa.webp",
+          "title": "5 North Maluku Traditional Clothes and its uniqueness, have you ever worn it?",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://voi.id/en/news/536864",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MA",
@@ -47,7 +65,16 @@
           "ja": "白いクバヤにひだのあるスカートと銀の腰留めを合わせる礼装です。"
         },
         "source": "https://www.antaranews.com/berita/4292483/ragam-rupa-pakaian-adat-maluku",
-        "image": null
+        "image": {
+          "id": "id-ma-clothing-nona-rok-ensemble",
+          "path": "/assets/img/id-ma-clothing-nona-rok-ensemble.webp",
+          "title": "Mengenal Beberapa Pakaian Adat Maluku",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://tribratanews.polri.go.id/blog/none-22/mengenal-beberapa-pakaian-adat-maluku-50864",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "アンボンでは、粘りのあるサゴのでんぷん料理を黄色い魚のスープとともに食べます。"
         },
         "source": "https://papeda.ambon.go.id/what-to-eat/papeda-dan-ikan-kuah-kuning/",
-        "image": null
+        "image": {
+          "id": "id-ma-food-papeda",
+          "path": "/assets/img/id-ma-food-papeda.webp",
+          "title": "Papeda",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/cn/zh-cn/travel-ideas/gastronomy/papeda",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MA",
@@ -79,7 +115,16 @@
           "ja": "野菜、すりおろしたココナツ、燻製カツオを合わせるマルクの和え物です。"
         },
         "source": "https://papeda.ambon.go.id/what-to-eat/kohu-kohu/",
-        "image": null
+        "image": {
+          "id": "id-ma-food-kohu-kohu",
+          "path": "/assets/img/id-ma-food-kohu-kohu.webp",
+          "title": "Kala Sasi Calls the Country's Children Home",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.kompas.id/artikel/en-kala-sasi-panggil-pulang-anak-negeri",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MA",
@@ -94,7 +139,16 @@
           "ja": "ウコンと柑橘で風味を付けた魚のスープで、パペダの付け合わせです。"
         },
         "source": "https://papeda.ambon.go.id/what-to-eat/papeda-dan-ikan-kuah-kuning/",
-        "image": null
+        "image": {
+          "id": "id-ma-food-ikan-kuah-kuning",
+          "path": "/assets/img/id-ma-food-ikan-kuah-kuning.webp",
+          "title": "Kuliner Khas Maluku dan Papua",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/id/id/travel-ideas/gastronomy/papeda-ikan-kuah-kuning",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -135,7 +189,16 @@
           "ja": "ティファ太鼓と、列に並べた小さなトトブアンのゴングを合奏します。"
         },
         "source": "https://id.wikipedia.org/wiki/Tifa_totobuang",
-        "image": null
+        "image": {
+          "id": "id-ma-art-tifa-totobuang",
+          "path": "/assets/img/id-ma-art-tifa-totobuang.webp",
+          "title": "Tifa totobuang",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Tifa_totobuang",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MA",
@@ -150,7 +213,16 @@
           "ja": "マルクの祝いの場で踊られる交流の踊りで、ハンカチを使います。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Lenso",
-        "image": null
+        "image": {
+          "id": "id-ma-art-lenso-dance",
+          "path": "/assets/img/id-ma-art-lenso-dance.webp",
+          "title": "Tari Lenso Maluku, Tarian Tradisional Penuh Sejarah dan Makna Persaudaraan yang Mendunia - Negeri Kami",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://negerikami.id/budaya/tari-lenso-maluku-tarian-tradisional-penuh-sejarah-dan-makna-persaudaraan-yang-mendunia/",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

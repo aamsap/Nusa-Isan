@@ -17,7 +17,16 @@
           "ja": "ブトンの礼装には半袖の上衣コンボワがあります。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6976836/pakaian-adat-sulawesi-tenggara-dari-suku-tolaki-buton-dan-manu",
-        "image": null
+        "image": {
+          "id": "id-sg-clothing-buton-ceremonial-dress",
+          "path": "/assets/img/id-sg-clothing-buton-ceremonial-dress.webp",
+          "title": "First Lady Iriana wears Buton Southeast Sulawesi tribal attire at Independence ceremony",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://sultra.antaranews.com/berita/425753/first-lady-iriana-wears-buton-southeast-sulawesi-tribal-attire-at-independence-ceremony",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SG",
@@ -32,7 +41,16 @@
           "ja": "トラキの女性が着用する儀礼用の衣装です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tolaki-traditional-clothes",
-        "image": null
+        "image": {
+          "id": "id-sg-clothing-babu-nggawi",
+          "path": "/assets/img/id-sg-clothing-babu-nggawi.webp",
+          "title": "Baju Adat Tolaki: Busana Tradisional Penuh Makna dari Sulawesi Tenggara",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tolaki-traditional-clothes",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SG",
@@ -47,7 +65,16 @@
           "ja": "ムナの織り手は幾何学模様を配した色鮮やかな布を作ります。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/kain-tenun-muna",
-        "image": null
+        "image": {
+          "id": "id-sg-clothing-muna-woven-cloth",
+          "path": "/assets/img/id-sg-clothing-muna-woven-cloth.webp",
+          "title": "Kain Tenun Muna, Warisan Sulawesi Tenggara",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/kain-tenun-muna",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -89,7 +116,16 @@
           "ja": "ロヒアなどムナの集落で売られるキャッサバを使った主食です。"
         },
         "source": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna",
-        "image": null
+        "image": {
+          "id": "id-sg-food-kasoami",
+          "path": "/assets/img/id-sg-food-kasoami.webp",
+          "title": "Corn, Sago, and Sweet Potatoes that Cross the Ocean",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://kompas.id/artikel/en-jagung-sagu-dan-ubi-yang-mengarungi-samudra",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SG",
@@ -104,7 +140,16 @@
           "ja": "ムナの食文化に伝わるキャッサバ料理です。"
         },
         "source": "https://kampungkb.kemendukbangga.go.id/kampung/85697/intervensi/2306529/penjual-makanan-khas-muna",
-        "image": null
+        "image": {
+          "id": "id-sg-food-kabuto",
+          "path": "/assets/img/id-sg-food-kabuto.webp",
+          "title": "Sisemba and the Traditional Martial Arts of Sulawesi",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://sulawesi.com/pt/articles/sisemba-sulawesi-martial-arts",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -121,7 +166,16 @@
           "ja": "トラキの人々に伝わる集団舞踊です。"
         },
         "source": "https://repository.iainpare.ac.id/id/eprint/2011/",
-        "image": null
+        "image": {
+          "id": "id-sg-art-lulo-dance-tolaki",
+          "path": "/assets/img/id-sg-art-lulo-dance-tolaki.webp",
+          "title": "Lulo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/lulo",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SG",
@@ -136,7 +190,16 @@
           "ja": "ムナのカリア儀礼に結びついた舞踊です。"
         },
         "source": "https://rama.kemdiktisaintek.go.id/document/detail/oai%3Adigilib.isi.ac.id%3A11912-15",
-        "image": null
+        "image": {
+          "id": "id-sg-art-linda-dance",
+          "path": "/assets/img/id-sg-art-linda-dance.webp",
+          "title": "Sulawesi Tenggara - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Sulawesi_Tenggara",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SG",
@@ -151,7 +214,16 @@
           "ja": "ワカトビに伝わる歓迎の舞踊です。"
         },
         "source": "https://rri.co.id/kendari/hiburan/884701/tarian-balumpa-dari-wakatobi",
-        "image": null
+        "image": {
+          "id": "id-sg-art-balumpa-dance",
+          "path": "/assets/img/id-sg-art-balumpa-dance.webp",
+          "title": "Tari Balumpa",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-balumpa",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

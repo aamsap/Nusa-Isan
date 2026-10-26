@@ -19,7 +19,16 @@
           "ja": "センタニ湖周辺のイソソロの踊り手は、モリモリと呼ばれるビーズを身につけます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Isosolo",
-        "image": null
+        "image": {
+          "id": "id-pa-clothing-sentani-beadwork",
+          "path": "/assets/img/id-pa-clothing-sentani-beadwork.webp",
+          "title": "Frans Faber Tribal Arts | The Collection",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.fransfaber.com/",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PE",
@@ -34,7 +43,16 @@
           "ja": "ワメナでは、ノケンのひもを頭に掛けて日用品を運びます。"
         },
         "source": "https://en.wikipedia.org/wiki/Noken",
-        "image": null
+        "image": {
+          "id": "id-pe-clothing-highland-woven-accessories-noken",
+          "path": "/assets/img/id-pe-clothing-highland-woven-accessories-noken.webp",
+          "title": "Our Global Neighbours: Noken from Papuan Highlands",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://australian.museum/learn/news/blog/our-global-neighbours-noken-from-papuan-highlands",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PA",
@@ -49,7 +67,16 @@
           "ja": "センタニ湖のアセイでは、絵を描いたコンボウの樹皮が伝統的に衣服に使われていました。"
         },
         "source": "https://id.wikipedia.org/wiki/Khombow",
-        "image": null
+        "image": {
+          "id": "id-pa-clothing-khombow-barkcloth-clothing",
+          "path": "/assets/img/id-pa-clothing-khombow-barkcloth-clothing.webp",
+          "title": "Ömie nioge (barkcloth) - The University of Sydney",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.sydney.edu.au/museum/news/2022/12/09/oemie-nioge--barkcloth-.html",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -66,7 +93,16 @@
           "ja": "ヨボイではサゴのでんぷんを加工し、サゴのアイスクリームなどの地元料理を作ります。"
         },
         "source": "https://jadesta.kemenpar.go.id/desa/kampung_yoboi",
-        "image": null
+        "image": {
+          "id": "id-pa-food-sago-preparations",
+          "path": "/assets/img/id-pa-food-sago-preparations.webp",
+          "title": "\n\tImproving Masyarakat Adat’s livelihood through sago processing\n",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.fao.org/indonesia/news/detail/improving-masyarakat-adat-s-livelihood-through-sago-processing/en",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PE",
@@ -81,7 +117,16 @@
           "ja": "バリエム渓谷のダニの人々にとって、サツマイモは大切な主食作物です。"
         },
         "source": "https://en.wikipedia.org/wiki/Dani_people",
-        "image": null
+        "image": {
+          "id": "id-pe-food-sweet-potato",
+          "path": "/assets/img/id-pe-food-sweet-potato.webp",
+          "title": "Ubi Jalar Papua",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/destination/maluku-papua/central-papua/ubi-jalar-papua",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PE",
@@ -96,7 +141,16 @@
           "ja": "ダニの人々は地面の穴に熱した石を入れ、共同の宴のために芋や肉を蒸し焼きにします。"
         },
         "source": "https://en.wikipedia.org/wiki/Dani_people",
-        "image": null
+        "image": {
+          "id": "id-pe-food-bakar-batu-feast",
+          "path": "/assets/img/id-pe-food-bakar-batu-feast.webp",
+          "title": "Bakar Batu, Pesta Makanan Lezat dan Sehat di Papua",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://travel.detik.com/read/2013/03/08/101211/2189255/1383/bakar-batu-pesta-makanan-lezat-dan-sehat-di-papua",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -113,7 +167,16 @@
           "ja": "イソソロとも呼ばれ、センタニ湖の船の上で一緒に踊る芸能です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Isosolo",
-        "image": null
+        "image": {
+          "id": "id-pa-art-isolo-dance-sentani",
+          "path": "/assets/img/id-pa-art-isolo-dance-sentani.webp",
+          "title": "Isosolo: The Sentani Dance of Peace",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://westpapuavoice.ac/west-papua-social-culture/isosolo-the-sentani-dance-of-peace",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PE",
@@ -128,7 +191,16 @@
           "ja": "結んだり編んだりするノケン作りは、ワメナの日常とパプア各地の工芸文化につながっています。"
         },
         "source": "https://en.wikipedia.org/wiki/Noken",
-        "image": null
+        "image": {
+          "id": "id-pe-art-highland-noken-making",
+          "path": "/assets/img/id-pe-art-highland-noken-making.webp",
+          "title": "Noken Handcraft of the People of Papua | Intangible Heritage - UNESCO Multimedia Archives",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.unesco.org/archives/multimedia/document-3763",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PA",
@@ -143,7 +215,16 @@
           "ja": "アセイ・ブサールの作り手は、センタニの自然や地域の知恵に根ざした模様を樹皮に描きます。"
         },
         "source": "https://id.wikipedia.org/wiki/Khombow",
-        "image": null
+        "image": {
+          "id": "id-pa-art-khombow-bark-painting",
+          "path": "/assets/img/id-pa-art-khombow-bark-painting.webp",
+          "title": "Asei Besar Village, Centre for Wood Bark Paintings in Papua",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://westpapuanow.com/2025/02/19/asei-besar-village-centre-for-wood-bark-paintings-in-papua",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

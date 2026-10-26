@@ -41,7 +41,16 @@
           "ja": "乾燥させたロンタルヤシの葉で作る独特な帽子で、ロテ島の男性の伝統衣装の一部です。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/east-nusa-tenggara",
-        "image": null
+        "image": {
+          "id": "id-nt-clothing-rote-ti-i-langga",
+          "path": "/assets/img/id-nt-clothing-rote-ti-i-langga.webp",
+          "title": "Pakaian Adat Rote: Makna Keunikan Busana Tradisional NTT",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-rote",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NT",
@@ -56,7 +65,16 @@
           "ja": "マンガライのソンケは、黒を基調に模様を織り込んだ布で、サロンのように身に着けます。"
         },
         "source": "https://www.gramedia.com/literasi/pakaian-adat-ntt-nusa-tenggara-timur/",
-        "image": null
+        "image": {
+          "id": "id-nt-clothing-manggarai-songke",
+          "path": "/assets/img/id-nt-clothing-manggarai-songke.webp",
+          "title": "Traditional Dress of NTT (Nusa Tenggara Timur): 7 Named Costumes by Tribe",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indahnesia.id/journal/mengenal-pakaian-adat-ntt",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -73,7 +91,16 @@
           "ja": "東ヌサ・トゥンガラの郷土料理で、牛肉や豚肉などを薪の煙でじっくり燻します。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/sei",
-        "image": null
+        "image": {
+          "id": "id-nt-food-se-i-smoked-meat",
+          "path": "/assets/img/id-nt-food-se-i-smoked-meat.webp",
+          "title": "Se'i: Daging Asap Khas NTT dengan Aroma Rempah Khas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/sei",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NT",
@@ -88,7 +115,16 @@
           "ja": "特にティモール島で親しまれる料理で、柔らかくしたトウモロコシを豆やココナツミルクと煮ます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/jagung-bose",
-        "image": null
+        "image": {
+          "id": "id-nt-food-jagung-bose",
+          "path": "/assets/img/id-nt-food-jagung-bose.webp",
+          "title": "Mengenal Jagung Bose dari NTT",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/jagung-bose",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NT",
@@ -103,7 +139,16 @@
           "ja": "東ヌサ・トゥンガラの料理で、トウモロコシ、豆、カボチャを一緒に煮ます。"
         },
         "source": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/catemak-jagung",
-        "image": null
+        "image": {
+          "id": "id-nt-food-catemak-jagung",
+          "path": "/assets/img/id-nt-food-catemak-jagung.webp",
+          "title": "Katemak",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://grokipedia.com/page/katemak",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "フローレス島のマンガライの芸能で、歌やゴング、太鼓に合わせて鞭と盾を使う二人が対戦します。"
         },
         "source": "https://indonesiakaya.com/pustaka-indonesia/tari-caci-tradisi-duel-manggarai-yang-sarat-nilai-keprajuritan/",
-        "image": null
+        "image": {
+          "id": "id-nt-art-caci-of-manggarai",
+          "path": "/assets/img/id-nt-art-caci-of-manggarai.webp",
+          "title": "Caci (fighting)",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Caci_(fighting)",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NT",
@@ -135,7 +189,16 @@
           "ja": "ロテ島の撥弦楽器で、竹の胴の周囲にロンタルヤシの葉で作った共鳴部があります。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/sasando",
-        "image": null
+        "image": {
+          "id": "id-nt-art-sasando",
+          "path": "/assets/img/id-nt-art-sasando.webp",
+          "title": "Apa Itu Sasando Alat Musik Tradisional Berasal dari Pulau Rote NTT, Ini Cara Memainkannya  ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.tribunnews.com/pendidikan/2021/07/15/apa-itu-sasando-alat-musik-tradisional-berasal-dari-pulau-rote-ntt-ini-cara-memainkannya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_NT",
@@ -150,7 +213,16 @@
           "ja": "スンバ島の儀礼パソラでは、二組の騎馬の乗り手が馬上から木の槍を投げ合います。"
         },
         "source": "https://indonesia.travel/gb/en/travel-ideas/nihisumba-the-epitome-of-tranquility-leisure-adventure-and-lavishness",
-        "image": null
+        "image": {
+          "id": "id-nt-art-pasola-of-sumba",
+          "path": "/assets/img/id-nt-art-pasola-of-sumba.webp",
+          "title": "Tradisi Pasola di Sumba Barat, Sejarah hingga Waktu Pelaksanaan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/bali/budaya/d-7332105/tradisi-pasola-di-sumba-barat-sejarah-hingga-waktu-pelaksanaan",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

@@ -41,7 +41,16 @@
           "ja": "ニャムの樹皮で作る無地の袖なし衣装で、装飾のあるサンカルットより簡素です。"
         },
         "source": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai",
-        "image": null
+        "image": {
+          "id": "id-kt-clothing-upak-nyamu-bark-cloth-vest",
+          "path": "/assets/img/id-kt-clothing-upak-nyamu-bark-cloth-vest.webp",
+          "title": "6 Baju Adat Kalimantan Tengah, Sangkarut hingga Berantai",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KT",
@@ -56,7 +65,16 @@
           "ja": "カハリンガンの儀礼を担う人が祈りの際に着る、房飾りとビーズを施した木の繊維の衣装です。"
         },
         "source": "https://www.detik.com/kalimantan/budaya/d-8178542/6-baju-adat-kalimantan-tengah-sangkarut-hingga-berantai",
-        "image": null
+        "image": {
+          "id": "id-kt-clothing-baju-pawang-ritual-attire",
+          "path": "/assets/img/id-kt-clothing-baju-pawang-ritual-attire.webp",
+          "title": "Woven with meaning: Lawung and Sumping as expressions of faith in New Testament theology",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://hts.org.za/index.php/hts/article/view/10722",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -73,7 +91,16 @@
           "ja": "若いラタンの芽を煮込む汁料理で、川魚や酸味のあるナスを合わせることがあります。"
         },
         "source": "https://id.wikipedia.org/wiki/Juhu_singkah?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kt-food-juhu-singkah",
+          "path": "/assets/img/id-kt-food-juhu-singkah.webp",
+          "title": "Recipe | Juhu Singkah ft. Kalimantan Tengah",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://aslifoodproject.com/2018/05/31/recipe-juhu-singkah-ft-kalimantan-tengah",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KT",
@@ -88,7 +115,16 @@
           "ja": "細かく搗いたキャッサバの葉を香味野菜などと煮る、ダヤックの野菜料理です。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan",
-        "image": null
+        "image": {
+          "id": "id-kt-food-kalumpe",
+          "path": "/assets/img/id-kt-food-kalumpe.webp",
+          "title": "Mengenal Juhu Umbut Rotan, Kuliner Tradisional Khas Kalimantan Tengah",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/juhu-umbul-rotan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KT",
@@ -103,7 +139,16 @@
           "ja": "川魚を発酵させる、ダヤックの伝統的な保存食です。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/kalimantan/central-kalimantan",
-        "image": null
+        "image": {
+          "id": "id-kt-food-wadi-fermented-fish",
+          "path": "/assets/img/id-kt-food-wadi-fermented-fish.webp",
+          "title": "15 Makanan Khas Kalimantan Tengah yang Wajib Dicoba",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-kalimantan-tengah",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "詩を歌う口承芸能で、中部カリマンタンの物語や教訓、文化の知識を伝えます。"
         },
         "source": "https://id.wikipedia.org/wiki/Karungut?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kt-art-karungut-oral-poetry",
+          "path": "/assets/img/id-kt-art-karungut-oral-poetry.webp",
+          "title": "KARUNGUT, SENI SASTRA LISAN MASYARAKAT KALTENG – visitKALTENG",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://visit.kalteng.go.id/karungut-seni-sastra-lisan-masyarakat-kalteng",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KT",
@@ -135,7 +189,16 @@
           "ja": "棒を用いて喜びを表すマアニャンの踊りで、歓迎や収穫祝い、慣習行事などで踊られます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Giring-Giring?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kt-art-giring-giring-dance",
+          "path": "/assets/img/id-kt-art-giring-giring-dance.webp",
+          "title": "Giring Giring Dance, Traditional Dance From Central Kalimantan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://myindonesiann.blogspot.com/2017/10/giring-giring-dance-traditional-dance-from-central-kalimantan.html",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KT",
@@ -150,7 +213,16 @@
           "ja": "亡くなった人の魂を送るカハリンガンの神聖な葬送儀礼で、単なる見世物ではありません。"
         },
         "source": "https://id.wikipedia.org/wiki/Tiwah?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kt-art-tiwah-mortuary-tradition",
+          "path": "/assets/img/id-kt-art-tiwah-mortuary-tradition.webp",
+          "title": "TIWAH – visitKALTENG",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://visit.kalteng.go.id/tiwah",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

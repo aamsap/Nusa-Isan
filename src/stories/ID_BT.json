@@ -17,7 +17,16 @@
           "ja": "バドゥイの手織り衣装は、内バドゥイと外バドゥイで装いが異なります。"
         },
         "source": "https://regional.kompas.com/read/2021/10/29/073000578/mengenal-perbedaan-pakaian-adat-suku-baduy-dalam-dan-baduy-luar-di-banten",
-        "image": null
+        "image": {
+          "id": "id-bt-clothing-baduy-woven-clothing",
+          "path": "/assets/img/id-bt-clothing-baduy-woven-clothing.webp",
+          "title": "Lucrative future for Baduy’s naturally dyed ‘tenun aros’",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://thejakartapost.com/life/2016/11/08/lucrative-future-for-baduys-naturally-dyed-tenun-aros.html",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BT",
@@ -32,7 +41,16 @@
           "ja": "ゆったりした上下の衣装で、バンテンのジャワラの伝統と結びついています。"
         },
         "source": "https://indonesia.travel/gb/en/destination/java/banten/baju-pangsi-banten",
-        "image": null
+        "image": {
+          "id": "id-bt-clothing-banten-pangsi",
+          "path": "/assets/img/id-bt-clothing-banten-pangsi.webp",
+          "title": "Pangsi: The Traditional Clothing of Banten ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/destination/java/banten/baju-pangsi-banten",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BT",
@@ -47,7 +65,16 @@
           "ja": "バンテンの歴史遺産を着想源とする文様が発展しています。"
         },
         "source": "https://bantenprov.go.id/index.php/berita/batik-banten-mukarnas-pelopor-produksi-sentra-batik-di-provinsi-banten-miliki-120-lebih-motif",
-        "image": null
+        "image": {
+          "id": "id-bt-clothing-banten-batik",
+          "path": "/assets/img/id-bt-clothing-banten-batik.webp",
+          "title": "Motif Kawangsan: Batik Banten Penuh Simbol Kehidupan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/motif-kawangsan",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "骨を除いたサバヒーの身を味付けし、皮に詰め直して焼きます。"
         },
         "source": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera",
-        "image": null
+        "image": {
+          "id": "id-bt-food-sate-bandeng",
+          "path": "/assets/img/id-bt-food-sate-bandeng.webp",
+          "title": "Detail Berita\n - Website Resmi Pemerintah Provinsi Banten",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://bantenprov.go.id/berita/kepiawaian-koki-kesultanan-banten-ciptakan-sate-bandeng-hingga-digemari-sultan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BT",
@@ -79,7 +115,16 @@
           "ja": "スランやバンテン王国の食文化と結びつく、香辛料豊かな肉料理です。"
         },
         "source": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera",
-        "image": null
+        "image": {
+          "id": "id-bt-food-rabeg",
+          "path": "/assets/img/id-bt-food-rabeg.webp",
+          "title": "Rabeg Khas Serang H. Naswi (Magersari) - Authentic Traditional Goat Meat Soup from Serang, Banten",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://rabegkhasseranghnaswimagersari.shop",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BT",
@@ -94,7 +139,16 @@
           "ja": "パンデグランやルバックなど、バンテン南部で食べられる辛い肉のスープです。"
         },
         "source": "https://bantenprov.go.id/berita/5-makanan-khas-banten-cita-rasa-yang-menggugah-selera",
-        "image": null
+        "image": {
+          "id": "id-bt-food-angeun-lada",
+          "path": "/assets/img/id-bt-food-angeun-lada.webp",
+          "title": "Angeun Lada - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Angeun_Lada",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -135,7 +189,16 @@
           "ja": "大太鼓の息の合った演奏と舞踊を組み合わせるバンテンの芸能です。"
         },
         "source": "https://bantenprov.go.id/berita/rampak-bedug-seni-religi-dari-banten",
-        "image": null
+        "image": {
+          "id": "id-bt-art-rampak-bedug",
+          "path": "/assets/img/id-bt-art-rampak-bedug.webp",
+          "title": " Beberapa Alat Musik Tradisional Banten | TRIBRATA NEWS ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://tribratanews.polri.go.id/blog/nasional-3/beberapa-alat-musik-tradisional-banten-46672",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BT",
@@ -150,7 +213,16 @@
           "ja": "バドゥイの代表が収穫物を携え、地域の行政指導者を訪ねる慣習です。"
         },
         "source": "https://id.wikipedia.org/wiki/Seba_Baduy",
-        "image": null
+        "image": {
+          "id": "id-bt-art-seba-baduy",
+          "path": "/assets/img/id-bt-art-seba-baduy.webp",
+          "title": "Seba Baduy - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Seba_Baduy",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

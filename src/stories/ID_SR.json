@@ -17,7 +17,16 @@
           "ja": "リパ・サッベはマンダルの礼装に合わせる絹織物の腰布です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar",
-        "image": null
+        "image": {
+          "id": "id-sr-clothing-mandar-silk-sarong",
+          "path": "/assets/img/id-sr-clothing-mandar-silk-sarong.webp",
+          "title": "Sulawesi Textiles: Sutera Bugis, Lipa' Sa'be, and the Island's Weaving Traditions",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://sulawesi.com/de/articles/sulawesi-textiles-ikat-silk",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -32,7 +41,16 @@
           "ja": "マンダルの舞踊で着用する上衣です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar",
-        "image": null
+        "image": {
+          "id": "id-sr-clothing-baju-pokko",
+          "path": "/assets/img/id-sr-clothing-baju-pokko.webp",
+          "title": "3 Pakaian Adat Sulawesi Barat, Lengkap dengan Gambar! | Orami",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.orami.co.id/magazine/pakaian-adat-sulawesi-barat",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -47,7 +65,16 @@
           "ja": "マムジュ県カルンパン地域で作られる絣織物です。"
         },
         "source": "https://www.indonesia.travel/sa/en/travel-ideas/heritage/tenun-ikat-sekomandi",
-        "image": null
+        "image": {
+          "id": "id-sr-clothing-sekomandi-cloth",
+          "path": "/assets/img/id-sr-clothing-sekomandi-cloth.webp",
+          "title": "Tenun Ikat Sekomandi: Keindahan Kain Tradisional Mamuju dan Makna di Balik Motifnya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/heritage/tenun-ikat-sekomandi",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "キャッサバとココナッツで作るマンダルの薄焼きパンです。"
         },
         "source": "https://indonesiakaya.com/pustaka-indonesia/jepa/",
-        "image": null
+        "image": {
+          "id": "id-sr-food-jepa",
+          "path": "/assets/img/id-sr-food-jepa.webp",
+          "title": "20 Makanan Khas Sulawesi Barat yang Enak dan Menggugah Selera",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sulsel/kuliner/d-6449948/20-makanan-khas-sulawesi-barat-yang-enak-dan-menggugah-selera",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -79,7 +115,16 @@
           "ja": "ジェパと一緒に食べられるマンダルの魚料理です。"
         },
         "source": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709",
-        "image": null
+        "image": {
+          "id": "id-sr-food-bau-peapi",
+          "path": "/assets/img/id-sr-food-bau-peapi.webp",
+          "title": "Braised mackerel with spices (Bau Peapi from Mandar)",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://pisangsusu.com/braised-fish-with-spices-bau-peapi-from-mandar",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -94,7 +139,16 @@
           "ja": "もち米、ココナッツ、ヤシ糖を使うマンダルの菓子です。"
         },
         "source": "https://www.traveloka.com/id-id/explore/destination/10-makanan-khas-suku-mandar-yang-lezat-dan-wajib-anda-coba/1007709",
-        "image": null
+        "image": {
+          "id": "id-sr-food-golla-kambu",
+          "path": "/assets/img/id-sr-food-golla-kambu.webp",
+          "title": "Golla Kambu, Penganan Tradisional Khas Polewali Mandar",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://genpi.id/golla-kambu",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -111,7 +165,16 @@
           "ja": "女性が踊るマンダルの歓迎舞踊です。"
         },
         "source": "https://pariwisataindonesia.id/budaya-dan-sejarah/penyambutan-para-pejuang/",
-        "image": null
+        "image": {
+          "id": "id-sr-art-tari-pattuqduq-towaine",
+          "path": "/assets/img/id-sr-art-tari-pattuqduq-towaine.webp",
+          "title": "Pakaian Adat Suku Mandar: Warisan Budaya Sulawesi Barat",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-suku-mandar",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -126,7 +189,16 @@
           "ja": "訓練された馬が音楽に合わせて動くマンダルの伝統です。"
         },
         "source": "https://pariwisataindonesia.id/budaya-dan-sejarah/menunggangi-kuda-menari/",
-        "image": null
+        "image": {
+          "id": "id-sr-art-sayyang-pattudduq",
+          "path": "/assets/img/id-sr-art-sayyang-pattudduq.webp",
+          "title": "Budayawan Muda Mandar Soroti Pergeseran Makna Tradisi Sayyang Pattuduq",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://regional.kompas.com/read/2026/10/19/071118478/budayawan-muda-mandar-soroti-pergeseran-makna-tradisi-sayyang-pattuduq?page=1",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SR",
@@ -141,7 +213,16 @@
           "ja": "マンダルの船大工は細身の帆走アウトリガー船サンデックを作ります。"
         },
         "source": "https://en.wikipedia.org/wiki/Sandeq",
-        "image": null
+        "image": {
+          "id": "id-sr-art-sandeq-boatbuilding",
+          "path": "/assets/img/id-sr-art-sandeq-boatbuilding.webp",
+          "title": "Karakteristik Perahu Sandeq Perangkap Ikan Berbahan Kayu Bulat di Provinsi Sulawesi Barat",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://journal.unhas.ac.id/index.php/zonalaut/article/view/26566",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

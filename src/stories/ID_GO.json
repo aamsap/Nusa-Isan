@@ -17,7 +17,16 @@
           "ja": "ゴロンタロの花嫁が身に着ける礼装で、豪華な装身具と独特の冠を合わせます。"
         },
         "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
-        "image": null
+        "image": {
+          "id": "id-go-clothing-bili-u-ceremonial-attire",
+          "path": "/assets/img/id-go-clothing-bili-u-ceremonial-attire.webp",
+          "title": "Bili'u and Paluwala",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/uae/ar/travel-ideas/culture/biliu-and-paluwala-traditional-attire",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_GO",
@@ -32,7 +41,16 @@
           "ja": "ゴロンタロで男性が婚礼に着る伝統衣装です。"
         },
         "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
-        "image": null
+        "image": {
+          "id": "id-go-clothing-makuta",
+          "path": "/assets/img/id-go-clothing-makuta.webp",
+          "title": "Makuta",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/gb/en/travel-ideas/culture/makuta-traditional-attire",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_GO",
@@ -47,7 +65,16 @@
           "ja": "女性が婚礼の儀式やゴロンタロのさまざまな伝統行事で着る衣装です。"
         },
         "source": "https://www.goodnewsfromindonesia.id/indonesiana/sosial-budaya/mengenal-berbagai-jenis-baju-adat-gorontalo-beserta-aksesoris-pendukungnya",
-        "image": null
+        "image": {
+          "id": "id-go-clothing-walimomo",
+          "path": "/assets/img/id-go-clothing-walimomo.webp",
+          "title": "Lima Budaya Gorontalo Ditetapkan Jadi WBTB Indonesia – Berita Gorontalo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://berita.gorontaloprov.go.id/2023/09/14/lima-budaya-gorontalo-ditetapkan-jadi-wbtb-indonesia",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "鶏肉に香辛料とココナッツミルクの味をなじませてから焼きます。"
         },
         "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/",
-        "image": null
+        "image": {
+          "id": "id-go-food-ayam-iloni",
+          "path": "/assets/img/id-go-food-ayam-iloni.webp",
+          "title": "Ayam iloni - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Ayam_iloni",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_GO",
@@ -103,7 +139,16 @@
           "ja": "サゴ澱粉と鶏の内臓に味を付け、バナナの葉で包む料理です。"
         },
         "source": "https://www.gramedia.com/best-seller/makanan-khas-gorontalo/",
-        "image": null
+        "image": {
+          "id": "id-go-food-ilabulo",
+          "path": "/assets/img/id-go-food-ilabulo.webp",
+          "title": "Ilabulo, Gorontalo Unique Chicken Liver",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesianstreetfood.wordpress.com/2017/10/31/ilabulo-gorontalo-unique-chicken-liver",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "婚礼儀式のモラピ・サロンデでは、新郎が布を使って踊ります。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Saronde",
-        "image": null
+        "image": {
+          "id": "id-go-art-saronde-dance",
+          "path": "/assets/img/id-go-art-saronde-dance.webp",
+          "title": "Tari Saronde, Tradisi Perayaan Pernikahan Gorontalo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-saronde",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_GO",
@@ -135,7 +189,16 @@
           "ja": "布の糸を切って抜き、透かし模様を刺繍するゴロンタロの手仕事です。"
         },
         "source": "https://id.wikipedia.org/wiki/Karawo",
-        "image": null
+        "image": {
+          "id": "id-go-art-karawo-embroidery",
+          "path": "/assets/img/id-go-art-karawo-embroidery.webp",
+          "title": "Karawo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/in/en/travel-ideas/culture/gorontalo---karawo-traditional-embroidery",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_GO",
@@ -150,7 +213,16 @@
           "ja": "ラマダン末期の夜、ゴロンタロの家々や通りに灯りをともす行事です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tumbilotohe",
-        "image": null
+        "image": {
+          "id": "id-go-art-tumbilotohe",
+          "path": "/assets/img/id-go-art-tumbilotohe.webp",
+          "title": "Semarak Tumbilotohe, Kelurahan Ipilo Dihiasi Jutaan Lampu – Berita Gorontalo",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://berita.gorontaloprov.go.id/2018/06/12/semarak-tumbilotohe-kelurahan-ipilo-dihiasi-jutaan-lampu/",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

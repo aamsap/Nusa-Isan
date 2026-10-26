@@ -19,7 +19,16 @@
           "ja": "トゥンブ・タナを踊る男性は、伝統的に乾いた樹皮で作る腰布マヤを身に着けます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah",
-        "image": null
+        "image": {
+          "id": "id-pb-clothing-arfak-ceremonial-attire-maya",
+          "path": "/assets/img/id-pb-clothing-arfak-ceremonial-attire-maya.webp",
+          "title": "Magasa Dance: A Symbol of Unity and Harmony of the Arfak Tribe",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://helloindonesia.id/en/magasa-dance-west-papua/amp",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PB",
@@ -34,7 +43,16 @@
           "ja": "アルファクの女性の踊りでは、現在は胸から下を長い布で包みます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Tumbu_Tanah",
-        "image": null
+        "image": {
+          "id": "id-pb-clothing-sre-a-dance-wrap",
+          "path": "/assets/img/id-pb-clothing-sre-a-dance-wrap.webp",
+          "title": "Apa Itu Musik Tradisional? Ciri-ciri dan Contoh",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://regional.kompas.com/read/2022/09/27/232400278/apa-itu-musik-tradisional-ciri-ciri-dan-contoh?page=all",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PD",
@@ -49,7 +67,16 @@
           "ja": "ラジャ・アンパットでは、葉を編んで作るノケンの袋が見られます。"
         },
         "source": "https://id.wikipedia.org/wiki/Noken",
-        "image": null
+        "image": {
+          "id": "id-pd-clothing-raja-ampat-noken-accessory",
+          "path": "/assets/img/id-pd-clothing-raja-ampat-noken-accessory.webp",
+          "title": "Noken Papua yang Berasal dari Raja Ampat dan Wamena Ternyata Berbeda",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://phinemo.com/noken-raja-ampat-dan-wamena",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -66,7 +93,16 @@
           "ja": "マノクワリでは、粘りのあるサゴのかゆを黄色い魚のスープとともに食べます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat",
-        "image": null
+        "image": {
+          "id": "id-pb-food-papeda",
+          "path": "/assets/img/id-pb-food-papeda.webp",
+          "title": "Papeda",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://id.wikipedia.org/wiki/Papeda",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PD",
@@ -81,7 +117,16 @@
           "ja": "南ソロンのバリアットでは、アフシャの人々が慣習林のサゴを主食として加工します。"
         },
         "source": "https://telusuri.id/sagu-keramat-kampung-bariat/",
-        "image": null
+        "image": {
+          "id": "id-pd-food-sago-based-foods-of-bariat",
+          "path": "/assets/img/id-pd-food-sago-based-foods-of-bariat.webp",
+          "title": "Papeda (food)",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://grokipedia.com/page/Papeda_(food)",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PB",
@@ -96,7 +141,16 @@
           "ja": "焼き魚に唐辛子、赤玉ねぎ、ライムの鮮やかなサンバルをかけます。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-papua-barat",
-        "image": null
+        "image": {
+          "id": "id-pb-food-manokwari-grilled-fish",
+          "path": "/assets/img/id-pb-food-manokwari-grilled-fish.webp",
+          "title": "Grilled Spicy Fish Manokwari",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/grilled-spicy-fish-manokwari",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -137,7 +191,16 @@
           "ja": "マラウムカルタでは、モイの人々が漁場を一時閉鎖し、海の資源の回復を促します。"
         },
         "source": "https://ykan.or.id/en/publications/articles/press-release/ratifies-customary-regulation-for-marine-and-coastal-conservation",
-        "image": null
+        "image": {
+          "id": "id-pd-art-moi-egek-customary-stewardship",
+          "path": "/assets/img/id-pd-art-moi-egek-customary-stewardship.webp",
+          "title": "Caring for the Forest as a Source of Life for the Moi Tribe of Southwest Papua - West Papua Voice",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://westpapuavoice.ac/west-papua-social-culture/caring-for-the-forest-as-a-source-of-life-for-the-moi-tribe-of-southwest-papua/",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PB",
@@ -152,7 +215,16 @@
           "ja": "マノクワリの女性たちは、ミンチャウの樹皮やパイナップルの葉の繊維でノケンを作ります。"
         },
         "source": "https://www.antaranews.com/berita/4339271/semangat-perempuan-perempuan-arfak-melestarikan-noken",
-        "image": null
+        "image": {
+          "id": "id-pb-art-arfak-monga-weaving",
+          "path": "/assets/img/id-pb-art-arfak-monga-weaving.webp",
+          "title": "Wong Arfak - Wikipédia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://ban.wikipedia.org/wiki/Suku_Arfak",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

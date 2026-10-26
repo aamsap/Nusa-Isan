@@ -17,7 +17,16 @@
           "ja": "ルジャンの婚礼衣装は、華やかに飾った服と儀礼用の装身具を組み合わせます。"
         },
         "source": "https://www.orami.co.id/magazine/pakaian-adat-bengkulu",
-        "image": null
+        "image": {
+          "id": "id-be-clothing-rejang-ceremonial-dress",
+          "path": "/assets/img/id-be-clothing-rejang-ceremonial-dress.webp",
+          "title": "Bride Gown with Typical Rejang Bengkulu - Indonesia Tradition",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://rejang-lebong.blogspot.com/2010/04/bride-gown-with-typical-rejang-bengkulu.html",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BE",
@@ -32,7 +41,16 @@
           "ja": "花嫁は金色の装飾を施したベルベットのバジュ・クルンなどを着用します。"
         },
         "source": "https://www.orami.co.id/magazine/pakaian-adat-bengkulu",
-        "image": null
+        "image": {
+          "id": "id-be-clothing-bengkulu-malay-bridal-dress",
+          "path": "/assets/img/id-be-clothing-bengkulu-malay-bridal-dress.webp",
+          "title": "Mengenal Baju Adat Bengkulu dan Perlengkapannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumbagsel/budaya/d-6854737/mengenal-baju-adat-bengkulu-dan-perlengkapannya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BE",
@@ -47,7 +65,16 @@
           "ja": "ブンクルのバティックで、書を思わせる文様にラフレシアの花などを組み合わせます。"
         },
         "source": "https://id.wikipedia.org/wiki/Batik_Besurek",
-        "image": null
+        "image": {
+          "id": "id-be-clothing-besurek-batik",
+          "path": "/assets/img/id-be-clothing-besurek-batik.webp",
+          "title": "Melihat Pembuatan Batik Kain Besurek, Warisan Budaya Bengkulu",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.dw.com/id/pengrajin-batik-besurek-di-bengkulu/g-59381737",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "ルジャンの郷土食で、刻んだタケノコと魚を発酵させてから調理します。"
         },
         "source": "https://jurnal.unived.ac.id/index.php/agritepa/article/view/3836",
-        "image": null
+        "image": {
+          "id": "id-be-food-lemea",
+          "path": "/assets/img/id-be-food-lemea.webp",
+          "title": "Lemea: Kelezatan Fermentasi Rebung Khas Bengkulu yang Menggugah Selera - Pikiran Rakyat Bengkulu",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://bengkulu.pikiran-rakyat.com/resep-dapur/pr-2509043462/lemea-kelezatan-fermentasi-rebung-khas-bengkulu-yang-menggugah-selera",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BE",
@@ -103,7 +139,16 @@
           "ja": "ブンクルでは発酵させたドリアンをサンバルや魚料理に使います。"
         },
         "source": "https://bengkulu.antaranews.com/berita/31922/bagar-hiu-dan-tempoyak-menu-favorit-buka-puasa",
-        "image": null
+        "image": {
+          "id": "id-be-food-tempoyak",
+          "path": "/assets/img/id-be-food-tempoyak.webp",
+          "title": "Tempoyak",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Tempoyak",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "ブンクルのタボットは、ムハッラム月の儀礼を通じてフサインを追悼する行事です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tabut",
-        "image": null
+        "image": {
+          "id": "id-be-art-tabot-procession",
+          "path": "/assets/img/id-be-art-tabot-procession.webp",
+          "title": "Gambaran Pelaksanaan Tradisi Tabot di Bengkulu Beserta Sejarahnya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumbagsel/budaya/d-6871827/gambaran-pelaksanaan-tradisi-tabot-di-bengkulu-beserta-sejarahnya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BE",
@@ -135,7 +189,16 @@
           "ja": "ブンクル南部の交流の踊りで、婚礼の祝宴などで披露されます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Andun",
-        "image": null
+        "image": {
+          "id": "id-be-art-andun-dance",
+          "path": "/assets/img/id-be-art-andun-dance.webp",
+          "title": "Tari Andun",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/uae-ar/travel-ideas/culture/tari-andun",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BE",
@@ -150,7 +213,16 @@
           "ja": "ドールの太鼓は、ブンクルのタボットやさまざまな文化公演で演奏されます。"
         },
         "source": "https://id.wikipedia.org/wiki/Dol",
-        "image": null
+        "image": {
+          "id": "id-be-art-dol-drumming",
+          "path": "/assets/img/id-be-art-dol-drumming.webp",
+          "title": "4 Traditional Musical Instruments of Bengkulu",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://musicofindonesia45.blogspot.com/2015/03/4-traditional-musical-instruments-of-Bengkulu.html",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

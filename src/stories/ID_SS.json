@@ -17,7 +17,16 @@
           "ja": "パレンバンの婚礼衣装で、ソンケット織に華やかな金色の装飾を合わせます。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-clothing-aesan-gede",
+          "path": "/assets/img/id-ss-clothing-aesan-gede.webp",
+          "title": "Pakaian Adat Sumatera Selatan: Jenis, Sejarah, Makna Filosofis, dan Keunikannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-sumatera-selatan-keindahan-dan-makna-filosofis",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SS",
@@ -32,7 +41,16 @@
           "ja": "刺繍入りのソンケット織と独特の頭飾りを合わせるパレンバンの婚礼衣装です。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-clothing-aesan-paksangko",
+          "path": "/assets/img/id-ss-clothing-aesan-paksangko.webp",
+          "title": "Pakaian Adat Sumatera Selatan: Jenis, Sejarah, Makna Filosofis, dan Keunikannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/pakaian-adat-sumatera-selatan-keindahan-dan-makna-filosofis",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SS",
@@ -47,7 +65,16 @@
           "ja": "パレンバンの花嫁と花婿の礼装に用いられるソンケット織です。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-clothing-lepus-songket",
+          "path": "/assets/img/id-ss-clothing-lepus-songket.webp",
+          "title": "Songket Lepus the Heritage Culture from Srivijaya Kingdom – BINUS Fashion",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://fashion.binus.ac.id/2020/12/30/songket-lepus-as-the-multicultural-textiles-from-palembang",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "魚とタピオカ粉の小さな団子を、うま味のあるエビのスープでいただきます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tekwan",
-        "image": null
+        "image": {
+          "id": "id-ss-food-tekwan",
+          "path": "/assets/img/id-ss-food-tekwan.webp",
+          "title": "Resep Tekwan / Traditional Fishball Soup with Shrimp Stock from Sumatera, Indonesia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://monicaisinthekitchen.wordpress.com/2020/08/09/resep-tekwan-traditional-fishball-soup-with-shrimp-stock-from-sumatera-indonesia",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SS",
@@ -103,7 +139,16 @@
           "ja": "パレンバン式の麺料理で、ココナツミルクとエビだしの濃厚なスープをかけます。"
         },
         "source": "https://id.wikipedia.org/wiki/Mie_celor",
-        "image": null
+        "image": {
+          "id": "id-ss-food-mie-celor",
+          "path": "/assets/img/id-ss-food-mie-celor.webp",
+          "title": "7 Makanan Khas Sumatera Selatan | Popmama.com",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.popmama.com/life/health/makanan-khas-sumatera-selatan-00-zq8jh-t4vbj3",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "かつてのスリウィジャヤ王国の栄華を表す、パレンバンの歓迎舞踊です。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-art-gending-sriwijaya-dance",
+          "path": "/assets/img/id-ss-art-gending-sriwijaya-dance.webp",
+          "title": "Gending Sriwijaya - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Gending_Sriwijaya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SS",
@@ -135,7 +189,16 @@
           "ja": "優雅な身振りと華やかな郷土衣装で、訪れた客を歓迎します。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-art-tanggai-dance",
+          "path": "/assets/img/id-ss-art-tanggai-dance.webp",
+          "title": "Tanggai dance - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Tanggai_dance",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SS",
@@ -150,7 +213,16 @@
           "ja": "南スマトラの女性たちがソンケットを織る日々の営みを表現する舞踊です。"
         },
         "source": "https://en.wikipedia.org/wiki/South_Sumatra",
-        "image": null
+        "image": {
+          "id": "id-ss-art-tenun-songket-dance",
+          "path": "/assets/img/id-ss-art-tenun-songket-dance.webp",
+          "title": "Songket: Sejarah, Motif, dan Cara Mengenali Kualitasnya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://wearemandalas.com/id-id/blogs/articles/songket-sejarah-motif",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

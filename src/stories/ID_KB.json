@@ -17,7 +17,16 @@
           "ja": "金色や銀色の糸で彩る、サンバスのムラユ系社会の儀礼用織物です。"
         },
         "source": "https://id.wikipedia.org/wiki/Songket_Sambas?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-clothing-sambas-songket",
+          "path": "/assets/img/id-kb-clothing-sambas-songket.webp",
+          "title": "Blessings To Barkat Songket | Lembaga Gemawan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://gemawan.org/en/blessings-to-barkat-songket",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -32,7 +41,16 @@
           "ja": "西カリマンタンのムラユ系男性が婚礼や慣習行事で着る衣装です。"
         },
         "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
-        "image": null
+        "image": {
+          "id": "id-kb-clothing-telok-belanga",
+          "path": "/assets/img/id-kb-clothing-telok-belanga.webp",
+          "title": "Teluk Belanga, Warisan Busana Pria yang Tak Pudar di Pangkalan Bun",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/kalimantan/budaya/d-8536670/teluk-belanga-warisan-busana-pria-yang-tak-pudar-di-pangkalan-bun",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -47,7 +65,16 @@
           "ja": "西カリマンタンのムラユ系女性が婚礼や慣習行事で着る装いです。"
         },
         "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
-        "image": null
+        "image": {
+          "id": "id-kb-clothing-baju-kurong",
+          "path": "/assets/img/id-kb-clothing-baju-kurong.webp",
+          "title": "7 Ragam Baju Adat Kalimantan Barat, Penuh Makna!",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://blog.knitto.co.id/baju-adat-kalimantan-barat",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "炒り米、野菜、香草を使う、サンバスのムラユ系社会のおかゆです。"
         },
         "source": "https://id.wikipedia.org/wiki/Bubur_pedas?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-food-sambas-spiced-porridge",
+          "path": "/assets/img/id-kb-food-sambas-spiced-porridge.webp",
+          "title": "Bubur pedas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://grokipedia.com/page/bubur_pedas",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -79,7 +115,16 @@
           "ja": "干しエビ入りのもち米を三角形に包み、バナナの葉で焼く軽食です。"
         },
         "source": "https://id.wikipedia.org/wiki/Pengkang?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-food-pengkang",
+          "path": "/assets/img/id-kb-food-pengkang.webp",
+          "title": "Pengkang: Grilled Sticky Rice With Ebi Filling",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://rri.co.id/en/culinary/2763377/pengkang-grilled-sticky-rice-with-ebi-filling",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -94,7 +139,16 @@
           "ja": "西カリマンタンの華人系社会の軽食で、クズイモやタロイモ、ニラなどを包みます。"
         },
         "source": "https://id.wikipedia.org/wiki/Chai_kue?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-food-chai-kue",
+          "path": "/assets/img/id-kb-food-chai-kue.webp",
+          "title": "15 Makanan Khas Kalimantan Barat, Perpaduan Kuliner Melayu, Dayak, dan Tionghoa",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/makanan-khas-kalimantan-barat",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -111,7 +165,16 @@
           "ja": "治癒儀礼に由来するダヤックの踊りで、現在は舞台でも披露されます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Monong?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-art-monong-dance",
+          "path": "/assets/img/id-kb-art-monong-dance.webp",
+          "title": "Tari Monong Khas Kalimantan Barat: Sejarah, Makna & Budaya Dayak",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tari-monong",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -126,7 +189,16 @@
           "ja": "ダヤック・カナヤトンの人々が祝い事や慣習行事で踊る交流の舞踊です。"
         },
         "source": "https://id.wikipedia.org/wiki/Jonggan?oldformat=true",
-        "image": null
+        "image": {
+          "id": "id-kb-art-jonggan",
+          "path": "/assets/img/id-kb-art-jonggan.webp",
+          "title": "Tari Jonggan, Tarian Tradisional Dayak yang Penuh Keceriaan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tari-jonggan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_KB",
@@ -141,7 +213,16 @@
           "ja": "西カリマンタンで親しまれている交流の舞踊です。"
         },
         "source": "https://en.wikipedia.org/wiki/West_Kalimantan",
-        "image": null
+        "image": {
+          "id": "id-kb-art-zapin-tembung",
+          "path": "/assets/img/id-kb-art-zapin-tembung.webp",
+          "title": "Zapin",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Zapin",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

@@ -17,7 +17,16 @@
           "ja": "ミナンカバウの女性の衣装で、ゆったりした上着と独特の頭飾りを組み合わせます。"
         },
         "source": "https://min.wikipedia.org/wiki/Pakaian_bundo_kanduang",
-        "image": null
+        "image": {
+          "id": "id-sb-clothing-bundo-kanduang-dress",
+          "path": "/assets/img/id-sb-clothing-bundo-kanduang-dress.webp",
+          "title": "Puan Maharani's Bundo Traditional Clothing And Traces Of The PDI-P Polemic In West Sumatra",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://voi.id/en/news/76691",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SB",
@@ -32,7 +41,16 @@
           "ja": "ミナンカバウの花嫁が身に着ける、幾重にも重なる華やかな頭飾りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Suntiang",
-        "image": null
+        "image": {
+          "id": "id-sb-clothing-suntiang",
+          "path": "/assets/img/id-sb-clothing-suntiang.webp",
+          "title": "Sumatera Barat - Wikipedia baso Minang",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://min.wikipedia.org/wiki/Sumbar",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SB",
@@ -47,7 +65,16 @@
           "ja": "パンダイ・シケッでは、金色や銀色の糸を織り込んだソンケットを作ります。"
         },
         "source": "https://id.wikipedia.org/wiki/Songket_Pandai_Sikek",
-        "image": null
+        "image": {
+          "id": "id-sb-clothing-pandai-sikek-songket",
+          "path": "/assets/img/id-sb-clothing-pandai-sikek-songket.webp",
+          "title": "Songket Pandai Sikek: Antara Keaslian dan Warisan Budaya - Jurnalis Sumbar | Portal Berita",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.jurnalissumbar.com/2026/02/songket-pandai-sikek-antara-keaslian.html",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "西スマトラの串料理で、とろみのある香辛料入りのソースをかけます。"
         },
         "source": "https://en.wikipedia.org/wiki/Sate_Padang",
-        "image": null
+        "image": {
+          "id": "id-sb-food-sate-padang",
+          "path": "/assets/img/id-sb-food-sate-padang.webp",
+          "title": "Sate Padang: Sejarah, Jenis, dan Rekomendasi Terpopuler",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/fakta-menarik-di-balik-nikmatnya-sate-padang",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SB",
@@ -103,7 +139,16 @@
           "ja": "薄切りの牛肉に唐辛子のソースを合わせたミナンカバウ料理です。"
         },
         "source": "https://en.wikipedia.org/wiki/Dendeng",
-        "image": null
+        "image": {
+          "id": "id-sb-food-dendeng-balado",
+          "path": "/assets/img/id-sb-food-dendeng-balado.webp",
+          "title": "Dendeng Balado Calories: 315 kcal per 1 porsi (150g) | IndonesianCalorie",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesiancalorie.com/indonesia/foods/lunch/dendeng-balado-id",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "ミナンカバウの踊り手が両手に皿を持ち、リズミカルに踊ります。"
         },
         "source": "https://en.wikipedia.org/wiki/Piring_dance",
-        "image": null
+        "image": {
+          "id": "id-sb-art-tari-piring",
+          "path": "/assets/img/id-sb-art-tari-piring.webp",
+          "title": "Tari Piring: Sejarah, Gerakan, Makna, dan Asal Sumatera Barat",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/tari-piring",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SB",
@@ -135,7 +189,16 @@
           "ja": "物語、音楽、動き、武術の要素を組み合わせたミナンカバウの演劇です。"
         },
         "source": "https://en.wikipedia.org/wiki/Randai",
-        "image": null
+        "image": {
+          "id": "id-sb-art-randai",
+          "path": "/assets/img/id-sb-art-randai.webp",
+          "title": "Sejarah dan Perkembangan Randai, Teater Tradisional Minang - Jurnalis Sumbar | Portal Berita",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.jurnalissumbar.com/2024/08/sejarah-dan-perkembangan-randai-teater.html",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_SB",
@@ -150,7 +213,16 @@
           "ja": "サルアンはミナンカバウの音楽で使われる竹笛です。"
         },
         "source": "https://en.wikipedia.org/wiki/Saluang",
-        "image": null
+        "image": {
+          "id": "id-sb-art-saluang",
+          "path": "/assets/img/id-sb-art-saluang.webp",
+          "title": "Alat Musik Saluang: Sejarah, Fungsi, dan Cara Memainkannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumut/budaya/d-7108965/alat-musik-saluang-sejarah-fungsi-dan-cara-memainkannya",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

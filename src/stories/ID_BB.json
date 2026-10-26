@@ -17,7 +17,16 @@
           "ja": "パクシアンの冠は、バンカ・ブリトゥンの女性の礼装を彩る頭飾りです。"
         },
         "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
-        "image": null
+        "image": {
+          "id": "id-bb-clothing-paksian-ceremonial-dress",
+          "path": "/assets/img/id-bb-clothing-paksian-ceremonial-dress.webp",
+          "title": "Traditional attire worn at Annual Session exemplifies harmony: Jokowi",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.antaranews.com/news/244749/traditional-attire-worn-at-annual-session-exemplifies-harmony-jokowi",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BB",
@@ -32,7 +41,16 @@
           "ja": "ベルベットや絹で仕立てる花嫁の上衣で、チュアル布と合わせます。"
         },
         "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
-        "image": null
+        "image": {
+          "id": "id-bb-clothing-baju-seting",
+          "path": "/assets/img/id-bb-clothing-baju-seting.webp",
+          "title": "Baju Adat Bangka Belitung : Nama, Ciri Khas, dan Keunikannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-bangka-belitung",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BB",
@@ -47,7 +65,16 @@
           "ja": "ムントックにゆかりのある精緻な織物で、礼装に用いられます。"
         },
         "source": "https://en.wikipedia.org/wiki/Seting_clothes_and_Cual_cloth",
-        "image": null
+        "image": {
+          "id": "id-bb-clothing-cual-cloth",
+          "path": "/assets/img/id-bb-clothing-cual-cloth.webp",
+          "title": "Baju Adat Bangka Belitung : Nama, Ciri Khas, dan Keunikannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/baju-adat-bangka-belitung",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "発酵させた魚にトウガラシ、シャロット、かんきつを合わせた、香りの強い調味料です。"
         },
         "source": "https://id.wikipedia.org/wiki/Rusip",
-        "image": null
+        "image": {
+          "id": "id-bb-food-rusip",
+          "path": "/assets/img/id-bb-food-rusip.webp",
+          "title": "Mengenal Rusip, Makanan Fermentasi Ikan Khas Bangka yang Menambah Nafsu Makan",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://bangka.tribunnews.com/2019/02/13/mengenal-rusip-makanan-fermentasi-ikan-khas-bangka-yang-menambah-nafsu-makan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BB",
@@ -103,7 +139,16 @@
           "ja": "客家の食文化の影響を受けた、バンカ島の名物麺料理です。"
         },
         "source": "https://id.wikipedia.org/wiki/Mi_bangka",
-        "image": null
+        "image": {
+          "id": "id-bb-food-bangka-noodles",
+          "path": "/assets/img/id-bb-food-bangka-noodles.webp",
+          "title": "Mie Bangka, The Mouth Watering Dish of Bangka Belitung",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://timesindonesia.co.id/english/391914/mie-bangka-the-mouth-watering-dish-of-bangka-belitung",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "バンカでは各家庭が覆い付きの盆に料理を載せ、集いで分かち合います。"
         },
         "source": "https://bacayuk.babelprov.go.id/content/read/mengenal-nganggung-tradisi-turun-temurun-masyarakat-bangka-belitung",
-        "image": null
+        "image": {
+          "id": "id-bb-art-nganggung-communal-tradition",
+          "path": "/assets/img/id-bb-art-nganggung-communal-tradition.webp",
+          "title": "Menengok Tradisi Nganggung, Cara Warga Bangka Menyambut 1 Muharram",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumbagsel/berita/d-6831352/menengok-tradisi-nganggung-cara-warga-bangka-menyambut-1-muharram",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BB",
@@ -135,7 +189,16 @@
           "ja": "バンカの弦楽器ダンブスは、頭部に鹿をかたどった彫刻があるのが特徴です。"
         },
         "source": "https://id.wikipedia.org/wiki/Dambus",
-        "image": null
+        "image": {
+          "id": "id-bb-art-dambus-music",
+          "path": "/assets/img/id-bb-art-dambus-music.webp",
+          "title": "15 Warisan Budaya Tak Benda dari Bangka Belitung, Alat Musik hingga Makanan Khas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/sumbagsel/budaya/d-7630330/15-warisan-budaya-tak-benda-dari-bangka-belitung-alat-musik-hingga-makanan-khas",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_BB",
@@ -150,7 +213,16 @@
           "ja": "バンカ・ブリトゥンの陽気な踊りで、婚礼やさまざまな集いを盛り上げます。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Campak",
-        "image": null
+        "image": {
+          "id": "id-bb-art-campak-dance",
+          "path": "/assets/img/id-bb-art-campak-dance.webp",
+          "title": "Tari Campak dan Keceriaan Muda-Mudi Bangka Belitung",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/travel-ideas/culture/tari-campak",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

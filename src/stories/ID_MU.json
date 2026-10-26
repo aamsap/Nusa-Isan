@@ -17,7 +17,16 @@
           "ja": "赤い詰め襟の上着と銀のボタンが特徴の、スルタンの宮廷衣装です。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
-        "image": null
+        "image": {
+          "id": "id-mu-clothing-manteren-lamo-court-dress",
+          "path": "/assets/img/id-mu-clothing-manteren-lamo-court-dress.webp",
+          "title": "Snapshot Budaya: Pakaian Adat Maluku Utara dalam Sekilas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.traveloka.com/id-id/explore/destination/pakaian-adat-maluku-utara-manteren-lamo/1006013",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MU",
@@ -32,7 +41,16 @@
           "ja": "王妃の装いで、白いサテンのクバヤにソンケットと赤い肩掛けを合わせます。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
-        "image": null
+        "image": {
+          "id": "id-mu-clothing-kimun-gia",
+          "path": "/assets/img/id-mu-clothing-kimun-gia.webp",
+          "title": "5 North Maluku Traditional Clothes and its uniqueness, have you ever worn it?",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://voi.id/en/news/536864",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MU",
@@ -47,7 +65,16 @@
           "ja": "若い貴族のための衣装で、緑と黄色の組み合わせが特徴です。"
         },
         "source": "https://www.detik.com/sulsel/budaya/d-6702712/mengenal-5-baju-adat-maluku-utara-ciri-khas-dan-penjelasannya",
-        "image": null
+        "image": {
+          "id": "id-mu-clothing-baju-koja",
+          "path": "/assets/img/id-mu-clothing-baju-koja.webp",
+          "title": "Maluku Utara: Destinasi Wisata, Budaya, dan Kuliner yang Menarik",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/destination/maluku-papua/north-maluku",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "テルナテでは、硬めのサゴの焼き菓子にクナリの実を加えます。"
         },
         "source": "https://id.wikipedia.org/wiki/Bagea",
-        "image": null
+        "image": {
+          "id": "id-mu-food-bagea-kenari",
+          "path": "/assets/img/id-mu-food-bagea-kenari.webp",
+          "title": "Bagea Kenari, Kue Tradisional Khas Maluku Utara - Berita Daerah",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.beritadaerah.co.id/index.php/2023/09/27/bagea-kenari-kue-tradisional-khas-maluku-utara/",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MU",
@@ -103,7 +139,16 @@
           "ja": "クナリの実とヤシ砂糖で作る、北マルクで親しまれる甘い菓子です。"
         },
         "source": "https://www.kompasiana.com/sutiono/5ccd2e178d947a45d6034957/buah-kenari-memperkaya-kuliner-khas-maluku-utara",
-        "image": null
+        "image": {
+          "id": "id-mu-food-halua-kenari",
+          "path": "/assets/img/id-mu-food-halua-kenari.webp",
+          "title": "Halua Kenari Koperasi Merah Putih masuk tahapan pendaftaran merek kolektif - ANTARA News Ambon, Maluku",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://ambon.antaranews.com/berita/335667/halua-kenari-koperasi-merah-putih-masuk-tahapan-pendaftaran-merek-kolektif",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -120,7 +165,16 @@
           "ja": "テルナテ王国の歴史と結び付いた、躍動感のある戦いの踊りです。"
         },
         "source": "https://id.wikipedia.org/wiki/Soya-soya",
-        "image": null
+        "image": {
+          "id": "id-mu-art-soya-soya-dance",
+          "path": "/assets/img/id-mu-art-soya-soya-dance.webp",
+          "title": "Tari Soya-Soya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/gb/en/travel-ideas/culture/tari-soya-soya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MU",
@@ -135,7 +189,16 @@
           "ja": "北ハルマヘラの祝いの場で、男女がともに踊る交流の踊りです。"
         },
         "source": "https://wonderful.pulaumorotaikab.go.id/budaya/tarian-tide-tide",
-        "image": null
+        "image": {
+          "id": "id-mu-art-tide-tide-dance",
+          "path": "/assets/img/id-mu-art-tide-tide-dance.webp",
+          "title": "Kakara Island",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://geokepo.id/en/lokasi/north-halmahera/kakara-island",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_MU",
@@ -150,7 +213,16 @@
           "ja": "男女が向かい合い、白いハンカチを振りながら豊かな表情と身ぶりで踊ります。"
         },
         "source": "https://id.wikipedia.org/wiki/Lalayon",
-        "image": null
+        "image": {
+          "id": "id-mu-art-lalayon-dance",
+          "path": "/assets/img/id-mu-art-lalayon-dance.webp",
+          "title": "Gandeng Anak Muda Morotai, Mahasiswa KKN UGM Hidupkan Kembali Tari Tradisional Setempat - Universitas Gadjah Mada",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://ugm.ac.id/id/berita/gandeng-anak-muda-morotai-mahasiswa-kkn-ugm-hidupkan-kembali-tari-tradisional-setempat/",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

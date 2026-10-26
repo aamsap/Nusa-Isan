@@ -17,7 +17,16 @@
           "ja": "マドゥラの男性の衣装で、ゆったりしたズボンと赤白の縞模様のシャツを組み合わせます。"
         },
         "source": "https://id.wikipedia.org/wiki/Pesa'an",
-        "image": null
+        "image": {
+          "id": "id-ji-clothing-pesa-an-madura",
+          "path": "/assets/img/id-ji-clothing-pesa-an-madura.webp",
+          "title": "Baju Adat Pesa’an: Warisan Budaya Khas Madura",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/id/id/destination/java/east-java/baju-adat-pesaan",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JI",
@@ -56,7 +65,16 @@
           "ja": "ポノロゴでは、頭布ウデンの様式が社会的な役割や儀礼での用途と結びついています。"
         },
         "source": "https://id.wikipedia.org/wiki/Udeng",
-        "image": null
+        "image": {
+          "id": "id-ji-clothing-ponorogo-udeng",
+          "path": "/assets/img/id-ji-clothing-ponorogo-udeng.webp",
+          "title": "Snapshot Budaya: Pakaian Adat Ponorogo dalam Sekilas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.traveloka.com/id-id/explore/destination/filosofi-pakaian-adat-ponorogo-warisan-warok/1005992",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -97,7 +115,16 @@
           "ja": "ラモンガンの鶏肉スープは、香ばしい粉末のトッピング「コヤ」で知られています。"
         },
         "source": "https://id.wikipedia.org/wiki/Soto_Lamongan",
-        "image": null
+        "image": {
+          "id": "id-ji-food-soto-lamongan",
+          "path": "/assets/img/id-ji-food-soto-lamongan.webp",
+          "title": "Soto Lamongan Cak Har",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://geokepo.id/en/lokasi/lamongan/soto-lamongan-cak-har",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JI",
@@ -138,7 +165,16 @@
           "ja": "東ジャワの民衆演劇で、日常の物語に笑い、音楽、踊りを織り交ぜます。"
         },
         "source": "https://en.wikipedia.org/wiki/Ludruk",
-        "image": null
+        "image": {
+          "id": "id-ji-art-ludruk",
+          "path": "/assets/img/id-ji-art-ludruk.webp",
+          "title": "Seni Teater Asli Jawa Timur, Warisan Budaya yang Tak Lekang Waktu",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/jatim/budaya/d-8521046/seni-teater-asli-jawa-timur-warisan-budaya-yang-tak-lekang-waktu",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JI",
@@ -153,7 +189,16 @@
           "ja": "ポノロゴの芸能で、クジャクの羽を飾った獅子の顔の大きな仮面が登場します。"
         },
         "source": "https://en.wikipedia.org/wiki/Reog",
-        "image": null
+        "image": {
+          "id": "id-ji-art-reog-ponorogo",
+          "path": "/assets/img/id-ji-art-reog-ponorogo.webp",
+          "title": "Sejarah Reog Ponorogo serta 4 Babak dalam Pertunjukannya",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/jatim/budaya/d-7212249/sejarah-reog-ponorogo-serta-4-babak-dalam-pertunjukannya",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JI",

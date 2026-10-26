@@ -17,7 +17,16 @@
           "ja": "かつて王や貴族と結びついていたアチェの儀礼衣装です。"
         },
         "source": "https://id.wikipedia.org/wiki/Ulee_Balang",
-        "image": null
+        "image": {
+          "id": "id-ac-clothing-ulee-balang-attire",
+          "path": "/assets/img/id-ac-clothing-ulee-balang-attire.webp",
+          "title": "Ulee Balang",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indonesia.travel/uae/ar/travel-ideas/culture/ulee-balang",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_AC",
@@ -32,7 +41,16 @@
           "ja": "アチェの男性が身につける伝統的な帽子です。"
         },
         "source": "https://id.wikipedia.org/wiki/Meukeutop",
-        "image": null
+        "image": {
+          "id": "id-ac-clothing-kupiah-meukeutop",
+          "path": "/assets/img/id-ac-clothing-kupiah-meukeutop.webp",
+          "title": "Kupiah",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Kupiah",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_AC",
@@ -47,7 +65,16 @@
           "ja": "ガヨの特徴的なクラワン刺繍をあしらった衣装です。"
         },
         "source": "https://id.wikipedia.org/wiki/Kerawang_Gayo",
-        "image": null
+        "image": {
+          "id": "id-ac-clothing-gayo-kerawang-clothing",
+          "path": "/assets/img/id-ac-clothing-gayo-kerawang-clothing.webp",
+          "title": "Motif Kerawang Gayo pada Busana Adat Pengantin di Aceh Tengah - Neliti",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://media.neliti.com/media/publications/178013-ID-motif-kerawang-gayo-pada-busana-adat-pen.pdf",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -88,7 +115,16 @@
           "ja": "発酵させたココナッツの搾りかすで味つけするアチェの野菜カレーです。"
         },
         "source": "https://id.wikipedia.org/wiki/Kuah_pliek_u",
-        "image": null
+        "image": {
+          "id": "id-ac-food-kuah-pliek-u",
+          "path": "/assets/img/id-ac-food-kuah-pliek-u.webp",
+          "title": "Kuah Pliek U, Hidangan Autentik Tradisional dari Aceh - Kompasiana.com",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://ramadan.kompasiana.com/muhammadnauval/644902374addee2d7a2db202/kuah-pliek-u-hidangan-autentik-tradisional-dari-aceh",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_AC",
@@ -103,7 +139,16 @@
           "ja": "バナナの葉で包んで蒸すアチェの甘い菓子です。"
         },
         "source": "https://id.wikipedia.org/wiki/Timphan",
-        "image": null
+        "image": {
+          "id": "id-ac-food-timphan",
+          "path": "/assets/img/id-ac-food-timphan.webp",
+          "title": "Timphan - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Timphan",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -144,7 +189,16 @@
           "ja": "詩句と身体で刻む打音を伴うアチェの群舞です。"
         },
         "source": "https://id.wikipedia.org/wiki/Tari_Seudati",
-        "image": null
+        "image": {
+          "id": "id-ac-art-seudati",
+          "path": "/assets/img/id-ac-art-seudati.webp",
+          "title": "Seudati Dance",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://just-mygoal.blogspot.com/2010/11/seudati-dance.html",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_AC",
@@ -159,7 +213,16 @@
           "ja": "詩、歌、動きを組み合わせるガヨの芸能です。"
         },
         "source": "https://id.wikipedia.org/wiki/Didong",
-        "image": null
+        "image": {
+          "id": "id-ac-art-didong",
+          "path": "/assets/img/id-ac-art-didong.webp",
+          "title": "Didong - Wikipedia",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Didong",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

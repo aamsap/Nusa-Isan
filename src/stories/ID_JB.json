@@ -17,7 +17,16 @@
           "ja": "バティックの腰布や肩掛けと合わせる、スンダの女性用ブラウスです。"
         },
         "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
-        "image": null
+        "image": {
+          "id": "id-jb-clothing-sundanese-kebaya",
+          "path": "/assets/img/id-jb-clothing-sundanese-kebaya.webp",
+          "title": "Rumah Adat Jawa Barat",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://interiorbali.com/rumah-adat-jawa-barat",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JB",
@@ -32,7 +41,16 @@
           "ja": "ゆったりした上着とズボンを組み合わせた、黒が一般的なスンダの実用的な衣装です。"
         },
         "source": "https://www.antaranews.com/berita/4290663/kebaya-sunda-dan-pangsi-baju-adat-jawa-barat-dan-filosofinya",
-        "image": null
+        "image": {
+          "id": "id-jb-clothing-sundanese-pangsi",
+          "path": "/assets/img/id-jb-clothing-sundanese-pangsi.webp",
+          "title": "Pangsi - Wikipédia Sunda, énsiklopédi bébas",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://su.wikipedia.org/wiki/Pangsi",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JB",
@@ -47,7 +65,16 @@
           "ja": "大切な儀式や式典でスンダの男性が着る、立ち襟の礼装用上着です。"
         },
         "source": "https://www.detik.com/jabar/budaya/d-6889232/7-baju-adat-sunda-mulai-dari-kebaya-hingga-menak",
-        "image": null
+        "image": {
+          "id": "id-jb-clothing-sundanese-beskap",
+          "path": "/assets/img/id-jb-clothing-sundanese-beskap.webp",
+          "title": "Sepitan Sunda Jawa Barat: Tradisi Khitan Adat yang Bikin Heboh dan Sarat Makna - Negeri Kami",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://negerikami.id/budaya/sepitan-sunda-jawa-barat-tradisi-khitan-adat-yang-bikin-heboh-dan-sarat-makna/",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "生野菜に香辛料入りのピーナッツソースをかける、スンダのサラダです。"
         },
         "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/karedok",
-        "image": null
+        "image": {
+          "id": "id-jb-food-karedok",
+          "path": "/assets/img/id-jb-food-karedok.webp",
+          "title": "Karedok, Sumedang | Indo.Rent",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://indo.rent/indonesia/west-java/sumedang/jatigede/karedok",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_JB",
@@ -103,7 +139,16 @@
           "ja": "土製の器で焼くスンダの米粉パンケーキで、甘いものから塩味まで楽しめます。"
         },
         "source": "https://indonesiakaya.com/pustaka-indonesia/mencicipi-nikmatnya-kuliner-khas-sunda-surabi/",
-        "image": null
+        "image": {
+          "id": "id-jb-food-sundanese-surabi",
+          "path": "/assets/img/id-jb-food-sundanese-surabi.webp",
+          "title": "Serabi",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Serabi?uselang=en",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -168,7 +213,16 @@
           "ja": "語り、音楽、ユーモア、教訓を織り交ぜた、スンダの木製人形劇です。"
         },
         "source": "https://indonesiakaya.com/pustaka-indonesia/wayang-golek-boneka-kayu-penutur-nilai-hidup-leluhur-sunda/",
-        "image": null
+        "image": {
+          "id": "id-jb-art-wayang-golek",
+          "path": "/assets/img/id-jb-art-wayang-golek.webp",
+          "title": "Wayang Golek di Jawa Barat: Jejak dan Perjalanan yang Tak Terputus",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.detik.com/jabar/budaya/d-7625195/wayang-golek-di-jawa-barat-jejak-dan-perjalanan-yang-tak-terputus",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

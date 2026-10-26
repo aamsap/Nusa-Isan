@@ -17,7 +17,16 @@
           "ja": "ゆったりした形の衣服で、リアウのマレーの服飾文化の一つです。"
         },
         "source": "https://budaya-indonesia.org/Baju-Kurung-Cekak-Musang-Riau",
-        "image": null
+        "image": {
+          "id": "id-ri-clothing-baju-kurung-melayu",
+          "path": "/assets/img/id-ri-clothing-baju-kurung-melayu.webp",
+          "title": "Baju Kurung",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://en.wikipedia.org/wiki/Baju_Kurung",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -32,7 +41,16 @@
           "ja": "立ち襟のあるマレーの男性の上着で、ズボンと腰布を合わせます。"
         },
         "source": "https://budaya-indonesia.org/Baju-Kurung-Cekak-Musang-Riau",
-        "image": null
+        "image": {
+          "id": "id-ri-clothing-baju-kurung-cekak-musang",
+          "path": "/assets/img/id-ri-clothing-baju-kurung-cekak-musang.webp",
+          "title": "Mengenal Baju Kurung, Busana Tradisional Khas Melayu Riau ",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://travel.kompas.com/read/2026/08/01/170500227/mengenal-baju-kurung-busana-tradisional-khas-melayu-riau-",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -47,7 +65,16 @@
           "ja": "シアクに伝わる織物で、かつては王宮で用いられていました。"
         },
         "source": "https://id.wikipedia.org/wiki/Tenun_Siak",
-        "image": null
+        "image": {
+          "id": "id-ri-clothing-siak-songket",
+          "path": "/assets/img/id-ri-clothing-siak-songket.webp",
+          "title": "KAJIAN MOTIF TENUN SONGKET MELAYU SIAK TRADISIONAL KHAS RIAU",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://openalex.org/works/W2781215217",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -64,7 +91,16 @@
           "ja": "リアウではバウンという淡水魚を、酸味と辛味のある煮込みに使います。"
         },
         "source": "https://id.wikipedia.org/wiki/Asam_pedas",
-        "image": null
+        "image": {
+          "id": "id-ri-food-asam-pedas-baung",
+          "path": "/assets/img/id-ri-food-asam-pedas-baung.webp",
+          "title": "Sour & Spicy Fish Recipe",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://app.samsungfood.com/recipes/101787bff213eca868fa0c8503315b271e926fd474d",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -79,7 +115,16 @@
           "ja": "パティンという淡水魚をココナツミルクと香辛料で煮込む、リアウの料理です。"
         },
         "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/gulai-ikan-patin",
-        "image": null
+        "image": {
+          "id": "id-ri-food-gulai-ikan-patin",
+          "path": "/assets/img/id-ri-food-gulai-ikan-patin.webp",
+          "title": "Gulai ikan patin · Not Just Stew",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://notjuststew.com/d/AS-44/gulai-ikan-patin",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -121,7 +166,16 @@
           "ja": "ブンカリスのメスコムに伝わる、地域独自のザピンです。"
         },
         "source": "https://id.wikipedia.org/wiki/Zapin_Meskom",
-        "image": null
+        "image": {
+          "id": "id-ri-art-zapin-meskom",
+          "path": "/assets/img/id-ri-art-zapin-meskom.webp",
+          "title": "Sejarah Perkembangan Tari Zapin Desa Meskom Kecamatan Bengkalis Kabupaten Bengkalis - Neliti",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://media.neliti.com/media/publications/205955-sejarah-perkembangan-tari-zapin-desa-mes.pdf",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -136,7 +190,16 @@
           "ja": "クアンタン・シンギンギの伝統競技で、長い木造船をチームでこいで競います。"
         },
         "source": "https://id.wikipedia.org/wiki/Pacu_jalur",
-        "image": null
+        "image": {
+          "id": "id-ri-art-pacu-jalur",
+          "path": "/assets/img/id-ri-art-pacu-jalur.webp",
+          "title": "Festival Pacu Jalur Tradisional",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.indonesia.travel/gb/en/events/event-detail/festival-pacu-jalur-tradisional-2026",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_RI",
@@ -151,7 +214,16 @@
           "ja": "対話、歌う詩、器楽の伴奏を組み合わせたクアンタン・シンギンギの演劇です。"
         },
         "source": "https://id.wikipedia.org/wiki/Randai_Kuantan",
-        "image": null
+        "image": {
+          "id": "id-ri-art-randai-kuantan",
+          "path": "/assets/img/id-ri-art-randai-kuantan.webp",
+          "title": "Randai Kuantan - Seni Budaya Orang Kuantan Singingi - RiauMagz Sejarah Budaya Melayu Riau",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.riaumagz.com/2017/09/randai-kuantan-seni-budaya-orang.html",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },

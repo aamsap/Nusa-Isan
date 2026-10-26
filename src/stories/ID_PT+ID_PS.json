@@ -19,7 +19,16 @@
           "ja": "ミミカのムビイカオの仮面装束は、籐の骨組みをサゴの葉の繊維で覆って作ります。"
         },
         "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
-        "image": null
+        "image": {
+          "id": "id-pt-clothing-kamoro-ceremonial-dress-mbiikao",
+          "path": "/assets/img/id-pt-clothing-kamoro-ceremonial-dress-mbiikao.webp",
+          "title": "Keeping Alive An Ancient Culture",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://gracesusetyo.wordpress.com/2014/02/08/keeping-alive-an-ancient-culture",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PS",
@@ -34,7 +43,16 @@
           "ja": "アスマットの伝統的なビパネウは貝で作られ、男性が鼻の隔壁の穴に通して身につけました。"
         },
         "source": "https://www.papuaerfgoed.org/en/EA/59/20",
-        "image": null
+        "image": {
+          "id": "id-ps-clothing-asmat-shell-nose-ornament-bipanew",
+          "path": "/assets/img/id-ps-clothing-asmat-shell-nose-ornament-bipanew.webp",
+          "title": "Nose ornament called Bipane - Asmat culture, Papua New Guinea - First half of the 20th century",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://antikeo.com/en/catalog/collectibles/tribal-art/oceanic-tribal-art/adornment/nose-ornament-called-bipane-asmat-culture-papua-new-guinea-first-half-of-the-20th-century-141915",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PS",
@@ -49,7 +67,16 @@
           "ja": "アスマットの伝統的な身体装飾には、赤土、白い貝殻の粉、黒い木炭が使われます。"
         },
         "source": "https://id.wikipedia.org/wiki/Suku_Asmat",
-        "image": null
+        "image": {
+          "id": "id-ps-clothing-asmat-body-paint-colours",
+          "path": "/assets/img/id-ps-clothing-asmat-body-paint-colours.webp",
+          "title": "\n\t\t\t\n\t    \tShield, Asmat people, West Papua | NGV\t\n\t",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.ngv.vic.gov.au/explore/collection/work/71129/",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "food": [
@@ -66,7 +93,16 @@
           "ja": "メラウケでは、地域の湿地や川で採れるガストルを焼き、サンバルを添えて食べます。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/merauke",
-        "image": null
+        "image": {
+          "id": "id-ps-food-grilled-gastor-fish-merauke",
+          "path": "/assets/img/id-ps-food-grilled-gastor-fish-merauke.webp",
+          "title": "Non-endemic Fish for Marind People’s Survival",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://kompas.id/artikel/non-endemic-fish-for-marind-peoples-survival",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PS",
@@ -81,7 +117,16 @@
           "ja": "メラウケのマリンドの人々は、サゴとすりおろしたココナツを熱した石で調理してサゴ・セップを作ります。"
         },
         "source": "https://www.indonesia.travel/id/id/destination/maluku-papua/papua-selatan/sagu-sep",
-        "image": null
+        "image": {
+          "id": "id-ps-food-sagu-sep-marind",
+          "path": "/assets/img/id-ps-food-sagu-sep-marind.webp",
+          "title": "TRADITION OF SAGU SEP | ANTARA Foto",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.antarafoto.com/view/26397/tradition-of-sagu-sep",
+          "changes": "Resized and converted to WebP"
+        }
       },
       {
         "province": "ID_PT",
@@ -96,7 +141,16 @@
           "ja": "カモロの人々はマングローブの木からタンベロという軟体動物を採り、食用にします。"
         },
         "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
-        "image": null
+        "image": {
+          "id": "id-pt-food-tambelo",
+          "path": "/assets/img/id-pt-food-tambelo.webp",
+          "title": "Mengenal Tambelo, Cacing Bakau Khas Papua yang Bisa Dimakan Mentah",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.kompas.com/food/read/2021/10/23/214100075/mengenal-tambelo-cacing-bakau-khas-papua-yang-bisa-dimakan-mentah?page=all",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ],
     "art": [
@@ -161,7 +215,16 @@
           "ja": "カモロの女性たちは地域の草で袋を編み、文化祭でもその工芸を紹介しています。"
         },
         "source": "https://papuaerfgoed.org/en/theme/renaissance-kamoro-culture",
-        "image": null
+        "image": {
+          "id": "id-pt-art-kamoro-bag-weaving",
+          "path": "/assets/img/id-pt-art-kamoro-bag-weaving.webp",
+          "title": "Papua New Guinea women ‘will not stop’ weaving their way to a living | South China Morning Post",
+          "artist": "Web source (unverified)",
+          "license": "Unverified — pending manual audit",
+          "licenseUrl": null,
+          "source": "https://www.scmp.com/news/asia/australasia/article/3223168/papua-new-guinea-women-will-not-stop-weaving-their-way-living",
+          "changes": "Resized and converted to WebP"
+        }
       }
     ]
   },
