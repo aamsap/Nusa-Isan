@@ -2,11 +2,19 @@ import { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { gsap } from 'gsap';
 import { cultureByCode, selectionFor } from './content';
+import { groupByProvince, sectionKinds } from './stories';
 
 type Feature = { properties: { code: string; province: string }; geometry: { type: 'Polygon'|'MultiPolygon'; coordinates: number[][][] | number[][][][] } };
 type FeatureCollection = { features: Feature[] };
 type Props = { onSelect: (code: string) => void; onHover: (code: string | null) => void; selectedHover: string | null; loadingText: string; errorText: string };
 const PALETTE = ['#8ed462', '#a9d981', '#b8dd96', '#a2d8ac'].map(value => new THREE.Color(value));
+/** One thumbnail per section (fashion, food, tradition) for the hovered province. */
+function thumbsFor(code: string | null): string[] {
+  const group = code ? groupByProvince[code] : undefined;
+  if (!group) return [];
+  return sectionKinds.map(kind => group.sections[kind].find(item => item.province === code && item.image)?.image?.path).filter((src): src is string => Boolean(src));
+}
+const LABEL_COLORS = ['#ff705d', '#2ba0ff', '#f5e211', '#8ed462'];
 const HIGHLIGHT = new THREE.Color('#ff705d');
 const BLUE = new THREE.Color('#2ba0ff');
 const point = ([lon, lat]: number[]) => new THREE.Vector2((lon - 118) * 1.02, (lat + 2.4) * 1.17);
@@ -34,6 +42,7 @@ function shapesOf(feature: Feature): THREE.Shape[] {
 
 export default function ProvinceMap({ onSelect, onHover, selectedHover, loadingText, errorText }: Props) {
   const host = useRef<HTMLDivElement>(null);
+  const label = useRef<HTMLSpanElement>(null);
   const selected = useRef(selectedHover);
   const onSelectRef = useRef(onSelect);
   const onHoverRef = useRef(onHover);
@@ -105,11 +114,14 @@ export default function ProvinceMap({ onSelect, onHover, selectedHover, loadingT
     let dragged = false, pinchDistance = 0, downAt = { x: 0, y: 0 };
     const distance = () => { const [a, b] = [...pointers.values()]; return Math.hypot(a.x - b.x, a.y - b.y); };
     const down = (event: PointerEvent) => {
+      try { element.setPointerCapture(event.pointerId); } catch { /* capture is best-effort */ }
       pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
       if (pointers.size === 1) { dragged = false; downAt = { x: event.clientX, y: event.clientY }; }
       if (pointers.size === 2) { dragged = true; pinchDistance = distance(); }
     };
     const move = (event: PointerEvent) => {
+      if (event.pointerType === 'mouse' && event.buttons === 0) pointers.delete(event.pointerId); // button released outside the map
+      if (label.current) { const b = element.getBoundingClientRect(); label.current.style.left = `${event.clientX - b.left}px`; label.current.style.top = `${event.clientY - b.top}px`; }
       const previous = pointers.get(event.pointerId);
       if (!previous) { setActive(hit(event) ?? null); return; }
       const dx = event.clientX - previous.x, dy = event.clientY - previous.y;
@@ -208,6 +220,7 @@ export default function ProvinceMap({ onSelect, onHover, selectedHover, loadingT
         element.addEventListener('pointerleave', leave);
         element.addEventListener('pointerup', up);
         element.addEventListener('pointercancel', cancel);
+        element.addEventListener('lostpointercapture', cancel);
         element.addEventListener('wheel', wheel, { passive: false });
         setStatus('ready');
       })
@@ -222,6 +235,7 @@ export default function ProvinceMap({ onSelect, onHover, selectedHover, loadingT
       element.removeEventListener('pointerleave', leave);
       element.removeEventListener('pointerup', up);
       element.removeEventListener('pointercancel', cancel);
+      element.removeEventListener('lostpointercapture', cancel);
       element.removeEventListener('wheel', wheel);
       gsap.killTweensOf(meshes.map(mesh => mesh.position));
       gsap.killTweensOf(meshes.map(mesh => mesh.material.color));
@@ -240,6 +254,6 @@ export default function ProvinceMap({ onSelect, onHover, selectedHover, loadingT
   }, []);
   return <div className="map-surface" ref={host} role="img" aria-label="Interactive map of the provinces of Indonesia">
     {status !== 'ready' && <p className="map-status">{status === 'error' ? errorText : loadingText}</p>}
-    {selectedHover && status === 'ready' && <span className="map-hover-label" aria-hidden="true">{cultureByCode[selectedHover]?.province}</span>}
+    <span ref={label} className="map-hover-label" aria-hidden="true" hidden={!(selectedHover && status === 'ready')} style={{ background: LABEL_COLORS[(selectedHover ?? '').split('').reduce((n, ch) => n + ch.charCodeAt(0), 0) % LABEL_COLORS.length] }}>{thumbsFor(selectedHover).length > 0 && <span className="map-hover-thumbs">{thumbsFor(selectedHover).map(src => <img key={src} src={src} alt="" width="48" height="48" />)}</span>}<span className="map-hover-name">{selectedHover ? cultureByCode[selectedHover]?.province : ''}</span></span>
   </div>;
 }

@@ -5,6 +5,7 @@ import ProvinceMap from './ProvinceMap';
 import { cultures, cultureByCode, selectionFor, type Culture, type Language, type Region } from './content';
 import { initialLanguage, languages, regionsLocalized, t } from './i18n';
 import { culturalTerm } from './culturalTranslations';
+import { translatedProvince } from './provinceNames';
 import { storyExtras } from './storyExtras';
 import { groupByProvince, sectionKinds, storyGroups, storyImages, type SectionKind, type StoryGroup } from './stories';
 import mediaRecords from './media.json';
@@ -54,7 +55,7 @@ function GroupStory({ group, language }: { group: StoryGroup; language: Language
   const markers: Record<SectionKind, string> = {clothing: '#8ed462', food: '#ff705d', art: '#2ba0ff'};
   return <article className="province-story">
     <PhotoPreview photo={preview} closeLabel={copy.close} onClose={() => setPreview(null)} />
-    <div className="story-heading"><span className="story-province-tag">{merged ? copy.mergedTag : copy.province}</span><h3>{group.provinces.map(code => cultureByCode[code]?.province).join(' · ')}</h3><p>{group.provinces.map(code => culturalTerm(cultureByCode[code], 'community', language)).join(' · ')}</p></div>
+    <div className="story-heading"><span className="story-province-tag">{merged ? copy.mergedTag : copy.communityLabel}</span><p>{group.provinces.map(code => culturalTerm(cultureByCode[code], 'community', language)).join(' · ')}</p></div>
     {sectionKinds.map(kind => <section className="item-section" key={kind}>
       <div className="item-section-head"><span className="detail-marker" style={{backgroundColor: markers[kind]}} aria-hidden="true"/><h4>{titles[kind]}</h4></div>
       <ol className="item-grid">{group.sections[kind].map((item, index) => <li className="item-card" key={`${item.province}-${item.name.en}`} style={{'--i': index} as React.CSSProperties}>
@@ -93,7 +94,7 @@ function ProvinceStory({ culture, language }: { culture: Culture; language: Lang
   }
   const gallery = mediaSlots.filter((slot, index) => mediaSlots.findIndex(other => other.id === slot.id) === index && mediaById[slot.id]);
   return <article className="province-story">
-    <div className="story-heading"><span className="story-province-tag">{copy.province}</span><h3>{culture.province}</h3><p>{copy.community} {culturalTerm(culture, 'community', language)}</p></div>
+    <div className="story-heading"><span className="story-province-tag">{copy.communityLabel}</span><p>{copy.community} {culturalTerm(culture, 'community', language)}</p></div>
     {gallery.length > 0 && <div className="story-gallery" data-count={Math.min(gallery.length, 3)} aria-label={copy.gallery}>
       {gallery.map(slot => { const image = mediaById[slot.id]; return <figure className="gallery-photo" key={slot.id}><img loading="lazy" src={image.path} alt={image.title.replace(/\.[^.]+$/, '').replaceAll('_',' ')} /><figcaption><span className="gallery-topic">{details.find(item => item.key === slot.kind)?.title}</span><Credit image={image} language={language}/></figcaption></figure>; })}
     </div>}
@@ -115,6 +116,34 @@ function ProvinceStory({ culture, language }: { culture: Culture; language: Lang
     <a className="story-source" href={culture.source} target="_blank" rel="noreferrer">{copy.reference} ↗</a>
   </article>;
 }
+const SHARE_URL = 'https://nusa-isan.vercel.app';
+function ShareDialog({ open, onClose, language }: { open: boolean; onClose: () => void; language: Language }) {
+  const ref = useRef<HTMLDialogElement>(null);
+  const [copied, setCopied] = useState(false);
+  const copy = t(language);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    if (open && !el.open) el.showModal();
+    if (!open && el.open) el.close();
+    if (!open) setCopied(false);
+  }, [open]);
+  const copyLink = async () => {
+    try { await navigator.clipboard.writeText(SHARE_URL); }
+    catch { const input = ref.current?.querySelector('input'); input?.select(); document.execCommand('copy'); }
+    setCopied(true);
+  };
+  const canShare = typeof navigator !== 'undefined' && typeof navigator.share === 'function';
+  return <dialog className="share-dialog" ref={ref} onClose={onClose} onClick={event => { if (event.target === event.currentTarget) onClose(); }} aria-label={copy.shareTitle}>
+    <button type="button" className="share-close" onClick={onClose} aria-label={copy.close}>×</button>
+    <h3>{copy.shareTitle}</h3>
+    <p>{copy.shareHint}</p>
+    <img className="share-qr" src="/assets/qr-nusa-isan.png" width="200" height="200" alt={`QR · ${SHARE_URL}`} />
+    <div className="share-row"><input readOnly value={SHARE_URL} aria-label="URL" onFocus={event => event.currentTarget.select()} /><button type="button" onClick={copyLink}>{copied ? copy.copied : copy.copyLink}</button></div>
+    {canShare && <button type="button" className="share-native" onClick={() => navigator.share({ title: copy.brand, url: SHARE_URL }).catch(() => undefined)}>{copy.shareNative}</button>}
+  </dialog>;
+}
+const ShareIcon = () => <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>;
 function App() {
   const [language, setLanguage] = useState<Language>(initialLanguage);
   const [selectedCode, setSelectedCode] = useState<string | null>(null);
@@ -126,6 +155,7 @@ function App() {
   const hero = useRef<HTMLElement>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [fullscreenError, setFullscreenError] = useState(false);
+  const [shareOpen, setShareOpen] = useState(false);
   const closeButton = useRef<HTMLButtonElement>(null);
   const origin = useRef<HTMLElement | null>(null);
   const copy = t(language);
@@ -174,7 +204,7 @@ function App() {
         <section className="hero" ref={hero}><div className="hero-copy"><p className="hero-intro">{copy.intro}</p><h1>{copy.headline}</h1><a className="hero-cta" href="#atlas">{copy.start}<BookMark color="#2ba0ff" /></a></div><PaperIslands /></section>
         <section className="atlas-section" id="atlas"><div className="atlas-head"><div><p className="eyebrow"><span className="eyebrow-line"/>{copy.provinces} · {copy.regions}</p><h2>{copy.mapTitle}</h2><p>{copy.mapHint}</p></div><div className="compass" aria-hidden="true"><span>N</span><i>✳</i></div></div>
           <div className="map-card" ref={mapCard}>
-            <div className="map-topline"><div className="map-watermark">INDONESIA <span>✳</span> NUSANTARA</div><div className="map-controls"><a className="map-tool map-creator" href="https://github.com/aamsap" target="_blank" rel="noreferrer" aria-label={copy.creator} title={copy.creator}><img src="/assets/icons/github.svg" alt="" /></a><button type="button" className="map-tool fullscreen-tool" onClick={toggleFullscreen} aria-label={isFullscreen ? copy.exitFullscreen : copy.fullscreen} title={isFullscreen ? copy.exitFullscreen : copy.fullscreen} aria-pressed={isFullscreen}><span aria-hidden="true">{isFullscreen ? '⤡' : '⛶'}</span><span className="fullscreen-label">{isFullscreen ? copy.exitFullscreen : copy.fullscreen}</span></button></div></div>
+            <div className="map-topline"><div className="map-watermark">INDONESIA <span>✳</span> NUSANTARA</div><div className="map-controls"><a className="map-tool map-creator" href="https://github.com/aamsap" target="_blank" rel="noreferrer" aria-label={copy.creator} title={copy.creator}><img src="/assets/icons/github.svg" alt="" /></a><button type="button" className="map-tool share-tool" onClick={() => setShareOpen(true)} aria-label={copy.share} title={copy.share}><ShareIcon /></button><button type="button" className="map-tool fullscreen-tool" onClick={toggleFullscreen} aria-label={isFullscreen ? copy.exitFullscreen : copy.fullscreen} title={isFullscreen ? copy.exitFullscreen : copy.fullscreen} aria-pressed={isFullscreen}><span aria-hidden="true">{isFullscreen ? '⤡' : '⛶'}</span><span className="fullscreen-label">{isFullscreen ? copy.exitFullscreen : copy.fullscreen}</span></button></div></div>
             <div className="map-decor" aria-hidden="true"><span className="sea-flower">✳</span><span className="sea-sun">✶</span><span className="sea-wave wave-one">〰</span><span className="sea-wave wave-two">〰</span><span className="sea-dots">✦ ✦ ✦</span></div>
             <ProvinceMap onSelect={openStory} onHover={setHoveredCode} selectedHover={hoveredCode} loadingText={copy.mapLoading} errorText={copy.mapError} />
             <div className="map-bottom"><span className="map-instruction"><BookMark /> {copy.mapHint}</span><span className="map-scale">95° E <span>· · · · · · · · · · · · ·</span> 141° E</span></div>{fullscreenError && <p className="fullscreen-error" role="alert">{copy.fullscreenError}</p>}
@@ -185,8 +215,9 @@ function App() {
         </section>
       </main>
     </div>
-    <footer id="about"><div className="footer-inner"><div><span className="footer-asterisk">✳</span><h2>{copy.footerTitle}</h2><p>{copy.footerText}</p></div><div className="footer-details"><details><summary>{copy.sources}</summary><p>{copy.mapCredit} <a href="https://github.com/ahsa29/kpu-osm-boundaries-2026/blob/main/DATA_LICENSE.md" target="_blank" rel="noreferrer">ODbL / data source ↗</a></p><p><a href="https://ich.unesco.org/en/state/indonesia-ID" target="_blank" rel="noreferrer">UNESCO heritage of Indonesia ↗</a></p><p>{copy.photoCount.replace('{n}', String(usedImageCount))}</p><p>Selected location videos are embedded from YouTube and credited at their source.</p></details><a className="footer-creator" href="https://github.com/aamsap" target="_blank" rel="noreferrer"><img src="/assets/icons/github.svg" alt="" />{copy.creator} ↗</a><span>© {new Date().getFullYear()} {copy.brand}</span></div></div></footer>
-    <dialog className="story-dialog" ref={dialog} onClose={() => {setSelectedCode(null); origin.current?.focus();}} onClick={event => {if (event.target === dialog.current) closeStory();}} aria-label={selected.map(item => item.province).join(' & ')}><div className="dialog-body"><div className="dialog-top"><span className="dialog-brand"><BookMark /> {copy.brand}</span><div className="dialog-controls"><label className="dialog-language"><span className="sr-only">{copy.language}</span><select value={language} onChange={event => changeLanguage(event.target.value as Language)} aria-label={copy.language}>{languages.map(option => <option value={option.code} key={option.code}>{option.name}</option>)}</select></label><button type="button" ref={closeButton} className="dialog-close" onClick={closeStory} aria-label={copy.close}>× <span>{copy.close}</span></button></div></div><div className="dialog-intro"><span className="section-kicker">{selected.length>1 ? copy.mergedTag : copy.area + ' · ' + regionsLocalized[language][selected[0]?.region ?? 'Sumatra']}</span><h2>{selected.map(item => item.province).join(' & ')}</h2>{selected.length>1 && <p>{copy.mergedNote}</p>}</div>{selectedGroup ? <GroupStory group={selectedGroup} language={language}/> : selected.map(item => <ProvinceStory culture={item} language={language} key={item.code}/>)}</div></dialog>
+    <footer id="about"><div className="footer-inner"><div><span className="footer-asterisk">✳</span><h2>{copy.footerTitle}</h2><p>{copy.footerText}</p></div><div className="footer-details"><details><summary>{copy.sources}</summary><p>{copy.mapCredit} <a href="https://github.com/ahsa29/kpu-osm-boundaries-2026/blob/main/DATA_LICENSE.md" target="_blank" rel="noreferrer">ODbL / data source ↗</a></p><p><a href="https://ich.unesco.org/en/state/indonesia-ID" target="_blank" rel="noreferrer">UNESCO heritage of Indonesia ↗</a></p><p>{copy.photoCount.replace('{n}', String(usedImageCount))}</p><p>Selected location videos are embedded from YouTube and credited at their source.</p></details><button type="button" className="footer-share" onClick={() => setShareOpen(true)}><ShareIcon />{copy.share}</button><a className="footer-creator" href="https://github.com/aamsap" target="_blank" rel="noreferrer"><img src="/assets/icons/github.svg" alt="" />{copy.creator} ↗</a><span>© {new Date().getFullYear()} {copy.brand}</span></div></div></footer>
+    <ShareDialog open={shareOpen} onClose={() => setShareOpen(false)} language={language} />
+    <dialog className="story-dialog" ref={dialog} onClose={() => {setSelectedCode(null); origin.current?.focus();}} onClick={event => {if (event.target === dialog.current) closeStory();}} aria-label={selected.map(item => item.province).join(' & ')}><div className="dialog-body"><div className="dialog-top"><span className="dialog-brand"><BookMark /> {copy.brand}</span><div className="dialog-controls"><label className="dialog-language"><span className="sr-only">{copy.language}</span><select value={language} onChange={event => changeLanguage(event.target.value as Language)} aria-label={copy.language}>{languages.map(option => <option value={option.code} key={option.code}>{option.name}</option>)}</select></label><button type="button" ref={closeButton} className="dialog-close" onClick={closeStory} aria-label={copy.close}>× <span>{copy.close}</span></button></div></div><div className="dialog-intro"><span className="section-kicker">{[selected.map(item => translatedProvince(item.code, item.province, language)).filter(Boolean).join(' & '), selected.length>1 ? copy.mergedTag : copy.area + ' · ' + regionsLocalized[language][selected[0]?.region ?? 'Sumatra']].filter(Boolean).join(' · ')}</span><h2>{selected.map(item => item.province).join(' & ')}</h2>{selected.length>1 && <p>{copy.mergedNote}</p>}</div>{selectedGroup ? <GroupStory group={selectedGroup} language={language}/> : selected.map(item => <ProvinceStory culture={item} language={language} key={item.code}/>)}</div></dialog>
   </>;
 }
 
