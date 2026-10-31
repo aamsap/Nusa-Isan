@@ -150,6 +150,7 @@ function App() {
   const [hoveredCode, setHoveredCode] = useState<string | null>(null);
   const [region, setRegion] = useState<Region | 'all'>('all');
   const [query, setQuery] = useState('');
+  const [originalNames, setOriginalNames] = useState(false);
   const dialog = useRef<HTMLDialogElement>(null);
   const mapCard = useRef<HTMLDivElement>(null);
   const hero = useRef<HTMLElement>(null);
@@ -161,7 +162,8 @@ function App() {
   const copy = t(language);
   const selectedGroup = selectedCode ? groupByProvince[selectedCode] : undefined;
   const selected = selectedCode ? selectionFor(selectedCode).map(code => cultureByCode[code]).filter(Boolean) : [];
-  const visible = useMemo(() => cultures.filter(item => (region === 'all' || item.region === region) && `${item.province} ${item.community}`.toLocaleLowerCase().includes(query.trim().toLocaleLowerCase())), [region, query]);
+  const nameOf = (item: Culture) => originalNames ? item.province : translatedProvince(item.code, item.province, language) ?? item.province;
+  const visible = useMemo(() => cultures.filter(item => (region === 'all' || item.region === region) && `${item.province} ${translatedProvince(item.code, item.province, language) ?? ''} ${item.community}`.toLocaleLowerCase().includes(query.trim().toLocaleLowerCase())), [region, query, language]);
   const changeLanguage = (value: Language) => { setLanguage(value); try { localStorage.setItem('culture-atlas-language', value); } catch { /* storage may be disabled */ } };
   const openStory = (code: string) => { origin.current = document.activeElement as HTMLElement; setSelectedCode(code); };
   useEffect(() => {
@@ -209,9 +211,9 @@ function App() {
             <ProvinceMap onSelect={openStory} onHover={setHoveredCode} selectedHover={hoveredCode} loadingText={copy.mapLoading} errorText={copy.mapError} />
             <div className="map-bottom"><span className="map-instruction"><BookMark /> {copy.mapHint}</span><span className="map-scale">95° E <span>· · · · · · · · · · · · ·</span> 141° E</span></div>{fullscreenError && <p className="fullscreen-error" role="alert">{copy.fullscreenError}</p>}
           </div>
-          <div className="browse-head"><div><h3>{copy.search}</h3><p>{copy.disclaimer}</p></div><div className="browse-input"><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={copy.searchPlaceholder} aria-label={copy.search}/><span aria-hidden="true">⌕</span></div></div>
+          <div className="browse-head"><div><h3>{copy.search}</h3><p>{copy.disclaimer}</p></div><div className="browse-controls"><div className="browse-input"><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={copy.searchPlaceholder} aria-label={copy.search}/><span aria-hidden="true">⌕</span></div>{language !== 'id' && <div className="name-toggle" role="group" aria-label={copy.nameToggle}><button type="button" className={!originalNames ? 'active' : ''} aria-pressed={!originalNames} onClick={() => setOriginalNames(false)}>{copy.nameTranslated}</button><button type="button" className={originalNames ? 'active' : ''} aria-pressed={originalNames} onClick={() => setOriginalNames(true)}>{copy.nameOriginal}</button></div>}</div></div>
           <div className="region-tabs" role="group" aria-label={copy.area}><button type="button" className={region==='all' ? 'active' : ''} onClick={() => setRegion('all')}>{copy.all}</button>{regions.map(item => <button type="button" key={item} className={region===item ? 'active' : ''} onClick={() => setRegion(item)}>{regionsLocalized[language][item]}</button>)}</div>
-          <div className="province-list">{visible.map(item => <button type="button" className="province-button" key={item.code} onClick={() => openStory(item.code)}><span className="province-color" aria-hidden="true"/><span>{item.province}</span>{selectionFor(item.code).length > 1 && <span className="linked-icon" title={copy.mergedTag} aria-label={copy.mergedTag}>⤴</span>}<span className="province-arrow" aria-hidden="true">↗</span></button>)}{visible.length===0 && <p className="no-results">{copy.noResults}</p>}</div>
+          <div className="province-list">{visible.map(item => <button type="button" className="province-button" key={item.code} onClick={() => openStory(item.code)}><span className="province-color" aria-hidden="true"/><span>{nameOf(item)}</span>{selectionFor(item.code).length > 1 && <span className="linked-icon" title={copy.mergedTag} aria-label={copy.mergedTag}>⤴</span>}<span className="province-arrow" aria-hidden="true">↗</span></button>)}{visible.length===0 && <p className="no-results">{copy.noResults}</p>}</div>
         </section>
       </main>
     </div>

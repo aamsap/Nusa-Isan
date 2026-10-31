@@ -118,3 +118,9 @@
 .map-hover-thumbs{display:flex;gap:5px}
 .map-hover-thumbs img{display:block;width:48px;height:48px;object-fit:cover;border-radius:10px;border:2px solid #2c2e2a;background:#fff}
 .map-hover-name{padding:0 8px}
+
+.browse-head{flex-wrap:wrap}
+.browse-controls{display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+.name-toggle{display:inline-flex;padding:3px;border:1px solid #dad6c9;border-radius:50px;background:#fff}
+.name-toggle button{padding:6px 14px;border:0;border-radius:50px;background:none;font-size:13px;font-weight:500;color:#62655f}
+.name-toggle button.active{background:#8ed462;color:#2c2e2a}
